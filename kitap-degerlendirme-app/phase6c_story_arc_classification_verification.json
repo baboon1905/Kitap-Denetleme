@@ -1,0 +1,79 @@
+{
+  "books": [
+    {
+      "title": "Tavşan Pati",
+      "compare": {
+        "equal_without_shadow": true,
+        "diff_paths": []
+      },
+      "story_arc_classification": {
+        "exists_in_shadow": true,
+        "arc_type": "informational",
+        "confidence": 0.96,
+        "signals": [
+          "episodic",
+          "informational",
+          "conflict_resolution"
+        ]
+      },
+      "production_payload_clean": {
+        "story_arc_classification_top_level_absent": true,
+        "shadow_payload_present": true
+      },
+      "deterministic_shadow_output": {
+        "stable_across_repeated_runs": true,
+        "run_count": 2
+      }
+    },
+    {
+      "title": "Büyülü Yastıklar",
+      "compare": {
+        "equal_without_shadow": true,
+        "diff_paths": []
+      },
+      "story_arc_classification": {
+        "exists_in_shadow": true,
+        "arc_type": "informational",
+        "confidence": 0.96,
+        "signals": [
+          "episodic",
+          "informational",
+          "conflict_resolution"
+        ]
+      },
+      "production_payload_clean": {
+        "story_arc_classification_top_level_absent": true,
+        "shadow_payload_present": true
+      },
+      "deterministic_shadow_output": {
+        "stable_across_repeated_runs": true,
+        "run_count": 2
+      }
+    },
+    {
+      "title": "Benim Adım Kristof Kolomb",
+      "compare": {
+        "equal_without_shadow": true,
+        "diff_paths": []
+      },
+      "story_arc_classification": {
+        "exists_in_shadow": true,
+        "arc_type": "informational",
+        "confidence": 0.96,
+        "signals": [
+          "episodic",
+          "informational",
+          "conflict_resolution"
+        ]
+      },
+      "production_payload_clean": {
+        "story_arc_classification_top_level_absent": true,
+        "shadow_payload_present": true
+      },
+      "deterministic_shadow_output": {
+        "stable_across_repeated_runs": true,
+        "run_count": 2
+      }
+    }
+  ]
+}

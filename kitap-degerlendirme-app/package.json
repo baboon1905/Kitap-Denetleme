@@ -1,0 +1,25 @@
+{
+  "name": "maarif-modeli-yayin-denetim",
+  "version": "1.0.0",
+  "description": "Maarif Modeli - Yayın Denetim Sistemi (React + Flask)",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "backend": ".\\venv\\Scripts\\python.exe run_flask_no_reloader.py",
+    "build": ".\\venv\\Scripts\\python.exe -m quality_build_regression && tsc && vite build",
+    "preview": "vite preview",
+    "start": ".\\venv\\Scripts\\python.exe app.py"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.0",
+    "@types/react-dom": "^18.2.0",
+    "typescript": "^5.0.0",
+    "vite": "^4.4.0",
+    "@vitejs/plugin-react": "^4.0.0"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "coverage_delta": 0.5714285714285714,
+  "activation_count_delta": 1,
+  "confidence_summary": {
+    "production_confidence_fields_present": false,
+    "shadow_confidence_fields_present": false,
+    "note": "This analyzer does not compute confidence values; it only reports presence/absence of confidence fields."
+  },
+  "overlap_score": 0.5,
+  "shadow_only_signals": [
+    "pattern_activations.matched_keywords.dostluk",
+    "pattern_activations.pattern_id.theme_friendship",
+    "pattern_activations.source.semantic.theme_clusters",
+    "pattern_id:theme_friendship",
+    "semantic_labels.dostluk"
+  ],
+  "production_only_signals": [
+    "semantic_labels.macera"
+  ],
+  "deterministic_fingerprint": "a914269310442b060744e1064f13280351ddd2ae48ed1115c14040fd99a37d67",
+  "production_output_changed": false,
+  "equal_without_shadow": true,
+  "deterministic": true
+}

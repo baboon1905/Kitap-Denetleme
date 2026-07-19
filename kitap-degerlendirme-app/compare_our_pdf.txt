@@ -1,0 +1,2033 @@
+SAKINCALI İÇERİK TARAMA RAPORU
+ Yayın Denetim Birimi
+ 
+1. Kitap Bilgileri
+Alan
+Bilgi
+Kitap Adı
+uploads\veli_buyuk_boy_336sf_21F
+Yazar
+Belirsiz
+Sayfa Sayısı
+?
+Dosya Adı
+uploads\veli_buyuk_boy_336sf_21F.pdf
+Konu
+Belirtilmemiş
+2. Genel Değerlendirme
+Değerlendirme Alanı
+Sonuç
+Sakıncalı Kelime Taraması
+450 tam kelime bulgusu; 370 problemli bağlam; problemli olmayan bulgular
+risk 0 olarak rapora alınmıştır.
+MEB TTK Kriterleri
+MEB uyum puanı 0/100; karar: Bilinmiyor.
+Kültürel Uyum ve Maarif
+Modeli
+Kültürel uyum puanı 80/100; değerlendirme: [Uygun] Yüksek uyum. Analiz
+profili: MAARIF_MEB, hedef yaş grubu: 15-18.
+Risk Seviyesi
+YÜKSEK RİSK (60.04/100)
+Karar
+YAYINA UYGUN DEĞİLDİR
+Karar; yalnızca kelime eşleşmesine değil, tam kelime kontrolü, cümle bazlı bağlam analizi,
+MEB TTK ölçütleri ve kültürel uyum değerlendirmesinin birlikte yorumlanmasına göre
+verilmiştir. Eğitsel, tarihsel, mecazi veya eleştirel bağlamda kalan bulgular raporda
+görünür; ancak risk puanı 0 kabul edilir.
+
+3. Sakıncalı Kelime Taraması
+Metin, sakıncalı kelime listesiyle taranmış; her eşleşmede önce tam kelime kontrolü
+yapılmış, ardından ilgili cümle bağlam analiziyle değerlendirilmiştir. Başka bir kelimenin
+içinde geçen ifadeler bulgu sayılmamıştır.
+Kategori
+Bulgu
+Ortalama Risk
+BULGU Ayrımcılık ve Nefret
+6
+3.50/5
+BULGU Cinsellik ve Mahremiyet
+50
+3.08/5
+TEMİZ Dijital Risk
+0
+0.00/5
+BULGU Kaba Dil ve Hakaret
+19
+1.95/5
+BULGU Korku ve Travma
+26
+1.96/5
+BULGU Okültizm ve Batıl
+16
+2.25/5
+BULGU Olumsuz Davranış
+5
+2.40/5
+TEMİZ Reklam ve Ticari Unsurlar
+0
+0.00/5
+BULGU Şiddet ve Suç
+283
+2.28/5
+BULGU Zararlı Alışkanlıklar
+45
+2.40/5
+3.1. Bağlam Analizi Tablosu
+Kelime
+Adet
+Sayfa
+Bağlam Analizi
+Değerlendirme
+kısa boylu
+2
+331, 84
+Kategori: Ayrımcılık ve Nefret. Bağlam tipi:
+notr. Cümle: Veli kadife, ahşap, nefes,
+parfüm, ter, toz, gözyaşı, deri, lavan ta ve
+nem kokan; beyaz perdesine nice dünya
+yıldızları yansımış, her seansta yüzlerce
+İstanbulluyu bambaşka âlemlere sürüklemiş
+bu büyüleyici mekâna ayak bastığı an
+soluğunu tuttu. Gerekçe: Tam kelime bulundu;
+cümlede riski sıfırlayan açık bir bağlam yok.
+RİSKLİ - notr bağlam;
+düzenleme veya açıklayıcı not
+önerilir. Risk puanı: 5/5.
+nefret
+2
+197
+Kategori: Ayrımcılık ve Nefret. Bağlam tipi:
+taklit_tesviki. Cümle: ” Yatsı ezanının sona
+ermesiyle zayıf, kır saçlı, eski kaftanlı bir
+adam karanlıkta kalan masaların arasından
+sahneye doğru yürü meye başladı. Gerekçe:
+Taklit etmeye veya denemeye yönelten
+kullanım.
+RİSKLİ - taklit_tesviki bağlam;
+düzenleme veya açıklayıcı not
+önerilir. Risk puanı: 5/5.
+şişman
+2
+26, 8
+Kategori: Ayrımcılık ve Nefret. Bağlam tipi:
+notr. Cümle: Kamçılı İngilizler, ekose etekli
+İskoçlar, horoz tüylü şapka larıyla İtalyanlar,
+sarıklı Hint askerleri, Fransız ordusuna bağlı
+şalvarlı Senegalliler, gülüştükçe fırfırlı yakaları
+titreşen al yanaklı Bulgar kızları, sedef ve
+fildişi kakmalı tahtırevanına kurulmuş şişman
+bir Ermeni kadın, devetüyü hırkalı bir derviş,
+asasını kal dırıma vura vura ilerleyen sakalı
+karnında bir papaz, tıka basa dolu küfelerin
+altında iki büklüm olmuş Kürt hamallar, omuz -
+...
+RİSKLİ - notr bağlam;
+düzenleme veya açıklayıcı not
+önerilir. Risk puanı: 5/5.
+ayıp
+4
+117, 174
+Kategori: Cinsellik ve Mahremiyet. Bağlam
+tipi: notr. Cümle: Derken iniltiye benzer boğuk
+bir ses çıkardı. Gerekçe: Tam kelime bulundu;
+cümlede riski sıfırlayan açık bir bağlam yok.
+RİSKLİ - notr bağlam;
+düzenleme veya açıklayıcı not
+önerilir. Risk puanı: 4/5.
+
+Kelime
+Adet
+Sayfa
+Bağlam Analizi
+Değerlendirme
+mahrem
+2
+124
+Kategori: Cinsellik ve Mahremiyet. Bağlam
+tipi: notr. Cümle: “Kadınlar çığlık çığlığa kapıyı
+örtmeye davranırlarken her ne kadar başımızı
+başka yönlere çevirsek de, o kısacık telaş
+anında içerisini gördüğümüz olur. Gerekçe:
+Tam kelime bulundu; cümlede riski sıfırlayan
+açık bir bağlam yok.
+RİSKLİ - notr bağlam;
+düzenleme veya açıklayıcı not
+önerilir. Risk puanı: 4/5.
+mahremiyeti
+n
+1
+104
+Kategori: Cinsellik ve Mahremiyet. Bağlam
+tipi: elestirel. Cümle: Bay Dimakis’in bunu
+kötüye kullanacak bir İngiliz yandaşı ya da
+casus olabileceğine inanmak istemiyordu.
+Ama dün gece terler içinde kalmasına neden
+olan bu ihtimali de bütünüyle yok saya
+mıyordu. Gerekçe: Eleştirel veya
+olumsuzlayıcı kullanım.
+TEMİZ - elestirel bağlam;
+raporda görünür fakat risk
+puanı 0. Risk puanı: 0/5.
+namus
+2
+132
+Kategori: Cinsellik ve Mahremiyet. Bağlam
+tipi: notr. Cümle: Öte yandan o ana dek
+kendisine dahi itiraf edemese de zaman
+zaman ruhunda duyumsadığı birtakım sezgi
+ve çeliş --- SAYFA 133 --- 133 kilerin bir
+başkası tarafından bu şekilde cesurca dile
+getiriliyor olmasından da ürpertici bir haz
+duyuyordu. Gerekçe: Tam kelime bulundu;
+cümlede riski sıfırlayan açık bir bağlam yok.
+RİSKLİ - notr bağlam;
+düzenleme veya açıklayıcı not
+önerilir. Risk puanı: 4/5.
+taciz
+6
+225, 297,
+33
+Kategori: Cinsellik ve Mahremiyet. Bağlam
+tipi: notr. Cümle: ” Musa dayı havadisi bir
+müşterisinden almış, sonrasında komşu
+esnafla uzun uzun kritik etmişti. Gerekçe: Tam
+kelime bulundu; cümlede riski sıfırlayan açık
+bir bağlam yok.
+RİSKLİ - notr bağlam;
+düzenleme veya açıklayıcı not
+önerilir. Risk puanı: 4/5.
+tecavüz
+4
+132, 61
+Kategori: Cinsellik ve Mahremiyet. Bağlam
+tipi: notr. Cümle: Şu yedi tepeli şehrin prangalı
+elleri Anadolu’ daki kahramanları için alkış
+tufanı koparacak, camileri hıncahınç doldurup
+onların muzafferiyeti uğrunda avuç açacak.
+Gerekçe: Tam kelime bulundu; cümlede riski
+sıfırlayan açık bir bağlam yok.
+RİSKLİ - notr bağlam;
+düzenleme veya açıklayıcı not
+önerilir. Risk puanı: 4/5.
+utanç
+6
+117, 245,
+30, 307,
+31, 36
+Kategori: Cinsellik ve Mahremiyet. Bağlam
+tipi: notr. Cümle: Veli eline düşen damla ile
+irkilerek kendine geldi. Gerekçe: Tam kelime
+bulundu; cümlede riski sıfırlayan açık bir
+bağlam yok.
+RİSKLİ - notr bağlam;
+düzenleme veya açıklayıcı not
+önerilir. Risk puanı: 4/5.
+utançtan
+1
+307
+Kategori: Cinsellik ve Mahremiyet. Bağlam
+tipi: notr. Cümle: Bir süredir havada hareketsiz
+beklemekte olan elini kaldığı yerden sallamayı
+sürdürdü. Gerekçe: Tam kelime bulundu;
+cümlede riski sıfırlayan açık bir bağlam yok.
+RİSKLİ - notr bağlam;
+düzenleme veya açıklayıcı not
+önerilir. Risk puanı: 4/5.
+çıplak
+24
+10, 11,
+124, 221,
+26, 269,
+28, 50, 56,
+74, 77, 96
+Kategori: Cinsellik ve Mahremiyet. Bağlam
+tipi: notr. Cümle: “Veli,” diye tekrarlarken
+gülümsedi Valentina. Gerekçe: Tam kelime
+bulundu; cümlede riski sıfırlayan açık bir
+bağlam yok.
+RİSKLİ - notr bağlam;
+düzenleme veya açıklayıcı not
+önerilir. Risk puanı: 4/5.
+ahmak
+2
+266, 284
+Kategori: Kaba Dil ve Hakaret. Bağlam tipi:
+notr. Cümle: “Benim bir bakışta konuya açıklık
+getirebilecek uzmanlığa sahip olmadığım
+aşikâr. Gerekçe: Tam kelime bulundu;
+cümlede riski sıfırlayan açık bir bağlam yok.
+DİKKAT - notr bağlam; yaş
+grubu ve pedagojik sunum
+açısından kontrol önerilir. Risk
+puanı: 3/5.
+alay
+4
+331, 64,
+66
+Kategori: Kaba Dil ve Hakaret. Bağlam tipi:
+notr. Cümle: ‘Ölüm Allah’ın emri’, dedi.
+Gerekçe: Tam kelime bulundu; cümlede riski
+sıfırlayan açık bir bağlam yok.
+DİKKAT - notr bağlam; yaş
+grubu ve pedagojik sunum
+açısından kontrol önerilir. Risk
+puanı: 3/5.
+
+Kelime
+Adet
+Sayfa
+Bağlam Analizi
+Değerlendirme
+alçak
+3
+121, 131,
+313
+Kategori: Kaba Dil ve Hakaret. Bağlam tipi:
+notr. Cümle: Saatin hemen altında Bay
+Dimakis, güze l eşi --- SAYFA 313 --- 313 ve
+altı yedi yaşlarındaki denizci üniformalı
+Leonis’in, Pera’daki bir stüdyonun sahil
+manzaralı dekorunda çekilmiş aile fotoğrafı
+asılıydı. Gerekçe: Tam kelime bulundu;
+cümlede riski sıfırlayan açık bir bağlam yok.
+DİKKAT - notr bağlam; yaş
+grubu ve pedagojik sunum
+açısından kontrol önerilir. Risk
+puanı: 3/5.
+eşek
+3
+102, 17,
+252
+Kategori: Kaba Dil ve Hakaret. Bağlam tipi:
+notr. Cümle: “Musa dayımın senin bu
+sözlerinden ötürü tutuklandığı ne malum?
+Gerekçe: Tam kelime bulundu; cümlede riski
+sıfırlayan açık bir bağlam yok.
+DİKKAT - notr bağlam; yaş
+grubu ve pedagojik sunum
+açısından kontrol önerilir. Risk
+puanı: 3/5.
+küfür
+2
+127, 9
+Kategori: Kaba Dil ve Hakaret. Bağlam tipi:
+notr. Cümle: Öyleyse fail iki değil, birdir.
+Gerekçe: Tam kelime bulundu; cümlede riski
+sıfırlayan açık bir bağlam yok.
+DİKKAT - notr bağlam; yaş
+grubu ve pedagojik sunum
+açısından kontrol önerilir. Risk
+puanı: 3/5.
+lan
+2
+269, 69
+Kategori: Kaba Dil ve Hakaret. Bağlam tipi:
+notr. Cümle: ’ Zifiri karanlıkta kimse cesaret
+edip yardıma gidemedi. Gerekçe: Tam kelime
+bulundu; cümlede riski sıfırlayan açık bir
+bağlam yok.
+DİKKAT - notr bağlam; yaş
+grubu ve pedagojik sunum
+açısından kontrol önerilir. Risk
+puanı: 3/5.
+ulan
+2
+116, 117
+Kategori: Kaba Dil ve Hakaret. Bağlam tipi:
+notr. Cümle: “Sus!.. Gerekçe: Tam kelime
+bulundu; cümlede riski sıfırlayan açık bir
+bağlam yok.
+DİKKAT - notr bağlam; yaş
+grubu ve pedagojik sunum
+açısından kontrol önerilir. Risk
+puanı: 3/5.
+şerefsiz
+1
+97
+Kategori: Kaba Dil ve Hakaret. Bağlam tipi:
+mecazi. Cümle: Neyse ki o da dükkândaki
+diğerleri gibi ilgisini Vahap’a yönelt mişti.
+Gerekçe: Mecazi/sembolik kullanım.
+TEMİZ - mecazi bağlam;
+raporda görünür fakat risk
+puanı 0. Risk puanı: 0/5.
+dehşet
+2
+74, 81
+Kategori: Korku ve Travma. Bağlam tipi: notr.
+Cümle: Kendini toparlar toparlamaz evlerinin
+sağlığı için ciddi tehdit oluşturan bu itaatsiz
+liği endişe dolu jest ve mimiklerle Bay
+Dimakis’e şikâyet etmeye koyuldu. Gerekçe:
+Tam kelime bulundu; cümlede riski sıfırlayan
+açık bir bağlam yok.
+DİKKAT - notr bağlam; yaş
+grubu ve pedagojik sunum
+açısından kontrol önerilir. Risk
+puanı: 3/5.
+korkunç
+1
+98
+Kategori: Korku ve Travma. Bağlam tipi: notr.
+Cümle: Veli başka şeyler düşünmeye
+çalıştıkça, başının içinde kaynayan cehennem
+kazanının ateşi harlanıyor, kulaklarındaki
+uğultu katlanılması güç bir raddeye varıyordu.
+Gerekçe: Tam kelime bulundu; cümlede riski
+sıfırlayan açık bir bağlam yok.
+DİKKAT - notr bağlam; yaş
+grubu ve pedagojik sunum
+açısından kontrol önerilir. Risk
+puanı: 3/5.
+lanet
+1
+40
+Kategori: Korku ve Travma. Bağlam tipi:
+mecazi. Cümle: Çizme ve deva mındaki kör
+olasıca üniforma, Çanakkale’de Veli’yi yetim
+bırak tığı yetmezmiş gibi şimdi de onu
+gölgesiyle ezerek kölesi haline getirmek
+istiyordu. Gerekçe: Mecazi/sembolik kullanım.
+TEMİZ - mecazi bağlam;
+raporda görünür fakat risk
+puanı 0. Risk puanı: 0/5.
+mezar taşı
+2
+106, 213
+Kategori: Korku ve Travma. Bağlam tipi: notr.
+Cümle: Malzemeleri bir araya getirerek ilahi
+bilgelikte mucizeler gerçekleştirme kabi liyeti.
+Gerekçe: Tam kelime bulundu; cümlede riski
+sıfırlayan açık bir bağlam yok.
+DİKKAT - notr bağlam; yaş
+grubu ve pedagojik sunum
+açısından kontrol önerilir. Risk
+puanı: 3/5.
+
+Kelime
+Adet
+Sayfa
+Bağlam Analizi
+Değerlendirme
+mezarlık
+1
+176
+Kategori: Korku ve Travma. Bağlam tipi: notr.
+Cümle: Kâh Boğaz oluyor Beşiktaş, Ortaköy,
+Bebek’e doğru kıvrılarak uzuyor, kâh
+Haydarpaşa yönünde genişleyerek Marmara
+adını alıyor, kâh Sarayburnu ve Galata
+Limanı’ndan topladığı pırıltılar la Köprü’nün
+altından geçip altın boynuza dönüşüyordu.
+Gerekçe: Tam kelime bulundu; cümlede riski
+sıfırlayan açık bir bağlam yok.
+DİKKAT - notr bağlam; yaş
+grubu ve pedagojik sunum
+açısından kontrol önerilir. Risk
+puanı: 3/5.
+saklanmak
+1
+327
+Kategori: Korku ve Travma. Bağlam tipi: notr.
+Cümle: Tek başına bir muamma olan sevgi,
+ancak ve ancak bir başka varlığa
+dokunduğunda yankıla nıyor, o yankı bütün
+evrenle güçlü bir bağ kurulmasını sağlıyor ve
+varoluş böylelikle manasına kavuşuyordu.
+Kemal Bey, Veli’nin aklından geçenleri bir
+müddet dikkatle takip ettikten sonra: “Yine
+Valentina’yla mı karşılaştın? Gerekçe: Tam
+kelime bulundu; cümlede riski sıfırlayan açık
+bir bağlam yok.
+DİKKAT - notr bağlam; yaş
+grubu ve pedagojik sunum
+açısından kontrol önerilir. Risk
+puanı: 3/5.
+uğursuz
+3
+190, 226,
+227
+Kategori: Korku ve Travma. Bağlam tipi: notr.
+Cümle: Veli ağzını açamadan, yanıtı yine
+kendisi vermişti: “Fırıncı Karabet! Gerekçe:
+Tam kelime bulundu; cümlede riski sıfırlayan
+açık bir bağlam yok.
+DİKKAT - notr bağlam; yaş
+grubu ve pedagojik sunum
+açısından kontrol önerilir. Risk
+puanı: 3/5.
+çığlık
+3
+124, 235,
+46
+Kategori: Korku ve Travma. Bağlam tipi: notr.
+Cümle: Tramvay çıngırakları durmadan
+çalıyor, Tercüman gazetesinin son ha
+berlerini avaz avaz sıralayan bir müvezzi
+çocuk rıhtım boyunca gidip geliyor, martılar
+Boğaz vapurunun peşinden çığlık çığlığa
+havalanıyor, sandallarındaki balıkları satıp bir
+an evvel Kumka pı’daki barakalarına dönme
+telaşındaki yorgun Ermeni balıkçılar “akşam
+pazarı” diye bağırıyordu. Gerekçe: Tam
+kelime bulundu; cümlede riski sıfırlayan açık
+bir bağlam yok.
+DİKKAT - notr bağlam; yaş
+grubu ve pedagojik sunum
+açısından kontrol önerilir. Risk
+puanı: 3/5.
+ölü
+3
+173, 232,
+322
+Kategori: Korku ve Travma. Bağlam tipi: notr.
+Cümle: ” Bakışlarını gökyüzüne çevirirken:
+“İlahi adalet işte,” diye söylendi, Levon.
+Gerekçe: Tam kelime bulundu; cümlede riski
+sıfırlayan açık bir bağlam yok.
+DİKKAT - notr bağlam; yaş
+grubu ve pedagojik sunum
+açısından kontrol önerilir. Risk
+puanı: 3/5.
+ölüler
+3
+130, 15,
+67
+Kategori: Korku ve Travma. Bağlam tipi: notr.
+Cümle: Eğilip ceplerini aradım. Gerekçe: Tam
+kelime bulundu; cümlede riski sıfırlayan açık
+bir bağlam yok.
+DİKKAT - notr bağlam; yaş
+grubu ve pedagojik sunum
+açısından kontrol önerilir. Risk
+puanı: 3/5.
+ürpertici
+6
+133, 15,
+198, 208,
+39, 85
+Kategori: Korku ve Travma. Bağlam tipi: notr.
+Cümle: Derken melodi, tokmaklı sokak
+kapılarının dedesi tarafından tıklatıl masını
+hatırlatan bir vurmalıyla tekrar başa sarıyor ve
+her türlü fenalık ihtimalini dışarıda bırakıyordu.
+Gerekçe: Tam kelime bulundu; cümlede riski
+sıfırlayan açık bir bağlam yok.
+DİKKAT - notr bağlam; yaş
+grubu ve pedagojik sunum
+açısından kontrol önerilir. Risk
+puanı: 3/5.
+ayin
+6
+187, 193,
+2, 279,
+305, 45
+Kategori: Okültizm ve Batıl. Bağlam tipi: notr.
+Cümle: Önce Aristidis’in Antalya mıntıkasına
+düştüğü belli olmuştu. Gerekçe: Tam kelime
+bulundu; cümlede riski sıfırlayan açık bir
+bağlam yok.
+RİSKLİ - notr bağlam;
+düzenleme veya açıklayıcı not
+önerilir. Risk puanı: 4/5.
+
+Kelime
+Adet
+Sayfa
+Bağlam Analizi
+Değerlendirme
+büyü
+4
+236, 252,
+33, 332
+Kategori: Okültizm ve Batıl. Bağlam tipi: notr.
+Cümle: ” Veli, Musa dayının bahsettiği 9
+kuruşluk ekmeğin 3. Gerekçe: Tam kelime
+bulundu; cümlede riski sıfırlayan açık bir
+bağlam yok.
+RİSKLİ - notr bağlam;
+düzenleme veya açıklayıcı not
+önerilir. Risk puanı: 4/5.
+cadı
+1
+242
+Kategori: Okültizm ve Batıl. Bağlam tipi: notr.
+Cümle: Bu konuşma Bay Dimakis’i derinden
+sarsmış, eczaneye dön mek ya da eve gitmek
+yerine tek başına bir meyhaneye oturup, gece
+boyunca hayatını sorgulamasına yol açmıştı.
+Gerekçe: Tam kelime bulundu; cümlede riski
+sıfırlayan açık bir bağlam yok.
+RİSKLİ - notr bağlam;
+düzenleme veya açıklayıcı not
+önerilir. Risk puanı: 4/5.
+fal
+2
+173, 288
+Kategori: Okültizm ve Batıl. Bağlam tipi: notr.
+Cümle: ” Yokuş yukarı adımlarını
+hızlandırdılar. Gerekçe: Tam kelime bulundu;
+cümlede riski sıfırlayan açık bir bağlam yok.
+RİSKLİ - notr bağlam;
+düzenleme veya açıklayıcı not
+önerilir. Risk puanı: 4/5.
+sihir
+3
+129, 332
+Kategori: Okültizm ve Batıl. Bağlam tipi:
+ozendirici. Cümle: “Ne güzel ifade ettin,” dedi,
+Leonis. Gerekçe: Özendirici veya olumlayıcı
+kullanım.
+RİSKLİ - ozendirici bağlam;
+düzenleme veya açıklayıcı not
+önerilir. Risk puanı: 4/5.
+gösteriş
+1
+25
+Kategori: Olumsuz Davranış. Bağlam tipi:
+egitsel. Cümle: Avusturya Hastanesi’nde
+çalıştığı deri doktor çantasına damgalanmış
+amblemden anlaşılan beyaz keçi sakallı bir
+adam Veli’nin tam karşısında durdu. Gerekçe:
+Eğitsel/uyarıcı kullanım risk oluşturmaz.
+TEMİZ - egitsel bağlam;
+raporda görünür fakat risk
+puanı 0. Risk puanı: 0/5.
+kıskançlık
+3
+87, 88
+Kategori: Olumsuz Davranış. Bağlam tipi:
+notr. Cümle: “Çünkü başlangıçta kendi sahip
+olduklarımızla karşımız dakinin sahip
+olduklarını kıyaslarız. Gerekçe: Tam kelime
+bulundu; cümlede riski sıfırlayan açık bir
+bağlam yok.
+DİKKAT - notr bağlam; yaş
+grubu ve pedagojik sunum
+açısından kontrol önerilir. Risk
+puanı: 3/5.
+çalmak
+1
+314
+Kategori: Olumsuz Davranış. Bağlam tipi:
+notr. Cümle: Yüzündeki duru ifadeye olgun bir
+mana eklenmiş, onu özgüvenli bir kadına
+dönüştürmüştü. Gerekçe: Tam kelime
+bulundu; cümlede riski sıfırlayan açık bir
+bağlam yok.
+DİKKAT - notr bağlam; yaş
+grubu ve pedagojik sunum
+açısından kontrol önerilir. Risk
+puanı: 3/5.
+bıçak
+16
+113, 157,
+230, 277,
+279, 281,
+39, 65
+Kategori: Şiddet ve Suç. Bağlam tipi: notr.
+Cümle: Ben de bu satırları yazarken
+mevzunun bana düşündür dükleri hususunda
+gerek kendime gerekse sizlere karşı dürüst
+olmaya gayret edeceğim. Gerekçe: Tam
+kelime bulundu; cümlede riski sıfırlayan açık
+bir bağlam yok.
+DİKKAT - notr bağlam; yaş
+grubu ve pedagojik sunum
+açısından kontrol önerilir. Risk
+puanı: 3/5.
+bıçakla
+1
+279
+Kategori: Şiddet ve Suç. Bağlam tipi: notr.
+Cümle: O, bu soruya yanıt bulabilmek için
+haberler ara sında ilişki kurmaya çalışırken
+Veli de uzaktan Rumca yazıları görmüş,
+sandığın Türklere ait olmadığı sonucuna
+vararak rahat bir nefes almıştı. Gerekçe: Tam
+kelime bulundu; cümlede riski sıfırlayan açık
+bir bağlam yok.
+DİKKAT - notr bağlam; yaş
+grubu ve pedagojik sunum
+açısından kontrol önerilir. Risk
+puanı: 3/5.
+bıçağı
+2
+96
+Kategori: Şiddet ve Suç. Bağlam tipi: notr.
+Cümle: Yarım saat oldu, hâlâ dönmedi.
+Gerekçe: Tam kelime bulundu; cümlede riski
+sıfırlayan açık bir bağlam yok.
+DİKKAT - notr bağlam; yaş
+grubu ve pedagojik sunum
+açısından kontrol önerilir. Risk
+puanı: 3/5.
+
+Kelime
+Adet
+Sayfa
+Bağlam Analizi
+Değerlendirme
+bıçağın
+2
+113
+Kategori: Şiddet ve Suç. Bağlam tipi: notr.
+Cümle: Derken bir avuç un, masanın üzerinde
+beyaz bir bulut oluşturarak ciğer parçalarını
+matlaştırdı. Gerekçe: Tam kelime bulundu;
+cümlede riski sıfırlayan açık bir bağlam yok.
+BİLGİ/DÜŞÜK RİSK - notr
+bağlam; öğretmen notu ile
+izlenebilir. Risk puanı: 1/5.
+cinayet
+6
+102, 104,
+108, 173,
+282, 77
+Kategori: Şiddet ve Suç. Bağlam tipi: notr.
+Cümle: Bay Dimakis kaşlarını kaldırıp ellerini
+iki yana açtı: “Desene Musa dayın haklı çıktı.
+Gerekçe: Tam kelime bulundu; cümlede riski
+sıfırlayan açık bir bağlam yok.
+DİKKAT - notr bağlam; yaş
+grubu ve pedagojik sunum
+açısından kontrol önerilir. Risk
+puanı: 3/5.
+cinayeti
+1
+77
+Kategori: Şiddet ve Suç. Bağlam tipi: notr.
+Cümle: Bay Dimakis kaşlarını kaldırıp ellerini
+iki yana açtı: “Desene Musa dayın haklı çıktı.
+Gerekçe: Tam kelime bulundu; cümlede riski
+sıfırlayan açık bir bağlam yok.
+DİKKAT - notr bağlam; yaş
+grubu ve pedagojik sunum
+açısından kontrol önerilir. Risk
+puanı: 3/5.
+cinayetin
+4
+102, 73,
+97
+Kategori: Şiddet ve Suç. Bağlam tipi: notr.
+Cümle: ” Cila kutusuyla bezini sandığın
+üzerine bırakıp sesin geldiği yöne döndü.
+Avaz avaz bağırmaya devam eden
+müvezzinin etra fındaki insan çemberi
+giderek genişliyordu. Gerekçe: Tam kelime
+bulundu; cümlede riski sıfırlayan açık bir
+bağlam yok.
+DİKKAT - notr bağlam; yaş
+grubu ve pedagojik sunum
+açısından kontrol önerilir. Risk
+puanı: 3/5.
+dolandırma
+1
+150
+Kategori: Şiddet ve Suç. Bağlam tipi: notr.
+Cümle: ” “Elbette ki hayır. Ama...” “Değer ve
+hassasiyetlerine saygım hususunda en ufak
+kuş kun olmasın lütfen. Gerekçe: Tam kelime
+bulundu; cümlede riski sıfırlayan açık bir
+bağlam yok.
+DİKKAT - notr bağlam; yaş
+grubu ve pedagojik sunum
+açısından kontrol önerilir. Risk
+puanı: 3/5.
+hırsızlık
+2
+282, 283
+Kategori: Şiddet ve Suç. Bağlam tipi: notr.
+Cümle: Ama mühimmatın göz göre göre
+eşkıyala rın eline bırakılması; bundan böyle
+onlarla işlenecek suçlara göz yummak, hatta
+çanak tutmak manasına geliyordu. Gerekçe:
+Tam kelime bulundu; cümlede riski sıfırlayan
+açık bir bağlam yok.
+DİKKAT - notr bağlam; yaş
+grubu ve pedagojik sunum
+açısından kontrol önerilir. Risk
+puanı: 3/5.
+infaz
+2
+102, 34
+Kategori: Şiddet ve Suç. Bağlam tipi: notr.
+Cümle: Süleyman Nazif infazdan son anda
+yakayı sıyırmış olsa da benzeri bir milli
+çıkışının ardından Malta’da sürgünü
+boylamıştı. Gerekçe: Tam kelime bulundu;
+cümlede riski sıfırlayan açık bir bağlam yok.
+BİLGİ/DÜŞÜK RİSK - notr
+bağlam; öğretmen notu ile
+izlenebilir. Risk puanı: 1/5.
+işkence
+3
+103, 141,
+290
+Kategori: Şiddet ve Suç. Bağlam tipi: notr.
+Cümle: --- SAYFA 104 --- 104Esasında
+gerginliği, ne yüzleşmeye cesaret edebildiği
+ne de bir kenara bırakabildiği çelişkili
+düşüncelerinden kaynaklanı yordu. Gerekçe:
+Tam kelime bulundu; cümlede riski sıfırlayan
+açık bir bağlam yok.
+DİKKAT - notr bağlam; yaş
+grubu ve pedagojik sunum
+açısından kontrol önerilir. Risk
+puanı: 3/5.
+kan
+17
+116, 118,
+132, 171,
+176, 184,
+225, 229,
+239, 26,
+276, 277,
+294, 32,
+55, 57, 96
+Kategori: Şiddet ve Suç. Bağlam tipi: notr.
+Cümle: Doğanın işgalden de, savaştan da,
+ekonomik buhrandan da güçlü saati insanların
+içinde tıkır tıkır işliyor, güneşin ısıttığı
+bedenler birkaç hafta öncesine kıyasla çok
+daha sıhhatli ve enerjik görünüyordu.
+Gerekçe: Tam kelime bulundu; cümlede riski
+sıfırlayan açık bir bağlam yok.
+RİSKLİ - notr bağlam;
+düzenleme veya açıklayıcı not
+önerilir. Risk puanı: 4/5.
+
+Kelime
+Adet
+Sayfa
+Bağlam Analizi
+Değerlendirme
+katil
+4
+170, 172
+Kategori: Şiddet ve Suç. Bağlam tipi: notr.
+Cümle: Onuncu ve son kıtanın son iki mısrası
+ise Veli’nin okuması bittikten sonra da gece
+boyunca Musa dayı, Vahap ve hatta
+tekerlemeye benzettiği söz dizimini kolayca
+ezberleyen Esma tarafından defalarca
+yinelendi. Gerekçe: Tam kelime bulundu;
+cümlede riski sıfırlayan açık bir bağlam yok.
+DİKKAT - notr bağlam; yaş
+grubu ve pedagojik sunum
+açısından kontrol önerilir. Risk
+puanı: 3/5.
+katili
+1
+172
+Kategori: Şiddet ve Suç. Bağlam tipi: notr.
+Cümle: ” “Hadiseyi değişik aktaranlar var.
+Gerekçe: Tam kelime bulundu; cümlede riski
+sıfırlayan açık bir bağlam yok.
+DİKKAT - notr bağlam; yaş
+grubu ve pedagojik sunum
+açısından kontrol önerilir. Risk
+puanı: 3/5.
+kılıç
+1
+171
+Kategori: Şiddet ve Suç. Bağlam tipi: notr.
+Cümle: Tophane i Amire’nin önünde bir
+müvezzi avaz avaz bağırı yordu. Gerekçe:
+Tam kelime bulundu; cümlede riski sıfırlayan
+açık bir bağlam yok.
+DİKKAT - notr bağlam; yaş
+grubu ve pedagojik sunum
+açısından kontrol önerilir. Risk
+puanı: 3/5.
+savaş
+62
+130, 146,
+148, 156,
+162, 163,
+166, 167,
+175, 181,
+196, 231,
+239, 241,
+242, 24...
+Kategori: Şiddet ve Suç. Bağlam tipi: notr.
+Cümle: Levon, Veli’ye büyük ölçüde katılıyor,
+silahları kesinlikle Pandeli Çetesi’nin
+erişemeyeceği bir noktaya gizlemeleri, hatta
+örneğin kurşunlarla birlikte dereye atıp işlevsiz
+hale getirmeleri gerektiğini savunuyordu.
+Gerekçe: Tam kelime bulundu; cümlede riski
+sıfırlayan açık bir bağlam yok.
+RİSKLİ - notr bağlam;
+düzenleme veya açıklayıcı not
+önerilir. Risk puanı: 4/5.
+savaşta
+2
+146, 231
+Kategori: Şiddet ve Suç. Bağlam tipi: notr.
+Cümle: Her ne kadar Rum basını bu neti ceyi
+hedefle uyumlu bir taktiksel geri çekilme
+olarak yorumlayıp yenilgiyi kabullenmiyor
+gözükse de; Milli Mücadele ilk kez düzenli bir
+ordu halinde Yunanlıların karşısına dikilmiş ve
+düş manı bozguna uğratarak yalnızca
+Yunanistan’a değil, başta işgal kuvvetleri
+olmak üzere cümle âleme gözdağı vermişti.
+Gerekçe: Tam kelime bulundu; cümlede riski
+sıfırlayan açık bir bağlam yok.
+DİKKAT - notr bağlam; yaş
+grubu ve pedagojik sunum
+açısından kontrol önerilir. Risk
+puanı: 3/5.
+savaştan
+1
+239
+Kategori: Şiddet ve Suç. Bağlam tipi: mecazi.
+Cümle: Veli onu sözünde durmadığı,
+hayallerini yıktığı, gururuyla oynadığı için
+suçlar; daha evvel uğradığı boz gunların
+ardından yaptığı gibi belki bir süre
+talihsizliğine yanar, kendine acır, sonra yavaş
+yavaş toparlanıp gürül gürül akmaya devam
+eden hayat nehrinin bir parçası olduğunu
+anımsar ve için deki masum özü dışarısıyla
+yeniden uyumlu hale getirebilmenin yollarını
+aramaya koyulurdu. Gerekçe:
+Mecazi/sembolik kullanım.
+TEMİZ - mecazi bağlam;
+raporda görünür fakat risk
+puanı 0. Risk puanı: 0/5.
+savaşı
+4
+156, 163,
+309, 335
+Kategori: Şiddet ve Suç. Bağlam tipi: notr.
+Cümle: Çocuklar iki gruba ayrılır, yarısı hırsız,
+yarısı polis olurdu. Önce hırsızlar Bahçe’ye
+dağılır, bir süre bekledikten sonra polisler
+peşlerine düşerdi. Gerekçe: Tam kelime
+bulundu; cümlede riski sıfırlayan açık bir
+bağlam yok.
+DİKKAT - notr bağlam; yaş
+grubu ve pedagojik sunum
+açısından kontrol önerilir. Risk
+puanı: 3/5.
+silah
+26
+132, 276,
+277, 279,
+284, 285,
+289, 290,
+296, 319,
+63, 90
+Kategori: Şiddet ve Suç. Bağlam tipi: notr.
+Cümle: Birkaç kere de bulundukları yerleri
+tespit ederek, baskın yapmaya yeltendik.
+Kimden, nasıl haber aldılarsa her defasında
+biz varmadan kısa süre önce sıvıştılar.
+Gerekçe: Tam kelime bulundu; cümlede riski
+sıfırlayan açık bir bağlam yok.
+RİSKLİ - notr bağlam;
+düzenleme veya açıklayıcı not
+önerilir. Risk puanı: 4/5.
+
+Kelime
+Adet
+Sayfa
+Bağlam Analizi
+Değerlendirme
+silahla
+1
+279
+Kategori: Şiddet ve Suç. Bağlam tipi: notr.
+Cümle: Leonis gazeteleri yan yana dizdi. Tek
+tek hepsinin ana say falarındaki başlıkları
+gözden geçirdi. Gerekçe: Tam kelime
+bulundu; cümlede riski sıfırlayan açık bir
+bağlam yok.
+DİKKAT - notr bağlam; yaş
+grubu ve pedagojik sunum
+açısından kontrol önerilir. Risk
+puanı: 3/5.
+silahları
+3
+277, 282
+Kategori: Şiddet ve Suç. Bağlam tipi: notr.
+Cümle: Öte yandan ona göre silahlarla
+altınları ayrı tutmak lazımdı. Gerekçe: Tam
+kelime bulundu; cümlede riski sıfırlayan açık
+bir bağlam yok.
+RİSKLİ - notr bağlam;
+düzenleme veya açıklayıcı not
+önerilir. Risk puanı: 4/5.
+silahın
+1
+279
+Kategori: Şiddet ve Suç. Bağlam tipi: tarihsel.
+Cümle: Son birkaç ayın farklı tarihlerinde
+basılmış Rumca gazetelerin saklanma sebebi
+ne olabilirdi? O, bu soruya yanıt bulabilmek
+için haberler ara sında ilişki kurmaya
+çalışırken Veli de uzaktan Rumca yazıları
+görmüş, sandığın Türklere ait olmadığı
+sonucuna vararak rahat bir nefes almıştı.
+Gerekçe: Tarihsel veya kültürel aktarım
+bağlamı.
+BİLGİ/DÜŞÜK RİSK - tarihsel
+bağlam; öğretmen notu ile
+izlenebilir. Risk puanı: 1/5.
+sopa
+5
+166, 172,
+272, 276
+Kategori: Şiddet ve Suç. Bağlam tipi: notr.
+Cümle: Zaten Anado lu’daki çarpışmalara
+omuz veremediğinden içi içini yiyordu, şim di
+bir de üstüne Mustafa Kemal kuvvetleri için
+değeri altından da büyük olan silahların
+yolunu mu kesecekti? Gerekçe: Tam kelime
+bulundu; cümlede riski sıfırlayan açık bir
+bağlam yok.
+RİSKLİ - notr bağlam;
+düzenleme veya açıklayıcı not
+önerilir. Risk puanı: 4/5.
+sopalarla
+1
+153
+Kategori: Şiddet ve Suç. Bağlam tipi: notr.
+Cümle: Neyse ki koca göbekleri ve tütün
+dumanı dolu ciğerleri yüzünden yeterince hızlı
+hareket edemez, oyun için ağaç dallarını
+koparan veya çiçek tarhlarına basan çocukları
+öyle kolay kolay yakalayamazlardı. Gerekçe:
+Tam kelime bulundu; cümlede riski sıfırlayan
+açık bir bağlam yok.
+DİKKAT - notr bağlam; yaş
+grubu ve pedagojik sunum
+açısından kontrol önerilir. Risk
+puanı: 3/5.
+sopasını
+5
+198, 200,
+201, 202,
+204
+Kategori: Şiddet ve Suç. Bağlam tipi:
+taklit_tesviki. Cümle: Meddah, sükûneti derin
+bir nefesle içine çektikten sonra, ince vücut
+yapısından beklenmeyecek pes ve tesirli bir
+ses tonuyla hikâyesine başladı: “Tacir’in biri
+Hindistan’a gitmek üzere yol hazırlığına
+başlamış. Gerekçe: Taklit etmeye veya
+denemeye yönelten kullanım.
+DİKKAT - taklit_tesviki bağlam;
+yaş grubu ve pedagojik sunum
+açısından kontrol önerilir. Risk
+puanı: 3/5.
+sopayla
+1
+275
+Kategori: Şiddet ve Suç. Bağlam tipi: notr.
+Cümle: Vurunca da tak tak ses çıkıyor.
+Gerekçe: Tam kelime bulundu; cümlede riski
+sıfırlayan açık bir bağlam yok.
+BİLGİ/DÜŞÜK RİSK - notr
+bağlam; öğretmen notu ile
+izlenebilir. Risk puanı: 1/5.
+topuz
+1
+79
+Kategori: Şiddet ve Suç. Bağlam tipi: notr.
+Cümle: Madam Agatha bunun üzerine yüzünü
+Veli’ye döndü. Gerekçe: Tam kelime bulundu;
+cümlede riski sıfırlayan açık bir bağlam yok.
+DİKKAT - notr bağlam; yaş
+grubu ve pedagojik sunum
+açısından kontrol önerilir. Risk
+puanı: 3/5.
+torba
+4
+316, 321
+Kategori: Şiddet ve Suç. Bağlam tipi: notr.
+Cümle: Galatasaray Lisesi’nin kapısında bir
+grup öğrenci Türk bayrağı açmıştı. Gerekçe:
+Tam kelime bulundu; cümlede riski sıfırlayan
+açık bir bağlam yok.
+DİKKAT - notr bağlam; yaş
+grubu ve pedagojik sunum
+açısından kontrol önerilir. Risk
+puanı: 3/5.
+
+Kelime
+Adet
+Sayfa
+Bağlam Analizi
+Değerlendirme
+tüfek
+3
+276, 277,
+279
+Kategori: Şiddet ve Suç. Bağlam tipi: notr.
+Cümle: Veli’nin sessizliği huzursuzluk
+yaratmıştı. Gerekçe: Tam kelime bulundu;
+cümlede riski sıfırlayan açık bir bağlam yok.
+DİKKAT - notr bağlam; yaş
+grubu ve pedagojik sunum
+açısından kontrol önerilir. Risk
+puanı: 3/5.
+vuran
+4
+17, 267,
+313, 41
+Kategori: Şiddet ve Suç. Bağlam tipi: notr.
+Cümle: Leonis ikinci kibriti yaktı. Gerekçe:
+Tam kelime bulundu; cümlede riski sıfırlayan
+açık bir bağlam yok.
+DİKKAT - notr bağlam; yaş
+grubu ve pedagojik sunum
+açısından kontrol önerilir. Risk
+puanı: 3/5.
+vurarak
+10
+108, 135,
+140, 157,
+199, 202,
+205, 240,
+30, 72
+Kategori: Şiddet ve Suç. Bağlam tipi: notr.
+Cümle: Kendi sınırlı gözlem ve sezgilerine
+aşırı güvendiği için değil, daha çok babasının
+Dimakis ailesiyle uzun yıllara dayanan
+hukukuna saygı duyduğu için böyle
+düşünüyordu. Gerekçe: Tam kelime bulundu;
+cümlede riski sıfırlayan açık bir bağlam yok.
+DİKKAT - notr bağlam; yaş
+grubu ve pedagojik sunum
+açısından kontrol önerilir. Risk
+puanı: 3/5.
+vurdu
+3
+171, 229,
+23
+Kategori: Şiddet ve Suç. Bağlam tipi: notr.
+Cümle: Levon, Kılıç Ali Paşa Camisi’nin
+karşısından sağa sapıp Lüleci Hendek
+Caddesi’ni takip ettikleri takdirde Saint Benoit
+Fransız Mektebi’nin arkasından dolanıp
+Kule’ye kestirme den varabileceklerini
+söyleyince, Veli bu daha az eğimli Galata
+yolunu öğrenme fırsatını memnuniyetle kabul
+etti. Gerekçe: Tam kelime bulundu; cümlede
+riski sıfırlayan açık bir bağlam yok.
+DİKKAT - notr bağlam; yaş
+grubu ve pedagojik sunum
+açısından kontrol önerilir. Risk
+puanı: 3/5.
+vurduk
+2
+198, 199
+Kategori: Şiddet ve Suç. Bağlam tipi:
+taklit_tesviki. Cümle: Meddah, sükûneti derin
+bir nefesle içine çektikten sonra, ince vücut
+yapısından beklenmeyecek pes ve tesirli bir
+ses tonuyla hikâyesine başladı: “Tacir’in biri
+Hindistan’a gitmek üzere yol hazırlığına
+başlamış. Gerekçe: Taklit etmeye veya
+denemeye yönelten kullanım.
+DİKKAT - taklit_tesviki bağlam;
+yaş grubu ve pedagojik sunum
+açısından kontrol önerilir. Risk
+puanı: 3/5.
+vurduktan
+2
+198, 199
+Kategori: Şiddet ve Suç. Bağlam tipi:
+taklit_tesviki. Cümle: Meddah, sükûneti derin
+bir nefesle içine çektikten sonra, ince vücut
+yapısından beklenmeyecek pes ve tesirli bir
+ses tonuyla hikâyesine başladı: “Tacir’in biri
+Hindistan’a gitmek üzere yol hazırlığına
+başlamış. Gerekçe: Taklit etmeye veya
+denemeye yönelten kullanım.
+DİKKAT - taklit_tesviki bağlam;
+yaş grubu ve pedagojik sunum
+açısından kontrol önerilir. Risk
+puanı: 3/5.
+vurduğu
+5
+126, 143,
+288, 35,
+75
+Kategori: Şiddet ve Suç. Bağlam tipi: notr.
+Cümle: Aynı şekilde gündelik hayatta
+başımıza ufa cık bir can sıkıcı mesele
+gelmeyegörsün; sahip olduğumuz maddi
+manevi bütün zenginlikleri yok sayarak
+kafamızı o ayrıntıya takar, gece uykumuzun
+kaçmasına mâni olamayız.” Veli hak vererek
+gülümsedi. Gerekçe: Tam kelime bulundu;
+cümlede riski sıfırlayan açık bir bağlam yok.
+DİKKAT - notr bağlam; yaş
+grubu ve pedagojik sunum
+açısından kontrol önerilir. Risk
+puanı: 3/5.
+vurma
+5
+19, 266,
+296, 317,
+64
+Kategori: Şiddet ve Suç. Bağlam tipi: notr.
+Cümle: “Bir milyon civarı olması lazım, Musa
+dayı. Gerekçe: Tam kelime bulundu; cümlede
+riski sıfırlayan açık bir bağlam yok.
+DİKKAT - notr bağlam; yaş
+grubu ve pedagojik sunum
+açısından kontrol önerilir. Risk
+puanı: 3/5.
+
+Kelime
+Adet
+Sayfa
+Bağlam Analizi
+Değerlendirme
+vurmak
+4
+182, 39
+Kategori: Şiddet ve Suç. Bağlam tipi: notr.
+Cümle: Gala ta Kulesi’nin seyir terasını
+dolduran bir manga İngiliz bahriyelisi
+dürbünlerle gözetledikleri mücadeleye İngiliz
+marşlarıyla destek veriyor; uçurtmaları İngiliz
+ve Fransızlar tarafından düşürülüp el
+konulmuş Galata çocuklarıysa cılız sesleriyle
+Rumca sloganlar atarak hemşerilerinin tarafını
+tutuyordu. Gerekçe: Tam kelime bulundu;
+cümlede riski sıfırlayan açık bir bağlam yok.
+DİKKAT - notr bağlam; yaş
+grubu ve pedagojik sunum
+açısından kontrol önerilir. Risk
+puanı: 3/5.
+vurması
+2
+328, 49
+Kategori: Şiddet ve Suç. Bağlam tipi: notr.
+Cümle: Parmakları için merhemini götürmem
+lazım zaten. Gerekçe: Tam kelime bulundu;
+cümlede riski sıfırlayan açık bir bağlam yok.
+DİKKAT - notr bağlam; yaş
+grubu ve pedagojik sunum
+açısından kontrol önerilir. Risk
+puanı: 3/5.
+vuruyor
+2
+296, 98
+Kategori: Şiddet ve Suç. Bağlam tipi: notr.
+Cümle: “Köprü’de gördük işte; bizim
+subayların dahi eli kolu bağlı kaldı silahlı
+İngilizlerin karşısında. Gerekçe: Tam kelime
+bulundu; cümlede riski sıfırlayan açık bir
+bağlam yok.
+DİKKAT - notr bağlam; yaş
+grubu ve pedagojik sunum
+açısından kontrol önerilir. Risk
+puanı: 3/5.
+vuruş
+1
+320
+Kategori: Şiddet ve Suç. Bağlam tipi: mecazi.
+Cümle: Veli devre bitiminde sahayı terk
+etmekte olan mağrur İngi lizleri seyrederken,
+13 Kasım 1918’de Boğaz’ı yine böyle kapkara
+gölgeler halinde geçerek İstanbul halkının
+kederli bakışları ara sında şehri işgal eden
+donanmayı görür gibi oldu. Gerekçe:
+Mecazi/sembolik kullanım.
+TEMİZ - mecazi bağlam;
+raporda görünür fakat risk
+puanı 0. Risk puanı: 0/5.
+yaralanıyor
+1
+172
+Kategori: Şiddet ve Suç. Bağlam tipi: notr.
+Cümle: ” Levon, arkadaşının sözünü bölmek
+istemese de, kibarca: “Veli sen Nubar’ın mı
+yoksa Hrisantos’un mu hadisesini anlatı
+yorsun? Gerekçe: Tam kelime bulundu;
+cümlede riski sıfırlayan açık bir bağlam yok.
+DİKKAT - notr bağlam; yaş
+grubu ve pedagojik sunum
+açısından kontrol önerilir. Risk
+puanı: 3/5.
+çalma
+6
+283, 314,
+315, 332,
+333, 52
+Kategori: Şiddet ve Suç. Bağlam tipi: notr.
+Cümle: ” Veli gıpta ederek başını salladı.
+Gerekçe: Tam kelime bulundu; cümlede riski
+sıfırlayan açık bir bağlam yok.
+DİKKAT - notr bağlam; yaş
+grubu ve pedagojik sunum
+açısından kontrol önerilir. Risk
+puanı: 3/5.
+çalmak
+1
+314
+Kategori: Şiddet ve Suç. Bağlam tipi: notr.
+Cümle: Yüzündeki duru ifadeye olgun bir
+mana eklenmiş, onu özgüvenli bir kadına
+dönüştürmüştü. Gerekçe: Tam kelime
+bulundu; cümlede riski sıfırlayan açık bir
+bağlam yok.
+DİKKAT - notr bağlam; yaş
+grubu ve pedagojik sunum
+açısından kontrol önerilir. Risk
+puanı: 3/5.
+çalıyor
+5
+112, 118,
+315, 46
+Kategori: Şiddet ve Suç. Bağlam tipi: notr.
+Cümle: Tramvay çıngırakları durmadan
+çalıyor, Tercüman gazetesinin son ha
+berlerini avaz avaz sıralayan bir müvezzi
+çocuk rıhtım boyunca gidip geliyor, martılar
+Boğaz vapurunun peşinden çığlık çığlığa
+havalanıyor, sandallarındaki balıkları satıp bir
+an evvel Kumka pı’daki barakalarına dönme
+telaşındaki yorgun Ermeni balıkçılar “akşam
+pazarı” diye bağırıyordu. Gerekçe: Tam
+kelime bulundu; cümlede riski sıfırlayan açık
+bir bağlam yok.
+DİKKAT - notr bağlam; yaş
+grubu ve pedagojik sunum
+açısından kontrol önerilir. Risk
+puanı: 3/5.
+öldürme
+7
+111, 132,
+136, 138,
+149, 235,
+297
+Kategori: Şiddet ve Suç. Bağlam tipi: notr.
+Cümle: ” Son cümlesini sarf ederken sesi
+çatladı. Gerekçe: Tam kelime bulundu;
+cümlede riski sıfırlayan açık bir bağlam yok.
+DİKKAT - notr bağlam; yaş
+grubu ve pedagojik sunum
+açısından kontrol önerilir. Risk
+puanı: 3/5.
+
+Kelime
+Adet
+Sayfa
+Bağlam Analizi
+Değerlendirme
+ölü
+6
+173, 232,
+322
+Kategori: Şiddet ve Suç. Bağlam tipi: notr.
+Cümle: ” Bakışlarını gökyüzüne çevirirken:
+“İlahi adalet işte,” diye söylendi, Levon.
+Gerekçe: Tam kelime bulundu; cümlede riski
+sıfırlayan açık bir bağlam yok.
+DİKKAT - notr bağlam; yaş
+grubu ve pedagojik sunum
+açısından kontrol önerilir. Risk
+puanı: 3/5.
+ölüden
+2
+61, 69
+Kategori: Şiddet ve Suç. Bağlam tipi: notr.
+Cümle: ” Vahap, şimdi kızarmış gözlerini
+siliyor, Veli’yse yumruğunu sıkıyordu.
+Gerekçe: Tam kelime bulundu; cümlede riski
+sıfırlayan açık bir bağlam yok.
+DİKKAT - notr bağlam; yaş
+grubu ve pedagojik sunum
+açısından kontrol önerilir. Risk
+puanı: 3/5.
+ölüler
+6
+130, 15,
+67
+Kategori: Şiddet ve Suç. Bağlam tipi: notr.
+Cümle: Eğilip ceplerini aradım. Gerekçe: Tam
+kelime bulundu; cümlede riski sıfırlayan açık
+bir bağlam yok.
+DİKKAT - notr bağlam; yaş
+grubu ve pedagojik sunum
+açısından kontrol önerilir. Risk
+puanı: 3/5.
+ölüm
+16
+228, 247,
+30, 51, 65,
+69
+Kategori: Şiddet ve Suç. Bağlam tipi: notr.
+Cümle: Zaten kimler korkar da kurşundan
+kaçmaya, mevkisini terk etmeye, çarpışmak
+yerine --- SAYFA 65 --- 65 gizlenmeye
+kalkışırsa ekseriyetle onlar vurulur. Gerekçe:
+Tam kelime bulundu; cümlede riski sıfırlayan
+açık bir bağlam yok.
+RİSKLİ - notr bağlam;
+düzenleme veya açıklayıcı not
+önerilir. Risk puanı: 4/5.
+ölümcül
+2
+184, 203
+Kategori: Şiddet ve Suç. Bağlam tipi: notr.
+Cümle: Bu kez heyecanını dizginleyemeyen
+Bay Dimakis bağırdı: “Haydi çocuklar! Ya ya
+ya. Gerekçe: Tam kelime bulundu; cümlede
+riski sıfırlayan açık bir bağlam yok.
+DİKKAT - notr bağlam; yaş
+grubu ve pedagojik sunum
+açısından kontrol önerilir. Risk
+puanı: 3/5.
+ölümden
+2
+247, 65
+Kategori: Şiddet ve Suç. Bağlam tipi: notr.
+Cümle: Zaten kimler korkar da kurşundan
+kaçmaya, mevkisini terk etmeye, çarpışmak
+yerine --- SAYFA 65 --- 65 gizlenmeye
+kalkışırsa ekseriyetle onlar vurulur. Gerekçe:
+Tam kelime bulundu; cümlede riski sıfırlayan
+açık bir bağlam yok.
+RİSKLİ - notr bağlam;
+düzenleme veya açıklayıcı not
+önerilir. Risk puanı: 4/5.
+ölümü
+2
+228, 82
+Kategori: Şiddet ve Suç. Bağlam tipi: notr.
+Cümle: Ama Leonis’in annesinin ölümünün
+ardından evlerinin darmadağın olabilecek
+düzenini ayakta tutan, aklı bir karış havada iki
+erke ğin hayatlarını sağlıklı ve düzenli idame
+ettirebilmelerini temin eden de yine Madam
+Agatha’nın bu kuralcı karakteri olmuştu.
+Gerekçe: Tam kelime bulundu; cümlede riski
+sıfırlayan açık bir bağlam yok.
+DİKKAT - notr bağlam; yaş
+grubu ve pedagojik sunum
+açısından kontrol önerilir. Risk
+puanı: 3/5.
+ölümün
+4
+176, 201,
+51, 82
+Kategori: Şiddet ve Suç. Bağlam tipi: notr.
+Cümle: “Hele ki kopup giden candan bir parça
+ise, onun noksanlığıyla hayatı sürdürebilmek
+güçtür. Gerekçe: Tam kelime bulundu;
+cümlede riski sıfırlayan açık bir bağlam yok.
+DİKKAT - notr bağlam; yaş
+grubu ve pedagojik sunum
+açısından kontrol önerilir. Risk
+puanı: 3/5.
+alkol
+1
+182
+Kategori: Zararlı Alışkanlıklar. Bağlam tipi:
+taklit_tesviki. Cümle: Veli’nin uçurtması, beyaz
+ve kırmızı Fransız uçurtmalarının eşzamanlı
+hücumunda hafif bir darbe alınca, dengesini
+yitirerek irtifa kaybetmeye başladı. Gerekçe:
+Taklit etmeye veya denemeye yönelten
+kullanım.
+RİSKLİ - taklit_tesviki bağlam;
+düzenleme veya açıklayıcı not
+önerilir. Risk puanı: 4/5.
+bahsi
+1
+14
+Kategori: Zararlı Alışkanlıklar. Bağlam tipi:
+egitsel. Cümle: Babası Veli’nin okulu Numune
+i İrfan’da, coğrafya öğretmeniydi. Gerekçe:
+Eğitsel/uyarıcı kullanım risk oluşturmaz.
+TEMİZ - egitsel bağlam;
+raporda görünür fakat risk
+puanı 0. Risk puanı: 0/5.
+
+Kelime
+Adet
+Sayfa
+Bağlam Analizi
+Değerlendirme
+bar
+1
+247
+Kategori: Zararlı Alışkanlıklar. Bağlam tipi:
+notr. Cümle: Bütün bu sesler, kokular, renkler
+ve insanın ruhunu okşayan kadifemsi hava
+ona Burgaz Ada’da geçirdiği mesut yaz
+gecelerini anımsatmıştı. Gerekçe: Tam kelime
+bulundu; cümlede riski sıfırlayan açık bir
+bağlam yok.
+RİSKLİ - notr bağlam;
+düzenleme veya açıklayıcı not
+önerilir. Risk puanı: 4/5.
+barı
+3
+135, 19,
+60
+Kategori: Zararlı Alışkanlıklar. Bağlam tipi:
+notr. Cümle: ” Musa dayının bu sözleri halen
+sofrada yemeğini bitirmeye çalışan Esma’nın
+kıkırdamasına yol açtı. Gerekçe: Tam kelime
+bulundu; cümlede riski sıfırlayan açık bir
+bağlam yok.
+RİSKLİ - notr bağlam;
+düzenleme veya açıklayıcı not
+önerilir. Risk puanı: 4/5.
+bira
+1
+223
+Kategori: Zararlı Alışkanlıklar. Bağlam tipi:
+notr. Cümle: Valentina’ya Galata Köprüsü’nde
+rastladığı ilk gün hayallerin yaldızlı sicimiyle
+kalbine işlenen sevdanın bir nişanı olarak
+gördüğü bu çoraplar, bundan böyle ya Veli’nin
+dizinin dibinde ya da Valentina’nın zarif
+ayaklarında olmalıydı. Gerekçe: Tam kelime
+bulundu; cümlede riski sıfırlayan açık bir
+bağlam yok.
+BİLGİ/DÜŞÜK RİSK - notr
+bağlam; öğretmen notu ile
+izlenebilir. Risk puanı: 2/5.
+duman
+18
+105, 128,
+141, 153,
+16, 212,
+226, 237,
+252, 327,
+58, 61, 68,
+8, 83, 84
+Kategori: Zararlı Alışkanlıklar. Bağlam tipi:
+notr. Cümle: “Öyle oldu mecburen Musa dayı,”
+diye yanıtladı Veli, sesini incelterek. Gerekçe:
+Tam kelime bulundu; cümlede riski sıfırlayan
+açık bir bağlam yok.
+RİSKLİ - notr bağlam;
+düzenleme veya açıklayıcı not
+önerilir. Risk puanı: 4/5.
+esrar
+1
+278
+Kategori: Zararlı Alışkanlıklar. Bağlam tipi:
+notr. Cümle: Evet, altını bulmuşlardı. Gerekçe:
+Tam kelime bulundu; cümlede riski sıfırlayan
+açık bir bağlam yok.
+BİLGİ/DÜŞÜK RİSK - notr
+bağlam; öğretmen notu ile
+izlenebilir. Risk puanı: 2/5.
+esrarı
+1
+278
+Kategori: Zararlı Alışkanlıklar. Bağlam tipi:
+notr. Cümle: Evet, altını bulmuşlardı. Gerekçe:
+Tam kelime bulundu; cümlede riski sıfırlayan
+açık bir bağlam yok.
+BİLGİ/DÜŞÜK RİSK - notr
+bağlam; öğretmen notu ile
+izlenebilir. Risk puanı: 2/5.
+içkiler
+1
+244
+Kategori: Zararlı Alışkanlıklar. Bağlam tipi:
+notr. Cümle: Yıllardır her gün dükkânı onlarca,
+bazen yüzlerce müşteriyle dolup taşardı.
+Gerekçe: Tam kelime bulundu; cümlede riski
+sıfırlayan açık bir bağlam yok.
+RİSKLİ - notr bağlam;
+düzenleme veya açıklayıcı not
+önerilir. Risk puanı: 4/5.
+meyhane
+2
+140, 243
+Kategori: Zararlı Alışkanlıklar. Bağlam tipi:
+notr. Cümle: ” Veli, Vahap’a dostça göz kırptı.
+Gerekçe: Tam kelime bulundu; cümlede riski
+sıfırlayan açık bir bağlam yok.
+RİSKLİ - notr bağlam;
+düzenleme veya açıklayıcı not
+önerilir. Risk puanı: 4/5.
+rakı
+1
+302
+Kategori: Zararlı Alışkanlıklar. Bağlam tipi:
+mecazi. Cümle: Madam Agatha adeta taş
+kesilmişti. Gerekçe: Mecazi/sembolik
+kullanım.
+TEMİZ - mecazi bağlam;
+raporda görünür fakat risk
+puanı 0. Risk puanı: 0/5.
+
+Kelime
+Adet
+Sayfa
+Bağlam Analizi
+Değerlendirme
+sarhoş
+1
+206
+Kategori: Zararlı Alışkanlıklar. Bağlam tipi:
+egitsel. Cümle: Bu yüzden mi Alexis’in diğer
+resimlerini de merak ediyordu, Veli’nin
+anlattıklarını da üstüne koyunca onun gerçek
+bir sanatçı olduğundan emin olmuştu da bu
+nedenle mi onunla tanışma fırsatını kaçırmak
+istemiyordu, Bizanslı köklerini ararken Müs
+lüman mahallelerinin efsunlu havasıyla sarhoş
+olmuş bu yaban cıyla ortak bir ruhu
+paylaşabileceklerini mi hissediyordu, yoksa
+esasında insanları kenetleyen şu loş
+kahvehanede yaşadıkları onu saflık, iyil...
+TEMİZ - egitsel bağlam;
+raporda görünür fakat risk
+puanı 0. Risk puanı: 0/5.
+sigara
+7
+114, 135,
+210, 237,
+272
+Kategori: Zararlı Alışkanlıklar. Bağlam tipi:
+notr. Cümle: Millet çamaşırını bile bununla
+yıkayıp temizlemez mi?” Tavayı mangaldan
+kaldırıp masanın üzerindeki nihaleye oturttu.
+Gerekçe: Tam kelime bulundu; cümlede riski
+sıfırlayan açık bir bağlam yok.
+RİSKLİ - notr bağlam;
+düzenleme veya açıklayıcı not
+önerilir. Risk puanı: 4/5.
+sigarasını
+1
+18
+Kategori: Zararlı Alışkanlıklar. Bağlam tipi:
+mecazi. Cümle: Genellikle bu şekilde, oğluyla
+sohbet eder gibi bir mevzu başlatır, gözucuyla
+da herkesin kendi sini dinleyip dinlemediğini
+kontrol ederdi: “İstanbul’un nüfusu kaç?
+Gerekçe: Mecazi/sembolik kullanım.
+TEMİZ - mecazi bağlam;
+raporda görünür fakat risk
+puanı 0. Risk puanı: 0/5.
+tütün
+5
+113, 153,
+38, 60, 63
+Kategori: Zararlı Alışkanlıklar. Bağlam tipi:
+notr. Cümle: Pencere kafeslerinin
+boşluklarından içeri sızıp, loş tavan da
+oynaşan ışık huzmeleri. Gerekçe: Tam kelime
+bulundu; cümlede riski sıfırlayan açık bir
+bağlam yok.
+RİSKLİ - notr bağlam;
+düzenleme veya açıklayıcı not
+önerilir. Risk puanı: 4/5.
+4. MEB TTK Kriterleri Analizi
+Kriter
+Risk
+Durum
+Denetim Notu
+Anayasa ve Mevzuat
+Uygunluğu
+0/5
+TEMİZ - Uygun
+Risk tespit edilmedi.
+Millî Güvenlik
+0/5
+TEMİZ - Uygun
+Risk tespit edilmedi.
+Eşitlik ve Kapsayıcılık
+3/5
+UYARI - Ret
+Pedagojik ve editoryal düzeltme
+gerektirebilir.
+Millî ve Manevi Değerler
+3/5
+UYARI - Zayıf
+Pedagojik ve editoryal düzeltme
+gerektirebilir.
+Güvenli ve Etik İçerik
+2/5
+KONTROL - Uyarı
+Bağlam ve yaş grubu açısından kontrol
+önerilir.
+Bilimsel Doğruluk
+0/5
+TEMİZ - Uygun
+Risk tespit edilmedi.
+Reklam ve Ticari Unsurlar
+0/5
+TEMİZ - Temiz
+Risk tespit edilmedi.
+Dil ve Anlatım
+1/5
+BİLGİ - Dikkat
+Düşük düzeyli editoryal kontrol yeterlidir.
+MEB Uyum Puanı: 50/100 -> Bilinmiyor
+Sonuç: KOŞULLU - Kitap koşullu olarak MEB kriterlerine uygun olabilir. İşaretli bölümler
+kontrol edilmelidir.
+
+4.1 Riskli Kriterlerin Ayrıntılı Analizi
+Aşağıdaki bulgular, risk puanı alan MEB TTK kriterleri için alıntı, gerekçe ve uygulanabilir
+düzeltme önerisiyle birlikte verilmiştir.
+Dil ve Anlatım - BİLGİ (1/5)
+Kriter Açıklaması: Kaba dil, argo, hakaret, yaş grubuna uygun olmayan ifade ve anlatım
+tonu kontrol edilir.
+Risk Gerekçesi: Düşük düzeyli editoryal kontrol yeterlidir. Karar notu: Dikkat
+Sayfa
+Alıntı
+Risk Açıklaması
+Tavsiye / Düzeltme
+S. 266
+“Benim bir bakışta konuya açıklık
+getirebilecek uzmanlığa sahip
+olmadığım aşikâr.
+Bulgu 1: ahmak: Risk 3
+Risk: 3/5.
+Kaba, aşağılayıcı veya yaş
+grubuna uygun olmayan
+ifadeyi sade ve uygun bir
+dille değiştirin.
+S. 284
+İstanbul’un kuyumcularına haber
+salarak, Ermeni ç etelerinden araya
+adam koyarak, İngiliz --- SAYFA 285
+--- 285 polisine rüşvet vererek,
+olmadı dükkân dolaşıp tehditler
+savura rak şu tarihten bu yana
+Reşat altını bozduran şüpheli
+kişilerin eşkalini öğrenseler bize
+ulaşmaları pek de uzun sürmez.
+Bulgu 2: ahmak: Risk 1
+Risk: 1/5.
+Kaba, aşağılayıcı veya yaş
+grubuna uygun olmayan
+ifadeyi sade ve uygun bir
+dille değiştirin.
+S. 102
+“Musa dayımın senin bu sözlerinden
+ötürü tutuklandığı ne malum?
+Bulgu 3: eşek: Risk 3
+Risk: 3/5.
+Kaba, aşağılayıcı veya yaş
+grubuna uygun olmayan
+ifadeyi sade ve uygun bir
+dille değiştirin.
+Eşitlik ve Kapsayıcılık - UYARI (3/5)
+Kriter Açıklaması: Ayrımcı, dışlayıcı, aşağılayıcı veya nefret söylemine yaklaşan ifadeler
+kontrol edilir.
+Risk Gerekçesi: Pedagojik ve editoryal düzeltme gerektirebilir. Karar notu: Ret
+Sayfa
+Alıntı
+Risk Açıklaması
+Tavsiye / Düzeltme
+S. 197
+” Yatsı ezanının sona ermesiyle
+zayıf, kır saçlı, eski kaftanlı bir adam
+karanlıkta kalan masaların arasından
+sahneye doğru yürü meye başladı.
+Bulgu 1: nefret: Risk 5
+Risk: 5/5.
+Ayrımcı dili nötrleştirin;
+farklılıklara saygıyı
+belirginleştiren bir ifade
+ekleyin.
+S. 8
+Kamçılı İngilizler, ekose etekli
+İskoçlar, horoz tüylü şapka larıyla
+İtalyanlar, sarıklı Hint askerleri,
+Fransız ordusuna bağlı şalvarlı
+Senegalliler, gülüştükçe fırfırlı
+yakaları titreşen al yanaklı Bulgar
+kızları, sedef ve fildişi kakmalı
+tahtırevanına kurulmuş şişman bir
+Ermeni kadın, devetüyü
+Bulgu 2: şişman: Risk 5
+Risk: 5/5.
+Ayrımcı dili nötrleştirin;
+farklılıklara saygıyı
+belirginleştiren bir ifade
+ekleyin.
+S. 26
+Şişman sedefkâr teşekkür ederek
+yüzüğü cebine, iri partal ayakkabısını
+sandığa koydu.
+Bulgu 3: şişman: Risk 3
+Risk: 3/5.
+Ayrımcı dili nötrleştirin;
+farklılıklara saygıyı
+belirginleştiren bir ifade
+ekleyin.
+S. 84
+Porselenden yapılmışa benzeyen
+beyaz, biçimli elini uzatarak: “Hoş
+geldin ıstırapdaşım!
+Bulgu 4: kısa boylu: Risk
+3 Risk: 3/5.
+Ayrımcı dili nötrleştirin;
+farklılıklara saygıyı
+belirginleştiren bir ifade
+ekleyin.
+Güvenli ve Etik İçerik - KONTROL (2/5)
+
+Kriter Açıklaması: Çocuk güvenliği, zararlı alışkanlıklar, şiddet, taklit edilebilir eylem ve
+etik riskler incelenir.
+Risk Gerekçesi: Bağlam ve yaş grubu açısından kontrol önerilir. Karar notu: Uyarı
+Sayfa
+Alıntı
+Risk Açıklaması
+Tavsiye / Düzeltme
+S. 39
+Göz hizasında kaliteli bir çift deri
+çizme duruyordu.
+Bulgu 1: vurmak: Risk 1
+Risk: 1/5.
+Çocuk okur için taklit
+edilebilir ayrıntıları azaltın;
+güvenli davranış ve sonuç
+bilgisini güçlendirin.
+S. 182
+Gala ta Kulesi’nin seyir terasını
+dolduran bir manga İngiliz bahriyelisi
+dürbünlerle gözetledikleri
+mücadeleye İngiliz marşlarıyla
+destek veriyor; uçurtmaları İngiliz ve
+Fransızlar tarafından düşürülüp el
+konulmuş Galata çocuklarıysa cılız
+sesleriyle Rumca sloganlar atarak
+hemşerilerinin tarafın
+Bulgu 2: vurmak: Risk 3
+Risk: 3/5.
+Çocuk okur için taklit
+edilebilir ayrıntıları azaltın;
+güvenli davranış ve sonuç
+bilgisini güçlendirin.
+S. 39
+Göz hizasında kaliteli bir çift deri
+çizme duruyordu.
+Bulgu 3: bıçak: Risk 1
+Risk: 1/5.
+Çocuk okur için taklit
+edilebilir ayrıntıları azaltın;
+güvenli davranış ve sonuç
+bilgisini güçlendirin.
+S. 65
+Ben de bu satırları yazarken
+mevzunun bana düşündür dükleri
+hususunda gerek kendime gerekse
+sizlere karşı dürüst olmaya gayret
+edeceğim.
+Bulgu 4: bıçak: Risk 3
+Risk: 3/5.
+Çocuk okur için taklit
+edilebilir ayrıntıları azaltın;
+güvenli davranış ve sonuç
+bilgisini güçlendirin.
+S. 113
+İçerideki loş ışık nes nelere ait
+sınırları ortadan kaldırarak, bu
+ahenkli yekparelik his sini daha da
+dramatik hale getiriyordu.
+Bulgu 5: bıçak: Risk 1
+Risk: 1/5.
+Çocuk okur için taklit
+edilebilir ayrıntıları azaltın;
+güvenli davranış ve sonuç
+bilgisini güçlendirin.
+Millî ve Manevi Değerler - UYARI (3/5)
+Kriter Açıklaması: Aile, değerler, toplumsal hassasiyetler ve millî-manevi bütünlükle
+çatışabilecek anlatımlar değerlendirilir.
+Risk Gerekçesi: Pedagojik ve editoryal düzeltme gerektirebilir. Karar notu: Zayıf
+Sayfa
+Alıntı
+Risk Açıklaması
+Tavsiye / Düzeltme
+S. 10
+“Veli,” diye tekrarlarken gülümsedi
+Valentina.
+Bulgu 1: çıplak: Risk 4
+Risk: 4/5.
+Sahneyi değerleri
+zedelemeyecek biçimde
+yeniden yazın; gerekirse
+olumlu karşı davranış veya
+açıklayıcı not ekleyin.
+S. 26
+Esasında Veli daha fazla boya ve cila
+sarfiyatına sebep olan büyük
+ayaklıların daha çok para ödemesi
+gerektiği kanaatindey di.
+Bulgu 2: çıplak: Risk 4
+Risk: 4/5.
+Sahneyi değerleri
+zedelemeyecek biçimde
+yeniden yazın; gerekirse
+olumlu karşı davranış veya
+açıklayıcı not ekleyin.
+S. 50
+Bay Dimakis önce akıcı Fransızca
+sıyla madama yardımcı oldu, sonra
+da Stelyo Kalfa’yı Esma’nın ilaçlarını
+hazırlaması için arka odaya
+gönderdi.
+Bulgu 3: çıplak: Risk 4
+Risk: 4/5.
+Sahneyi değerleri
+zedelemeyecek biçimde
+yeniden yazın; gerekirse
+olumlu karşı davranış veya
+açıklayıcı not ekleyin.
+
+5. Maarif Modeli Değerlendirmesi
+Analiz Profili: MAARIF_MEB    Hedef Yaş Grubu: 15-18
+Müfettiş ve okul hassasiyeti
+Profil
+Puan
+Bulgu
+Yorum
+Adil
+5/5
+155
+Güçlü temsil ediliyor.
+Ahlaklı
+5/5
+341
+Güçlü temsil ediliyor.
+Bilge
+5/5
+56
+Güçlü temsil ediliyor.
+Cesaretli
+5/5
+49
+Güçlü temsil ediliyor.
+Estetik
+5/5
+155
+Güçlü temsil ediliyor.
+Iradeli
+5/5
+36
+Güçlü temsil ediliyor.
+Merhametli
+5/5
+112
+Güçlü temsil ediliyor.
+Sorgulayici
+5/5
+304
+Güçlü temsil ediliyor.
+Uretken
+5/5
+21
+Güçlü temsil ediliyor.
+Vatansever
+5/5
+62
+Güçlü temsil ediliyor.
+Güçlü görünen profiller: Ahlaklı (5/5), Sorgulayici (5/5), Adil (5/5), Estetik (5/5),
+Merhametli (5/5).
+Maarif profilleri genel olarak dengeli temsil edilmektedir; mevcut olumlu örneklerin metin
+boyunca korunması önerilir.
+6. Kültürel Uyum Analizi
+Kültürel Unsur
+Sayı
+Durum
+Yorum
+Türk karakter/isim ve yerel
+referans
+485
+Güçlü temsil var.
+Yerel isim, Türkçe/Anadolu referansı veya
+kültürel aidiyet izleri.
+Batı karakter/isim
+1
+Nötr bilgi; bağlama
+göre değerlendirilir.
+Batı kaynaklı isim/referanslar tek başına risk
+değildir; metindeki kültürel denge için izlenir.
+Coğrafi referans (Türkiye)
+53
+Güçlü temsil var.
+Türkiye şehirleri, Anadolu veya tarihî-coğrafi
+bağlam görünürlüğü.
+İslami/kültürel referans
+127
+Güçlü temsil var.
+Dinî/kültürel pratik ve sembollerin yaş grubuna
+uygun görünürlüğü.
+Değer ifadeleri
+132
+Güçlü temsil var.
+Aile, vatan, millet, bayrak, saygı, sorumluluk,
+erdem ve ahlak temaları.
+Kültürel Uyum Puanı: 80/100 -> [Uygun] Yüksek uyum
+Sonuç: Metin kültürel aidiyet, değer görünürlüğü ve yerel bağlam açısından güçlü bir
+uyum göstermektedir. Türk/yerel referanslar Batı referanslarından daha görünür.
+Geliştirme Önerileri:
+- Mevcut kültürel temsil korunabilir; değerler metin boyunca dengeli ve doğal biçimde
+sürdürülmelidir.
+
+
+7. Sonuç ve Öneriler
+KARAR: YAYINA UYGUN DEĞİLDİR
+Gerekçe: Tam kelime kontrolü ve bağlam analizi sonucunda 450 bulgu rapora alınmış,
+bunların 370 tanesi risk puanı 0'ın üzerinde değerlendirilmiştir. Analiz profili:
+MAARIF_MEB.
+Problemli bağlamlar ve genel risk seviyesi nedeniyle metin mevcut haliyle yayın denetimi
+açısından uygun değildir. Kapsamlı revizyon ve yeniden değerlendirme gerekir.
+Değerlendirme Alanı
+Sonuç
+Karara Etkisi
+Genel Risk Skoru
+60.04/100
+Yayın kararı için ana eşik değerdir.
+Sakıncalı Kelime ve Bağlam
+450 bulgu; 370 problemli
+bağlam
+Risk puanı 0 olanlar izlenir; problemli bağlamlar revizyon
+listesine alınır.
+MEB TTK Uyum
+0/100 - Bilinmiyor
+MEB kriterlerinde koşullu/ret alan başlıklar öncelikli
+kontrol edilir.
+Maarif Modeli
+10 aktif profil izi
+Öğrenci profili değerlerinin dengeli temsil edilip
+edilmediğini gösterir.
+Kültürel Uyum
+80/100 - [Uygun] Yüksek
+uyum
+Yerel bağlam, değer görünürlüğü ve kültürel dengeyi
+destekleyici ölçüttür.
+Öncelikli Aksiyon Planı:
+- Metin yayın sürecine alınmadan önce kapsamlı içerik revizyonundan geçirilmelidir.
+- Yüksek riskli bulgular pedagojik uzman ve editör görüşüyle yeniden değerlendirilmelidir.
+- MEB TTK ret/yüksek risk başlıkları giderilmeden olumlu yayın kararı verilmemelidir.
+- Revizyon tamamlanmadan uygunluk kararı verilmemelidir.
+Öncelikli Kontrol Başlıkları:
+- Ayrımcılık ve Nefret: 6 bulgu, ortalama risk 3.50/5. İlgili cümleler yaş grubu (15-18) ve
+bağlam açısından yeniden okunmalıdır.
+- Cinsellik ve Mahremiyet: 50 bulgu, ortalama risk 3.08/5. İlgili cümleler yaş grubu (15-18)
+ve bağlam açısından yeniden okunmalıdır.
+- Zararlı Alışkanlıklar: 45 bulgu, ortalama risk 2.40/5. İlgili cümleler yaş grubu (15-18) ve
+bağlam açısından yeniden okunmalıdır.
+- Olumsuz Davranış: 5 bulgu, ortalama risk 2.40/5. İlgili cümleler yaş grubu (15-18) ve
+bağlam açısından yeniden okunmalıdır.
+- Şiddet ve Suç: 283 bulgu, ortalama risk 2.28/5. İlgili cümleler yaş grubu (15-18) ve
+bağlam açısından yeniden okunmalıdır.
+Tespit Edilen Sorunlarla İlgili Öneriler:
+- Cinsel içerik kaldırılmalı veya çocuğun yaş grubuna uygun şekilde yumuşatılmalıdır.
+Mahrem konular dikkatli ve eğitici bir şekilde işlenmelidir.
+- Şiddetçi ve suç içeriğinin azaltılması veya çıkarılması gerekir. Özellikle detaylı şiddet
+tasvirleri duyarlı yaşta çocuklara olumsuz etki yapabilir.
+ Rapor Tarihi: 10.06.2026 10:43
+ 

@@ -1,0 +1,453 @@
+SAKINÇALI İÇERİK TARAMA RAPORU
+Yayın Denetim Birimi — v2.0
+1. Kitap Bilgileri
+Alan
+Bilgi
+Kitap Adı
+Veli — İşgal İstanbul'unda Rüzgârını Arayan Bir Uçurtma
+Yazar
+Tolga Gümüşay
+Yayınevi
+Altın Kitaplar Yayınevi / Larus Yayınevi
+Basım
+1. Basım, Mart 2022, İstanbul
+ISBN
+978-975-21-2720-3
+Toplam Sayfa
+336
+Tür
+Tarihi Roman (Lise Okuma Kitabı)
+Ders/Alan
+Türk Dili ve Edebiyatı / Okuma Kitabı
+Konu
+Mütareke ve İşgal dönemi İstanbul'unda (1918-1922) boyacı Veli'nin çok kültürlü arkadaşlıkları ve Millî Mücadele sürecindeki olgunlaşma hikâyesi
+İllüstrasyon
+Sıtkı Görçiz (İç illüstrasyon yok — yalnızca kapak görseli ve yayınevi logosu)
+Tarama Kapsamı
+Tam metin taraması + Görsel analiz (336 sayfa, 635.524 karakter)
+Rapor Tarihi
+05.04.2026
+2. Genel Değerlendirme
+Değerlendirme Alanı
+Sonuç
+Sakıncalı Kelime Taraması
+7 adet DİKKAT gerektiren bulgu; 14 kategori temiz; 24 yanlış pozitif türü belgelenmiştir
+Görsel/Figür Taraması
+3 görsel (kapak + yayınevi logosu). İç illüstrasyon bulunmamaktadır. Kapak temizdir.
+Kültürel Uyum
+ÇOK GÜÇLÜ — Tamamı İstanbul'da geçen, Osmanlı/Milli Mücadele temalı, Türk-İslam değerleri dokusuna işlenmiş eser
+Maarif Modeli Uyumu
+10 profilden 6'sı İYİ, 3'ü KISMİ, 1'i ZAYIF — Vatansever, Ahlaklı, Merhametli profilleri çok güçlü
+MEB TTK Kriterleri
+Tüm kriterler karşılanmaktadır. Kriter 1.7 (reklam) kapsamında yayınevi logosu dışında marka tespit edilmemiştir.
+Batı Kültürü Etkisi
+DÜŞÜK — Batılı kültür unsurları yalnızca işgal kuvvetlerinin tasviri bağlamında yer almaktadır
+İslami Hassasiyet
+Cami (6), ezan (7), namaz (4), abdest (4), Kuran (5), Ramazan, bayram referansları güçlü
+Karakter İsim Dengesi
+Türk 132 / Batılı 5 — Ezici Türk çoğunluğu. Rum, Ermeni, Yahudi karakterler dönemin çok kültürlü yapısını yansıtmaktadır.
+Bilim İnsanı Dengesi
+Hermann Hesse (edebiyat alıntısı). Bilimsel bağlamda bilim insanı referansı yoktur.
+KARAR: 🔄 DÜZELTMELERLE YAYINA UYGUNDUR
+Alkol/sigara tasvirlerinin dönem bağlamında değerlendirilmesiyle birlikte, öğretmen rehberliğinde 9-12. sınıflara uygundur. Kültürel uyum ve Maarif Modeli uyumu güçlüdür.
+3. Sakıncalı Kelime Taraması
+Proje bilgi tabanındaki sakıncalı kelimeler/figürler listesine göre 336 sayfalık tam metin taraması yapılmıştır. 157 adet kelime eşleşmesi tespit edilmiş, bunların bağlam analizi aşağıda sunulmaktadır.
+Anahtar Kelime
+Adet
+Sayfa
+Bağlam Analizi
+Değerlendirme
+alkol
+1
+s.182
+Fransız terasında parti sahnesi: "Alkol seviyesiyle birlikte kahkahalar da yükseliyor." İşgalci Fransız askerleri arasında.
+⚠️ DİKKAT — İşgalcilerin olumsuz tasviri bağlamında. Alkol tüketimi doğrudan anlatılmaktadır.
+sigara
+8
+s.17,19,113,134,151,209,236,271
+Musa dayı, Pes ve diğer dönem karakterleri sigara sarmakta/içmektedir. Osmanlı döneminde yaygın kültürel alışkanlık.
+⚠️ DİKKAT — Dönem gerçekçiliği bağlamında sık sigara kullanımı. Öğretmen notu önerilir.
+meyhane
+2
+s.139, 241
+s.139: Musa dayı meyhaneleri ELEŞTİRMEKTE ("her gün meyhaneler feslilerle dolu"). s.241: Bay Dimakis hayatını sorgulama sahnesi.
+⚠️ DİKKAT — s.139 olumsuz bağlam (eleştiri), s.241 olumsuz ruh hali sahnesi.
+kadeh
+1
+s.161
+Taksim Bahçesi'ndeki alafranga topluluk: kadeh ve fincanları zarifçe kaldırıyorlar. İşgal döneminde Pera sosyetesi.
+⚠️ DİKKAT — İşgal ortamının tasviri, olumsuz bağlamda sunulmaktadır.
+bar / kafeşantan
+1
+s.247
+Büyük Pera Caddesi tasviri: "bar ve kafeşantanlardan müzikle karışık kahkaha sesleri." Dönemin Beyoğlu atmosferi.
+⚠️ DİKKAT — Dönem tasviri, işgal altındaki İstanbul'un eğlence hayatını yansıtmaktadır.
+içki
+1
+s.243
+Bay Dimakis'in iç hesaplaşması: "aynı meze ve içkileri paylaşmayı seviyordu." Rum karakterin perspektifi.
+BİLGİ — Çok kültürlü yaşamın doğal tasviri.
+sarhoş
+3
+s.148,161,206
+Tümü mecazi kullanım: "manzara sarhoşluğu" (s.148), "zafer sarhoşu" (s.161), "efsunlu havasıyla sarhoş" (s.206).
+TEMİZ — Tüm kullanımlar mecazi/edebi anlamdadır.
+taciz
+1
+s.33
+Süleyman Nazif bölümü: İşgal güçlerinin halkı taciz etmesi anlatılmaktadır.
+TEMİZ — Siyasi/askeri bağlam, cinsel içerik değil.
+tecavüz
+2
+s.61, 132
+s.61: İşgal döneminde "türlü tecavüz ve ihanetler" — hak ihlalleri anlamında. s.132: Savaşın insanları komşusuna tecavüze itişi — felsefi bağlam.
+BİLGİ — Askeri/felsefi bağlamda "hak ihlali, saldırı" anlamında kullanılmıştır.
+mahrem
+3
+s.103,121,123
+s.103: Aile mahremiyeti. s.121: Kapı ardındaki mahremiyetler. s.123: Veli'nin tablakâr Levon'a kadınların "çıplak kolları, bacakları" hakkında soru sorması.
+⚠️ DİKKAT — s.123'te ergenlik merakı bağlamında kadın bedenine atıf yapılmaktadır.
+çıplak
+12
+s.9,10,25,27,49,55,73,76,95,123,220,268
+11 kullanım "çıplak ayak" — Veli'nin yoksulluğunu simgeler. s.123: "Kolları, bacakları, hatta göğüsleri bile çıplak olabilir" — Levon'un tablakârlık anlatımı.
+TEMİZ (11/12) — Çıplak ayak yoksulluk metaforu. s.123: DİKKAT — kadın bedeni tasviri.
+ulan
+2
+s.116, 117
+Musa dayı oğlu Vahap'a: "Ulan eşşek sıpaları!" ve "Ulan velet." Dönemin otoriter baba figürü ağzı.
+⚠️ DİKKAT — Kaba hitap, dönem gerçekçiliği ama lise öğrencisi için olumsuz model.
+küfür
+4
+s.8,126,151,165
+s.8: Veli küfür savuruyor (küfür yazılmamış). s.126: Mevlâna alıntısı — "küfür olmadan din olmaz." s.151: Rusça küfürler. s.165: Çocukların kavgası.
+BİLGİ — Küfür metni doğrudan yazılmamış, ima yoluyla verilmiştir.
+köle / cariye
+6
+s.198-202
+Meddah gösterisi sahnesi: Bir tacirin köle ve cariyeleriyle olan hikâyesi anlatılmaktadır. Osmanlı dönemine ait edebi anlatım.
+BİLGİ — Tarihi/edebi bağlam. Meddah geleneği Osmanlı kültür mirası olarak sunulmaktadır.
+silah (şiddet)
+~36
+s.90,132,276-283 vd.
+Büyük çoğunluk Kurtuluş Savaşı ve Milli Mücadele bağlamında. Kuvayı Milliye silah saklama, işgal kuvvetlerine karşı direniş.
+BİLGİ — Müfredat uyumlu tarihsel bağlam. Milli Mücadele anlatısının zorunlu unsuru.
+kilise / haç / papaz / istavroz / patrik
+~12
+s.8,68,85,171,219,277,310
+İşgal İstanbul'unun çok dinli yapısı: Saint Benoit okulu, Fener Patrikhanesi, Rum-Ermeni-Türk birlikteliği.
+BİLGİ — Dönemin çok kültürlü İstanbul gerçekliği. Hiçbiri İslam'dan uzaklaştırıcı değil.
+gülen
+1
+s.13
+"öyle tatlı gülen" — gülümseme anlamında.
+TEMİZ — FETÖ bağlamı yok, fiil olarak kullanılmıştır.
+cemaat
+2
+s.163, 310
+s.163: Dinin cemaat üzerindeki etkisi. s.310: Rum Ortodoks cemaati ve Patrik olayları.
+BİLGİ — Tarihsel bağlam, FETÖ ile ilişkisi yoktur.
+sihir / büyü
+1 gerçek
+s.332
+"Sihir, yani sihir, büyü filan gibi bir anlama geliyor" — kelimenin etimolojik açıklaması.
+TEMİZ — Meta-dilsel kullanım.
+cadı
+1
+s.242
+"cadı avına dönebilirdi" — mecazi kullanım, toplumsal baskı anlatımı.
+TEMİZ — Mecazi kullanım.
+fare
+1
+s.166
+"fare deliğinde ne kadar dayanabilirdim" — dar yer metaforu.
+TEMİZ — Mecazi kullanım, figür değil.
+yılan
+2
+s.158, 226
+s.158: "yayılan müzik" (alt dize). s.226: "koynumuzda yılan beslemişiz" — deyim.
+TEMİZ — Deyim ve alt dize.
+darbe
+5
+s.182,190,195,239,316
+Tüm kullanımlar "fiziksel darbe, vuruş" anlamında. Siyasi darbe anlamı yoktur.
+TEMİZ — Fiziksel anlam.
+karma
+4
+s.146,313,316,319
+Tüm kullanımlar "karma takım" (mixed team) — futbol maçı bağlamı.
+TEMİZ — Spor terimi.
+TEMİZ: 14 kategori temiz çıkmıştır (Alkol-EN, Cinsel-EN, Dikkat-EN, Dini-DE, Hakaret-EN, Hassas Terim, Hassas-EN, Kumar, Kumar-EN, LGBT, Okültizm-DE, Siyasi-EN, Yasaklı Figür-DE, Yasaklı Figür-EN).
+Yanlış Pozitif Tablosu (Müfettiş Savunma Belgesi)
+Tarama sırasında tespit edilen yanlış pozitifler aşağıda belgelenmiştir. Bu tablo, müfettiş denetimine karşı taramanın kapsamlılığını kanıtlar niteliktedir.
+Kelime
+Alt Dize
+Örnek Kaynak
+Durum
+büyü
+140
+büyük, büyüme, büyüteç, büyüklüğü
+Yanlış Pozitif
+cin
+45
+güvercin, cinsinden, öğrencinin, sürecinde
+Yanlış Pozitif
+bira
+91
+biraz, bırakır, bırakıl
+Yanlış Pozitif
+rakı
+52
+bırakıp, bırakılma, bırakınca
+Yanlış Pozitif
+kan
+223
+çalışkan, ısıtkan, kanun, volkanik, kanıt
+Yanlış Pozitif
+kola
+46
+kolaçan ederek, kol kola
+Yanlış Pozitif
+gay
+40
+gayrimüslim, gayret, gayri
+Yanlış Pozitif
+peri
+6
+perişan
+Yanlış Pozitif
+fal
+37
+faltaşı, falan, faaliyetler
+Yanlış Pozitif
+bar
+108
+Burçin Baran, itibar, baraj
+Yanlış Pozitif
+rom
+22
+roman, krom, romantik
+Yanlış Pozitif
+sol
+81
+solumak, soluk, solgun
+Yanlış Pozitif
+nun
+414
+onun, bunun, şunun, imparatorluğun
+Yanlış Pozitif
+ham
+53
+Osman Hamdi, hamam, hamal
+Yanlış Pozitif
+deli
+86
+delikanlı, delil
+Yanlış Pozitif
+lan
+802
+toplanmış, olan, alan, plan
+Yanlış Pozitif
+mad
+367
+farkında olmadan, madde
+Yanlış Pozitif
+bet
+115
+isabetli, şiddetli
+Yanlış Pozitif
+rat
+95
+imparatorluk, savaşlar
+Yanlış Pozitif
+hac
+19
+muhacir, hacim
+Yanlış Pozitif
+isa
+49
+isabetli
+Yanlış Pozitif
+maya
+465
+susmayan, kalmayan
+Yanlış Pozitif
+gun
+53
+kuzguni, piyanosu (uygun)
+Yanlış Pozitif
+gin
+84
+ezginin, kasvetli
+Yanlış Pozitif
+3.1 Eksiklik Analizi
+Unsur
+Açıklama
+Müfettiş Riski
+Türk-İslam Bilim İnsanı
+Romanda bilimsel bağlamda Türk-İslam bilim insanı referansı yoktur. Hesse alıntısı yabancı edebiyat etkisi olarak değerlendirilebilir.
+Düşük (roman türü)
+Kadın Karakter Temsili
+Valentina (Beyaz Rus), Ayşe Hanım (Veli'nin annesi), Esma (kardeş), Müzeyyen Yenge mevcut. Başörtülü kadın figürü doğrudan tasvir edilmemektedir.
+Düşük (metin, görsel yok)
+4. MEB TTK Kriterleri Analizi
+Kriter 1.1 — Anayasa ve Mevzuat Uygunluğu ✅ UYUMLU
+Eser, Türkiye Cumhuriyeti'nin kuruluş sürecini ve Millî Mücadele'yi öven bir çerçevede kaleme alınmıştır. Mustafa Kemal referansları (s.316 Harrington Kupası bölümü), İstiklal kavramı ve Türk bayrağı göndermesi mevcuttur. Anayasal değerlerle çelişen herhangi bir unsur tespit edilmemiştir.
+Kriter 1.2 — Millî Güvenlik ✅ UYUMLU
+Roman, işgal güçlerine karşı direniş ve Kuvayı Milliye faaliyetlerini (s.276-283: silah saklama, Millî Mücadele'ye destek) destekler nitelikte olup millî güvenlik değerlerini pekiştirmektedir.
+Kriter 1.3 — Eşitlik ve Kapsayıcılık ✅ UYUMLU
+Farklı din ve etnik kökenden karakterler (Türk, Rum, Ermeni, Yahudi, Beyaz Rus) saygılı bir birliktelik içinde tasvir edilmektedir. Dönemin sosyal eşitsizlikleri (yoksulluk, sınıf farkları) eleştirel bir bakışla işlenmiştir. Cinsiyet eşitliği açısından kadın karakterler sınırlı ama dönem koşullarına uygun temsil edilmektedir.
+Kriter 1.4 — Millî ve Manevi Değerler ✅ UYUMLU
+Eserin en güçlü boyutu budur. Cami, ezan, namaz, abdest, Kuran, Ramazan, bayram referansları zengindir. Osmanlı mirası, Anadolu coğrafyası, İstanbul sevgisi, aile bağları, komşuluk ilişkileri, büyüklere saygı, yoksullarla dayanışma romanın ana temasını oluşturmaktadır. Musa dayının dini ve ahlaki öğütleri kitap boyunca güçlü bir manevi değerler katmanı sunmaktadır.
+Kriter 1.5 — Güvenli ve Etik İçerik ⚠️ KOŞULLU UYUMLU
+Alkol tüketimi (s.182: parti, s.247: bar/kafeşantan), sigara içimi (8 farklı sayfa), şiddet sahneleri (savaş bağlamı) ve kaba dil ("ulan") dönem gerçekçiliği çerçevesinde sunulmaktadır. Bunlar yüceltilmemekte, aksine eleştirilmektedir (s.139: Musa dayının meyhane eleştirisi). Ancak lise düzeyinde öğretmen rehberliği önerilir.
+Kriter 1.6 — Bilimsel Doğruluk ✅ UYUMLU
+Tarihsel olaylar (Mütareke dönemi, İstanbul'un işgali, Kuvayı Milliye, Fener Patrikhanesi olayları, Harrington Kupası) gerçek tarihsel kayıtlarla uyumludur.
+Kriter 1.7 — Reklam ve Ticari Unsurlar ✅ UYUMLU
+Eserde ticari marka, QR kod veya dış bağlantı bulunmamaktadır. Yayınevi logosu (Altın Kitaplar) yalnızca künye sayfasında yer almaktadır. Hermann Hesse kitap adı edebi referans olarak geçmektedir, ticari nitelik taşımamaktadır.
+5. Görsel ve Figür Taraması
+336 sayfalık kapsamda toplam 3 görsel elemanı tespit edilmiştir: 1 kapak görseli (tipografik tasarım — "VELİ" başlığı, alt başlık ve yazar adı), 1 yayınevi logosu (Altın Kitaplar) ve 1 dar şerit görsel (dekoratif). Eserde iç illüstrasyon, fotoğraf, tablo veya grafik bulunmamaktadır.
+Kapak görseli incelenmiştir: Sade siyah-beyaz tipografi. "İşgal İstanbul'unda rüzgârını arayan bir uçurtma:" alt başlığı ile kitabın teması belirginleştirilmiştir. Sakıncalı unsur tespit edilmemiştir.
+Görsel Temsil Kontrol Listesi
+Görsel Unsur
+Durum
+Not
+Tesettürlü kadın figürü
+—
+İç illüstrasyon yoktur. Metin içinde Ayşe Hanım muhafazakâr bir Müslüman anne olarak tasvir edilmektedir.
+Cami / Minare
+✅ Metinde
+Cami (6 kez), minare (2 kez), ezan (7 kez) — güçlü İslami referanslar.
+Türk coğrafyası
+✅ Çok güçlü
+İstanbul: Eminönü, Sultanahmet, Galata, Beyoğlu, Kadıköy, Sarıyer, Büyükdere + Anadolu (30 kez).
+Türk bayrağı
+✅ Var
+"Türk bayrağı" ifadesi metinde geçmektedir (s.195 civarı).
+İslam medeniyeti referansı
+✅ Güçlü
+Osmanlı (18), Kuran (5), Ramazan, bayram (6), abdest (4), namaz (4), Meddah geleneği.
+Aile değerleri / sofrası
+✅ Güçlü
+Musa dayı-Vahap baba-oğul ilişkisi, Ayşe Hanım-Veli-Esma ailesi, komşuluk dayanışması.
+Büyüklere saygı / yaşlı temsili
+✅ Güçlü
+Musa dayının otoriter ama sevecen figürü, Kemal Bey'e hürmet, büyük-küçük ilişkisi.
+Müstehcen / açık kıyafet
+✅ YOK
+İllüstrasyon yok. Kapak sade tipografi tasarımıdır.
+Alkol / sigara görseli
+✅ YOK
+Görsel yok. Metinde alkol/sigara mevcut (bkz. Bölüm 3).
+Domuz / fare / sıçan görseli
+✅ YOK
+Görsel yok. "Fare" kelimesi mecazi (bkz. Bölüm 3).
+Ticari marka / logo
+✅ YOK
+Yayınevi logosu dışında marka tespit edilmemiştir.
+QR kod / harici bağlantı
+✅ YOK
+QR kod veya URL bulunmamaktadır.
+6. Kültürel Uyum ve Maarif Modeli Değerlendirmesi
+6.1 Kültürel Uyum Analizi
+Kategori
+Bulgu
+Değerlendirme
+Müfettiş Riski
+Karakter İsimleri
+Türk: 132 (Veli, Mustafa, Musa, Vahap, Ayşe, Esma, Mehmet, Ahmet vd.) / Batılı-Azınlık: ~15 (Leonis, Levon, Dimakis, Valentina, Alexis vd.)
+Ezici Türk çoğunluğu. Azınlık isimleri dönemin çok kültürlü yapısını yansıtmaktadır.
+Çok Düşük
+Coğrafi Referanslar
+İstanbul (tüm kitap), Anadolu (30), Ankara (3), Çanakkale, İmroz, Sakarya + Beyoğlu, Galata, Eminönü, Sultanahmet, Kadıköy, Sarıyer
+Tamamı Türk coğrafyası. İstanbul'un tarihsel derinliği çok zengin.
+Çok Düşük
+Kültürel Referanslar
+Meddah geleneği, boya sandığı, tombala, karagöz-hacivat çağrışımı, mahalle kültürü, çay-sohbet, bayram ziyareti
+Osmanlı/Türk kültür mirası dokusuna işlenmiş.
+Yok
+Değerler / Ahlak
+Dostluk, sadakat, cesaret, merhamet, vatan sevgisi, büyüklere saygı, yoksullarla dayanışma, dürüstlük
+Maarif Modeli erdem-değer-eylem çerçevesiyle güçlü uyum.
+Yok
+Dini / Manevi
+Cami (6), ezan (7), namaz (4), abdest (4), Kuran (5), Ramazan, bayram (6), şehit, dua
+İslami referanslar romanın doğal dokusunda. Musa dayının öğütleri manevi boyut katmaktadır.
+Yok
+Bilim İnsanları
+Hermann Hesse (edebiyat alıntısı — bilim insanı değil)
+Bilimsel bağlamda bilim insanı referansı yok. Roman türü itibarıyla beklenen bir durum.
+Düşük
+6.2 Batı Kültürü Etki Analizi
+Eserde Batı kültürü unsurları (Fransız partisi, bar/kafeşantan, Hesse alıntısı, Saint Benoit okulu) yalnızca işgal güçlerinin veya dönemin kozmopolit ortamının tasviri bağlamında yer almaktadır. Bu unsurlar yüceltilmemekte, aksine Türk halkının yoksulluğu ve direnciyle kontrastlı olarak sunulmaktadır. Musa dayının meyhane eleştirisi (s.139) ve romanın genel tonunda Türk-İslam değerlerinin öne çıkarılması, Batı kültürü etkisini doğal olarak dengelemektedir.
+Etki Alanı
+Tespit
+Öğrenciye Mesaj
+Öneri
+İşgalci Yaşam Tarzı
+Fransız partisi (s.182), Pera Caddesi bar/kafeşantan (s.247), kadeh sahnesi (s.161)
+İşgalcilerin sefahat düşkünlüğü OLUMSUZ çerçevede sunulmuştur. Yerli halkla kontrast belirgindir.
+Ek açıklama gerekmez. Metin kendisi eleştirel perspektif sunmaktadır.
+Hesse Alıntısı
+s.132: Hermann Hesse şiir alıntısı
+Evrensel barış ve hayatı değerlendirme mesajı. Batı normalleştirmesi niteliği taşımamaktadır.
+Öğretmen Mevlâna, Yunus Emre paralelleri kurabilir.
+Saint Benoit Okulu
+s.171-173: Fransız okulu referansı
+Dönemin eğitim kurumları arasında tarihsel gerçeklik.
+Öğretmen Darülfünun, Galatasaray Mekteb-i Sultanisi ile dengeleyebilir.
+6.3 Maarif Modeli Öğrenci Profili Uyumu
+Profil
+Değerlendirme
+Uyum
+Ahlaklı
+Musa dayının ahlak öğütleri, Veli'nin dürüstlüğü, dostluk bağları, yoksullarla paylaşım (s.226: köfteyi muhtaç babaya bırakma)
+İYİ
+Bilge
+Meddah'ın hikmet dolu anlatıları, Mevlâna referansları (s.126), tarihsel farkındalık, çok perspektifli düşünce
+İYİ
+Cesaretli
+Kuvayı Milliye silah saklama (s.276-283), işgale karşı direniş ruhu, Veli'nin zorluklara göğüs germesi
+İYİ
+Estetik
+İstanbul tasviri, mimari detaylar, müzik sahneleri (s.236), edebiyat alıntıları, kapak tasarımı
+KISMİ
+İradeli
+Veli'nin yoksulluğa rağmen ayakta durması, boyacılıkla geçimini sağlaması, ailesine sahip çıkması
+İYİ
+Merhametli
+Veli'nin sahildeki muhtaç aileye yardımı (s.226), farklı kökendeki insanlara empati, hayvan sevgisi
+İYİ
+Sağlıklı
+Esma'nın hastalığı anlatılmış ancak sağlıklı yaşam vurgusu zayıf. Sigara kullanımı olumsuz model oluşturabilir.
+ZAYIF
+Sorgulayıcı
+Veli'nin savaş, adalet, kimlik, aidiyet sorgulamaları; Leonis'le felsefi diyaloglar; "Neden savaşıyoruz?" sorusu
+İYİ
+Üretken
+Veli'nin boyacılık mesleği, el emeği vurgusu, tablakârlık, el sanatları atıfları
+KISMİ
+Vatansever
+Millî Mücadele, Kuvayı Milliye, işgale direnç, Mehmetçik, İstiklal, Türk bayrağı, "şehit" kavramı, Anadolu sevgisi
+İYİ
+Genel değerlendirme: 10 profilden 7'si İYİ (Ahlaklı, Bilge, Cesaretli, İradeli, Merhametli, Sorgulayıcı, Vatansever), 2'si KISMİ (Estetik, Üretken), 1'i ZAYIF (Sağlıklı). Romanın en güçlü boyutları vatanseverlik, ahlaki olgunlaşma ve sorgulayıcı düşüncedir.
+7. Sonuç ve Öneriler
+7.1 Zorunlu Düzeltmeler (Yüksek Öncelik)
+Zorunlu düzeltme gerektiren unsur tespit edilmemiştir. Romandaki tüm hassas içerikler (alkol, sigara, şiddet, kaba dil) tarihsel bağlam içinde ve eleştirel perspektifle sunulmaktadır.
+7.2 Önerilen Düzeltmeler (Orta Öncelik)
+1. Kitabın ön veya arka kapak iç sayfasına, eserin Mütareke ve İşgal dönemi İstanbul'unu anlattığına dair bir "Yayıncı Notu" eklenmesi önerilir. Bu not, dönem koşullarının (alkol, sigara, şiddet, kaba dil) bugünkü değerlerle değil tarihsel bağlamda değerlendirilmesi gerektiğini vurgulayabilir.
+2. s.123'teki "mahrem" tasvir (Levon'un tablakârlık anlatısında kadın bedenine atıf) için öğretmen kılavuzunda bu bölümün sınıfta nasıl ele alınacağına dair yönlendirme eklenmesi düşünülebilir.
+7.3 İsteğe Bağlı Geliştirmeler (Düşük Öncelik)
+1. Kitabın sonuna bir "Tarihsel Sözlük" veya "Dönem Haritası" eklenerek öğrencinin metni daha iyi anlaması sağlanabilir.
+2. "Okuma Kılavuzu" bölümünde Maarif Modeli profilleriyle eşleşen tartışma soruları sunulabilir.
+7.4 Öğretmen İçin Ek Materyal Önerileri
+Bu kitabı kullanırken öğretmenin sınıfta dengeleyici olarak ekleyebileceği unsurlar:
+• Türk-İslam bilgeliği paralelleri: Leonis'in Hesse alıntısını (s.132) Mevlâna'nın "Gel, ne olursan ol yine gel" ve Yunus Emre'nin barış şiirleriyle karşılaştırma.
+• Meddah geleneğinin Türk kültür mirasındaki yeri: Evliya Çelebi Seyahatnamesi'nden meddah anlatıları.
+• Sağlıklı yaşam tartışması: Dönemin sigara kullanımı ile günümüz sağlık bilinci karşılaştırması.
+• İstanbul'un çok kültürlü mirası: Osmanlı millet sistemi, hoşgörü geleneği, Fatih Sultan Mehmed'in fermanı.
+• Millî Mücadele bağlamı: Kuvayı Milliye (s.276-283) ile Sakarya Meydan Muharebesi, Büyük Taarruz dönem karşılaştırması.
+• Vatan sevgisi ve aidiyet: Romanın "İşgal İstanbul'unda rüzgârını arayan uçurtma" metaforu üzerinden Türk gençliğinin özgürlük ve kimlik arayışı tartışması.
+────────────────────────────────────────────────────────────
+Hazırlayan: Yayın Denetim Birimi  |  Tarih: 05.04.2026
+Onaylayan: _________________________  |  Tarih: __.__.____

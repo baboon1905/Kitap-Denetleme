@@ -1,0 +1,24 @@
+[
+  {
+    "pattern_id": "theme_adventure",
+    "category": "theme",
+    "status": "active",
+    "raw_confidence": 0.55,
+    "calibrated_confidence": 0.59,
+    "evidence_count": 2,
+    "source": "summary_ir.themes",
+    "algorithm_version": "monitor-v1",
+    "match_snippet": "Macera dolu bir hikaye."
+  },
+  {
+    "pattern_id": "theme_friendship",
+    "category": "theme",
+    "status": "active",
+    "raw_confidence": 0.65,
+    "calibrated_confidence": 0.68,
+    "evidence_count": 1,
+    "source": "semantic.theme_clusters",
+    "algorithm_version": "monitor-v1",
+    "match_snippet": "Dostluğun önemi vurgulanır."
+  }
+]

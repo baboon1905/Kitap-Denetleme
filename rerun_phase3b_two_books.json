@@ -1,0 +1,73 @@
+{
+  "mode": "V7_SUMMARY_IR_SOURCE=true",
+  "books": [
+    {
+      "book": "Büyülü Yastıklar",
+      "pdf_path": "C:\\Users\\fatih\\Masaüstü\\Kitap Değerlendirme\\kitap-degerlendirme-app\\uploads\\buyulu_yastiklar.pdf",
+      "analiz": {
+        "status": 200,
+        "body": null,
+        "surface_consistency": true,
+        "canonical_summary_ir_hash": "c9d18fc618f25374b86d9f325a88b3b98b0fc7e24c29151ab15dae42bb1e49f3",
+        "summary_ui_hash": "c9d18fc618f25374b86d9f325a88b3b98b0fc7e24c29151ab15dae42bb1e49f3",
+        "summary_pdf_hash": "c9d18fc618f25374b86d9f325a88b3b98b0fc7e24c29151ab15dae42bb1e49f3",
+        "teacher_summary_hash": "c9d18fc618f25374b86d9f325a88b3b98b0fc7e24c29151ab15dae42bb1e49f3",
+        "summary_source_function": "canonical_summary_ir"
+      },
+      "endpoints": {
+        "rapor_pdf": {
+          "status": 200,
+          "ok": true,
+          "content_type": "application/pdf",
+          "short_body": null
+        },
+        "rapor_word": {
+          "status": 200,
+          "ok": true,
+          "content_type": "application/msword",
+          "short_body": null
+        },
+        "teacher_pdf": {
+          "status": 200,
+          "ok": true,
+          "content_type": "application/pdf",
+          "short_body": null
+        }
+      }
+    },
+    {
+      "book": "Benim Adım Kristof Kolomb",
+      "pdf_path": "C:\\Users\\fatih\\Masaüstü\\Kitap Değerlendirme\\kitap-degerlendirme-app\\uploads\\benim_adim_kristof_kolomb.pdf",
+      "analiz": {
+        "status": 200,
+        "body": null,
+        "surface_consistency": true,
+        "canonical_summary_ir_hash": "d00e99c5a5e01ef3bba9a80765b399335abf717a8403292d7908ed4f1f3d26f3",
+        "summary_ui_hash": "d00e99c5a5e01ef3bba9a80765b399335abf717a8403292d7908ed4f1f3d26f3",
+        "summary_pdf_hash": "d00e99c5a5e01ef3bba9a80765b399335abf717a8403292d7908ed4f1f3d26f3",
+        "teacher_summary_hash": "d00e99c5a5e01ef3bba9a80765b399335abf717a8403292d7908ed4f1f3d26f3",
+        "summary_source_function": "canonical_summary_ir"
+      },
+      "endpoints": {
+        "rapor_pdf": {
+          "status": 200,
+          "ok": true,
+          "content_type": "application/pdf",
+          "short_body": null
+        },
+        "rapor_word": {
+          "status": 200,
+          "ok": true,
+          "content_type": "application/msword",
+          "short_body": null
+        },
+        "teacher_pdf": {
+          "status": 200,
+          "ok": true,
+          "content_type": "application/pdf",
+          "short_body": null
+        }
+      }
+    }
+  ]
+}

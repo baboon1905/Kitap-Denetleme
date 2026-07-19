@@ -1,0 +1,43 @@
+{
+  "dataset_version": "1.0",
+  "generated_at": "1970-01-01T00:00:00Z",
+  "total_books": 3,
+  "books": [
+    {
+      "book_id": "book-1",
+      "isbn": "978-9750200001",
+      "title": "Canary Story One",
+      "publisher": "Canary Press",
+      "grade": "6",
+      "genre": "Adventure",
+      "language": "tr",
+      "page_count": 152,
+      "validation_status": "pending",
+      "human_review_status": "pending"
+    },
+    {
+      "book_id": "book-2",
+      "isbn": "978-9750200002",
+      "title": "Canary Story Two",
+      "publisher": "Canary Press",
+      "grade": "7",
+      "genre": "Fantasy",
+      "language": "tr",
+      "page_count": 184,
+      "validation_status": "pending",
+      "human_review_status": "pending"
+    },
+    {
+      "book_id": "book-3",
+      "isbn": "978-9750200003",
+      "title": "Canary Story Three",
+      "publisher": "Canary Press",
+      "grade": "8",
+      "genre": "Drama",
+      "language": "tr",
+      "page_count": 200,
+      "validation_status": "pending",
+      "human_review_status": "pending"
+    }
+  ]
+}

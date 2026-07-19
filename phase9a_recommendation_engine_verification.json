@@ -1,0 +1,10 @@
+{
+  "equal_without_shadow": true,
+  "recommendations_location": "_runtime_v7_shadow.narrative.recommendations",
+  "production_payload_unchanged": true,
+  "deterministic_output": true,
+  "no_book_specific_heuristic": true,
+  "recommendation_types": ["strengthen", "review", "deprioritize", "insufficient_evidence"],
+  "benchmarks": ["Tavşan Pati", "Büyülü Yastıklar", "Benim Adım Kristof Kolomb"],
+  "notes": "Recommendations are produced under _runtime_v7_shadow.narrative.recommendations and diagnostics merged into that narrative diagnostics."
+}

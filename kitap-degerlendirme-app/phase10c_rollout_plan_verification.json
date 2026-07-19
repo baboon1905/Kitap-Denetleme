@@ -1,0 +1,269 @@
+{
+  "books": [
+    {
+      "title": "Tavşan Pati",
+      "checks": {
+        "equal_without_shadow": true,
+        "rollout_plan_only_under_narrative": true,
+        "production_payload_unchanged": true,
+        "deterministic": true,
+        "book_specific_heuristic": false
+      },
+      "diagnostics": {
+        "rollout_step_count": 8,
+        "pilot_candidate_count": 1,
+        "expand_validation_count": 1,
+        "hold_count": 6,
+        "rollout_confidence": 0.38,
+        "source": "runtime_v7_rollout_plan"
+      },
+      "diagnostics_ok": true,
+      "rollout_plan": {
+        "steps": [
+          {
+            "step": 1,
+            "component": "Theme Validation",
+            "action": "pilot_candidate",
+            "reason": "Deterministic rollout recommendation derived from promotion readiness and shadow impact signals.",
+            "confidence": 0.72
+          },
+          {
+            "step": 2,
+            "component": "Character Validation",
+            "action": "hold",
+            "reason": "Deterministic rollout recommendation derived from promotion readiness and shadow impact signals.",
+            "confidence": 0.52
+          },
+          {
+            "step": 3,
+            "component": "Learning Outcome Validation",
+            "action": "hold",
+            "reason": "Deterministic rollout recommendation derived from promotion readiness and shadow impact signals.",
+            "confidence": 0.0
+          },
+          {
+            "step": 4,
+            "component": "Validation Coverage",
+            "action": "hold",
+            "reason": "Deterministic rollout recommendation derived from promotion readiness and shadow impact signals.",
+            "confidence": 0.41
+          },
+          {
+            "step": 5,
+            "component": "Validation Confidence",
+            "action": "hold",
+            "reason": "Deterministic rollout recommendation derived from promotion readiness and shadow impact signals.",
+            "confidence": 0.41
+          },
+          {
+            "step": 6,
+            "component": "Quality Comparison",
+            "action": "hold",
+            "reason": "Deterministic rollout recommendation derived from promotion readiness and shadow impact signals.",
+            "confidence": 0.0
+          },
+          {
+            "step": 7,
+            "component": "Recommendation Engine",
+            "action": "expand_validation",
+            "reason": "Deterministic rollout recommendation derived from promotion readiness and shadow impact signals.",
+            "confidence": 0.58
+          },
+          {
+            "step": 8,
+            "component": "Promotion Readiness",
+            "action": "hold",
+            "reason": "Deterministic rollout recommendation derived from promotion readiness and shadow impact signals.",
+            "confidence": 0.38
+          }
+        ],
+        "recommended_next_action": "pilot_candidate",
+        "diagnostics": {
+          "rollout_step_count": 8,
+          "pilot_candidate_count": 1,
+          "expand_validation_count": 1,
+          "hold_count": 6,
+          "rollout_confidence": 0.38,
+          "source": "runtime_v7_rollout_plan"
+        }
+      }
+    },
+    {
+      "title": "Büyülü Yastıklar",
+      "checks": {
+        "equal_without_shadow": true,
+        "rollout_plan_only_under_narrative": true,
+        "production_payload_unchanged": true,
+        "deterministic": true,
+        "book_specific_heuristic": false
+      },
+      "diagnostics": {
+        "rollout_step_count": 8,
+        "pilot_candidate_count": 1,
+        "expand_validation_count": 1,
+        "hold_count": 6,
+        "rollout_confidence": 0.38,
+        "source": "runtime_v7_rollout_plan"
+      },
+      "diagnostics_ok": true,
+      "rollout_plan": {
+        "steps": [
+          {
+            "step": 1,
+            "component": "Theme Validation",
+            "action": "pilot_candidate",
+            "reason": "Deterministic rollout recommendation derived from promotion readiness and shadow impact signals.",
+            "confidence": 0.72
+          },
+          {
+            "step": 2,
+            "component": "Character Validation",
+            "action": "hold",
+            "reason": "Deterministic rollout recommendation derived from promotion readiness and shadow impact signals.",
+            "confidence": 0.52
+          },
+          {
+            "step": 3,
+            "component": "Learning Outcome Validation",
+            "action": "hold",
+            "reason": "Deterministic rollout recommendation derived from promotion readiness and shadow impact signals.",
+            "confidence": 0.0
+          },
+          {
+            "step": 4,
+            "component": "Validation Coverage",
+            "action": "hold",
+            "reason": "Deterministic rollout recommendation derived from promotion readiness and shadow impact signals.",
+            "confidence": 0.41
+          },
+          {
+            "step": 5,
+            "component": "Validation Confidence",
+            "action": "hold",
+            "reason": "Deterministic rollout recommendation derived from promotion readiness and shadow impact signals.",
+            "confidence": 0.41
+          },
+          {
+            "step": 6,
+            "component": "Quality Comparison",
+            "action": "hold",
+            "reason": "Deterministic rollout recommendation derived from promotion readiness and shadow impact signals.",
+            "confidence": 0.0
+          },
+          {
+            "step": 7,
+            "component": "Recommendation Engine",
+            "action": "expand_validation",
+            "reason": "Deterministic rollout recommendation derived from promotion readiness and shadow impact signals.",
+            "confidence": 0.58
+          },
+          {
+            "step": 8,
+            "component": "Promotion Readiness",
+            "action": "hold",
+            "reason": "Deterministic rollout recommendation derived from promotion readiness and shadow impact signals.",
+            "confidence": 0.38
+          }
+        ],
+        "recommended_next_action": "pilot_candidate",
+        "diagnostics": {
+          "rollout_step_count": 8,
+          "pilot_candidate_count": 1,
+          "expand_validation_count": 1,
+          "hold_count": 6,
+          "rollout_confidence": 0.38,
+          "source": "runtime_v7_rollout_plan"
+        }
+      }
+    },
+    {
+      "title": "Benim Adım Kristof Kolomb",
+      "checks": {
+        "equal_without_shadow": true,
+        "rollout_plan_only_under_narrative": true,
+        "production_payload_unchanged": true,
+        "deterministic": true,
+        "book_specific_heuristic": false
+      },
+      "diagnostics": {
+        "rollout_step_count": 8,
+        "pilot_candidate_count": 1,
+        "expand_validation_count": 1,
+        "hold_count": 6,
+        "rollout_confidence": 0.38,
+        "source": "runtime_v7_rollout_plan"
+      },
+      "diagnostics_ok": true,
+      "rollout_plan": {
+        "steps": [
+          {
+            "step": 1,
+            "component": "Theme Validation",
+            "action": "pilot_candidate",
+            "reason": "Deterministic rollout recommendation derived from promotion readiness and shadow impact signals.",
+            "confidence": 0.72
+          },
+          {
+            "step": 2,
+            "component": "Character Validation",
+            "action": "hold",
+            "reason": "Deterministic rollout recommendation derived from promotion readiness and shadow impact signals.",
+            "confidence": 0.52
+          },
+          {
+            "step": 3,
+            "component": "Learning Outcome Validation",
+            "action": "hold",
+            "reason": "Deterministic rollout recommendation derived from promotion readiness and shadow impact signals.",
+            "confidence": 0.0
+          },
+          {
+            "step": 4,
+            "component": "Validation Coverage",
+            "action": "hold",
+            "reason": "Deterministic rollout recommendation derived from promotion readiness and shadow impact signals.",
+            "confidence": 0.41
+          },
+          {
+            "step": 5,
+            "component": "Validation Confidence",
+            "action": "hold",
+            "reason": "Deterministic rollout recommendation derived from promotion readiness and shadow impact signals.",
+            "confidence": 0.41
+          },
+          {
+            "step": 6,
+            "component": "Quality Comparison",
+            "action": "hold",
+            "reason": "Deterministic rollout recommendation derived from promotion readiness and shadow impact signals.",
+            "confidence": 0.0
+          },
+          {
+            "step": 7,
+            "component": "Recommendation Engine",
+            "action": "expand_validation",
+            "reason": "Deterministic rollout recommendation derived from promotion readiness and shadow impact signals.",
+            "confidence": 0.58
+          },
+          {
+            "step": 8,
+            "component": "Promotion Readiness",
+            "action": "hold",
+            "reason": "Deterministic rollout recommendation derived from promotion readiness and shadow impact signals.",
+            "confidence": 0.38
+          }
+        ],
+        "recommended_next_action": "pilot_candidate",
+        "diagnostics": {
+          "rollout_step_count": 8,
+          "pilot_candidate_count": 1,
+          "expand_validation_count": 1,
+          "hold_count": 6,
+          "rollout_confidence": 0.38,
+          "source": "runtime_v7_rollout_plan"
+        }
+      }
+    }
+  ],
+  "all_ok": true
+}

@@ -1,0 +1,46 @@
+[
+  {
+    "pattern_id": "theme_adventure",
+    "reasoning": "Pattern selected due to evidence from summary_ir.themes source with 2 supporting evidence items and sufficient confidence threshold",
+    "supporting_signals": [
+      "calibrated_confidence=0.59",
+      "evidence_count=2",
+      "raw_confidence=0.55",
+      "source=summary_ir.themes",
+      "status=active"
+    ]
+  },
+  {
+    "pattern_id": "theme_friendship",
+    "reasoning": "Pattern selected due to evidence from semantic.theme_clusters source with 1 supporting evidence items and sufficient confidence threshold",
+    "supporting_signals": [
+      "calibrated_confidence=0.68",
+      "evidence_count=1",
+      "raw_confidence=0.65",
+      "source=semantic.theme_clusters",
+      "status=active"
+    ]
+  },
+  {
+    "pattern_id": "theme_courage",
+    "reasoning": "Pattern marked as candidate based on 1 evidence item(s) from narrative.summary source, below active threshold",
+    "supporting_signals": [
+      "calibrated_confidence=0.51",
+      "evidence_count=1",
+      "raw_confidence=0.45",
+      "source=narrative.summary",
+      "status=candidate"
+    ]
+  },
+  {
+    "pattern_id": "theme_resilience",
+    "reasoning": "Pattern selected due to evidence from semantic.theme_clusters source with 3 supporting evidence items and sufficient confidence threshold",
+    "supporting_signals": [
+      "calibrated_confidence=0.75",
+      "evidence_count=3",
+      "raw_confidence=0.72",
+      "source=semantic.theme_clusters",
+      "status=active"
+    ]
+  }
+]

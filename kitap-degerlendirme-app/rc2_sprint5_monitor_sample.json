@@ -1,0 +1,762 @@
+{
+  "pattern_activations": [
+    {
+      "pattern_id": "character_antagonist",
+      "category": "character_role",
+      "status": "candidate",
+      "raw_confidence": 0.0,
+      "calibrated_confidence": 0.0,
+      "evidence_count": 0,
+      "source": "contextual",
+      "algorithm_version": "VALIDATED"
+    },
+    {
+      "pattern_id": "character_authority",
+      "category": "character_role",
+      "status": "candidate",
+      "raw_confidence": 0.0,
+      "calibrated_confidence": 0.0,
+      "evidence_count": 0,
+      "source": "contextual",
+      "algorithm_version": "NEW"
+    },
+    {
+      "pattern_id": "character_comic_relief",
+      "category": "character_role",
+      "status": "candidate",
+      "raw_confidence": 0.0,
+      "calibrated_confidence": 0.0,
+      "evidence_count": 0,
+      "source": "contextual",
+      "algorithm_version": "NEW"
+    },
+    {
+      "pattern_id": "character_companion",
+      "category": "character_role",
+      "status": "candidate",
+      "raw_confidence": 0.0,
+      "calibrated_confidence": 0.0,
+      "evidence_count": 0,
+      "source": "contextual",
+      "algorithm_version": "VALIDATED"
+    },
+    {
+      "pattern_id": "character_creature",
+      "category": "character_role",
+      "status": "candidate",
+      "raw_confidence": 0.0,
+      "calibrated_confidence": 0.0,
+      "evidence_count": 0,
+      "source": "contextual",
+      "algorithm_version": "NEW"
+    },
+    {
+      "pattern_id": "character_innocent",
+      "category": "character_role",
+      "status": "candidate",
+      "raw_confidence": 0.0,
+      "calibrated_confidence": 0.0,
+      "evidence_count": 0,
+      "source": "contextual",
+      "algorithm_version": "NEW"
+    },
+    {
+      "pattern_id": "character_mentor",
+      "category": "character_role",
+      "status": "candidate",
+      "raw_confidence": 0.0,
+      "calibrated_confidence": 0.0,
+      "evidence_count": 0,
+      "source": "contextual",
+      "algorithm_version": "VALIDATED"
+    },
+    {
+      "pattern_id": "character_observer",
+      "category": "character_role",
+      "status": "candidate",
+      "raw_confidence": 0.0,
+      "calibrated_confidence": 0.0,
+      "evidence_count": 0,
+      "source": "contextual",
+      "algorithm_version": "NEW"
+    },
+    {
+      "pattern_id": "character_outsider",
+      "category": "character_role",
+      "status": "candidate",
+      "raw_confidence": 0.0,
+      "calibrated_confidence": 0.0,
+      "evidence_count": 0,
+      "source": "contextual",
+      "algorithm_version": "NEW"
+    },
+    {
+      "pattern_id": "character_protagonist",
+      "category": "character_role",
+      "status": "active",
+      "raw_confidence": 0.9,
+      "calibrated_confidence": 0.9,
+      "evidence_count": 1,
+      "source": "entity_graph",
+      "algorithm_version": "VALIDATED",
+      "match_snippet": "the brave child"
+    },
+    {
+      "pattern_id": "character_sage",
+      "category": "character_role",
+      "status": "candidate",
+      "raw_confidence": 0.0,
+      "calibrated_confidence": 0.0,
+      "evidence_count": 0,
+      "source": "contextual",
+      "algorithm_version": "NEW"
+    },
+    {
+      "pattern_id": "character_trickster",
+      "category": "character_role",
+      "status": "candidate",
+      "raw_confidence": 0.0,
+      "calibrated_confidence": 0.0,
+      "evidence_count": 0,
+      "source": "contextual",
+      "algorithm_version": "NEW"
+    },
+    {
+      "pattern_id": "conflict_economic",
+      "category": "conflict",
+      "status": "candidate",
+      "raw_confidence": 0.0,
+      "calibrated_confidence": 0.0,
+      "evidence_count": 0,
+      "source": "keyword_frequency",
+      "algorithm_version": "NEW"
+    },
+    {
+      "pattern_id": "conflict_generational",
+      "category": "conflict",
+      "status": "candidate",
+      "raw_confidence": 0.0,
+      "calibrated_confidence": 0.0,
+      "evidence_count": 0,
+      "source": "keyword_frequency",
+      "algorithm_version": "NEW"
+    },
+    {
+      "pattern_id": "conflict_ideological",
+      "category": "conflict",
+      "status": "candidate",
+      "raw_confidence": 0.0,
+      "calibrated_confidence": 0.0,
+      "evidence_count": 0,
+      "source": "keyword_frequency",
+      "algorithm_version": "NEW"
+    },
+    {
+      "pattern_id": "conflict_man_vs_fate",
+      "category": "conflict",
+      "status": "candidate",
+      "raw_confidence": 0.0,
+      "calibrated_confidence": 0.0,
+      "evidence_count": 0,
+      "source": "keyword_frequency",
+      "algorithm_version": "NEW"
+    },
+    {
+      "pattern_id": "conflict_man_vs_man",
+      "category": "conflict",
+      "status": "candidate",
+      "raw_confidence": 0.0,
+      "calibrated_confidence": 0.0,
+      "evidence_count": 0,
+      "source": "keyword_frequency",
+      "algorithm_version": "NEW"
+    },
+    {
+      "pattern_id": "conflict_man_vs_nature",
+      "category": "conflict",
+      "status": "candidate",
+      "raw_confidence": 0.0,
+      "calibrated_confidence": 0.0,
+      "evidence_count": 0,
+      "source": "keyword_frequency",
+      "algorithm_version": "NEW"
+    },
+    {
+      "pattern_id": "conflict_man_vs_self",
+      "category": "conflict",
+      "status": "candidate",
+      "raw_confidence": 0.0,
+      "calibrated_confidence": 0.0,
+      "evidence_count": 0,
+      "source": "keyword_frequency",
+      "algorithm_version": "NEW"
+    },
+    {
+      "pattern_id": "conflict_man_vs_society",
+      "category": "conflict",
+      "status": "candidate",
+      "raw_confidence": 0.0,
+      "calibrated_confidence": 0.0,
+      "evidence_count": 0,
+      "source": "keyword_frequency",
+      "algorithm_version": "NEW"
+    },
+    {
+      "pattern_id": "conflict_political",
+      "category": "conflict",
+      "status": "candidate",
+      "raw_confidence": 0.0,
+      "calibrated_confidence": 0.0,
+      "evidence_count": 0,
+      "source": "keyword_frequency",
+      "algorithm_version": "NEW"
+    },
+    {
+      "pattern_id": "conflict_romantic",
+      "category": "conflict",
+      "status": "candidate",
+      "raw_confidence": 0.0,
+      "calibrated_confidence": 0.0,
+      "evidence_count": 0,
+      "source": "keyword_frequency",
+      "algorithm_version": "NEW"
+    },
+    {
+      "pattern_id": "emotion_anger",
+      "category": "emotion",
+      "status": "candidate",
+      "raw_confidence": 0.0,
+      "calibrated_confidence": 0.0,
+      "evidence_count": 0,
+      "source": "sentiment",
+      "algorithm_version": "NEW"
+    },
+    {
+      "pattern_id": "emotion_betrayal",
+      "category": "emotion",
+      "status": "candidate",
+      "raw_confidence": 0.0,
+      "calibrated_confidence": 0.0,
+      "evidence_count": 0,
+      "source": "sentiment",
+      "algorithm_version": "NEW"
+    },
+    {
+      "pattern_id": "emotion_despair",
+      "category": "emotion",
+      "status": "candidate",
+      "raw_confidence": 0.0,
+      "calibrated_confidence": 0.0,
+      "evidence_count": 0,
+      "source": "sentiment",
+      "algorithm_version": "NEW"
+    },
+    {
+      "pattern_id": "emotion_fear",
+      "category": "emotion",
+      "status": "candidate",
+      "raw_confidence": 0.0,
+      "calibrated_confidence": 0.0,
+      "evidence_count": 0,
+      "source": "sentiment",
+      "algorithm_version": "NEW"
+    },
+    {
+      "pattern_id": "emotion_hope",
+      "category": "emotion",
+      "status": "candidate",
+      "raw_confidence": 0.0,
+      "calibrated_confidence": 0.0,
+      "evidence_count": 0,
+      "source": "sentiment",
+      "algorithm_version": "NEW"
+    },
+    {
+      "pattern_id": "emotion_joy",
+      "category": "emotion",
+      "status": "candidate",
+      "raw_confidence": 0.0,
+      "calibrated_confidence": 0.0,
+      "evidence_count": 0,
+      "source": "sentiment",
+      "algorithm_version": "NEW"
+    },
+    {
+      "pattern_id": "emotion_love",
+      "category": "emotion",
+      "status": "candidate",
+      "raw_confidence": 0.0,
+      "calibrated_confidence": 0.0,
+      "evidence_count": 0,
+      "source": "sentiment",
+      "algorithm_version": "NEW"
+    },
+    {
+      "pattern_id": "emotion_pride",
+      "category": "emotion",
+      "status": "candidate",
+      "raw_confidence": 0.0,
+      "calibrated_confidence": 0.0,
+      "evidence_count": 0,
+      "source": "sentiment",
+      "algorithm_version": "NEW"
+    },
+    {
+      "pattern_id": "emotion_sadness",
+      "category": "emotion",
+      "status": "candidate",
+      "raw_confidence": 0.0,
+      "calibrated_confidence": 0.0,
+      "evidence_count": 0,
+      "source": "sentiment",
+      "algorithm_version": "NEW"
+    },
+    {
+      "pattern_id": "emotion_shame",
+      "category": "emotion",
+      "status": "candidate",
+      "raw_confidence": 0.0,
+      "calibrated_confidence": 0.0,
+      "evidence_count": 0,
+      "source": "sentiment",
+      "algorithm_version": "NEW"
+    },
+    {
+      "pattern_id": "emotion_surprise",
+      "category": "emotion",
+      "status": "candidate",
+      "raw_confidence": 0.0,
+      "calibrated_confidence": 0.0,
+      "evidence_count": 0,
+      "source": "sentiment",
+      "algorithm_version": "NEW"
+    },
+    {
+      "pattern_id": "emotion_trust",
+      "category": "emotion",
+      "status": "candidate",
+      "raw_confidence": 0.0,
+      "calibrated_confidence": 0.0,
+      "evidence_count": 0,
+      "source": "sentiment",
+      "algorithm_version": "NEW"
+    },
+    {
+      "pattern_id": "learning_cognitive",
+      "category": "learning_outcome",
+      "status": "candidate",
+      "raw_confidence": 0.0,
+      "calibrated_confidence": 0.0,
+      "evidence_count": 0,
+      "source": "context_window",
+      "algorithm_version": "VALIDATED"
+    },
+    {
+      "pattern_id": "learning_creativity",
+      "category": "learning_outcome",
+      "status": "candidate",
+      "raw_confidence": 0.0,
+      "calibrated_confidence": 0.0,
+      "evidence_count": 0,
+      "source": "context_window",
+      "algorithm_version": "NEW"
+    },
+    {
+      "pattern_id": "learning_critical_thinking",
+      "category": "learning_outcome",
+      "status": "candidate",
+      "raw_confidence": 0.0,
+      "calibrated_confidence": 0.0,
+      "evidence_count": 0,
+      "source": "context_window",
+      "algorithm_version": "NEW"
+    },
+    {
+      "pattern_id": "learning_cultural",
+      "category": "learning_outcome",
+      "status": "candidate",
+      "raw_confidence": 0.0,
+      "calibrated_confidence": 0.0,
+      "evidence_count": 0,
+      "source": "context_window",
+      "algorithm_version": "NEW"
+    },
+    {
+      "pattern_id": "learning_emotional",
+      "category": "learning_outcome",
+      "status": "candidate",
+      "raw_confidence": 0.0,
+      "calibrated_confidence": 0.0,
+      "evidence_count": 0,
+      "source": "context_window",
+      "algorithm_version": "VALIDATED"
+    },
+    {
+      "pattern_id": "learning_environmental",
+      "category": "learning_outcome",
+      "status": "candidate",
+      "raw_confidence": 0.0,
+      "calibrated_confidence": 0.0,
+      "evidence_count": 0,
+      "source": "context_window",
+      "algorithm_version": "NEW"
+    },
+    {
+      "pattern_id": "learning_moral",
+      "category": "learning_outcome",
+      "status": "candidate",
+      "raw_confidence": 0.0,
+      "calibrated_confidence": 0.0,
+      "evidence_count": 0,
+      "source": "context_window",
+      "algorithm_version": "NEW"
+    },
+    {
+      "pattern_id": "learning_physical",
+      "category": "learning_outcome",
+      "status": "candidate",
+      "raw_confidence": 0.0,
+      "calibrated_confidence": 0.0,
+      "evidence_count": 0,
+      "source": "context_window",
+      "algorithm_version": "VALIDATED"
+    },
+    {
+      "pattern_id": "learning_problem_solving",
+      "category": "learning_outcome",
+      "status": "candidate",
+      "raw_confidence": 0.0,
+      "calibrated_confidence": 0.0,
+      "evidence_count": 0,
+      "source": "context_window",
+      "algorithm_version": "NEW"
+    },
+    {
+      "pattern_id": "learning_resilience",
+      "category": "learning_outcome",
+      "status": "candidate",
+      "raw_confidence": 0.0,
+      "calibrated_confidence": 0.0,
+      "evidence_count": 0,
+      "source": "context_window",
+      "algorithm_version": "NEW"
+    },
+    {
+      "pattern_id": "learning_self_awareness",
+      "category": "learning_outcome",
+      "status": "candidate",
+      "raw_confidence": 0.0,
+      "calibrated_confidence": 0.0,
+      "evidence_count": 0,
+      "source": "context_window",
+      "algorithm_version": "NEW"
+    },
+    {
+      "pattern_id": "learning_social",
+      "category": "learning_outcome",
+      "status": "candidate",
+      "raw_confidence": 0.0,
+      "calibrated_confidence": 0.0,
+      "evidence_count": 0,
+      "source": "context_window",
+      "algorithm_version": "VALIDATED"
+    },
+    {
+      "pattern_id": "narrative_climax",
+      "category": "narrative_structure",
+      "status": "candidate",
+      "raw_confidence": 0.0,
+      "calibrated_confidence": 0.0,
+      "evidence_count": 0,
+      "source": "structure",
+      "algorithm_version": "NEW"
+    },
+    {
+      "pattern_id": "narrative_denouement",
+      "category": "narrative_structure",
+      "status": "candidate",
+      "raw_confidence": 0.0,
+      "calibrated_confidence": 0.0,
+      "evidence_count": 0,
+      "source": "structure",
+      "algorithm_version": "NEW"
+    },
+    {
+      "pattern_id": "narrative_flashback",
+      "category": "narrative_structure",
+      "status": "candidate",
+      "raw_confidence": 0.0,
+      "calibrated_confidence": 0.0,
+      "evidence_count": 0,
+      "source": "structure",
+      "algorithm_version": "NEW"
+    },
+    {
+      "pattern_id": "narrative_frame",
+      "category": "narrative_structure",
+      "status": "candidate",
+      "raw_confidence": 0.0,
+      "calibrated_confidence": 0.0,
+      "evidence_count": 0,
+      "source": "structure",
+      "algorithm_version": "NEW"
+    },
+    {
+      "pattern_id": "narrative_linear",
+      "category": "narrative_structure",
+      "status": "candidate",
+      "raw_confidence": 0.0,
+      "calibrated_confidence": 0.0,
+      "evidence_count": 0,
+      "source": "structure",
+      "algorithm_version": "NEW"
+    },
+    {
+      "pattern_id": "narrative_parallel",
+      "category": "narrative_structure",
+      "status": "candidate",
+      "raw_confidence": 0.0,
+      "calibrated_confidence": 0.0,
+      "evidence_count": 0,
+      "source": "structure",
+      "algorithm_version": "NEW"
+    },
+    {
+      "pattern_id": "narrative_plot_twist",
+      "category": "narrative_structure",
+      "status": "candidate",
+      "raw_confidence": 0.0,
+      "calibrated_confidence": 0.0,
+      "evidence_count": 0,
+      "source": "structure",
+      "algorithm_version": "NEW"
+    },
+    {
+      "pattern_id": "narrative_rising_action",
+      "category": "narrative_structure",
+      "status": "candidate",
+      "raw_confidence": 0.0,
+      "calibrated_confidence": 0.0,
+      "evidence_count": 0,
+      "source": "structure",
+      "algorithm_version": "NEW"
+    },
+    {
+      "pattern_id": "theme_adventure",
+      "category": "theme",
+      "status": "active",
+      "raw_confidence": 0.75,
+      "calibrated_confidence": 0.75,
+      "evidence_count": 2,
+      "source": "summary_ir",
+      "algorithm_version": "VALIDATED",
+      "match_snippet": "a journey across the sea",
+      "matched_spans": [
+        {
+          "page": 1,
+          "start": 10,
+          "end": 40
+        }
+      ]
+    },
+    {
+      "pattern_id": "theme_belonging",
+      "category": "theme",
+      "status": "candidate",
+      "raw_confidence": 0.0,
+      "calibrated_confidence": 0.0,
+      "evidence_count": 0,
+      "source": "keyword_frequency",
+      "algorithm_version": "NEW"
+    },
+    {
+      "pattern_id": "theme_change",
+      "category": "theme",
+      "status": "candidate",
+      "raw_confidence": 0.0,
+      "calibrated_confidence": 0.0,
+      "evidence_count": 0,
+      "source": "keyword_frequency",
+      "algorithm_version": "NEW"
+    },
+    {
+      "pattern_id": "theme_conflict",
+      "category": "theme",
+      "status": "candidate",
+      "raw_confidence": 0.0,
+      "calibrated_confidence": 0.0,
+      "evidence_count": 0,
+      "source": "keyword_frequency",
+      "algorithm_version": "VALIDATED"
+    },
+    {
+      "pattern_id": "theme_courage",
+      "category": "theme",
+      "status": "candidate",
+      "raw_confidence": 0.0,
+      "calibrated_confidence": 0.0,
+      "evidence_count": 0,
+      "source": "keyword_frequency",
+      "algorithm_version": "VALIDATED"
+    },
+    {
+      "pattern_id": "theme_dreams",
+      "category": "theme",
+      "status": "candidate",
+      "raw_confidence": 0.0,
+      "calibrated_confidence": 0.0,
+      "evidence_count": 0,
+      "source": "keyword_frequency",
+      "algorithm_version": "NEW"
+    },
+    {
+      "pattern_id": "theme_family",
+      "category": "theme",
+      "status": "candidate",
+      "raw_confidence": 0.0,
+      "calibrated_confidence": 0.0,
+      "evidence_count": 0,
+      "source": "keyword_frequency",
+      "algorithm_version": "VALIDATED"
+    },
+    {
+      "pattern_id": "theme_freedom",
+      "category": "theme",
+      "status": "candidate",
+      "raw_confidence": 0.0,
+      "calibrated_confidence": 0.0,
+      "evidence_count": 0,
+      "source": "keyword_frequency",
+      "algorithm_version": "NEW"
+    },
+    {
+      "pattern_id": "theme_friendship",
+      "category": "theme",
+      "status": "candidate",
+      "raw_confidence": 0.0,
+      "calibrated_confidence": 0.0,
+      "evidence_count": 0,
+      "source": "keyword_frequency",
+      "algorithm_version": "VALIDATED"
+    },
+    {
+      "pattern_id": "theme_growth",
+      "category": "theme",
+      "status": "candidate",
+      "raw_confidence": 0.0,
+      "calibrated_confidence": 0.0,
+      "evidence_count": 0,
+      "source": "keyword_frequency",
+      "algorithm_version": "VALIDATED"
+    },
+    {
+      "pattern_id": "theme_identity",
+      "category": "theme",
+      "status": "candidate",
+      "raw_confidence": 0.0,
+      "calibrated_confidence": 0.0,
+      "evidence_count": 0,
+      "source": "keyword_frequency",
+      "algorithm_version": "NEW"
+    },
+    {
+      "pattern_id": "theme_justice",
+      "category": "theme",
+      "status": "candidate",
+      "raw_confidence": 0.0,
+      "calibrated_confidence": 0.0,
+      "evidence_count": 0,
+      "source": "keyword_frequency",
+      "algorithm_version": "NEW"
+    },
+    {
+      "pattern_id": "theme_knowledge",
+      "category": "theme",
+      "status": "candidate",
+      "raw_confidence": 0.0,
+      "calibrated_confidence": 0.0,
+      "evidence_count": 0,
+      "source": "keyword_frequency",
+      "algorithm_version": "VALIDATED"
+    },
+    {
+      "pattern_id": "theme_loss",
+      "category": "theme",
+      "status": "candidate",
+      "raw_confidence": 0.0,
+      "calibrated_confidence": 0.0,
+      "evidence_count": 0,
+      "source": "keyword_frequency",
+      "algorithm_version": "NEW"
+    },
+    {
+      "pattern_id": "theme_mystery",
+      "category": "theme",
+      "status": "candidate",
+      "raw_confidence": 0.0,
+      "calibrated_confidence": 0.0,
+      "evidence_count": 0,
+      "source": "keyword_frequency",
+      "algorithm_version": "NEW"
+    },
+    {
+      "pattern_id": "theme_nature",
+      "category": "theme",
+      "status": "candidate",
+      "raw_confidence": 0.0,
+      "calibrated_confidence": 0.0,
+      "evidence_count": 0,
+      "source": "keyword_frequency",
+      "algorithm_version": "NEW"
+    },
+    {
+      "pattern_id": "theme_power",
+      "category": "theme",
+      "status": "candidate",
+      "raw_confidence": 0.0,
+      "calibrated_confidence": 0.0,
+      "evidence_count": 0,
+      "source": "keyword_frequency",
+      "algorithm_version": "NEW"
+    },
+    {
+      "pattern_id": "theme_redemption",
+      "category": "theme",
+      "status": "candidate",
+      "raw_confidence": 0.0,
+      "calibrated_confidence": 0.0,
+      "evidence_count": 0,
+      "source": "keyword_frequency",
+      "algorithm_version": "NEW"
+    },
+    {
+      "pattern_id": "theme_tradition",
+      "category": "theme",
+      "status": "candidate",
+      "raw_confidence": 0.0,
+      "calibrated_confidence": 0.0,
+      "evidence_count": 0,
+      "source": "keyword_frequency",
+      "algorithm_version": "NEW"
+    },
+    {
+      "pattern_id": "theme_wonder",
+      "category": "theme",
+      "status": "candidate",
+      "raw_confidence": 0.0,
+      "calibrated_confidence": 0.0,
+      "evidence_count": 0,
+      "source": "keyword_frequency",
+      "algorithm_version": "NEW"
+    }
+  ],
+  "pattern_monitoring": {
+    "last_run_iso": "2026-07-06T20:44:20.304143Z",
+    "status": "ok",
+    "errors": [],
+    "pattern_library_version": "rc2-2026-07",
+    "confidence_engine_version": "conf-v1",
+    "pattern_count": 74,
+    "activated_count": 2
+  }
+}

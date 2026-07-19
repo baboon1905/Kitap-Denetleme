@@ -1,0 +1,58 @@
+{
+  "patterns": [
+    {
+      "pattern_id": "lowconf",
+      "category": "theme",
+      "match_count": 5,
+      "activation_rate": 0.5,
+      "raw_confidence_avg": 0.1,
+      "calibrated_confidence_avg": 0.12,
+      "confidence_delta_avg": 0.01999999999999999,
+      "fp_risk": 0.0,
+      "recommendation_distribution": {},
+      "monitoring_status": "review"
+    },
+    {
+      "pattern_id": "highfp",
+      "category": "theme",
+      "match_count": 6,
+      "activation_rate": 0.6,
+      "raw_confidence_avg": 0.6,
+      "calibrated_confidence_avg": 0.62,
+      "confidence_delta_avg": 0.020000000000000018,
+      "fp_risk": 1.0,
+      "recommendation_distribution": {},
+      "monitoring_status": "review"
+    },
+    {
+      "pattern_id": "dormant",
+      "category": "structure",
+      "match_count": 0,
+      "activation_rate": 0.0,
+      "raw_confidence_avg": 0.0,
+      "calibrated_confidence_avg": 0.0,
+      "confidence_delta_avg": 0.0,
+      "fp_risk": 0.0,
+      "recommendation_distribution": {},
+      "monitoring_status": "dormant"
+    }
+  ],
+  "categories": [
+    {
+      "category": "theme",
+      "total_patterns": 2,
+      "activated_patterns": 2,
+      "dormant_patterns": 0,
+      "avg_confidence": 0.35,
+      "avg_activation_rate": 0.55
+    },
+    {
+      "category": "structure",
+      "total_patterns": 1,
+      "activated_patterns": 0,
+      "dormant_patterns": 1,
+      "avg_confidence": 0.0,
+      "avg_activation_rate": 0.0
+    }
+  ]
+}

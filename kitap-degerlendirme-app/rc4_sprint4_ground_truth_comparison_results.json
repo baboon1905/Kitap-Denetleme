@@ -1,0 +1,52 @@
+{
+  "total_books": 3,
+  "per_book_comparisons": [
+    {
+      "book_id": "book-1",
+      "matched_patterns": [
+        "pattern-alpha",
+        "pattern-beta"
+      ],
+      "shadow_only_patterns": [
+        "pattern-zeta"
+      ],
+      "human_only_patterns": [],
+      "precision": 0.6666666666666666,
+      "recall": 1.0,
+      "f1_score": 0.8
+    },
+    {
+      "book_id": "book-2",
+      "matched_patterns": [
+        "pattern-gamma"
+      ],
+      "shadow_only_patterns": [
+        "pattern-theta"
+      ],
+      "human_only_patterns": [],
+      "precision": 0.5,
+      "recall": 1.0,
+      "f1_score": 0.6666666666666666
+    },
+    {
+      "book_id": "book-3",
+      "matched_patterns": [
+        "pattern-delta"
+      ],
+      "shadow_only_patterns": [
+        "pattern-epsilon"
+      ],
+      "human_only_patterns": [],
+      "precision": 0.5,
+      "recall": 1.0,
+      "f1_score": 0.6666666666666666
+    }
+  ],
+  "average_precision": 0.5555555555555555,
+  "average_recall": 1.0,
+  "average_f1_score": 0.7111111111111111,
+  "deterministic": true,
+  "production_output_changed": false,
+  "shadow_pipeline_called": false,
+  "semantic_orchestrator_called": false
+}

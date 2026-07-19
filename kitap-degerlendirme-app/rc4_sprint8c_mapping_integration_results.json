@@ -1,0 +1,1901 @@
+{
+  "sprint": "RC4 Sprint 8C - Evidence Mapping Integration",
+  "books": [
+    {
+      "file": "runtime_1_analyze_theme_gain_return.json",
+      "title": "benim_adim_kristof_kolomb.pdf",
+      "summary_ir": {
+        "title": "benim_adim_kristof_kolomb.pdf",
+        "central_entities": [
+          "Kristof Kolomb",
+          "Adım",
+          "Hernando Kolomb",
+          "Bartolome",
+          "Marco Polo",
+          "Filipa Monis",
+          "Kral Fernando",
+          "Kraliçe Isabel",
+          "Katolik",
+          "İspanya"
+        ],
+        "themes": [
+          "problem çözme",
+          "sorumluluk",
+          "dostluk",
+          "hayvan sevgisi",
+          "söz tutma",
+          "empati"
+        ],
+        "evidence_snippets": {
+          "setup": [
+            "\"Harikalar\" kitabı Marco Polo’nun kitabını okuduktan sonra, avrupa ve Hindistan arasındaki o kestirme yolu bulacağıma dair kendi kendime söz verdim."
+          ],
+          "conflict": [
+            "Kristof Kolomb / 51 Üçüncü yolculuk: Eğlenceden çok sıkıntı Portekiz ve İspanya arasında imzalanan anlaşma gereği İspanya, Kanarya adaları’nın güneyine keşif yolculukları yapamıyordu."
+          ],
+          "events": [
+            "rakipleri Portekiz’in karşı çıktığı her şeyle ilgilenen İspanya kralı, benimle bir görüşme yaptı ancak onun danışmanları da benim deli olduğumu düşündüler.",
+            "Benim projemle ilgilenmeye hiç vakit bulamadılar ve yıllar akıp geçti.",
+            "ardından, bizimle birlikte gelen Hintliler kutsandılar ve ekselansları, bundan sonra bu kişilere iyi davranılmasını emretti."
+          ],
+          "resolution": [
+            "Barcelona’da bana karşı çok dostça davranan Fernando haftalarca beni görmeyi reddetti."
+          ],
+          "__raw_extracted__": [
+            {
+              "text": "\"Harikalar\" kitabı Marco Polo’nun kitabını okuduktan sonra, avrupa ve Hindistan arasındaki o kestirme yolu bulacağıma dair kendi kendime söz verdim.",
+              "source_sentence_id": "p14:s4",
+              "raw": {
+                "sayfa": 14,
+                "metin": "\"Harikalar\" kitabı Marco Polo’nun kitabını okuduktan sonra, avrupa ve Hindistan arasındaki o kestirme yolu bulacağıma dair kendi kendime söz verdim.",
+                "alinti": "\"Harikalar\" kitabı Marco Polo’nun kitabını okuduktan sonra, avrupa ve Hindistan arasındaki o kestirme yolu bulacağıma dair kendi kendime söz verdim.",
+                "anahtarlar": [
+                  "problem çözme",
+                  "ipucunu okumak"
+                ],
+                "olay_bolumu": "olay",
+                "source_sentence_id": "p14:s4",
+                "event_id": null,
+                "temsil_gucu": 70.7
+              }
+            },
+            {
+              "text": "Kristof Kolomb / 51 Üçüncü yolculuk: Eğlenceden çok sıkıntı Portekiz ve İspanya arasında imzalanan anlaşma gereği İspanya, Kanarya adaları’nın güneyine keşif yolculukları yapamıyordu.",
+              "source_sentence_id": "p51:s14",
+              "raw": {
+                "sayfa": 51,
+                "metin": "Kristof Kolomb / 51 Üçüncü yolculuk: Eğlenceden çok sıkıntı Portekiz ve İspanya arasında imzalanan anlaşma gereği İspanya, Kanarya adaları’nın güneyine keşif yolculukları yapamıyordu.",
+                "alinti": "Kristof Kolomb / 51 Üçüncü yolculuk: Eğlenceden çok sıkıntı Portekiz ve İspanya arasında imzalanan anlaşma gereği İspanya, Kanarya adaları’nın güneyine keşif yolculukları yapamıyordu.",
+                "anahtarlar": [
+                  "problem çözme",
+                  "çözüm yolunu anlamak"
+                ],
+                "olay_bolumu": "olay",
+                "source_sentence_id": "p51:s14",
+                "event_id": null,
+                "temsil_gucu": 44.2
+              }
+            },
+            {
+              "text": "rakipleri Portekiz’in karşı çıktığı her şeyle ilgilenen İspanya kralı, benimle bir görüşme yaptı ancak onun danışmanları da benim deli olduğumu düşündüler.",
+              "source_sentence_id": null,
+              "raw": {
+                "sayfa": 23,
+                "alinti": "rakipleri Portekiz’in karşı çıktığı her şeyle ilgilenen İspanya kralı, benimle bir görüşme yaptı ancak onun danışmanları da benim deli olduğumu düşündüler.",
+                "anahtarlar": [
+                  "ilgilen"
+                ],
+                "baglam_gucu": 5,
+                "ham_baglam_gucu": 5,
+                "kanit_sinifi": "davranış",
+                "kanit_agirligi": 1.0,
+                "kanit_turu": "olay_sahnesi",
+                "olay_bolumu": "gelişme",
+                "temsil_gucu": 189.0
+              }
+            },
+            {
+              "text": "Benim projemle ilgilenmeye hiç vakit bulamadılar ve yıllar akıp geçti.",
+              "source_sentence_id": null,
+              "raw": {
+                "sayfa": 23,
+                "alinti": "Benim projemle ilgilenmeye hiç vakit bulamadılar ve yıllar akıp geçti.",
+                "anahtarlar": [
+                  "ilgilen"
+                ],
+                "baglam_gucu": 3,
+                "ham_baglam_gucu": 1,
+                "kanit_sinifi": "rastgele ifade",
+                "kanit_agirligi": 0.75,
+                "kanit_turu": "anlati_icerigi",
+                "olay_bolumu": "gelişme",
+                "temsil_gucu": 103.5
+              }
+            },
+            {
+              "text": "ardından, bizimle birlikte gelen Hintliler kutsandılar ve ekselansları, bundan sonra bu kişilere iyi davranılmasını emretti.",
+              "source_sentence_id": null,
+              "raw": {
+                "sayfa": 44,
+                "alinti": "ardından, bizimle birlikte gelen Hintliler kutsandılar ve ekselansları, bundan sonra bu kişilere iyi davranılmasını emretti.",
+                "anahtarlar": [
+                  "birlikte"
+                ],
+                "baglam_gucu": 5,
+                "ham_baglam_gucu": 5,
+                "kanit_sinifi": "davranış",
+                "kanit_agirligi": 1.0,
+                "kanit_turu": "olay_sahnesi",
+                "olay_bolumu": "sonuç",
+                "temsil_gucu": 189.0
+              }
+            },
+            {
+              "text": "Barcelona’da bana karşı çok dostça davranan Fernando haftalarca beni görmeyi reddetti.",
+              "source_sentence_id": null,
+              "raw": {
+                "sayfa": 60,
+                "alinti": "Barcelona’da bana karşı çok dostça davranan Fernando haftalarca beni görmeyi reddetti.",
+                "anahtarlar": [
+                  "dost"
+                ],
+                "baglam_gucu": 3,
+                "ham_baglam_gucu": 3,
+                "kanit_sinifi": "karar",
+                "kanit_agirligi": 1.0,
+                "kanit_turu": "olay_sahnesi",
+                "olay_bolumu": "sonuç",
+                "temsil_gucu": 147.0
+              }
+            },
+            {
+              "text": "Kristof Kolomb / 31 nöbet değişimlerinde, zabitler pusulaların yönlerini birbirleriyle karşılaştırıyor ve geminin hızı ile birlikte kat edilen mesafeyi belirliyorlardı.",
+              "source_sentence_id": null,
+              "raw": {
+                "sayfa": 31,
+                "alinti": "Kristof Kolomb / 31 nöbet değişimlerinde, zabitler pusulaların yönlerini birbirleriyle karşılaştırıyor ve geminin hızı ile birlikte kat edilen mesafeyi belirliyorlardı.",
+                "anahtarlar": [
+                  "birlikte"
+                ],
+                "baglam_gucu": 3,
+                "ham_baglam_gucu": 3,
+                "kanit_sinifi": "çatışma",
+                "kanit_agirligi": 0.9,
+                "kanit_turu": "olay_sahnesi",
+                "olay_bolumu": "gelişme",
+                "temsil_gucu": 132.8
+              }
+            },
+            {
+              "text": "Bu üzücü tabloya rağmen, bu adalar, bitki örtüsü, hayvan topluluğu ve halkı açısından bana göre dünyanın en güzel yeriydi.",
+              "source_sentence_id": null,
+              "raw": {
+                "sayfa": 43,
+                "alinti": "Bu üzücü tabloya rağmen, bu adalar, bitki örtüsü, hayvan topluluğu ve halkı açısından bana göre dünyanın en güzel yeriydi.",
+                "anahtarlar": [
+                  "hayvan"
+                ],
+                "baglam_gucu": 3,
+                "ham_baglam_gucu": 1,
+                "kanit_sinifi": "rastgele ifade",
+                "kanit_agirligi": 0.75,
+                "kanit_turu": "anlati_icerigi",
+                "olay_bolumu": "sonuç",
+                "temsil_gucu": 103.5
+              }
+            },
+            {
+              "text": "Çok hoşa giden açıklamalarda bulunmamama rağmen Fernando ve Isabel, bana olan güvenlerini kaybetmediler ve 1497 yılı son larında gerçekleştirdiğim üçüncü yolculuk için maddi destekte bulundular.",
+              "source_sentence_id": null,
+              "raw": {
+                "sayfa": 51,
+                "alinti": "Çok hoşa giden açıklamalarda bulunmamama rağmen Fernando ve Isabel, bana olan güvenlerini kaybetmediler ve 1497 yılı son larında gerçekleştirdiğim üçüncü yolculuk için maddi destekte bulundular.",
+                "anahtarlar": [
+                  "güven"
+                ],
+                "baglam_gucu": 5,
+                "ham_baglam_gucu": 5,
+                "kanit_sinifi": "yardım etme",
+                "kanit_agirligi": 1.0,
+                "kanit_turu": "olay_sahnesi",
+                "olay_bolumu": "sonuç",
+                "temsil_gucu": 179.0
+              }
+            },
+            {
+              "text": "ardından majestelerinin bana vermeyi teklif ettiği ünvanlar aklıma geldi: \"Okyanusun amirali\", \" adalar Valisi\" ve \" ana karanın yöneticisi.\" Bu yolculuğu benimle paylaşan herkese bir söz verdim.",
+              "source_sentence_id": null,
+              "raw": {
+                "sayfa": 40,
+                "alinti": "ardından majestelerinin bana vermeyi teklif ettiği ünvanlar aklıma geldi: \"Okyanusun amirali\", \" adalar Valisi\" ve \" ana karanın yöneticisi.\" Bu yolculuğu benimle paylaşan herkese bir söz verdim.",
+                "anahtarlar": [
+                  "söz",
+                  "söz verdi"
+                ],
+                "baglam_gucu": 5,
+                "ham_baglam_gucu": 5,
+                "kanit_sinifi": "değerlendirme",
+                "kanit_agirligi": 0.85,
+                "kanit_turu": "olay_sahnesi",
+                "olay_bolumu": "gelişme",
+                "temsil_gucu": 170.7
+              }
+            },
+            {
+              "text": "Hedeflerimde haklı olduğuma inanıyordum ve kendime olan güvenimi kaybetmeden beni destekleyecek başka birini aramaya koyuldum.",
+              "source_sentence_id": null,
+              "raw": {
+                "sayfa": 23,
+                "alinti": "Hedeflerimde haklı olduğuma inanıyordum ve kendime olan güvenimi kaybetmeden beni destekleyecek başka birini aramaya koyuldum.",
+                "anahtarlar": [
+                  "güven"
+                ],
+                "baglam_gucu": 4,
+                "ham_baglam_gucu": 4,
+                "kanit_sinifi": "yardım etme",
+                "kanit_agirligi": 1.0,
+                "kanit_turu": "olay_sahnesi",
+                "olay_bolumu": "gelişme",
+                "temsil_gucu": 159.0
+              }
+            },
+            {
+              "text": "\"Harikalar\" kitabı Marco Polo’nun kitabını okuduktan sonra, avrupa ve Hindistan arasındaki o kestirme yolu bulacağıma dair kendi kendime söz verdim.",
+              "source_sentence_id": null,
+              "raw": {
+                "sayfa": 14,
+                "alinti": "\"Harikalar\" kitabı Marco Polo’nun kitabını okuduktan sonra, avrupa ve Hindistan arasındaki o kestirme yolu bulacağıma dair kendi kendime söz verdim.",
+                "anahtarlar": [
+                  "söz",
+                  "söz verdi"
+                ],
+                "baglam_gucu": 4,
+                "ham_baglam_gucu": 4,
+                "kanit_sinifi": "değerlendirme",
+                "kanit_agirligi": 0.85,
+                "kanit_turu": "olay_sahnesi",
+                "olay_bolumu": "giriş",
+                "temsil_gucu": 150.7
+              }
+            },
+            {
+              "text": "Mürettebata, üç gün içinde karaya ulaşamazsak İspanya’ya döneceğimize dair söz verdim ve onları ancak bu şekilde yatıştırabildim.",
+              "source_sentence_id": null,
+              "raw": {
+                "sayfa": 36,
+                "alinti": "Mürettebata, üç gün içinde karaya ulaşamazsak İspanya’ya döneceğimize dair söz verdim ve onları ancak bu şekilde yatıştırabildim.",
+                "anahtarlar": [
+                  "söz",
+                  "söz verdi"
+                ],
+                "baglam_gucu": 2,
+                "ham_baglam_gucu": 2,
+                "kanit_sinifi": "değerlendirme",
+                "kanit_agirligi": 0.85,
+                "kanit_turu": "anlati_icerigi",
+                "olay_bolumu": "gelişme",
+                "temsil_gucu": 100.7
+              }
+            },
+            {
+              "text": "Hâl ve hareketlerinden, altının Cibao adında bir yerden geldiğini anladık.",
+              "source_sentence_id": null,
+              "raw": {
+                "sayfa": 42,
+                "alinti": "Hâl ve hareketlerinden, altının Cibao adında bir yerden geldiğini anladık.",
+                "anahtarlar": [
+                  "anladı"
+                ],
+                "baglam_gucu": 4,
+                "ham_baglam_gucu": 4,
+                "kanit_sinifi": "davranış",
+                "kanit_agirligi": 1.0,
+                "kanit_turu": "olay_sahnesi",
+                "olay_bolumu": "sonuç",
+                "temsil_gucu": 169.0
+              }
+            },
+            {
+              "text": "Bir süre sonra bunun bir şenlik ateşi olduğunu anladık.",
+              "source_sentence_id": null,
+              "raw": {
+                "sayfa": 36,
+                "alinti": "Bir süre sonra bunun bir şenlik ateşi olduğunu anladık.",
+                "anahtarlar": [
+                  "anladı"
+                ],
+                "baglam_gucu": 4,
+                "ham_baglam_gucu": 4,
+                "kanit_sinifi": "davranış",
+                "kanit_agirligi": 1.0,
+                "kanit_turu": "olay_sahnesi",
+                "olay_bolumu": "sonuç",
+                "temsil_gucu": 161.0
+              }
+            },
+            {
+              "text": "Kendimi daha da gizemli kılmak için, mektupları tarihçilerin bugün bile gerçek anlamını sorguladıkları bir şifreyle imzalamaya karar verdim: S S.a.S X M y yalnızca çocuklarıma gönderdiğim mektuplarda samimi bir dil kullanırdım, onlara gönderdiğim mektupları “Sizi, canından çok seven babanız’’ şeklinde imzalardım.",
+              "source_sentence_id": null,
+              "raw": {
+                "sayfa": 47,
+                "alinti": "Kendimi daha da gizemli kılmak için, mektupları tarihçilerin bugün bile gerçek anlamını sorguladıkları bir şifreyle imzalamaya karar verdim: S S.a.S X M y yalnızca çocuklarıma gönderdiğim mektuplarda samimi bir dil kullanırdım, onlara gönderdiğim mektupları “Sizi, canından çok seven babanız’’ şeklinde imzalardım.",
+                "anahtarlar": [
+                  "için"
+                ],
+                "baglam_gucu": 5,
+                "ham_baglam_gucu": 5,
+                "kanit_sinifi": "karar",
+                "kanit_agirligi": 1.0,
+                "kanit_turu": "olay_sahnesi",
+                "olay_bolumu": "sonuç",
+                "temsil_gucu": 187.0
+              }
+            },
+            {
+              "text": "Çok hoşa giden açıklamalarda bulunmamama rağmen Fernando ve Isabel, bana olan güvenlerini kaybetmediler ve 1497 yılı son larında gerçekleştirdiğim üçüncü yolculuk için maddi destekte bulundular.",
+              "source_sentence_id": null,
+              "raw": {
+                "sayfa": 51,
+                "alinti": "Çok hoşa giden açıklamalarda bulunmamama rağmen Fernando ve Isabel, bana olan güvenlerini kaybetmediler ve 1497 yılı son larında gerçekleştirdiğim üçüncü yolculuk için maddi destekte bulundular.",
+                "anahtarlar": [
+                  "için"
+                ],
+                "baglam_gucu": 5,
+                "ham_baglam_gucu": 5,
+                "kanit_sinifi": "yardım etme",
+                "kanit_agirligi": 1.0,
+                "kanit_turu": "olay_sahnesi",
+                "olay_bolumu": "sonuç",
+                "temsil_gucu": 179.0
+              }
+            },
+            {
+              "text": "Bu kadar çok denizciyle bir arada olmak ileride çok işime yarayacağını düşündüğüm İspanyolcayı öğrenmek için mükemmel bir fırsat olmuştu.",
+              "source_sentence_id": null,
+              "raw": {
+                "sayfa": 10,
+                "alinti": "Bu kadar çok denizciyle bir arada olmak ileride çok işime yarayacağını düşündüğüm İspanyolcayı öğrenmek için mükemmel bir fırsat olmuştu.",
+                "anahtarlar": [
+                  "için"
+                ],
+                "baglam_gucu": 4,
+                "ham_baglam_gucu": 4,
+                "kanit_sinifi": "davranış",
+                "kanit_agirligi": 1.0,
+                "kanit_turu": "olay_sahnesi",
+                "olay_bolumu": "giriş",
+                "temsil_gucu": 169.0
+              }
+            },
+            {
+              "text": "Bu kez krallar beni Burgos’ta huzurlarına kabul ettiler ve ben kendimi affettirmek için mahcup bir tavır takındım.",
+              "source_sentence_id": null,
+              "raw": {
+                "sayfa": 51,
+                "alinti": "Bu kez krallar beni Burgos’ta huzurlarına kabul ettiler ve ben kendimi affettirmek için mahcup bir tavır takındım.",
+                "anahtarlar": [
+                  "için"
+                ],
+                "baglam_gucu": 1,
+                "ham_baglam_gucu": 1,
+                "kanit_sinifi": "karar",
+                "kanit_agirligi": 1.0,
+                "kanit_turu": "anlati_icerigi",
+                "olay_bolumu": "sonuç",
+                "temsil_gucu": 169.0
+              }
+            },
+            {
+              "text": "neyse ki, rüzgâr yönündeki bu değişim, mürettebat tarafından olumlu karşılandı, çünkü bu durum, dönüş yolunda iyi rüzgârların olacağının bir gösterg esiydi.",
+              "source_sentence_id": null,
+              "raw": {
+                "sayfa": 33,
+                "alinti": "neyse ki, rüzgâr yönündeki bu değişim, mürettebat tarafından olumlu karşılandı, çünkü bu durum, dönüş yolunda iyi rüzgârların olacağının bir gösterg esiydi.",
+                "anahtarlar": [
+                  "çünkü"
+                ],
+                "baglam_gucu": 1,
+                "ham_baglam_gucu": 1,
+                "kanit_sinifi": "çatışma",
+                "kanit_agirligi": 0.9,
+                "kanit_turu": "anlati_icerigi",
+                "olay_bolumu": "gelişme",
+                "temsil_gucu": 162.8
+              }
+            },
+            {
+              "text": "ardından, bizimle birlikte gelen Hintliler kutsandılar ve ekselansları, bundan sonra bu kişilere iyi davranılmasını emretti.",
+              "source_sentence_id": null,
+              "raw": {
+                "sayfa": 44,
+                "alinti": "ardından, bizimle birlikte gelen Hintliler kutsandılar ve ekselansları, bundan sonra bu kişilere iyi davranılmasını emretti.",
+                "anahtarlar": [
+                  "sonra",
+                  "ardından"
+                ],
+                "baglam_gucu": 5,
+                "ham_baglam_gucu": 5,
+                "kanit_sinifi": "davranış",
+                "kanit_agirligi": 1.0,
+                "kanit_turu": "olay_sahnesi",
+                "olay_bolumu": "gelişme",
+                "temsil_gucu": 194.0
+              }
+            },
+            {
+              "text": "Kristof Kolomb / 47 Hindistan’a gerçekleştirdiğim yolculuk gibi basit bir şey olduğunu ancak birilerinin herkesten önce bunu akıl etmesi ve yapması gerektiğini söyledim.",
+              "source_sentence_id": null,
+              "raw": {
+                "sayfa": 47,
+                "alinti": "Kristof Kolomb / 47 Hindistan’a gerçekleştirdiğim yolculuk gibi basit bir şey olduğunu ancak birilerinin herkesten önce bunu akıl etmesi ve yapması gerektiğini söyledim.",
+                "anahtarlar": [
+                  "önce"
+                ],
+                "baglam_gucu": 5,
+                "ham_baglam_gucu": 5,
+                "kanit_sinifi": "davranış",
+                "kanit_agirligi": 1.0,
+                "kanit_turu": "olay_sahnesi",
+                "olay_bolumu": "sonuç",
+                "temsil_gucu": 189.0
+              }
+            },
+            {
+              "text": "Büyük tartışmaların ardından Portekiz kralının danışmanları, hedeflerimi gerçekleşmesi imkânsız şeyler olarak gördüler ve reddettiler.",
+              "source_sentence_id": null,
+              "raw": {
+                "sayfa": 23,
+                "alinti": "Büyük tartışmaların ardından Portekiz kralının danışmanları, hedeflerimi gerçekleşmesi imkânsız şeyler olarak gördüler ve reddettiler.",
+                "anahtarlar": [
+                  "ardından"
+                ],
+                "baglam_gucu": 4,
+                "ham_baglam_gucu": 4,
+                "kanit_sinifi": "karar",
+                "kanit_agirligi": 1.0,
+                "kanit_turu": "olay_sahnesi",
+                "olay_bolumu": "gelişme",
+                "temsil_gucu": 167.0
+              }
+            },
+            {
+              "text": "Bir süre sonra bunun bir şenlik ateşi olduğunu anladık.",
+              "source_sentence_id": null,
+              "raw": {
+                "sayfa": 36,
+                "alinti": "Bir süre sonra bunun bir şenlik ateşi olduğunu anladık.",
+                "anahtarlar": [
+                  "sonra"
+                ],
+                "baglam_gucu": 4,
+                "ham_baglam_gucu": 4,
+                "kanit_sinifi": "davranış",
+                "kanit_agirligi": 1.0,
+                "kanit_turu": "olay_sahnesi",
+                "olay_bolumu": "gelişme",
+                "temsil_gucu": 161.0
+              }
+            },
+            {
+              "text": "Kristof Kolomb / 61 Ölüm döşeğindeyken, ölümümden sonra bana San Francisco kıyafeti giydirilmesini ve yatağımın başucuna üçüncü yolculuğumda zincire vurulduğum prangaların konmasını istedim.",
+              "source_sentence_id": null,
+              "raw": {
+                "sayfa": 61,
+                "alinti": "Kristof Kolomb / 61 Ölüm döşeğindeyken, ölümümden sonra bana San Francisco kıyafeti giydirilmesini ve yatağımın başucuna üçüncü yolculuğumda zincire vurulduğum prangaların konmasını istedim.",
+                "anahtarlar": [
+                  "sonra"
+                ],
+                "baglam_gucu": 3,
+                "ham_baglam_gucu": 3,
+                "kanit_sinifi": "karar",
+                "kanit_agirligi": 1.0,
+                "kanit_turu": "olay_sahnesi",
+                "olay_bolumu": "sonuç",
+                "temsil_gucu": 147.0
+              }
+            },
+            {
+              "text": "Kendimi daha da gizemli kılmak için, mektupları tarihçilerin bugün bile gerçek anlamını sorguladıkları bir şifreyle imzalamaya karar verdim: S S.a.S X M y yalnızca çocuklarıma gönderdiğim mektuplarda samimi bir dil kullanırdım, onlara gönderdiğim mektupları “Sizi, canından çok seven babanız’’ şeklinde imzalardım.",
+              "source_sentence_id": null,
+              "raw": {
+                "sayfa": 47,
+                "alinti": "Kendimi daha da gizemli kılmak için, mektupları tarihçilerin bugün bile gerçek anlamını sorguladıkları bir şifreyle imzalamaya karar verdim: S S.a.S X M y yalnızca çocuklarıma gönderdiğim mektuplarda samimi bir dil kullanırdım, onlara gönderdiğim mektupları “Sizi, canından çok seven babanız’’ şeklinde imzalardım.",
+                "anahtarlar": [
+                  "karar"
+                ],
+                "baglam_gucu": 5,
+                "ham_baglam_gucu": 5,
+                "kanit_sinifi": "karar",
+                "kanit_agirligi": 1.0,
+                "kanit_turu": "olay_sahnesi",
+                "olay_bolumu": "sonuç",
+                "temsil_gucu": 187.0
+              }
+            },
+            {
+              "text": "1494 Tordesillas antlaşması: Dünya’nın Portekiz ve İspanya arasında paylaştırılması.",
+              "source_sentence_id": null,
+              "raw": {
+                "sayfa": 62,
+                "alinti": "1494 Tordesillas antlaşması: Dünya’nın Portekiz ve İspanya arasında paylaştırılması.",
+                "anahtarlar": [
+                  "paylaş"
+                ],
+                "baglam_gucu": 4,
+                "ham_baglam_gucu": 4,
+                "kanit_sinifi": "yardım etme",
+                "kanit_agirligi": 1.0,
+                "kanit_turu": "olay_sahnesi",
+                "olay_bolumu": "sonuç",
+                "temsil_gucu": 159.0
+              }
+            },
+            {
+              "text": "Fakat içme suyu herkese azar azar paylaştırılarak veriliyordu.",
+              "source_sentence_id": null,
+              "raw": {
+                "sayfa": 32,
+                "alinti": "Fakat içme suyu herkese azar azar paylaştırılarak veriliyordu.",
+                "anahtarlar": [
+                  "paylaş"
+                ],
+                "baglam_gucu": 3,
+                "ham_baglam_gucu": 3,
+                "kanit_sinifi": "yardım etme",
+                "kanit_agirligi": 1.0,
+                "kanit_turu": "olay_sahnesi",
+                "olay_bolumu": "gelişme",
+                "temsil_gucu": 139.0
+              }
+            },
+            {
+              "text": "Bir süre sonra bunun bir şenlik ateşi olduğunu anladık.",
+              "source_sentence_id": null,
+              "raw": {
+                "sayfa": 36,
+                "alinti": "Bir süre sonra bunun bir şenlik ateşi olduğunu anladık.",
+                "anahtarlar": [
+                  "anladı"
+                ],
+                "baglam_gucu": 4,
+                "ham_baglam_gucu": 4,
+                "kanit_sinifi": "davranış",
+                "kanit_agirligi": 1.0,
+                "kanit_turu": "olay_sahnesi",
+                "olay_bolumu": "gelişme",
+                "temsil_gucu": 161.0
+              }
+            },
+            {
+              "text": "rakipleri Portekiz’in karşı çıktığı her şeyle ilgilenen İspanya kralı, benimle bir görüşme yaptı ancak onun danışmanları da benim deli olduğumu düşündüler.",
+              "source_sentence_id": null,
+              "raw": {
+                "sayfa": 23,
+                "alinti": "rakipleri Portekiz’in karşı çıktığı her şeyle ilgilenen İspanya kralı, benimle bir görüşme yaptı ancak onun danışmanları da benim deli olduğumu düşündüler.",
+                "anahtarlar": [
+                  "ilgilen"
+                ],
+                "baglam_gucu": 5,
+                "ham_baglam_gucu": 5,
+                "kanit_sinifi": "davranış",
+                "kanit_agirligi": 1.0,
+                "kanit_turu": "olay_sahnesi",
+                "olay_bolumu": "gelişme",
+                "temsil_gucu": 189.0
+              }
+            },
+            {
+              "text": "Benim projemle ilgilenmeye hiç vakit bulamadılar ve yıllar akıp geçti.",
+              "source_sentence_id": null,
+              "raw": {
+                "sayfa": 23,
+                "alinti": "Benim projemle ilgilenmeye hiç vakit bulamadılar ve yıllar akıp geçti.",
+                "anahtarlar": [
+                  "ilgilen"
+                ],
+                "baglam_gucu": 3,
+                "ham_baglam_gucu": 1,
+                "kanit_sinifi": "rastgele ifade",
+                "kanit_agirligi": 0.75,
+                "kanit_turu": "anlati_icerigi",
+                "olay_bolumu": "gelişme",
+                "temsil_gucu": 103.5
+              }
+            },
+            {
+              "text": "\"Harikalar\" kitabı Marco Polo’nun kitabını okuduktan sonra, avrupa ve Hindistan arasındaki o kestirme yolu bulacağıma dair kendi kendime söz verdim.",
+              "source_sentence_id": null,
+              "raw": "\"Harikalar\" kitabı Marco Polo’nun kitabını okuduktan sonra, avrupa ve Hindistan arasındaki o kestirme yolu bulacağıma dair kendi kendime söz verdim."
+            },
+            {
+              "text": "-- Kristof Kolomb / 17 Çok yaygın bir hata antik çağlarda, Batlamyus gibi bazı bilim adamları dünyanın yuvarlak olduğunu ve dolayısıyla Batı’ya doğru deniz yolculuğu yapılarak Doğu ülkelerine ulaşılabileceğini savunmuşlardı.; Kristof Kolomb / 47 Hindistan’a gerçekleştirdiğim yolculuk gibi basit bir şey olduğunu ancak birilerinin herkesten önce bunu akıl etmesi ve yapması gerektiğini söyledim.",
+              "source_sentence_id": null,
+              "raw": "-- Kristof Kolomb / 17 Çok yaygın bir hata antik çağlarda, Batlamyus gibi bazı bilim adamları dünyanın yuvarlak olduğunu ve dolayısıyla Batı’ya doğru deniz yolculuğu yapılarak Doğu ülkelerine ulaşılabileceğini savunmuşlardı.; Kristof Kolomb / 47 Hindistan’a gerçekleştirdiğim yolculuk gibi basit bir şey olduğunu ancak birilerinin herkesten önce bunu akıl etmesi ve yapması gerektiğini söyledim."
+            },
+            {
+              "text": "Kristof Kolomb / 51 Üçüncü yolculuk: Eğlenceden çok sıkıntı Portekiz ve İspanya arasında imzalanan anlaşma gereği İspanya, Kanarya adaları’nın güneyine keşif yolculukları yapamıyordu.",
+              "source_sentence_id": null,
+              "raw": "Kristof Kolomb / 51 Üçüncü yolculuk: Eğlenceden çok sıkıntı Portekiz ve İspanya arasında imzalanan anlaşma gereği İspanya, Kanarya adaları’nın güneyine keşif yolculukları yapamıyordu."
+            },
+            {
+              "text": "\"Harikalar\" kitabı Marco Polo’nun kitabını okuduktan sonra, avrupa ve Hindistan arasındaki o kestirme yolu bulacağıma dair kendi kendime söz verdim.",
+              "source_sentence_id": null,
+              "raw": "\"Harikalar\" kitabı Marco Polo’nun kitabını okuduktan sonra, avrupa ve Hindistan arasındaki o kestirme yolu bulacağıma dair kendi kendime söz verdim."
+            },
+            {
+              "text": "-- Kristof Kolomb / 17 Çok yaygın bir hata antik çağlarda, Batlamyus gibi bazı bilim adamları dünyanın yuvarlak olduğunu ve dolayısıyla Batı’ya doğru deniz yolculuğu yapılarak Doğu ülkelerine ulaşılabileceğini savunmuşlardı.; Kristof Kolomb / 47 Hindistan’a gerçekleştirdiğim yolculuk gibi basit bir şey olduğunu ancak birilerinin herkesten önce bunu akıl etmesi ve yapması gerektiğini söyledim.",
+              "source_sentence_id": null,
+              "raw": "-- Kristof Kolomb / 17 Çok yaygın bir hata antik çağlarda, Batlamyus gibi bazı bilim adamları dünyanın yuvarlak olduğunu ve dolayısıyla Batı’ya doğru deniz yolculuğu yapılarak Doğu ülkelerine ulaşılabileceğini savunmuşlardı.; Kristof Kolomb / 47 Hindistan’a gerçekleştirdiğim yolculuk gibi basit bir şey olduğunu ancak birilerinin herkesten önce bunu akıl etmesi ve yapması gerektiğini söyledim."
+            },
+            {
+              "text": "-- Kristof Kolomb / 17 Çok yaygın bir hata antik çağlarda, Batlamyus gibi bazı bilim adamları dünyanın yuvarlak olduğunu ve dolayısıyla Batı’ya doğru deniz yolculuğu yapılarak Doğu ülkelerine ulaşılabileceğini savunmuşlardı.; Kristof Kolomb / 47 Hindistan’a gerçekleştirdiğim yolculuk gibi basit bir şey olduğunu ancak birilerinin herkesten önce bunu akıl etmesi ve yapması gerektiğini söyledim.",
+              "source_sentence_id": null,
+              "raw": "-- Kristof Kolomb / 17 Çok yaygın bir hata antik çağlarda, Batlamyus gibi bazı bilim adamları dünyanın yuvarlak olduğunu ve dolayısıyla Batı’ya doğru deniz yolculuğu yapılarak Doğu ülkelerine ulaşılabileceğini savunmuşlardı.; Kristof Kolomb / 47 Hindistan’a gerçekleştirdiğim yolculuk gibi basit bir şey olduğunu ancak birilerinin herkesten önce bunu akıl etmesi ve yapması gerektiğini söyledim."
+            },
+            {
+              "text": "-- Kristof Kolomb / 17 Çok yaygın bir hata antik çağlarda, Batlamyus gibi bazı bilim adamları dünyanın yuvarlak olduğunu ve dolayısıyla Batı’ya doğru deniz yolculuğu yapılarak Doğu ülkelerine ulaşılabileceğini savunmuşlardı.; Kristof Kolomb / 47 Hindistan’a gerçekleştirdiğim yolculuk gibi basit bir şey olduğunu ancak birilerinin herkesten önce bunu akıl etmesi ve yapması gerektiğini söyledim.",
+              "source_sentence_id": null,
+              "raw": "-- Kristof Kolomb / 17 Çok yaygın bir hata antik çağlarda, Batlamyus gibi bazı bilim adamları dünyanın yuvarlak olduğunu ve dolayısıyla Batı’ya doğru deniz yolculuğu yapılarak Doğu ülkelerine ulaşılabileceğini savunmuşlardı.; Kristof Kolomb / 47 Hindistan’a gerçekleştirdiğim yolculuk gibi basit bir şey olduğunu ancak birilerinin herkesten önce bunu akıl etmesi ve yapması gerektiğini söyledim."
+            },
+            {
+              "text": "Kristof Kolomb / 51 Üçüncü yolculuk: Eğlenceden çok sıkıntı Portekiz ve İspanya arasında imzalanan anlaşma gereği İspanya, Kanarya adaları’nın güneyine keşif yolculukları yapamıyordu.",
+              "source_sentence_id": null,
+              "raw": "Kristof Kolomb / 51 Üçüncü yolculuk: Eğlenceden çok sıkıntı Portekiz ve İspanya arasında imzalanan anlaşma gereği İspanya, Kanarya adaları’nın güneyine keşif yolculukları yapamıyordu."
+            },
+            {
+              "text": "\"Harikalar\" kitabı Marco Polo’nun kitabını okuduktan sonra, avrupa ve Hindistan arasındaki o kestirme yolu bulacağıma dair kendi kendime söz verdim.",
+              "source_sentence_id": null,
+              "raw": "\"Harikalar\" kitabı Marco Polo’nun kitabını okuduktan sonra, avrupa ve Hindistan arasındaki o kestirme yolu bulacağıma dair kendi kendime söz verdim."
+            },
+            {
+              "text": "-- Kristof Kolomb / 17 Çok yaygın bir hata antik çağlarda, Batlamyus gibi bazı bilim adamları dünyanın yuvarlak olduğunu ve dolayısıyla Batı’ya doğru deniz yolculuğu yapılarak Doğu ülkelerine ulaşılabileceğini savunmuşlardı.; Kristof Kolomb / 47 Hindistan’a gerçekleştirdiğim yolculuk gibi basit bir şey olduğunu ancak birilerinin herkesten önce bunu akıl etmesi ve yapması gerektiğini söyledim.",
+              "source_sentence_id": null,
+              "raw": "-- Kristof Kolomb / 17 Çok yaygın bir hata antik çağlarda, Batlamyus gibi bazı bilim adamları dünyanın yuvarlak olduğunu ve dolayısıyla Batı’ya doğru deniz yolculuğu yapılarak Doğu ülkelerine ulaşılabileceğini savunmuşlardı.; Kristof Kolomb / 47 Hindistan’a gerçekleştirdiğim yolculuk gibi basit bir şey olduğunu ancak birilerinin herkesten önce bunu akıl etmesi ve yapması gerektiğini söyledim."
+            },
+            {
+              "text": "-- Kristof Kolomb / 17 Çok yaygın bir hata antik çağlarda, Batlamyus gibi bazı bilim adamları dünyanın yuvarlak olduğunu ve dolayısıyla Batı’ya doğru deniz yolculuğu yapılarak Doğu ülkelerine ulaşılabileceğini savunmuşlardı.; Kristof Kolomb / 47 Hindistan’a gerçekleştirdiğim yolculuk gibi basit bir şey olduğunu ancak birilerinin herkesten önce bunu akıl etmesi ve yapması gerektiğini söyledim.",
+              "source_sentence_id": null,
+              "raw": "-- Kristof Kolomb / 17 Çok yaygın bir hata antik çağlarda, Batlamyus gibi bazı bilim adamları dünyanın yuvarlak olduğunu ve dolayısıyla Batı’ya doğru deniz yolculuğu yapılarak Doğu ülkelerine ulaşılabileceğini savunmuşlardı.; Kristof Kolomb / 47 Hindistan’a gerçekleştirdiğim yolculuk gibi basit bir şey olduğunu ancak birilerinin herkesten önce bunu akıl etmesi ve yapması gerektiğini söyledim."
+            },
+            {
+              "text": "-- Kristof Kolomb / 17 Çok yaygın bir hata antik çağlarda, Batlamyus gibi bazı bilim adamları dünyanın yuvarlak olduğunu ve dolayısıyla Batı’ya doğru deniz yolculuğu yapılarak Doğu ülkelerine ulaşılabileceğini savunmuşlardı.; Kristof Kolomb / 47 Hindistan’a gerçekleştirdiğim yolculuk gibi basit bir şey olduğunu ancak birilerinin herkesten önce bunu akıl etmesi ve yapması gerektiğini söyledim.",
+              "source_sentence_id": null,
+              "raw": "-- Kristof Kolomb / 17 Çok yaygın bir hata antik çağlarda, Batlamyus gibi bazı bilim adamları dünyanın yuvarlak olduğunu ve dolayısıyla Batı’ya doğru deniz yolculuğu yapılarak Doğu ülkelerine ulaşılabileceğini savunmuşlardı.; Kristof Kolomb / 47 Hindistan’a gerçekleştirdiğim yolculuk gibi basit bir şey olduğunu ancak birilerinin herkesten önce bunu akıl etmesi ve yapması gerektiğini söyledim."
+            },
+            {
+              "text": "Kristof Kolomb / 51 Üçüncü yolculuk: Eğlenceden çok sıkıntı Portekiz ve İspanya arasında imzalanan anlaşma gereği İspanya, Kanarya adaları’nın güneyine keşif yolculukları yapamıyordu.",
+              "source_sentence_id": null,
+              "raw": "Kristof Kolomb / 51 Üçüncü yolculuk: Eğlenceden çok sıkıntı Portekiz ve İspanya arasında imzalanan anlaşma gereği İspanya, Kanarya adaları’nın güneyine keşif yolculukları yapamıyordu."
+            }
+          ]
+        },
+        "metadata": {
+          "source_file": null
+        }
+      },
+      "builder_output": {
+        "narrative": "This is the story of Kristof Kolomb. It explores the themes of problem çözme, sorumluluk, dostluk, hayvan sevgisi, söz tutma, and empati. \"harikalar\" kitabı marco polo’nun kitabını okuduktan sonra, avrupa ve hindistan arasındaki o kestirme yolu bulacağıma dair kendi kendime söz verdim. Kristof Kolomb / 51 Üçüncü yolculuk: Eğlenceden çok sıkıntı Portekiz ve İspanya arasında imzalanan anlaşma gereği İspanya, Kanarya adaları’nın güneyine keşif yolculukları yapamıyordu. First, \"Harikalar\" kitabı Marco Polo’nun kitabını okuduktan sonra, avrupa ve Hindistan arasındaki o kestirme yolu bulacağıma dair kendi kendime söz verdim. Then, Kristof Kolomb / 51 Üçüncü yolculuk: Eğlenceden çok sıkıntı Portekiz ve İspanya arasında imzalanan anlaşma gereği İspanya, Kanarya adaları’nın güneyine keşif yolculukları yapamıyordu. Soon after, rakipleri Portekiz’in karşı çıktığı her şeyle ilgilenen İspanya kralı, benimle bir görüşme yaptı ancak onun danışmanları da benim deli olduğumu düşündüler. Meanwhile, Benim projemle ilgilenmeye hiç vakit bulamadılar ve yıllar akıp geçti. Finally, Barcelona’da bana karşı çok dostça davranan Fernando haftalarca beni görmeyi reddetti. The theme of problem çözme is developed through the story's events. In particular, kristof kolomb / 51 üçüncü yolculuk: eğlenceden çok sıkıntı portekiz ve i̇spanya arasında imzalanan anlaşma gereği i̇spanya, kanarya adaları’nın güneyine keşif yolculukları yapamıyordu. The theme of sorumluluk is developed through the story's events. In particular, kristof kolomb / 51 üçüncü yolculuk: eğlenceden çok sıkıntı portekiz ve i̇spanya arasında imzalanan anlaşma gereği i̇spanya, kanarya adaları’nın güneyine keşif yolculukları yapamıyordu. The theme of dostluk is developed through the story's events. In particular, kristof kolomb / 51 üçüncü yolculuk: eğlenceden çok sıkıntı portekiz ve i̇spanya arasında imzalanan anlaşma gereği i̇spanya, kanarya adaları’nın güneyine keşif yolculukları yapamıyordu. The theme of hayvan sevgisi is developed through the story's events. In particular, kristof kolomb / 51 üçüncü yolculuk: eğlenceden çok sıkıntı portekiz ve i̇spanya arasında imzalanan anlaşma gereği i̇spanya, kanarya adaları’nın güneyine keşif yolculukları yapamıyordu. The theme of söz tutma is developed through the story's events. In particular, kristof kolomb / 51 üçüncü yolculuk: eğlenceden çok sıkıntı portekiz ve i̇spanya arasında imzalanan anlaşma gereği i̇spanya, kanarya adaları’nın güneyine keşif yolculukları yapamıyordu. The theme of empati is developed through the story's events. In particular, kristof kolomb / 51 üçüncü yolculuk: eğlenceden çok sıkıntı portekiz ve i̇spanya arasında imzalanan anlaşma gereği i̇spanya, kanarya adaları’nın güneyine keşif yolculukları yapamıyordu. Kristof Kolomb finds a way forward. Barcelona’da bana karşı çok dostça davranan Fernando haftalarca beni görmeyi reddetti. This story is about problem çözme and how it shapes the way people work through the challenge together.",
+        "sections": {
+          "setup": "This is the story of Kristof Kolomb. It explores the themes of problem çözme, sorumluluk, dostluk, hayvan sevgisi, söz tutma, and empati. \"harikalar\" kitabı marco polo’nun kitabını okuduktan sonra, avrupa ve hindistan arasındaki o kestirme yolu bulacağıma dair kendi kendime söz verdim.",
+          "conflict": "Kristof Kolomb / 51 Üçüncü yolculuk: Eğlenceden çok sıkıntı Portekiz ve İspanya arasında imzalanan anlaşma gereği İspanya, Kanarya adaları’nın güneyine keşif yolculukları yapamıyordu.",
+          "events": "First, \"Harikalar\" kitabı Marco Polo’nun kitabını okuduktan sonra, avrupa ve Hindistan arasındaki o kestirme yolu bulacağıma dair kendi kendime söz verdim. Then, Kristof Kolomb / 51 Üçüncü yolculuk: Eğlenceden çok sıkıntı Portekiz ve İspanya arasında imzalanan anlaşma gereği İspanya, Kanarya adaları’nın güneyine keşif yolculukları yapamıyordu. Soon after, rakipleri Portekiz’in karşı çıktığı her şeyle ilgilenen İspanya kralı, benimle bir görüşme yaptı ancak onun danışmanları da benim deli olduğumu düşündüler. Meanwhile, Benim projemle ilgilenmeye hiç vakit bulamadılar ve yıllar akıp geçti. Finally, Barcelona’da bana karşı çok dostça davranan Fernando haftalarca beni görmeyi reddetti.",
+          "themes": "The theme of problem çözme is developed through the story's events. In particular, kristof kolomb / 51 üçüncü yolculuk: eğlenceden çok sıkıntı portekiz ve i̇spanya arasında imzalanan anlaşma gereği i̇spanya, kanarya adaları’nın güneyine keşif yolculukları yapamıyordu. The theme of sorumluluk is developed through the story's events. In particular, kristof kolomb / 51 üçüncü yolculuk: eğlenceden çok sıkıntı portekiz ve i̇spanya arasında imzalanan anlaşma gereği i̇spanya, kanarya adaları’nın güneyine keşif yolculukları yapamıyordu. The theme of dostluk is developed through the story's events. In particular, kristof kolomb / 51 üçüncü yolculuk: eğlenceden çok sıkıntı portekiz ve i̇spanya arasında imzalanan anlaşma gereği i̇spanya, kanarya adaları’nın güneyine keşif yolculukları yapamıyordu. The theme of hayvan sevgisi is developed through the story's events. In particular, kristof kolomb / 51 üçüncü yolculuk: eğlenceden çok sıkıntı portekiz ve i̇spanya arasında imzalanan anlaşma gereği i̇spanya, kanarya adaları’nın güneyine keşif yolculukları yapamıyordu. The theme of söz tutma is developed through the story's events. In particular, kristof kolomb / 51 üçüncü yolculuk: eğlenceden çok sıkıntı portekiz ve i̇spanya arasında imzalanan anlaşma gereği i̇spanya, kanarya adaları’nın güneyine keşif yolculukları yapamıyordu. The theme of empati is developed through the story's events. In particular, kristof kolomb / 51 üçüncü yolculuk: eğlenceden çok sıkıntı portekiz ve i̇spanya arasında imzalanan anlaşma gereği i̇spanya, kanarya adaları’nın güneyine keşif yolculukları yapamıyordu.",
+          "resolution": "Kristof Kolomb finds a way forward. Barcelona’da bana karşı çok dostça davranan Fernando haftalarca beni görmeyi reddetti.",
+          "message": "This story is about problem çözme and how it shapes the way people work through the challenge together."
+        },
+        "metadata": {
+          "character_count": 10,
+          "theme_count": 6,
+          "event_count": 0,
+          "word_count": 404,
+          "deterministic": true
+        }
+      },
+      "evaluation": {
+        "summary_quality_score": 23.8,
+        "coverage": 0.3,
+        "coherence": 0.565,
+        "character_presence": 0.3,
+        "conflict_present": true,
+        "resolution_present": true,
+        "main_message_present": true,
+        "evidence_concatenation_detected": false,
+        "repetition_score": 0.208,
+        "concreteness_score": 0.002,
+        "information_density": 0.381,
+        "passed": false
+      },
+      "synthesized_trace": [
+        {
+          "original": "\"Harikalar\" kitabı Marco Polo’nun kitabını okuduktan sonra, avrupa ve Hindistan arasındaki o kestirme yolu bulacağıma dair kendi kendime söz verdim.",
+          "synthesized": "\"Harikalar\" kitabı Marco Polo’nun kitabını okuduktan sonra, avrupa ve Hindistan arasındaki o kestirme yolu bulacağıma dair kendi kendime söz verdim.",
+          "source_sentence_id": "p14:s4"
+        },
+        {
+          "original": "Kristof Kolomb / 51 Üçüncü yolculuk: Eğlenceden çok sıkıntı Portekiz ve İspanya arasında imzalanan anlaşma gereği İspanya, Kanarya adaları’nın güneyine keşif yolculukları yapamıyordu.",
+          "synthesized": "Kristof Kolomb / 51 Üçüncü yolculuk: Eğlenceden çok sıkıntı Portekiz ve İspanya arasında imzalanan anlaşma gereği İspanya, Kanarya adaları’nın güneyine keşif yolculukları yapamıyordu.",
+          "source_sentence_id": "p51:s14"
+        },
+        {
+          "original": "rakipleri Portekiz’in karşı çıktığı her şeyle ilgilenen İspanya kralı, benimle bir görüşme yaptı ancak onun danışmanları da benim deli olduğumu düşündüler.",
+          "synthesized": "Rakipleri Portekiz’in karşı çıktığı her şeyle ilgilenen İspanya kralı, benimle bir görüşme yaptı ancak onun danışmanları da benim deli olduğumu düşündüler.",
+          "source_sentence_id": null
+        },
+        {
+          "original": "Benim projemle ilgilenmeye hiç vakit bulamadılar ve yıllar akıp geçti.",
+          "synthesized": "Benim projemle ilgilenmeye hiç vakit bulamadılar ve yıllar akıp geçti.",
+          "source_sentence_id": null
+        },
+        {
+          "original": "ardından, bizimle birlikte gelen Hintliler kutsandılar ve ekselansları, bundan sonra bu kişilere iyi davranılmasını emretti.",
+          "synthesized": "Ardından, bizimle birlikte gelen Hintliler kutsandılar ve ekselansları, bundan sonra bu kişilere iyi davranılmasını emretti.",
+          "source_sentence_id": null
+        },
+        {
+          "original": "Barcelona’da bana karşı çok dostça davranan Fernando haftalarca beni görmeyi reddetti.",
+          "synthesized": "Barcelona’da bana karşı çok dostça davranan Fernando haftalarca beni görmeyi reddetti.",
+          "source_sentence_id": null
+        },
+        {
+          "original": "Kristof Kolomb / 31 nöbet değişimlerinde, zabitler pusulaların yönlerini birbirleriyle karşılaştırıyor ve geminin hızı ile birlikte kat edilen mesafeyi belirliyorlardı.",
+          "synthesized": "Kristof Kolomb / 31 nöbet değişimlerinde, zabitler pusulaların yönlerini birbirleriyle karşılaştırıyor ve geminin hızı ile birlikte kat edilen mesafeyi belirliyorlardı.",
+          "source_sentence_id": null
+        },
+        {
+          "original": "Bu üzücü tabloya rağmen, bu adalar, bitki örtüsü, hayvan topluluğu ve halkı açısından bana göre dünyanın en güzel yeriydi.",
+          "synthesized": "Bu üzücü tabloya rağmen, bu adalar, bitki örtüsü, hayvan topluluğu ve halkı açısından bana göre dünyanın en güzel yeriydi.",
+          "source_sentence_id": null
+        },
+        {
+          "original": "Çok hoşa giden açıklamalarda bulunmamama rağmen Fernando ve Isabel, bana olan güvenlerini kaybetmediler ve 1497 yılı son larında gerçekleştirdiğim üçüncü yolculuk için maddi destekte bulundular.",
+          "synthesized": "Çok hoşa giden açıklamalarda bulunmamama rağmen Fernando ve Isabel, bana olan güvenlerini kaybetmediler ve 1497 yılı son larında gerçekleştirdiğim üçüncü yolculuk için maddi destekte bulundular.",
+          "source_sentence_id": null
+        },
+        {
+          "original": "ardından majestelerinin bana vermeyi teklif ettiği ünvanlar aklıma geldi: \"Okyanusun amirali\", \" adalar Valisi\" ve \" ana karanın yöneticisi.\" Bu yolculuğu benimle paylaşan herkese bir söz verdim.",
+          "synthesized": "Ardından majestelerinin bana vermeyi teklif ettiği ünvanlar aklıma geldi: \"Okyanusun amirali\", \" adalar Valisi\" ve \" ana karanın yöneticisi.\" Bu yolculuğu benimle paylaşan herkese bir söz verdim.",
+          "source_sentence_id": null
+        },
+        {
+          "original": "Hedeflerimde haklı olduğuma inanıyordum ve kendime olan güvenimi kaybetmeden beni destekleyecek başka birini aramaya koyuldum.",
+          "synthesized": "Hedeflerimde haklı olduğuma inanıyordum ve kendime olan güvenimi kaybetmeden beni destekleyecek başka birini aramaya koyuldum.",
+          "source_sentence_id": null
+        },
+        {
+          "original": "\"Harikalar\" kitabı Marco Polo’nun kitabını okuduktan sonra, avrupa ve Hindistan arasındaki o kestirme yolu bulacağıma dair kendi kendime söz verdim.",
+          "synthesized": "\"Harikalar\" kitabı Marco Polo’nun kitabını okuduktan sonra, avrupa ve Hindistan arasındaki o kestirme yolu bulacağıma dair kendi kendime söz verdim.",
+          "source_sentence_id": null
+        },
+        {
+          "original": "Mürettebata, üç gün içinde karaya ulaşamazsak İspanya’ya döneceğimize dair söz verdim ve onları ancak bu şekilde yatıştırabildim.",
+          "synthesized": "Mürettebata, üç gün içinde karaya ulaşamazsak İspanya’ya döneceğimize dair söz verdim ve onları ancak bu şekilde yatıştırabildim.",
+          "source_sentence_id": null
+        },
+        {
+          "original": "Hâl ve hareketlerinden, altının Cibao adında bir yerden geldiğini anladık.",
+          "synthesized": "Hâl ve hareketlerinden, altının Cibao adında bir yerden geldiğini anladık.",
+          "source_sentence_id": null
+        },
+        {
+          "original": "Bir süre sonra bunun bir şenlik ateşi olduğunu anladık.",
+          "synthesized": "Bir süre sonra bunun bir şenlik ateşi olduğunu anladık.",
+          "source_sentence_id": null
+        },
+        {
+          "original": "Kendimi daha da gizemli kılmak için, mektupları tarihçilerin bugün bile gerçek anlamını sorguladıkları bir şifreyle imzalamaya karar verdim: S S.a.S X M y yalnızca çocuklarıma gönderdiğim mektuplarda samimi bir dil kullanırdım, onlara gönderdiğim mektupları “Sizi, canından çok seven babanız’’ şeklinde imzalardım.",
+          "synthesized": "Kendimi daha da gizemli kılmak için, mektupları tarihçilerin bugün bile gerçek anlamını sorguladıkları bir şifreyle imzalamaya karar verdim: S S.a.S X M y yalnızca çocuklarıma gönderdiğim mektuplarda samimi bir dil kullanırdım, onlara gönderdiğim mektupları “Sizi, canından çok seven babanız’’ şeklinde imzalardım.",
+          "source_sentence_id": null
+        },
+        {
+          "original": "Çok hoşa giden açıklamalarda bulunmamama rağmen Fernando ve Isabel, bana olan güvenlerini kaybetmediler ve 1497 yılı son larında gerçekleştirdiğim üçüncü yolculuk için maddi destekte bulundular.",
+          "synthesized": "Çok hoşa giden açıklamalarda bulunmamama rağmen Fernando ve Isabel, bana olan güvenlerini kaybetmediler ve 1497 yılı son larında gerçekleştirdiğim üçüncü yolculuk için maddi destekte bulundular.",
+          "source_sentence_id": null
+        },
+        {
+          "original": "Bu kadar çok denizciyle bir arada olmak ileride çok işime yarayacağını düşündüğüm İspanyolcayı öğrenmek için mükemmel bir fırsat olmuştu.",
+          "synthesized": "Bu kadar çok denizciyle bir arada olmak ileride çok işime yarayacağını düşündüğüm İspanyolcayı öğrenmek için mükemmel bir fırsat olmuştu.",
+          "source_sentence_id": null
+        },
+        {
+          "original": "Bu kez krallar beni Burgos’ta huzurlarına kabul ettiler ve ben kendimi affettirmek için mahcup bir tavır takındım.",
+          "synthesized": "Bu kez krallar beni Burgos’ta huzurlarına kabul ettiler ve ben kendimi affettirmek için mahcup bir tavır takındım.",
+          "source_sentence_id": null
+        },
+        {
+          "original": "neyse ki, rüzgâr yönündeki bu değişim, mürettebat tarafından olumlu karşılandı, çünkü bu durum, dönüş yolunda iyi rüzgârların olacağının bir gösterg esiydi.",
+          "synthesized": "Neyse ki, rüzgâr yönündeki bu değişim, mürettebat tarafından olumlu karşılandı, çünkü bu durum, dönüş yolunda iyi rüzgârların olacağının bir gösterg esiydi.",
+          "source_sentence_id": null
+        },
+        {
+          "original": "ardından, bizimle birlikte gelen Hintliler kutsandılar ve ekselansları, bundan sonra bu kişilere iyi davranılmasını emretti.",
+          "synthesized": "Ardından, bizimle birlikte gelen Hintliler kutsandılar ve ekselansları, bundan sonra bu kişilere iyi davranılmasını emretti.",
+          "source_sentence_id": null
+        },
+        {
+          "original": "Kristof Kolomb / 47 Hindistan’a gerçekleştirdiğim yolculuk gibi basit bir şey olduğunu ancak birilerinin herkesten önce bunu akıl etmesi ve yapması gerektiğini söyledim.",
+          "synthesized": "Kristof Kolomb / 47 Hindistan’a gerçekleştirdiğim yolculuk gibi basit bir şey olduğunu ancak birilerinin herkesten önce bunu akıl etmesi ve yapması gerektiğini söyledim.",
+          "source_sentence_id": null
+        },
+        {
+          "original": "Büyük tartışmaların ardından Portekiz kralının danışmanları, hedeflerimi gerçekleşmesi imkânsız şeyler olarak gördüler ve reddettiler.",
+          "synthesized": "Büyük tartışmaların ardından Portekiz kralının danışmanları, hedeflerimi gerçekleşmesi imkânsız şeyler olarak gördüler ve reddettiler.",
+          "source_sentence_id": null
+        },
+        {
+          "original": "Bir süre sonra bunun bir şenlik ateşi olduğunu anladık.",
+          "synthesized": "Bir süre sonra bunun bir şenlik ateşi olduğunu anladık.",
+          "source_sentence_id": null
+        },
+        {
+          "original": "Kristof Kolomb / 61 Ölüm döşeğindeyken, ölümümden sonra bana San Francisco kıyafeti giydirilmesini ve yatağımın başucuna üçüncü yolculuğumda zincire vurulduğum prangaların konmasını istedim.",
+          "synthesized": "Kristof Kolomb / 61 Ölüm döşeğindeyken, ölümümden sonra bana San Francisco kıyafeti giydirilmesini ve yatağımın başucuna üçüncü yolculuğumda zincire vurulduğum prangaların konmasını istedim.",
+          "source_sentence_id": null
+        },
+        {
+          "original": "Kendimi daha da gizemli kılmak için, mektupları tarihçilerin bugün bile gerçek anlamını sorguladıkları bir şifreyle imzalamaya karar verdim: S S.a.S X M y yalnızca çocuklarıma gönderdiğim mektuplarda samimi bir dil kullanırdım, onlara gönderdiğim mektupları “Sizi, canından çok seven babanız’’ şeklinde imzalardım.",
+          "synthesized": "Kendimi daha da gizemli kılmak için, mektupları tarihçilerin bugün bile gerçek anlamını sorguladıkları bir şifreyle imzalamaya karar verdim: S S.a.S X M y yalnızca çocuklarıma gönderdiğim mektuplarda samimi bir dil kullanırdım, onlara gönderdiğim mektupları “Sizi, canından çok seven babanız’’ şeklinde imzalardım.",
+          "source_sentence_id": null
+        },
+        {
+          "original": "1494 Tordesillas antlaşması: Dünya’nın Portekiz ve İspanya arasında paylaştırılması.",
+          "synthesized": "1494 Tordesillas antlaşması: Dünya’nın Portekiz ve İspanya arasında paylaştırılması.",
+          "source_sentence_id": null
+        },
+        {
+          "original": "Fakat içme suyu herkese azar azar paylaştırılarak veriliyordu.",
+          "synthesized": "Fakat içme suyu herkese azar azar paylaştırılarak veriliyordu.",
+          "source_sentence_id": null
+        },
+        {
+          "original": "Bir süre sonra bunun bir şenlik ateşi olduğunu anladık.",
+          "synthesized": "Bir süre sonra bunun bir şenlik ateşi olduğunu anladık.",
+          "source_sentence_id": null
+        },
+        {
+          "original": "rakipleri Portekiz’in karşı çıktığı her şeyle ilgilenen İspanya kralı, benimle bir görüşme yaptı ancak onun danışmanları da benim deli olduğumu düşündüler.",
+          "synthesized": "Rakipleri Portekiz’in karşı çıktığı her şeyle ilgilenen İspanya kralı, benimle bir görüşme yaptı ancak onun danışmanları da benim deli olduğumu düşündüler.",
+          "source_sentence_id": null
+        },
+        {
+          "original": "Benim projemle ilgilenmeye hiç vakit bulamadılar ve yıllar akıp geçti.",
+          "synthesized": "Benim projemle ilgilenmeye hiç vakit bulamadılar ve yıllar akıp geçti.",
+          "source_sentence_id": null
+        },
+        {
+          "original": "\"Harikalar\" kitabı Marco Polo’nun kitabını okuduktan sonra, avrupa ve Hindistan arasındaki o kestirme yolu bulacağıma dair kendi kendime söz verdim.",
+          "synthesized": "\"Harikalar\" kitabı Marco Polo’nun kitabını okuduktan sonra, avrupa ve Hindistan arasındaki o kestirme yolu bulacağıma dair kendi kendime söz verdim.",
+          "source_sentence_id": null
+        },
+        {
+          "original": "-- Kristof Kolomb / 17 Çok yaygın bir hata antik çağlarda, Batlamyus gibi bazı bilim adamları dünyanın yuvarlak olduğunu ve dolayısıyla Batı’ya doğru deniz yolculuğu yapılarak Doğu ülkelerine ulaşılabileceğini savunmuşlardı.; Kristof Kolomb / 47 Hindistan’a gerçekleştirdiğim yolculuk gibi basit bir şey olduğunu ancak birilerinin herkesten önce bunu akıl etmesi ve yapması gerektiğini söyledim.",
+          "synthesized": "-- Kristof Kolomb / 17 Çok yaygın bir hata antik çağlarda, Batlamyus gibi bazı bilim adamları dünyanın yuvarlak olduğunu ve dolayısıyla Batı’ya doğru deniz yolculuğu yapılarak Doğu ülkelerine ulaşılabileceğini savunmuşlardı.; Kristof Kolomb / 47 Hindistan’a gerçekleştirdiğim yolculuk gibi basit bir şey olduğunu ancak birilerinin herkesten önce bunu akıl etmesi ve yapması gerektiğini söyledim.",
+          "source_sentence_id": null
+        },
+        {
+          "original": "Kristof Kolomb / 51 Üçüncü yolculuk: Eğlenceden çok sıkıntı Portekiz ve İspanya arasında imzalanan anlaşma gereği İspanya, Kanarya adaları’nın güneyine keşif yolculukları yapamıyordu.",
+          "synthesized": "Kristof Kolomb / 51 Üçüncü yolculuk: Eğlenceden çok sıkıntı Portekiz ve İspanya arasında imzalanan anlaşma gereği İspanya, Kanarya adaları’nın güneyine keşif yolculukları yapamıyordu.",
+          "source_sentence_id": null
+        },
+        {
+          "original": "\"Harikalar\" kitabı Marco Polo’nun kitabını okuduktan sonra, avrupa ve Hindistan arasındaki o kestirme yolu bulacağıma dair kendi kendime söz verdim.",
+          "synthesized": "\"Harikalar\" kitabı Marco Polo’nun kitabını okuduktan sonra, avrupa ve Hindistan arasındaki o kestirme yolu bulacağıma dair kendi kendime söz verdim.",
+          "source_sentence_id": null
+        },
+        {
+          "original": "-- Kristof Kolomb / 17 Çok yaygın bir hata antik çağlarda, Batlamyus gibi bazı bilim adamları dünyanın yuvarlak olduğunu ve dolayısıyla Batı’ya doğru deniz yolculuğu yapılarak Doğu ülkelerine ulaşılabileceğini savunmuşlardı.; Kristof Kolomb / 47 Hindistan’a gerçekleştirdiğim yolculuk gibi basit bir şey olduğunu ancak birilerinin herkesten önce bunu akıl etmesi ve yapması gerektiğini söyledim.",
+          "synthesized": "-- Kristof Kolomb / 17 Çok yaygın bir hata antik çağlarda, Batlamyus gibi bazı bilim adamları dünyanın yuvarlak olduğunu ve dolayısıyla Batı’ya doğru deniz yolculuğu yapılarak Doğu ülkelerine ulaşılabileceğini savunmuşlardı.; Kristof Kolomb / 47 Hindistan’a gerçekleştirdiğim yolculuk gibi basit bir şey olduğunu ancak birilerinin herkesten önce bunu akıl etmesi ve yapması gerektiğini söyledim.",
+          "source_sentence_id": null
+        },
+        {
+          "original": "-- Kristof Kolomb / 17 Çok yaygın bir hata antik çağlarda, Batlamyus gibi bazı bilim adamları dünyanın yuvarlak olduğunu ve dolayısıyla Batı’ya doğru deniz yolculuğu yapılarak Doğu ülkelerine ulaşılabileceğini savunmuşlardı.; Kristof Kolomb / 47 Hindistan’a gerçekleştirdiğim yolculuk gibi basit bir şey olduğunu ancak birilerinin herkesten önce bunu akıl etmesi ve yapması gerektiğini söyledim.",
+          "synthesized": "-- Kristof Kolomb / 17 Çok yaygın bir hata antik çağlarda, Batlamyus gibi bazı bilim adamları dünyanın yuvarlak olduğunu ve dolayısıyla Batı’ya doğru deniz yolculuğu yapılarak Doğu ülkelerine ulaşılabileceğini savunmuşlardı.; Kristof Kolomb / 47 Hindistan’a gerçekleştirdiğim yolculuk gibi basit bir şey olduğunu ancak birilerinin herkesten önce bunu akıl etmesi ve yapması gerektiğini söyledim.",
+          "source_sentence_id": null
+        },
+        {
+          "original": "-- Kristof Kolomb / 17 Çok yaygın bir hata antik çağlarda, Batlamyus gibi bazı bilim adamları dünyanın yuvarlak olduğunu ve dolayısıyla Batı’ya doğru deniz yolculuğu yapılarak Doğu ülkelerine ulaşılabileceğini savunmuşlardı.; Kristof Kolomb / 47 Hindistan’a gerçekleştirdiğim yolculuk gibi basit bir şey olduğunu ancak birilerinin herkesten önce bunu akıl etmesi ve yapması gerektiğini söyledim.",
+          "synthesized": "-- Kristof Kolomb / 17 Çok yaygın bir hata antik çağlarda, Batlamyus gibi bazı bilim adamları dünyanın yuvarlak olduğunu ve dolayısıyla Batı’ya doğru deniz yolculuğu yapılarak Doğu ülkelerine ulaşılabileceğini savunmuşlardı.; Kristof Kolomb / 47 Hindistan’a gerçekleştirdiğim yolculuk gibi basit bir şey olduğunu ancak birilerinin herkesten önce bunu akıl etmesi ve yapması gerektiğini söyledim.",
+          "source_sentence_id": null
+        },
+        {
+          "original": "Kristof Kolomb / 51 Üçüncü yolculuk: Eğlenceden çok sıkıntı Portekiz ve İspanya arasında imzalanan anlaşma gereği İspanya, Kanarya adaları’nın güneyine keşif yolculukları yapamıyordu.",
+          "synthesized": "Kristof Kolomb / 51 Üçüncü yolculuk: Eğlenceden çok sıkıntı Portekiz ve İspanya arasında imzalanan anlaşma gereği İspanya, Kanarya adaları’nın güneyine keşif yolculukları yapamıyordu.",
+          "source_sentence_id": null
+        },
+        {
+          "original": "\"Harikalar\" kitabı Marco Polo’nun kitabını okuduktan sonra, avrupa ve Hindistan arasındaki o kestirme yolu bulacağıma dair kendi kendime söz verdim.",
+          "synthesized": "\"Harikalar\" kitabı Marco Polo’nun kitabını okuduktan sonra, avrupa ve Hindistan arasındaki o kestirme yolu bulacağıma dair kendi kendime söz verdim.",
+          "source_sentence_id": null
+        },
+        {
+          "original": "-- Kristof Kolomb / 17 Çok yaygın bir hata antik çağlarda, Batlamyus gibi bazı bilim adamları dünyanın yuvarlak olduğunu ve dolayısıyla Batı’ya doğru deniz yolculuğu yapılarak Doğu ülkelerine ulaşılabileceğini savunmuşlardı.; Kristof Kolomb / 47 Hindistan’a gerçekleştirdiğim yolculuk gibi basit bir şey olduğunu ancak birilerinin herkesten önce bunu akıl etmesi ve yapması gerektiğini söyledim.",
+          "synthesized": "-- Kristof Kolomb / 17 Çok yaygın bir hata antik çağlarda, Batlamyus gibi bazı bilim adamları dünyanın yuvarlak olduğunu ve dolayısıyla Batı’ya doğru deniz yolculuğu yapılarak Doğu ülkelerine ulaşılabileceğini savunmuşlardı.; Kristof Kolomb / 47 Hindistan’a gerçekleştirdiğim yolculuk gibi basit bir şey olduğunu ancak birilerinin herkesten önce bunu akıl etmesi ve yapması gerektiğini söyledim.",
+          "source_sentence_id": null
+        },
+        {
+          "original": "-- Kristof Kolomb / 17 Çok yaygın bir hata antik çağlarda, Batlamyus gibi bazı bilim adamları dünyanın yuvarlak olduğunu ve dolayısıyla Batı’ya doğru deniz yolculuğu yapılarak Doğu ülkelerine ulaşılabileceğini savunmuşlardı.; Kristof Kolomb / 47 Hindistan’a gerçekleştirdiğim yolculuk gibi basit bir şey olduğunu ancak birilerinin herkesten önce bunu akıl etmesi ve yapması gerektiğini söyledim.",
+          "synthesized": "-- Kristof Kolomb / 17 Çok yaygın bir hata antik çağlarda, Batlamyus gibi bazı bilim adamları dünyanın yuvarlak olduğunu ve dolayısıyla Batı’ya doğru deniz yolculuğu yapılarak Doğu ülkelerine ulaşılabileceğini savunmuşlardı.; Kristof Kolomb / 47 Hindistan’a gerçekleştirdiğim yolculuk gibi basit bir şey olduğunu ancak birilerinin herkesten önce bunu akıl etmesi ve yapması gerektiğini söyledim.",
+          "source_sentence_id": null
+        },
+        {
+          "original": "-- Kristof Kolomb / 17 Çok yaygın bir hata antik çağlarda, Batlamyus gibi bazı bilim adamları dünyanın yuvarlak olduğunu ve dolayısıyla Batı’ya doğru deniz yolculuğu yapılarak Doğu ülkelerine ulaşılabileceğini savunmuşlardı.; Kristof Kolomb / 47 Hindistan’a gerçekleştirdiğim yolculuk gibi basit bir şey olduğunu ancak birilerinin herkesten önce bunu akıl etmesi ve yapması gerektiğini söyledim.",
+          "synthesized": "-- Kristof Kolomb / 17 Çok yaygın bir hata antik çağlarda, Batlamyus gibi bazı bilim adamları dünyanın yuvarlak olduğunu ve dolayısıyla Batı’ya doğru deniz yolculuğu yapılarak Doğu ülkelerine ulaşılabileceğini savunmuşlardı.; Kristof Kolomb / 47 Hindistan’a gerçekleştirdiğim yolculuk gibi basit bir şey olduğunu ancak birilerinin herkesten önce bunu akıl etmesi ve yapması gerektiğini söyledim.",
+          "source_sentence_id": null
+        },
+        {
+          "original": "Kristof Kolomb / 51 Üçüncü yolculuk: Eğlenceden çok sıkıntı Portekiz ve İspanya arasında imzalanan anlaşma gereği İspanya, Kanarya adaları’nın güneyine keşif yolculukları yapamıyordu.",
+          "synthesized": "Kristof Kolomb / 51 Üçüncü yolculuk: Eğlenceden çok sıkıntı Portekiz ve İspanya arasında imzalanan anlaşma gereği İspanya, Kanarya adaları’nın güneyine keşif yolculukları yapamıyordu.",
+          "source_sentence_id": null
+        }
+      ]
+    },
+    {
+      "file": "runtime_2_build_pdf_report_input.json",
+      "title": "benim_adim_kristof_kolomb.pdf",
+      "summary_ir": {
+        "title": "benim_adim_kristof_kolomb.pdf",
+        "central_entities": [
+          "Kristof Kolomb",
+          "Hernando Kolomb",
+          "Marco Polo",
+          "Filipa Monis",
+          "Kral Fernando",
+          "Bartolome",
+          "Kraliçe Isabel",
+          "Adım"
+        ],
+        "themes": [
+          "problem çözme",
+          "sorumluluk",
+          "dostluk",
+          "hayvan sevgisi",
+          "söz tutma",
+          "empati"
+        ],
+        "evidence_snippets": {
+          "setup": [
+            "\"Harikalar\" kitabı Marco Polo’nun kitabını okuduktan sonra, avrupa ve Hindistan arasındaki o kestirme yolu bulacağıma dair kendi kendime söz verdim."
+          ],
+          "conflict": [
+            "Kristof Kolomb / 51 Üçüncü yolculuk: Eğlenceden çok sıkıntı Portekiz ve İspanya arasında imzalanan anlaşma gereği İspanya, Kanarya adaları’nın güneyine keşif yolculukları yapamıyordu."
+          ],
+          "events": [
+            "rakipleri Portekiz’in karşı çıktığı her şeyle ilgilenen İspanya kralı, benimle bir görüşme yaptı ancak onun danışmanları da benim deli olduğumu düşündüler.",
+            "Benim projemle ilgilenmeye hiç vakit bulamadılar ve yıllar akıp geçti.",
+            "ardından, bizimle birlikte gelen Hintliler kutsandılar ve ekselansları, bundan sonra bu kişilere iyi davranılmasını emretti."
+          ],
+          "resolution": [
+            "Barcelona’da bana karşı çok dostça davranan Fernando haftalarca beni görmeyi reddetti."
+          ],
+          "__raw_extracted__": [
+            {
+              "text": "\"Harikalar\" kitabı Marco Polo’nun kitabını okuduktan sonra, avrupa ve Hindistan arasındaki o kestirme yolu bulacağıma dair kendi kendime söz verdim.",
+              "source_sentence_id": "p14:s4",
+              "raw": {
+                "sayfa": 14,
+                "metin": "\"Harikalar\" kitabı Marco Polo’nun kitabını okuduktan sonra, avrupa ve Hindistan arasındaki o kestirme yolu bulacağıma dair kendi kendime söz verdim.",
+                "alinti": "\"Harikalar\" kitabı Marco Polo’nun kitabını okuduktan sonra, avrupa ve Hindistan arasındaki o kestirme yolu bulacağıma dair kendi kendime söz verdim.",
+                "anahtarlar": [
+                  "problem çözme",
+                  "ipucunu okumak"
+                ],
+                "olay_bolumu": "olay",
+                "source_sentence_id": "p14:s4",
+                "event_id": null,
+                "temsil_gucu": 70.7
+              }
+            },
+            {
+              "text": "Kristof Kolomb / 51 Üçüncü yolculuk: Eğlenceden çok sıkıntı Portekiz ve İspanya arasında imzalanan anlaşma gereği İspanya, Kanarya adaları’nın güneyine keşif yolculukları yapamıyordu.",
+              "source_sentence_id": "p51:s14",
+              "raw": {
+                "sayfa": 51,
+                "metin": "Kristof Kolomb / 51 Üçüncü yolculuk: Eğlenceden çok sıkıntı Portekiz ve İspanya arasında imzalanan anlaşma gereği İspanya, Kanarya adaları’nın güneyine keşif yolculukları yapamıyordu.",
+                "alinti": "Kristof Kolomb / 51 Üçüncü yolculuk: Eğlenceden çok sıkıntı Portekiz ve İspanya arasında imzalanan anlaşma gereği İspanya, Kanarya adaları’nın güneyine keşif yolculukları yapamıyordu.",
+                "anahtarlar": [
+                  "problem çözme",
+                  "çözüm yolunu anlamak"
+                ],
+                "olay_bolumu": "olay",
+                "source_sentence_id": "p51:s14",
+                "event_id": null,
+                "temsil_gucu": 44.2
+              }
+            },
+            {
+              "text": "rakipleri Portekiz’in karşı çıktığı her şeyle ilgilenen İspanya kralı, benimle bir görüşme yaptı ancak onun danışmanları da benim deli olduğumu düşündüler.",
+              "source_sentence_id": null,
+              "raw": {
+                "sayfa": 23,
+                "alinti": "rakipleri Portekiz’in karşı çıktığı her şeyle ilgilenen İspanya kralı, benimle bir görüşme yaptı ancak onun danışmanları da benim deli olduğumu düşündüler.",
+                "anahtarlar": [
+                  "ilgilen"
+                ],
+                "baglam_gucu": 5,
+                "ham_baglam_gucu": 5,
+                "kanit_sinifi": "davranış",
+                "kanit_agirligi": 1.0,
+                "kanit_turu": "olay_sahnesi",
+                "olay_bolumu": "gelişme",
+                "temsil_gucu": 189.0
+              }
+            },
+            {
+              "text": "Benim projemle ilgilenmeye hiç vakit bulamadılar ve yıllar akıp geçti.",
+              "source_sentence_id": null,
+              "raw": {
+                "sayfa": 23,
+                "alinti": "Benim projemle ilgilenmeye hiç vakit bulamadılar ve yıllar akıp geçti.",
+                "anahtarlar": [
+                  "ilgilen"
+                ],
+                "baglam_gucu": 3,
+                "ham_baglam_gucu": 1,
+                "kanit_sinifi": "rastgele ifade",
+                "kanit_agirligi": 0.75,
+                "kanit_turu": "anlati_icerigi",
+                "olay_bolumu": "gelişme",
+                "temsil_gucu": 103.5
+              }
+            },
+            {
+              "text": "ardından, bizimle birlikte gelen Hintliler kutsandılar ve ekselansları, bundan sonra bu kişilere iyi davranılmasını emretti.",
+              "source_sentence_id": null,
+              "raw": {
+                "sayfa": 44,
+                "alinti": "ardından, bizimle birlikte gelen Hintliler kutsandılar ve ekselansları, bundan sonra bu kişilere iyi davranılmasını emretti.",
+                "anahtarlar": [
+                  "birlikte"
+                ],
+                "baglam_gucu": 5,
+                "ham_baglam_gucu": 5,
+                "kanit_sinifi": "davranış",
+                "kanit_agirligi": 1.0,
+                "kanit_turu": "olay_sahnesi",
+                "olay_bolumu": "sonuç",
+                "temsil_gucu": 189.0
+              }
+            },
+            {
+              "text": "Barcelona’da bana karşı çok dostça davranan Fernando haftalarca beni görmeyi reddetti.",
+              "source_sentence_id": null,
+              "raw": {
+                "sayfa": 60,
+                "alinti": "Barcelona’da bana karşı çok dostça davranan Fernando haftalarca beni görmeyi reddetti.",
+                "anahtarlar": [
+                  "dost"
+                ],
+                "baglam_gucu": 3,
+                "ham_baglam_gucu": 3,
+                "kanit_sinifi": "karar",
+                "kanit_agirligi": 1.0,
+                "kanit_turu": "olay_sahnesi",
+                "olay_bolumu": "sonuç",
+                "temsil_gucu": 147.0
+              }
+            },
+            {
+              "text": "Kristof Kolomb / 31 nöbet değişimlerinde, zabitler pusulaların yönlerini birbirleriyle karşılaştırıyor ve geminin hızı ile birlikte kat edilen mesafeyi belirliyorlardı.",
+              "source_sentence_id": null,
+              "raw": {
+                "sayfa": 31,
+                "alinti": "Kristof Kolomb / 31 nöbet değişimlerinde, zabitler pusulaların yönlerini birbirleriyle karşılaştırıyor ve geminin hızı ile birlikte kat edilen mesafeyi belirliyorlardı.",
+                "anahtarlar": [
+                  "birlikte"
+                ],
+                "baglam_gucu": 3,
+                "ham_baglam_gucu": 3,
+                "kanit_sinifi": "çatışma",
+                "kanit_agirligi": 0.9,
+                "kanit_turu": "olay_sahnesi",
+                "olay_bolumu": "gelişme",
+                "temsil_gucu": 132.8
+              }
+            },
+            {
+              "text": "Bu üzücü tabloya rağmen, bu adalar, bitki örtüsü, hayvan topluluğu ve halkı açısından bana göre dünyanın en güzel yeriydi.",
+              "source_sentence_id": null,
+              "raw": {
+                "sayfa": 43,
+                "alinti": "Bu üzücü tabloya rağmen, bu adalar, bitki örtüsü, hayvan topluluğu ve halkı açısından bana göre dünyanın en güzel yeriydi.",
+                "anahtarlar": [
+                  "hayvan"
+                ],
+                "baglam_gucu": 3,
+                "ham_baglam_gucu": 1,
+                "kanit_sinifi": "rastgele ifade",
+                "kanit_agirligi": 0.75,
+                "kanit_turu": "anlati_icerigi",
+                "olay_bolumu": "sonuç",
+                "temsil_gucu": 103.5
+              }
+            },
+            {
+              "text": "Çok hoşa giden açıklamalarda bulunmamama rağmen Fernando ve Isabel, bana olan güvenlerini kaybetmediler ve 1497 yılı son larında gerçekleştirdiğim üçüncü yolculuk için maddi destekte bulundular.",
+              "source_sentence_id": null,
+              "raw": {
+                "sayfa": 51,
+                "alinti": "Çok hoşa giden açıklamalarda bulunmamama rağmen Fernando ve Isabel, bana olan güvenlerini kaybetmediler ve 1497 yılı son larında gerçekleştirdiğim üçüncü yolculuk için maddi destekte bulundular.",
+                "anahtarlar": [
+                  "güven"
+                ],
+                "baglam_gucu": 5,
+                "ham_baglam_gucu": 5,
+                "kanit_sinifi": "yardım etme",
+                "kanit_agirligi": 1.0,
+                "kanit_turu": "olay_sahnesi",
+                "olay_bolumu": "sonuç",
+                "temsil_gucu": 179.0
+              }
+            },
+            {
+              "text": "ardından majestelerinin bana vermeyi teklif ettiği ünvanlar aklıma geldi: \"Okyanusun amirali\", \" adalar Valisi\" ve \" ana karanın yöneticisi.\" Bu yolculuğu benimle paylaşan herkese bir söz verdim.",
+              "source_sentence_id": null,
+              "raw": {
+                "sayfa": 40,
+                "alinti": "ardından majestelerinin bana vermeyi teklif ettiği ünvanlar aklıma geldi: \"Okyanusun amirali\", \" adalar Valisi\" ve \" ana karanın yöneticisi.\" Bu yolculuğu benimle paylaşan herkese bir söz verdim.",
+                "anahtarlar": [
+                  "söz",
+                  "söz verdi"
+                ],
+                "baglam_gucu": 5,
+                "ham_baglam_gucu": 5,
+                "kanit_sinifi": "değerlendirme",
+                "kanit_agirligi": 0.85,
+                "kanit_turu": "olay_sahnesi",
+                "olay_bolumu": "gelişme",
+                "temsil_gucu": 170.7
+              }
+            },
+            {
+              "text": "Hedeflerimde haklı olduğuma inanıyordum ve kendime olan güvenimi kaybetmeden beni destekleyecek başka birini aramaya koyuldum.",
+              "source_sentence_id": null,
+              "raw": {
+                "sayfa": 23,
+                "alinti": "Hedeflerimde haklı olduğuma inanıyordum ve kendime olan güvenimi kaybetmeden beni destekleyecek başka birini aramaya koyuldum.",
+                "anahtarlar": [
+                  "güven"
+                ],
+                "baglam_gucu": 4,
+                "ham_baglam_gucu": 4,
+                "kanit_sinifi": "yardım etme",
+                "kanit_agirligi": 1.0,
+                "kanit_turu": "olay_sahnesi",
+                "olay_bolumu": "gelişme",
+                "temsil_gucu": 159.0
+              }
+            },
+            {
+              "text": "\"Harikalar\" kitabı Marco Polo’nun kitabını okuduktan sonra, avrupa ve Hindistan arasındaki o kestirme yolu bulacağıma dair kendi kendime söz verdim.",
+              "source_sentence_id": null,
+              "raw": {
+                "sayfa": 14,
+                "alinti": "\"Harikalar\" kitabı Marco Polo’nun kitabını okuduktan sonra, avrupa ve Hindistan arasındaki o kestirme yolu bulacağıma dair kendi kendime söz verdim.",
+                "anahtarlar": [
+                  "söz",
+                  "söz verdi"
+                ],
+                "baglam_gucu": 4,
+                "ham_baglam_gucu": 4,
+                "kanit_sinifi": "değerlendirme",
+                "kanit_agirligi": 0.85,
+                "kanit_turu": "olay_sahnesi",
+                "olay_bolumu": "giriş",
+                "temsil_gucu": 150.7
+              }
+            },
+            {
+              "text": "Mürettebata, üç gün içinde karaya ulaşamazsak İspanya’ya döneceğimize dair söz verdim ve onları ancak bu şekilde yatıştırabildim.",
+              "source_sentence_id": null,
+              "raw": {
+                "sayfa": 36,
+                "alinti": "Mürettebata, üç gün içinde karaya ulaşamazsak İspanya’ya döneceğimize dair söz verdim ve onları ancak bu şekilde yatıştırabildim.",
+                "anahtarlar": [
+                  "söz",
+                  "söz verdi"
+                ],
+                "baglam_gucu": 2,
+                "ham_baglam_gucu": 2,
+                "kanit_sinifi": "değerlendirme",
+                "kanit_agirligi": 0.85,
+                "kanit_turu": "anlati_icerigi",
+                "olay_bolumu": "gelişme",
+                "temsil_gucu": 100.7
+              }
+            },
+            {
+              "text": "Hâl ve hareketlerinden, altının Cibao adında bir yerden geldiğini anladık.",
+              "source_sentence_id": null,
+              "raw": {
+                "sayfa": 42,
+                "alinti": "Hâl ve hareketlerinden, altının Cibao adında bir yerden geldiğini anladık.",
+                "anahtarlar": [
+                  "anladı"
+                ],
+                "baglam_gucu": 4,
+                "ham_baglam_gucu": 4,
+                "kanit_sinifi": "davranış",
+                "kanit_agirligi": 1.0,
+                "kanit_turu": "olay_sahnesi",
+                "olay_bolumu": "sonuç",
+                "temsil_gucu": 169.0
+              }
+            },
+            {
+              "text": "Bir süre sonra bunun bir şenlik ateşi olduğunu anladık.",
+              "source_sentence_id": null,
+              "raw": {
+                "sayfa": 36,
+                "alinti": "Bir süre sonra bunun bir şenlik ateşi olduğunu anladık.",
+                "anahtarlar": [
+                  "anladı"
+                ],
+                "baglam_gucu": 4,
+                "ham_baglam_gucu": 4,
+                "kanit_sinifi": "davranış",
+                "kanit_agirligi": 1.0,
+                "kanit_turu": "olay_sahnesi",
+                "olay_bolumu": "sonuç",
+                "temsil_gucu": 161.0
+              }
+            },
+            {
+              "text": "Kendimi daha da gizemli kılmak için, mektupları tarihçilerin bugün bile gerçek anlamını sorguladıkları bir şifreyle imzalamaya karar verdim: S S.a.S X M y yalnızca çocuklarıma gönderdiğim mektuplarda samimi bir dil kullanırdım, onlara gönderdiğim mektupları “Sizi, canından çok seven babanız’’ şeklinde imzalardım.",
+              "source_sentence_id": null,
+              "raw": {
+                "sayfa": 47,
+                "alinti": "Kendimi daha da gizemli kılmak için, mektupları tarihçilerin bugün bile gerçek anlamını sorguladıkları bir şifreyle imzalamaya karar verdim: S S.a.S X M y yalnızca çocuklarıma gönderdiğim mektuplarda samimi bir dil kullanırdım, onlara gönderdiğim mektupları “Sizi, canından çok seven babanız’’ şeklinde imzalardım.",
+                "anahtarlar": [
+                  "için"
+                ],
+                "baglam_gucu": 5,
+                "ham_baglam_gucu": 5,
+                "kanit_sinifi": "karar",
+                "kanit_agirligi": 1.0,
+                "kanit_turu": "olay_sahnesi",
+                "olay_bolumu": "sonuç",
+                "temsil_gucu": 187.0
+              }
+            },
+            {
+              "text": "Çok hoşa giden açıklamalarda bulunmamama rağmen Fernando ve Isabel, bana olan güvenlerini kaybetmediler ve 1497 yılı son larında gerçekleştirdiğim üçüncü yolculuk için maddi destekte bulundular.",
+              "source_sentence_id": null,
+              "raw": {
+                "sayfa": 51,
+                "alinti": "Çok hoşa giden açıklamalarda bulunmamama rağmen Fernando ve Isabel, bana olan güvenlerini kaybetmediler ve 1497 yılı son larında gerçekleştirdiğim üçüncü yolculuk için maddi destekte bulundular.",
+                "anahtarlar": [
+                  "için"
+                ],
+                "baglam_gucu": 5,
+                "ham_baglam_gucu": 5,
+                "kanit_sinifi": "yardım etme",
+                "kanit_agirligi": 1.0,
+                "kanit_turu": "olay_sahnesi",
+                "olay_bolumu": "sonuç",
+                "temsil_gucu": 179.0
+              }
+            },
+            {
+              "text": "Bu kadar çok denizciyle bir arada olmak ileride çok işime yarayacağını düşündüğüm İspanyolcayı öğrenmek için mükemmel bir fırsat olmuştu.",
+              "source_sentence_id": null,
+              "raw": {
+                "sayfa": 10,
+                "alinti": "Bu kadar çok denizciyle bir arada olmak ileride çok işime yarayacağını düşündüğüm İspanyolcayı öğrenmek için mükemmel bir fırsat olmuştu.",
+                "anahtarlar": [
+                  "için"
+                ],
+                "baglam_gucu": 4,
+                "ham_baglam_gucu": 4,
+                "kanit_sinifi": "davranış",
+                "kanit_agirligi": 1.0,
+                "kanit_turu": "olay_sahnesi",
+                "olay_bolumu": "giriş",
+                "temsil_gucu": 169.0
+              }
+            },
+            {
+              "text": "Bu kez krallar beni Burgos’ta huzurlarına kabul ettiler ve ben kendimi affettirmek için mahcup bir tavır takındım.",
+              "source_sentence_id": null,
+              "raw": {
+                "sayfa": 51,
+                "alinti": "Bu kez krallar beni Burgos’ta huzurlarına kabul ettiler ve ben kendimi affettirmek için mahcup bir tavır takındım.",
+                "anahtarlar": [
+                  "için"
+                ],
+                "baglam_gucu": 1,
+                "ham_baglam_gucu": 1,
+                "kanit_sinifi": "karar",
+                "kanit_agirligi": 1.0,
+                "kanit_turu": "anlati_icerigi",
+                "olay_bolumu": "sonuç",
+                "temsil_gucu": 169.0
+              }
+            },
+            {
+              "text": "neyse ki, rüzgâr yönündeki bu değişim, mürettebat tarafından olumlu karşılandı, çünkü bu durum, dönüş yolunda iyi rüzgârların olacağının bir gösterg esiydi.",
+              "source_sentence_id": null,
+              "raw": {
+                "sayfa": 33,
+                "alinti": "neyse ki, rüzgâr yönündeki bu değişim, mürettebat tarafından olumlu karşılandı, çünkü bu durum, dönüş yolunda iyi rüzgârların olacağının bir gösterg esiydi.",
+                "anahtarlar": [
+                  "çünkü"
+                ],
+                "baglam_gucu": 1,
+                "ham_baglam_gucu": 1,
+                "kanit_sinifi": "çatışma",
+                "kanit_agirligi": 0.9,
+                "kanit_turu": "anlati_icerigi",
+                "olay_bolumu": "gelişme",
+                "temsil_gucu": 162.8
+              }
+            },
+            {
+              "text": "ardından, bizimle birlikte gelen Hintliler kutsandılar ve ekselansları, bundan sonra bu kişilere iyi davranılmasını emretti.",
+              "source_sentence_id": null,
+              "raw": {
+                "sayfa": 44,
+                "alinti": "ardından, bizimle birlikte gelen Hintliler kutsandılar ve ekselansları, bundan sonra bu kişilere iyi davranılmasını emretti.",
+                "anahtarlar": [
+                  "sonra",
+                  "ardından"
+                ],
+                "baglam_gucu": 5,
+                "ham_baglam_gucu": 5,
+                "kanit_sinifi": "davranış",
+                "kanit_agirligi": 1.0,
+                "kanit_turu": "olay_sahnesi",
+                "olay_bolumu": "gelişme",
+                "temsil_gucu": 194.0
+              }
+            },
+            {
+              "text": "Kristof Kolomb / 47 Hindistan’a gerçekleştirdiğim yolculuk gibi basit bir şey olduğunu ancak birilerinin herkesten önce bunu akıl etmesi ve yapması gerektiğini söyledim.",
+              "source_sentence_id": null,
+              "raw": {
+                "sayfa": 47,
+                "alinti": "Kristof Kolomb / 47 Hindistan’a gerçekleştirdiğim yolculuk gibi basit bir şey olduğunu ancak birilerinin herkesten önce bunu akıl etmesi ve yapması gerektiğini söyledim.",
+                "anahtarlar": [
+                  "önce"
+                ],
+                "baglam_gucu": 5,
+                "ham_baglam_gucu": 5,
+                "kanit_sinifi": "davranış",
+                "kanit_agirligi": 1.0,
+                "kanit_turu": "olay_sahnesi",
+                "olay_bolumu": "sonuç",
+                "temsil_gucu": 189.0
+              }
+            },
+            {
+              "text": "Büyük tartışmaların ardından Portekiz kralının danışmanları, hedeflerimi gerçekleşmesi imkânsız şeyler olarak gördüler ve reddettiler.",
+              "source_sentence_id": null,
+              "raw": {
+                "sayfa": 23,
+                "alinti": "Büyük tartışmaların ardından Portekiz kralının danışmanları, hedeflerimi gerçekleşmesi imkânsız şeyler olarak gördüler ve reddettiler.",
+                "anahtarlar": [
+                  "ardından"
+                ],
+                "baglam_gucu": 4,
+                "ham_baglam_gucu": 4,
+                "kanit_sinifi": "karar",
+                "kanit_agirligi": 1.0,
+                "kanit_turu": "olay_sahnesi",
+                "olay_bolumu": "gelişme",
+                "temsil_gucu": 167.0
+              }
+            },
+            {
+              "text": "Bir süre sonra bunun bir şenlik ateşi olduğunu anladık.",
+              "source_sentence_id": null,
+              "raw": {
+                "sayfa": 36,
+                "alinti": "Bir süre sonra bunun bir şenlik ateşi olduğunu anladık.",
+                "anahtarlar": [
+                  "sonra"
+                ],
+                "baglam_gucu": 4,
+                "ham_baglam_gucu": 4,
+                "kanit_sinifi": "davranış",
+                "kanit_agirligi": 1.0,
+                "kanit_turu": "olay_sahnesi",
+                "olay_bolumu": "gelişme",
+                "temsil_gucu": 161.0
+              }
+            },
+            {
+              "text": "Kristof Kolomb / 61 Ölüm döşeğindeyken, ölümümden sonra bana San Francisco kıyafeti giydirilmesini ve yatağımın başucuna üçüncü yolculuğumda zincire vurulduğum prangaların konmasını istedim.",
+              "source_sentence_id": null,
+              "raw": {
+                "sayfa": 61,
+                "alinti": "Kristof Kolomb / 61 Ölüm döşeğindeyken, ölümümden sonra bana San Francisco kıyafeti giydirilmesini ve yatağımın başucuna üçüncü yolculuğumda zincire vurulduğum prangaların konmasını istedim.",
+                "anahtarlar": [
+                  "sonra"
+                ],
+                "baglam_gucu": 3,
+                "ham_baglam_gucu": 3,
+                "kanit_sinifi": "karar",
+                "kanit_agirligi": 1.0,
+                "kanit_turu": "olay_sahnesi",
+                "olay_bolumu": "sonuç",
+                "temsil_gucu": 147.0
+              }
+            },
+            {
+              "text": "Kendimi daha da gizemli kılmak için, mektupları tarihçilerin bugün bile gerçek anlamını sorguladıkları bir şifreyle imzalamaya karar verdim: S S.a.S X M y yalnızca çocuklarıma gönderdiğim mektuplarda samimi bir dil kullanırdım, onlara gönderdiğim mektupları “Sizi, canından çok seven babanız’’ şeklinde imzalardım.",
+              "source_sentence_id": null,
+              "raw": {
+                "sayfa": 47,
+                "alinti": "Kendimi daha da gizemli kılmak için, mektupları tarihçilerin bugün bile gerçek anlamını sorguladıkları bir şifreyle imzalamaya karar verdim: S S.a.S X M y yalnızca çocuklarıma gönderdiğim mektuplarda samimi bir dil kullanırdım, onlara gönderdiğim mektupları “Sizi, canından çok seven babanız’’ şeklinde imzalardım.",
+                "anahtarlar": [
+                  "karar"
+                ],
+                "baglam_gucu": 5,
+                "ham_baglam_gucu": 5,
+                "kanit_sinifi": "karar",
+                "kanit_agirligi": 1.0,
+                "kanit_turu": "olay_sahnesi",
+                "olay_bolumu": "sonuç",
+                "temsil_gucu": 187.0
+              }
+            },
+            {
+              "text": "1494 Tordesillas antlaşması: Dünya’nın Portekiz ve İspanya arasında paylaştırılması.",
+              "source_sentence_id": null,
+              "raw": {
+                "sayfa": 62,
+                "alinti": "1494 Tordesillas antlaşması: Dünya’nın Portekiz ve İspanya arasında paylaştırılması.",
+                "anahtarlar": [
+                  "paylaş"
+                ],
+                "baglam_gucu": 4,
+                "ham_baglam_gucu": 4,
+                "kanit_sinifi": "yardım etme",
+                "kanit_agirligi": 1.0,
+                "kanit_turu": "olay_sahnesi",
+                "olay_bolumu": "sonuç",
+                "temsil_gucu": 159.0
+              }
+            },
+            {
+              "text": "Fakat içme suyu herkese azar azar paylaştırılarak veriliyordu.",
+              "source_sentence_id": null,
+              "raw": {
+                "sayfa": 32,
+                "alinti": "Fakat içme suyu herkese azar azar paylaştırılarak veriliyordu.",
+                "anahtarlar": [
+                  "paylaş"
+                ],
+                "baglam_gucu": 3,
+                "ham_baglam_gucu": 3,
+                "kanit_sinifi": "yardım etme",
+                "kanit_agirligi": 1.0,
+                "kanit_turu": "olay_sahnesi",
+                "olay_bolumu": "gelişme",
+                "temsil_gucu": 139.0
+              }
+            },
+            {
+              "text": "Bir süre sonra bunun bir şenlik ateşi olduğunu anladık.",
+              "source_sentence_id": null,
+              "raw": {
+                "sayfa": 36,
+                "alinti": "Bir süre sonra bunun bir şenlik ateşi olduğunu anladık.",
+                "anahtarlar": [
+                  "anladı"
+                ],
+                "baglam_gucu": 4,
+                "ham_baglam_gucu": 4,
+                "kanit_sinifi": "davranış",
+                "kanit_agirligi": 1.0,
+                "kanit_turu": "olay_sahnesi",
+                "olay_bolumu": "gelişme",
+                "temsil_gucu": 161.0
+              }
+            },
+            {
+              "text": "rakipleri Portekiz’in karşı çıktığı her şeyle ilgilenen İspanya kralı, benimle bir görüşme yaptı ancak onun danışmanları da benim deli olduğumu düşündüler.",
+              "source_sentence_id": null,
+              "raw": {
+                "sayfa": 23,
+                "alinti": "rakipleri Portekiz’in karşı çıktığı her şeyle ilgilenen İspanya kralı, benimle bir görüşme yaptı ancak onun danışmanları da benim deli olduğumu düşündüler.",
+                "anahtarlar": [
+                  "ilgilen"
+                ],
+                "baglam_gucu": 5,
+                "ham_baglam_gucu": 5,
+                "kanit_sinifi": "davranış",
+                "kanit_agirligi": 1.0,
+                "kanit_turu": "olay_sahnesi",
+                "olay_bolumu": "gelişme",
+                "temsil_gucu": 189.0
+              }
+            },
+            {
+              "text": "Benim projemle ilgilenmeye hiç vakit bulamadılar ve yıllar akıp geçti.",
+              "source_sentence_id": null,
+              "raw": {
+                "sayfa": 23,
+                "alinti": "Benim projemle ilgilenmeye hiç vakit bulamadılar ve yıllar akıp geçti.",
+                "anahtarlar": [
+                  "ilgilen"
+                ],
+                "baglam_gucu": 3,
+                "ham_baglam_gucu": 1,
+                "kanit_sinifi": "rastgele ifade",
+                "kanit_agirligi": 0.75,
+                "kanit_turu": "anlati_icerigi",
+                "olay_bolumu": "gelişme",
+                "temsil_gucu": 103.5
+              }
+            },
+            {
+              "text": "-- Kristof Kolomb / 17 Çok yaygın bir hata antik çağlarda, Batlamyus gibi bazı bilim adamları dünyanın yuvarlak olduğunu ve dolayısıyla Batı’ya doğru deniz yolculuğu yapılarak Doğu ülkelerine ulaşılabileceğini savunmuşlardı.; Kristof Kolomb / 47 Hindistan’a gerçekleştirdiğim yolculuk gibi basit bir şey olduğunu ancak birilerinin herkesten önce bunu akıl etmesi ve yapması gerektiğini söyledim.",
+              "source_sentence_id": null,
+              "raw": "-- Kristof Kolomb / 17 Çok yaygın bir hata antik çağlarda, Batlamyus gibi bazı bilim adamları dünyanın yuvarlak olduğunu ve dolayısıyla Batı’ya doğru deniz yolculuğu yapılarak Doğu ülkelerine ulaşılabileceğini savunmuşlardı.; Kristof Kolomb / 47 Hindistan’a gerçekleştirdiğim yolculuk gibi basit bir şey olduğunu ancak birilerinin herkesten önce bunu akıl etmesi ve yapması gerektiğini söyledim."
+            },
+            {
+              "text": "Kristof Kolomb / 51 Üçüncü yolculuk: Eğlenceden çok sıkıntı Portekiz ve İspanya arasında imzalanan anlaşma gereği İspanya, Kanarya adaları’nın güneyine keşif yolculukları yapamıyordu.",
+              "source_sentence_id": null,
+              "raw": "Kristof Kolomb / 51 Üçüncü yolculuk: Eğlenceden çok sıkıntı Portekiz ve İspanya arasında imzalanan anlaşma gereği İspanya, Kanarya adaları’nın güneyine keşif yolculukları yapamıyordu."
+            },
+            {
+              "text": "\"Harikalar\" kitabı Marco Polo’nun kitabını okuduktan sonra, avrupa ve Hindistan arasındaki o kestirme yolu bulacağıma dair kendi kendime söz verdim.",
+              "source_sentence_id": null,
+              "raw": "\"Harikalar\" kitabı Marco Polo’nun kitabını okuduktan sonra, avrupa ve Hindistan arasındaki o kestirme yolu bulacağıma dair kendi kendime söz verdim."
+            },
+            {
+              "text": "-- Kristof Kolomb / 17 Çok yaygın bir hata antik çağlarda, Batlamyus gibi bazı bilim adamları dünyanın yuvarlak olduğunu ve dolayısıyla Batı’ya doğru deniz yolculuğu yapılarak Doğu ülkelerine ulaşılabileceğini savunmuşlardı.; Kristof Kolomb / 47 Hindistan’a gerçekleştirdiğim yolculuk gibi basit bir şey olduğunu ancak birilerinin herkesten önce bunu akıl etmesi ve yapması gerektiğini söyledim.",
+              "source_sentence_id": null,
+              "raw": "-- Kristof Kolomb / 17 Çok yaygın bir hata antik çağlarda, Batlamyus gibi bazı bilim adamları dünyanın yuvarlak olduğunu ve dolayısıyla Batı’ya doğru deniz yolculuğu yapılarak Doğu ülkelerine ulaşılabileceğini savunmuşlardı.; Kristof Kolomb / 47 Hindistan’a gerçekleştirdiğim yolculuk gibi basit bir şey olduğunu ancak birilerinin herkesten önce bunu akıl etmesi ve yapması gerektiğini söyledim."
+            },
+            {
+              "text": "-- Kristof Kolomb / 17 Çok yaygın bir hata antik çağlarda, Batlamyus gibi bazı bilim adamları dünyanın yuvarlak olduğunu ve dolayısıyla Batı’ya doğru deniz yolculuğu yapılarak Doğu ülkelerine ulaşılabileceğini savunmuşlardı.; Kristof Kolomb / 47 Hindistan’a gerçekleştirdiğim yolculuk gibi basit bir şey olduğunu ancak birilerinin herkesten önce bunu akıl etmesi ve yapması gerektiğini söyledim.",
+              "source_sentence_id": null,
+              "raw": "-- Kristof Kolomb / 17 Çok yaygın bir hata antik çağlarda, Batlamyus gibi bazı bilim adamları dünyanın yuvarlak olduğunu ve dolayısıyla Batı’ya doğru deniz yolculuğu yapılarak Doğu ülkelerine ulaşılabileceğini savunmuşlardı.; Kristof Kolomb / 47 Hindistan’a gerçekleştirdiğim yolculuk gibi basit bir şey olduğunu ancak birilerinin herkesten önce bunu akıl etmesi ve yapması gerektiğini söyledim."
+            },
+            {
+              "text": "-- Kristof Kolomb / 17 Çok yaygın bir hata antik çağlarda, Batlamyus gibi bazı bilim adamları dünyanın yuvarlak olduğunu ve dolayısıyla Batı’ya doğru deniz yolculuğu yapılarak Doğu ülkelerine ulaşılabileceğini savunmuşlardı.; Kristof Kolomb / 47 Hindistan’a gerçekleştirdiğim yolculuk gibi basit bir şey olduğunu ancak birilerinin herkesten önce bunu akıl etmesi ve yapması gerektiğini söyledim.",
+              "source_sentence_id": null,
+              "raw": "-- Kristof Kolomb / 17 Çok yaygın bir hata antik çağlarda, Batlamyus gibi bazı bilim adamları dünyanın yuvarlak olduğunu ve dolayısıyla Batı’ya doğru deniz yolculuğu yapılarak Doğu ülkelerine ulaşılabileceğini savunmuşlardı.; Kristof Kolomb / 47 Hindistan’a gerçekleştirdiğim yolculuk gibi basit bir şey olduğunu ancak birilerinin herkesten önce bunu akıl etmesi ve yapması gerektiğini söyledim."
+            },
+            {
+              "text": "Kristof Kolomb / 51 Üçüncü yolculuk: Eğlenceden çok sıkıntı Portekiz ve İspanya arasında imzalanan anlaşma gereği İspanya, Kanarya adaları’nın güneyine keşif yolculukları yapamıyordu.",
+              "source_sentence_id": null,
+              "raw": "Kristof Kolomb / 51 Üçüncü yolculuk: Eğlenceden çok sıkıntı Portekiz ve İspanya arasında imzalanan anlaşma gereği İspanya, Kanarya adaları’nın güneyine keşif yolculukları yapamıyordu."
+            },
+            {
+              "text": "\"Harikalar\" kitabı Marco Polo’nun kitabını okuduktan sonra, avrupa ve Hindistan arasındaki o kestirme yolu bulacağıma dair kendi kendime söz verdim.",
+              "source_sentence_id": null,
+              "raw": "\"Harikalar\" kitabı Marco Polo’nun kitabını okuduktan sonra, avrupa ve Hindistan arasındaki o kestirme yolu bulacağıma dair kendi kendime söz verdim."
+            },
+            {
+              "text": "-- Kristof Kolomb / 17 Çok yaygın bir hata antik çağlarda, Batlamyus gibi bazı bilim adamları dünyanın yuvarlak olduğunu ve dolayısıyla Batı’ya doğru deniz yolculuğu yapılarak Doğu ülkelerine ulaşılabileceğini savunmuşlardı.; Kristof Kolomb / 47 Hindistan’a gerçekleştirdiğim yolculuk gibi basit bir şey olduğunu ancak birilerinin herkesten önce bunu akıl etmesi ve yapması gerektiğini söyledim.",
+              "source_sentence_id": null,
+              "raw": "-- Kristof Kolomb / 17 Çok yaygın bir hata antik çağlarda, Batlamyus gibi bazı bilim adamları dünyanın yuvarlak olduğunu ve dolayısıyla Batı’ya doğru deniz yolculuğu yapılarak Doğu ülkelerine ulaşılabileceğini savunmuşlardı.; Kristof Kolomb / 47 Hindistan’a gerçekleştirdiğim yolculuk gibi basit bir şey olduğunu ancak birilerinin herkesten önce bunu akıl etmesi ve yapması gerektiğini söyledim."
+            },
+            {
+              "text": "-- Kristof Kolomb / 17 Çok yaygın bir hata antik çağlarda, Batlamyus gibi bazı bilim adamları dünyanın yuvarlak olduğunu ve dolayısıyla Batı’ya doğru deniz yolculuğu yapılarak Doğu ülkelerine ulaşılabileceğini savunmuşlardı.; Kristof Kolomb / 47 Hindistan’a gerçekleştirdiğim yolculuk gibi basit bir şey olduğunu ancak birilerinin herkesten önce bunu akıl etmesi ve yapması gerektiğini söyledim.",
+              "source_sentence_id": null,
+              "raw": "-- Kristof Kolomb / 17 Çok yaygın bir hata antik çağlarda, Batlamyus gibi bazı bilim adamları dünyanın yuvarlak olduğunu ve dolayısıyla Batı’ya doğru deniz yolculuğu yapılarak Doğu ülkelerine ulaşılabileceğini savunmuşlardı.; Kristof Kolomb / 47 Hindistan’a gerçekleştirdiğim yolculuk gibi basit bir şey olduğunu ancak birilerinin herkesten önce bunu akıl etmesi ve yapması gerektiğini söyledim."
+            },
+            {
+              "text": "-- Kristof Kolomb / 17 Çok yaygın bir hata antik çağlarda, Batlamyus gibi bazı bilim adamları dünyanın yuvarlak olduğunu ve dolayısıyla Batı’ya doğru deniz yolculuğu yapılarak Doğu ülkelerine ulaşılabileceğini savunmuşlardı.; Kristof Kolomb / 47 Hindistan’a gerçekleştirdiğim yolculuk gibi basit bir şey olduğunu ancak birilerinin herkesten önce bunu akıl etmesi ve yapması gerektiğini söyledim.",
+              "source_sentence_id": null,
+              "raw": "-- Kristof Kolomb / 17 Çok yaygın bir hata antik çağlarda, Batlamyus gibi bazı bilim adamları dünyanın yuvarlak olduğunu ve dolayısıyla Batı’ya doğru deniz yolculuğu yapılarak Doğu ülkelerine ulaşılabileceğini savunmuşlardı.; Kristof Kolomb / 47 Hindistan’a gerçekleştirdiğim yolculuk gibi basit bir şey olduğunu ancak birilerinin herkesten önce bunu akıl etmesi ve yapması gerektiğini söyledim."
+            },
+            {
+              "text": "Kristof Kolomb / 51 Üçüncü yolculuk: Eğlenceden çok sıkıntı Portekiz ve İspanya arasında imzalanan anlaşma gereği İspanya, Kanarya adaları’nın güneyine keşif yolculukları yapamıyordu.",
+              "source_sentence_id": null,
+              "raw": "Kristof Kolomb / 51 Üçüncü yolculuk: Eğlenceden çok sıkıntı Portekiz ve İspanya arasında imzalanan anlaşma gereği İspanya, Kanarya adaları’nın güneyine keşif yolculukları yapamıyordu."
+            }
+          ]
+        },
+        "metadata": {
+          "source_file": null
+        }
+      },
+      "builder_output": {
+        "narrative": "This is the story of Kristof Kolomb. It explores the themes of problem çözme, sorumluluk, dostluk, hayvan sevgisi, söz tutma, and empati. \"harikalar\" kitabı marco polo’nun kitabını okuduktan sonra, avrupa ve hindistan arasındaki o kestirme yolu bulacağıma dair kendi kendime söz verdim. Kristof Kolomb / 51 Üçüncü yolculuk: Eğlenceden çok sıkıntı Portekiz ve İspanya arasında imzalanan anlaşma gereği İspanya, Kanarya adaları’nın güneyine keşif yolculukları yapamıyordu. First, \"Harikalar\" kitabı Marco Polo’nun kitabını okuduktan sonra, avrupa ve Hindistan arasındaki o kestirme yolu bulacağıma dair kendi kendime söz verdim. Then, Kristof Kolomb / 51 Üçüncü yolculuk: Eğlenceden çok sıkıntı Portekiz ve İspanya arasında imzalanan anlaşma gereği İspanya, Kanarya adaları’nın güneyine keşif yolculukları yapamıyordu. Soon after, rakipleri Portekiz’in karşı çıktığı her şeyle ilgilenen İspanya kralı, benimle bir görüşme yaptı ancak onun danışmanları da benim deli olduğumu düşündüler. Meanwhile, Benim projemle ilgilenmeye hiç vakit bulamadılar ve yıllar akıp geçti. Finally, Barcelona’da bana karşı çok dostça davranan Fernando haftalarca beni görmeyi reddetti. The theme of problem çözme is developed through the story's events. In particular, kristof kolomb / 51 üçüncü yolculuk: eğlenceden çok sıkıntı portekiz ve i̇spanya arasında imzalanan anlaşma gereği i̇spanya, kanarya adaları’nın güneyine keşif yolculukları yapamıyordu. The theme of sorumluluk is developed through the story's events. In particular, kristof kolomb / 51 üçüncü yolculuk: eğlenceden çok sıkıntı portekiz ve i̇spanya arasında imzalanan anlaşma gereği i̇spanya, kanarya adaları’nın güneyine keşif yolculukları yapamıyordu. The theme of dostluk is developed through the story's events. In particular, kristof kolomb / 51 üçüncü yolculuk: eğlenceden çok sıkıntı portekiz ve i̇spanya arasında imzalanan anlaşma gereği i̇spanya, kanarya adaları’nın güneyine keşif yolculukları yapamıyordu. The theme of hayvan sevgisi is developed through the story's events. In particular, kristof kolomb / 51 üçüncü yolculuk: eğlenceden çok sıkıntı portekiz ve i̇spanya arasında imzalanan anlaşma gereği i̇spanya, kanarya adaları’nın güneyine keşif yolculukları yapamıyordu. The theme of söz tutma is developed through the story's events. In particular, kristof kolomb / 51 üçüncü yolculuk: eğlenceden çok sıkıntı portekiz ve i̇spanya arasında imzalanan anlaşma gereği i̇spanya, kanarya adaları’nın güneyine keşif yolculukları yapamıyordu. The theme of empati is developed through the story's events. In particular, kristof kolomb / 51 üçüncü yolculuk: eğlenceden çok sıkıntı portekiz ve i̇spanya arasında imzalanan anlaşma gereği i̇spanya, kanarya adaları’nın güneyine keşif yolculukları yapamıyordu. Kristof Kolomb finds a way forward. Barcelona’da bana karşı çok dostça davranan Fernando haftalarca beni görmeyi reddetti. This story is about problem çözme and how it shapes the way people work through the challenge together.",
+        "sections": {
+          "setup": "This is the story of Kristof Kolomb. It explores the themes of problem çözme, sorumluluk, dostluk, hayvan sevgisi, söz tutma, and empati. \"harikalar\" kitabı marco polo’nun kitabını okuduktan sonra, avrupa ve hindistan arasındaki o kestirme yolu bulacağıma dair kendi kendime söz verdim.",
+          "conflict": "Kristof Kolomb / 51 Üçüncü yolculuk: Eğlenceden çok sıkıntı Portekiz ve İspanya arasında imzalanan anlaşma gereği İspanya, Kanarya adaları’nın güneyine keşif yolculukları yapamıyordu.",
+          "events": "First, \"Harikalar\" kitabı Marco Polo’nun kitabını okuduktan sonra, avrupa ve Hindistan arasındaki o kestirme yolu bulacağıma dair kendi kendime söz verdim. Then, Kristof Kolomb / 51 Üçüncü yolculuk: Eğlenceden çok sıkıntı Portekiz ve İspanya arasında imzalanan anlaşma gereği İspanya, Kanarya adaları’nın güneyine keşif yolculukları yapamıyordu. Soon after, rakipleri Portekiz’in karşı çıktığı her şeyle ilgilenen İspanya kralı, benimle bir görüşme yaptı ancak onun danışmanları da benim deli olduğumu düşündüler. Meanwhile, Benim projemle ilgilenmeye hiç vakit bulamadılar ve yıllar akıp geçti. Finally, Barcelona’da bana karşı çok dostça davranan Fernando haftalarca beni görmeyi reddetti.",
+          "themes": "The theme of problem çözme is developed through the story's events. In particular, kristof kolomb / 51 üçüncü yolculuk: eğlenceden çok sıkıntı portekiz ve i̇spanya arasında imzalanan anlaşma gereği i̇spanya, kanarya adaları’nın güneyine keşif yolculukları yapamıyordu. The theme of sorumluluk is developed through the story's events. In particular, kristof kolomb / 51 üçüncü yolculuk: eğlenceden çok sıkıntı portekiz ve i̇spanya arasında imzalanan anlaşma gereği i̇spanya, kanarya adaları’nın güneyine keşif yolculukları yapamıyordu. The theme of dostluk is developed through the story's events. In particular, kristof kolomb / 51 üçüncü yolculuk: eğlenceden çok sıkıntı portekiz ve i̇spanya arasında imzalanan anlaşma gereği i̇spanya, kanarya adaları’nın güneyine keşif yolculukları yapamıyordu. The theme of hayvan sevgisi is developed through the story's events. In particular, kristof kolomb / 51 üçüncü yolculuk: eğlenceden çok sıkıntı portekiz ve i̇spanya arasında imzalanan anlaşma gereği i̇spanya, kanarya adaları’nın güneyine keşif yolculukları yapamıyordu. The theme of söz tutma is developed through the story's events. In particular, kristof kolomb / 51 üçüncü yolculuk: eğlenceden çok sıkıntı portekiz ve i̇spanya arasında imzalanan anlaşma gereği i̇spanya, kanarya adaları’nın güneyine keşif yolculukları yapamıyordu. The theme of empati is developed through the story's events. In particular, kristof kolomb / 51 üçüncü yolculuk: eğlenceden çok sıkıntı portekiz ve i̇spanya arasında imzalanan anlaşma gereği i̇spanya, kanarya adaları’nın güneyine keşif yolculukları yapamıyordu.",
+          "resolution": "Kristof Kolomb finds a way forward. Barcelona’da bana karşı çok dostça davranan Fernando haftalarca beni görmeyi reddetti.",
+          "message": "This story is about problem çözme and how it shapes the way people work through the challenge together."
+        },
+        "metadata": {
+          "character_count": 8,
+          "theme_count": 6,
+          "event_count": 0,
+          "word_count": 404,
+          "deterministic": true
+        }
+      },
+      "evaluation": {
+        "summary_quality_score": 21.9,
+        "coverage": 0.25,
+        "coherence": 0.557,
+        "character_presence": 0.25,
+        "conflict_present": true,
+        "resolution_present": true,
+        "main_message_present": true,
+        "evidence_concatenation_detected": false,
+        "repetition_score": 0.208,
+        "concreteness_score": 0.002,
+        "information_density": 0.381,
+        "passed": false
+      },
+      "synthesized_trace": [
+        {
+          "original": "\"Harikalar\" kitabı Marco Polo’nun kitabını okuduktan sonra, avrupa ve Hindistan arasındaki o kestirme yolu bulacağıma dair kendi kendime söz verdim.",
+          "synthesized": "\"Harikalar\" kitabı Marco Polo’nun kitabını okuduktan sonra, avrupa ve Hindistan arasındaki o kestirme yolu bulacağıma dair kendi kendime söz verdim.",
+          "source_sentence_id": "p14:s4"
+        },
+        {
+          "original": "Kristof Kolomb / 51 Üçüncü yolculuk: Eğlenceden çok sıkıntı Portekiz ve İspanya arasında imzalanan anlaşma gereği İspanya, Kanarya adaları’nın güneyine keşif yolculukları yapamıyordu.",
+          "synthesized": "Kristof Kolomb / 51 Üçüncü yolculuk: Eğlenceden çok sıkıntı Portekiz ve İspanya arasında imzalanan anlaşma gereği İspanya, Kanarya adaları’nın güneyine keşif yolculukları yapamıyordu.",
+          "source_sentence_id": "p51:s14"
+        },
+        {
+          "original": "rakipleri Portekiz’in karşı çıktığı her şeyle ilgilenen İspanya kralı, benimle bir görüşme yaptı ancak onun danışmanları da benim deli olduğumu düşündüler.",
+          "synthesized": "Rakipleri Portekiz’in karşı çıktığı her şeyle ilgilenen İspanya kralı, benimle bir görüşme yaptı ancak onun danışmanları da benim deli olduğumu düşündüler.",
+          "source_sentence_id": null
+        },
+        {
+          "original": "Benim projemle ilgilenmeye hiç vakit bulamadılar ve yıllar akıp geçti.",
+          "synthesized": "Benim projemle ilgilenmeye hiç vakit bulamadılar ve yıllar akıp geçti.",
+          "source_sentence_id": null
+        },
+        {
+          "original": "ardından, bizimle birlikte gelen Hintliler kutsandılar ve ekselansları, bundan sonra bu kişilere iyi davranılmasını emretti.",
+          "synthesized": "Ardından, bizimle birlikte gelen Hintliler kutsandılar ve ekselansları, bundan sonra bu kişilere iyi davranılmasını emretti.",
+          "source_sentence_id": null
+        },
+        {
+          "original": "Barcelona’da bana karşı çok dostça davranan Fernando haftalarca beni görmeyi reddetti.",
+          "synthesized": "Barcelona’da bana karşı çok dostça davranan Fernando haftalarca beni görmeyi reddetti.",
+          "source_sentence_id": null
+        },
+        {
+          "original": "Kristof Kolomb / 31 nöbet değişimlerinde, zabitler pusulaların yönlerini birbirleriyle karşılaştırıyor ve geminin hızı ile birlikte kat edilen mesafeyi belirliyorlardı.",
+          "synthesized": "Kristof Kolomb / 31 nöbet değişimlerinde, zabitler pusulaların yönlerini birbirleriyle karşılaştırıyor ve geminin hızı ile birlikte kat edilen mesafeyi belirliyorlardı.",
+          "source_sentence_id": null
+        },
+        {
+          "original": "Bu üzücü tabloya rağmen, bu adalar, bitki örtüsü, hayvan topluluğu ve halkı açısından bana göre dünyanın en güzel yeriydi.",
+          "synthesized": "Bu üzücü tabloya rağmen, bu adalar, bitki örtüsü, hayvan topluluğu ve halkı açısından bana göre dünyanın en güzel yeriydi.",
+          "source_sentence_id": null
+        },
+        {
+          "original": "Çok hoşa giden açıklamalarda bulunmamama rağmen Fernando ve Isabel, bana olan güvenlerini kaybetmediler ve 1497 yılı son larında gerçekleştirdiğim üçüncü yolculuk için maddi destekte bulundular.",
+          "synthesized": "Çok hoşa giden açıklamalarda bulunmamama rağmen Fernando ve Isabel, bana olan güvenlerini kaybetmediler ve 1497 yılı son larında gerçekleştirdiğim üçüncü yolculuk için maddi destekte bulundular.",
+          "source_sentence_id": null
+        },
+        {
+          "original": "ardından majestelerinin bana vermeyi teklif ettiği ünvanlar aklıma geldi: \"Okyanusun amirali\", \" adalar Valisi\" ve \" ana karanın yöneticisi.\" Bu yolculuğu benimle paylaşan herkese bir söz verdim.",
+          "synthesized": "Ardından majestelerinin bana vermeyi teklif ettiği ünvanlar aklıma geldi: \"Okyanusun amirali\", \" adalar Valisi\" ve \" ana karanın yöneticisi.\" Bu yolculuğu benimle paylaşan herkese bir söz verdim.",
+          "source_sentence_id": null
+        },
+        {
+          "original": "Hedeflerimde haklı olduğuma inanıyordum ve kendime olan güvenimi kaybetmeden beni destekleyecek başka birini aramaya koyuldum.",
+          "synthesized": "Hedeflerimde haklı olduğuma inanıyordum ve kendime olan güvenimi kaybetmeden beni destekleyecek başka birini aramaya koyuldum.",
+          "source_sentence_id": null
+        },
+        {
+          "original": "\"Harikalar\" kitabı Marco Polo’nun kitabını okuduktan sonra, avrupa ve Hindistan arasındaki o kestirme yolu bulacağıma dair kendi kendime söz verdim.",
+          "synthesized": "\"Harikalar\" kitabı Marco Polo’nun kitabını okuduktan sonra, avrupa ve Hindistan arasındaki o kestirme yolu bulacağıma dair kendi kendime söz verdim.",
+          "source_sentence_id": null
+        },
+        {
+          "original": "Mürettebata, üç gün içinde karaya ulaşamazsak İspanya’ya döneceğimize dair söz verdim ve onları ancak bu şekilde yatıştırabildim.",
+          "synthesized": "Mürettebata, üç gün içinde karaya ulaşamazsak İspanya’ya döneceğimize dair söz verdim ve onları ancak bu şekilde yatıştırabildim.",
+          "source_sentence_id": null
+        },
+        {
+          "original": "Hâl ve hareketlerinden, altının Cibao adında bir yerden geldiğini anladık.",
+          "synthesized": "Hâl ve hareketlerinden, altının Cibao adında bir yerden geldiğini anladık.",
+          "source_sentence_id": null
+        },
+        {
+          "original": "Bir süre sonra bunun bir şenlik ateşi olduğunu anladık.",
+          "synthesized": "Bir süre sonra bunun bir şenlik ateşi olduğunu anladık.",
+          "source_sentence_id": null
+        },
+        {
+          "original": "Kendimi daha da gizemli kılmak için, mektupları tarihçilerin bugün bile gerçek anlamını sorguladıkları bir şifreyle imzalamaya karar verdim: S S.a.S X M y yalnızca çocuklarıma gönderdiğim mektuplarda samimi bir dil kullanırdım, onlara gönderdiğim mektupları “Sizi, canından çok seven babanız’’ şeklinde imzalardım.",
+          "synthesized": "Kendimi daha da gizemli kılmak için, mektupları tarihçilerin bugün bile gerçek anlamını sorguladıkları bir şifreyle imzalamaya karar verdim: S S.a.S X M y yalnızca çocuklarıma gönderdiğim mektuplarda samimi bir dil kullanırdım, onlara gönderdiğim mektupları “Sizi, canından çok seven babanız’’ şeklinde imzalardım.",
+          "source_sentence_id": null
+        },
+        {
+          "original": "Çok hoşa giden açıklamalarda bulunmamama rağmen Fernando ve Isabel, bana olan güvenlerini kaybetmediler ve 1497 yılı son larında gerçekleştirdiğim üçüncü yolculuk için maddi destekte bulundular.",
+          "synthesized": "Çok hoşa giden açıklamalarda bulunmamama rağmen Fernando ve Isabel, bana olan güvenlerini kaybetmediler ve 1497 yılı son larında gerçekleştirdiğim üçüncü yolculuk için maddi destekte bulundular.",
+          "source_sentence_id": null
+        },
+        {
+          "original": "Bu kadar çok denizciyle bir arada olmak ileride çok işime yarayacağını düşündüğüm İspanyolcayı öğrenmek için mükemmel bir fırsat olmuştu.",
+          "synthesized": "Bu kadar çok denizciyle bir arada olmak ileride çok işime yarayacağını düşündüğüm İspanyolcayı öğrenmek için mükemmel bir fırsat olmuştu.",
+          "source_sentence_id": null
+        },
+        {
+          "original": "Bu kez krallar beni Burgos’ta huzurlarına kabul ettiler ve ben kendimi affettirmek için mahcup bir tavır takındım.",
+          "synthesized": "Bu kez krallar beni Burgos’ta huzurlarına kabul ettiler ve ben kendimi affettirmek için mahcup bir tavır takındım.",
+          "source_sentence_id": null
+        },
+        {
+          "original": "neyse ki, rüzgâr yönündeki bu değişim, mürettebat tarafından olumlu karşılandı, çünkü bu durum, dönüş yolunda iyi rüzgârların olacağının bir gösterg esiydi.",
+          "synthesized": "Neyse ki, rüzgâr yönündeki bu değişim, mürettebat tarafından olumlu karşılandı, çünkü bu durum, dönüş yolunda iyi rüzgârların olacağının bir gösterg esiydi.",
+          "source_sentence_id": null
+        },
+        {
+          "original": "ardından, bizimle birlikte gelen Hintliler kutsandılar ve ekselansları, bundan sonra bu kişilere iyi davranılmasını emretti.",
+          "synthesized": "Ardından, bizimle birlikte gelen Hintliler kutsandılar ve ekselansları, bundan sonra bu kişilere iyi davranılmasını emretti.",
+          "source_sentence_id": null
+        },
+        {
+          "original": "Kristof Kolomb / 47 Hindistan’a gerçekleştirdiğim yolculuk gibi basit bir şey olduğunu ancak birilerinin herkesten önce bunu akıl etmesi ve yapması gerektiğini söyledim.",
+          "synthesized": "Kristof Kolomb / 47 Hindistan’a gerçekleştirdiğim yolculuk gibi basit bir şey olduğunu ancak birilerinin herkesten önce bunu akıl etmesi ve yapması gerektiğini söyledim.",
+          "source_sentence_id": null
+        },
+        {
+          "original": "Büyük tartışmaların ardından Portekiz kralının danışmanları, hedeflerimi gerçekleşmesi imkânsız şeyler olarak gördüler ve reddettiler.",
+          "synthesized": "Büyük tartışmaların ardından Portekiz kralının danışmanları, hedeflerimi gerçekleşmesi imkânsız şeyler olarak gördüler ve reddettiler.",
+          "source_sentence_id": null
+        },
+        {
+          "original": "Bir süre sonra bunun bir şenlik ateşi olduğunu anladık.",
+          "synthesized": "Bir süre sonra bunun bir şenlik ateşi olduğunu anladık.",
+          "source_sentence_id": null
+        },
+        {
+          "original": "Kristof Kolomb / 61 Ölüm döşeğindeyken, ölümümden sonra bana San Francisco kıyafeti giydirilmesini ve yatağımın başucuna üçüncü yolculuğumda zincire vurulduğum prangaların konmasını istedim.",
+          "synthesized": "Kristof Kolomb / 61 Ölüm döşeğindeyken, ölümümden sonra bana San Francisco kıyafeti giydirilmesini ve yatağımın başucuna üçüncü yolculuğumda zincire vurulduğum prangaların konmasını istedim.",
+          "source_sentence_id": null
+        },
+        {
+          "original": "Kendimi daha da gizemli kılmak için, mektupları tarihçilerin bugün bile gerçek anlamını sorguladıkları bir şifreyle imzalamaya karar verdim: S S.a.S X M y yalnızca çocuklarıma gönderdiğim mektuplarda samimi bir dil kullanırdım, onlara gönderdiğim mektupları “Sizi, canından çok seven babanız’’ şeklinde imzalardım.",
+          "synthesized": "Kendimi daha da gizemli kılmak için, mektupları tarihçilerin bugün bile gerçek anlamını sorguladıkları bir şifreyle imzalamaya karar verdim: S S.a.S X M y yalnızca çocuklarıma gönderdiğim mektuplarda samimi bir dil kullanırdım, onlara gönderdiğim mektupları “Sizi, canından çok seven babanız’’ şeklinde imzalardım.",
+          "source_sentence_id": null
+        },
+        {
+          "original": "1494 Tordesillas antlaşması: Dünya’nın Portekiz ve İspanya arasında paylaştırılması.",
+          "synthesized": "1494 Tordesillas antlaşması: Dünya’nın Portekiz ve İspanya arasında paylaştırılması.",
+          "source_sentence_id": null
+        },
+        {
+          "original": "Fakat içme suyu herkese azar azar paylaştırılarak veriliyordu.",
+          "synthesized": "Fakat içme suyu herkese azar azar paylaştırılarak veriliyordu.",
+          "source_sentence_id": null
+        },
+        {
+          "original": "Bir süre sonra bunun bir şenlik ateşi olduğunu anladık.",
+          "synthesized": "Bir süre sonra bunun bir şenlik ateşi olduğunu anladık.",
+          "source_sentence_id": null
+        },
+        {
+          "original": "rakipleri Portekiz’in karşı çıktığı her şeyle ilgilenen İspanya kralı, benimle bir görüşme yaptı ancak onun danışmanları da benim deli olduğumu düşündüler.",
+          "synthesized": "Rakipleri Portekiz’in karşı çıktığı her şeyle ilgilenen İspanya kralı, benimle bir görüşme yaptı ancak onun danışmanları da benim deli olduğumu düşündüler.",
+          "source_sentence_id": null
+        },
+        {
+          "original": "Benim projemle ilgilenmeye hiç vakit bulamadılar ve yıllar akıp geçti.",
+          "synthesized": "Benim projemle ilgilenmeye hiç vakit bulamadılar ve yıllar akıp geçti.",
+          "source_sentence_id": null
+        },
+        {
+          "original": "-- Kristof Kolomb / 17 Çok yaygın bir hata antik çağlarda, Batlamyus gibi bazı bilim adamları dünyanın yuvarlak olduğunu ve dolayısıyla Batı’ya doğru deniz yolculuğu yapılarak Doğu ülkelerine ulaşılabileceğini savunmuşlardı.; Kristof Kolomb / 47 Hindistan’a gerçekleştirdiğim yolculuk gibi basit bir şey olduğunu ancak birilerinin herkesten önce bunu akıl etmesi ve yapması gerektiğini söyledim.",
+          "synthesized": "-- Kristof Kolomb / 17 Çok yaygın bir hata antik çağlarda, Batlamyus gibi bazı bilim adamları dünyanın yuvarlak olduğunu ve dolayısıyla Batı’ya doğru deniz yolculuğu yapılarak Doğu ülkelerine ulaşılabileceğini savunmuşlardı.; Kristof Kolomb / 47 Hindistan’a gerçekleştirdiğim yolculuk gibi basit bir şey olduğunu ancak birilerinin herkesten önce bunu akıl etmesi ve yapması gerektiğini söyledim.",
+          "source_sentence_id": null
+        },
+        {
+          "original": "Kristof Kolomb / 51 Üçüncü yolculuk: Eğlenceden çok sıkıntı Portekiz ve İspanya arasında imzalanan anlaşma gereği İspanya, Kanarya adaları’nın güneyine keşif yolculukları yapamıyordu.",
+          "synthesized": "Kristof Kolomb / 51 Üçüncü yolculuk: Eğlenceden çok sıkıntı Portekiz ve İspanya arasında imzalanan anlaşma gereği İspanya, Kanarya adaları’nın güneyine keşif yolculukları yapamıyordu.",
+          "source_sentence_id": null
+        },
+        {
+          "original": "\"Harikalar\" kitabı Marco Polo’nun kitabını okuduktan sonra, avrupa ve Hindistan arasındaki o kestirme yolu bulacağıma dair kendi kendime söz verdim.",
+          "synthesized": "\"Harikalar\" kitabı Marco Polo’nun kitabını okuduktan sonra, avrupa ve Hindistan arasındaki o kestirme yolu bulacağıma dair kendi kendime söz verdim.",
+          "source_sentence_id": null
+        },
+        {
+          "original": "-- Kristof Kolomb / 17 Çok yaygın bir hata antik çağlarda, Batlamyus gibi bazı bilim adamları dünyanın yuvarlak olduğunu ve dolayısıyla Batı’ya doğru deniz yolculuğu yapılarak Doğu ülkelerine ulaşılabileceğini savunmuşlardı.; Kristof Kolomb / 47 Hindistan’a gerçekleştirdiğim yolculuk gibi basit bir şey olduğunu ancak birilerinin herkesten önce bunu akıl etmesi ve yapması gerektiğini söyledim.",
+          "synthesized": "-- Kristof Kolomb / 17 Çok yaygın bir hata antik çağlarda, Batlamyus gibi bazı bilim adamları dünyanın yuvarlak olduğunu ve dolayısıyla Batı’ya doğru deniz yolculuğu yapılarak Doğu ülkelerine ulaşılabileceğini savunmuşlardı.; Kristof Kolomb / 47 Hindistan’a gerçekleştirdiğim yolculuk gibi basit bir şey olduğunu ancak birilerinin herkesten önce bunu akıl etmesi ve yapması gerektiğini söyledim.",
+          "source_sentence_id": null
+        },
+        {
+          "original": "-- Kristof Kolomb / 17 Çok yaygın bir hata antik çağlarda, Batlamyus gibi bazı bilim adamları dünyanın yuvarlak olduğunu ve dolayısıyla Batı’ya doğru deniz yolculuğu yapılarak Doğu ülkelerine ulaşılabileceğini savunmuşlardı.; Kristof Kolomb / 47 Hindistan’a gerçekleştirdiğim yolculuk gibi basit bir şey olduğunu ancak birilerinin herkesten önce bunu akıl etmesi ve yapması gerektiğini söyledim.",
+          "synthesized": "-- Kristof Kolomb / 17 Çok yaygın bir hata antik çağlarda, Batlamyus gibi bazı bilim adamları dünyanın yuvarlak olduğunu ve dolayısıyla Batı’ya doğru deniz yolculuğu yapılarak Doğu ülkelerine ulaşılabileceğini savunmuşlardı.; Kristof Kolomb / 47 Hindistan’a gerçekleştirdiğim yolculuk gibi basit bir şey olduğunu ancak birilerinin herkesten önce bunu akıl etmesi ve yapması gerektiğini söyledim.",
+          "source_sentence_id": null
+        },
+        {
+          "original": "-- Kristof Kolomb / 17 Çok yaygın bir hata antik çağlarda, Batlamyus gibi bazı bilim adamları dünyanın yuvarlak olduğunu ve dolayısıyla Batı’ya doğru deniz yolculuğu yapılarak Doğu ülkelerine ulaşılabileceğini savunmuşlardı.; Kristof Kolomb / 47 Hindistan’a gerçekleştirdiğim yolculuk gibi basit bir şey olduğunu ancak birilerinin herkesten önce bunu akıl etmesi ve yapması gerektiğini söyledim.",
+          "synthesized": "-- Kristof Kolomb / 17 Çok yaygın bir hata antik çağlarda, Batlamyus gibi bazı bilim adamları dünyanın yuvarlak olduğunu ve dolayısıyla Batı’ya doğru deniz yolculuğu yapılarak Doğu ülkelerine ulaşılabileceğini savunmuşlardı.; Kristof Kolomb / 47 Hindistan’a gerçekleştirdiğim yolculuk gibi basit bir şey olduğunu ancak birilerinin herkesten önce bunu akıl etmesi ve yapması gerektiğini söyledim.",
+          "source_sentence_id": null
+        },
+        {
+          "original": "Kristof Kolomb / 51 Üçüncü yolculuk: Eğlenceden çok sıkıntı Portekiz ve İspanya arasında imzalanan anlaşma gereği İspanya, Kanarya adaları’nın güneyine keşif yolculukları yapamıyordu.",
+          "synthesized": "Kristof Kolomb / 51 Üçüncü yolculuk: Eğlenceden çok sıkıntı Portekiz ve İspanya arasında imzalanan anlaşma gereği İspanya, Kanarya adaları’nın güneyine keşif yolculukları yapamıyordu.",
+          "source_sentence_id": null
+        },
+        {
+          "original": "\"Harikalar\" kitabı Marco Polo’nun kitabını okuduktan sonra, avrupa ve Hindistan arasındaki o kestirme yolu bulacağıma dair kendi kendime söz verdim.",
+          "synthesized": "\"Harikalar\" kitabı Marco Polo’nun kitabını okuduktan sonra, avrupa ve Hindistan arasındaki o kestirme yolu bulacağıma dair kendi kendime söz verdim.",
+          "source_sentence_id": null
+        },
+        {
+          "original": "-- Kristof Kolomb / 17 Çok yaygın bir hata antik çağlarda, Batlamyus gibi bazı bilim adamları dünyanın yuvarlak olduğunu ve dolayısıyla Batı’ya doğru deniz yolculuğu yapılarak Doğu ülkelerine ulaşılabileceğini savunmuşlardı.; Kristof Kolomb / 47 Hindistan’a gerçekleştirdiğim yolculuk gibi basit bir şey olduğunu ancak birilerinin herkesten önce bunu akıl etmesi ve yapması gerektiğini söyledim.",
+          "synthesized": "-- Kristof Kolomb / 17 Çok yaygın bir hata antik çağlarda, Batlamyus gibi bazı bilim adamları dünyanın yuvarlak olduğunu ve dolayısıyla Batı’ya doğru deniz yolculuğu yapılarak Doğu ülkelerine ulaşılabileceğini savunmuşlardı.; Kristof Kolomb / 47 Hindistan’a gerçekleştirdiğim yolculuk gibi basit bir şey olduğunu ancak birilerinin herkesten önce bunu akıl etmesi ve yapması gerektiğini söyledim.",
+          "source_sentence_id": null
+        },
+        {
+          "original": "-- Kristof Kolomb / 17 Çok yaygın bir hata antik çağlarda, Batlamyus gibi bazı bilim adamları dünyanın yuvarlak olduğunu ve dolayısıyla Batı’ya doğru deniz yolculuğu yapılarak Doğu ülkelerine ulaşılabileceğini savunmuşlardı.; Kristof Kolomb / 47 Hindistan’a gerçekleştirdiğim yolculuk gibi basit bir şey olduğunu ancak birilerinin herkesten önce bunu akıl etmesi ve yapması gerektiğini söyledim.",
+          "synthesized": "-- Kristof Kolomb / 17 Çok yaygın bir hata antik çağlarda, Batlamyus gibi bazı bilim adamları dünyanın yuvarlak olduğunu ve dolayısıyla Batı’ya doğru deniz yolculuğu yapılarak Doğu ülkelerine ulaşılabileceğini savunmuşlardı.; Kristof Kolomb / 47 Hindistan’a gerçekleştirdiğim yolculuk gibi basit bir şey olduğunu ancak birilerinin herkesten önce bunu akıl etmesi ve yapması gerektiğini söyledim.",
+          "source_sentence_id": null
+        },
+        {
+          "original": "-- Kristof Kolomb / 17 Çok yaygın bir hata antik çağlarda, Batlamyus gibi bazı bilim adamları dünyanın yuvarlak olduğunu ve dolayısıyla Batı’ya doğru deniz yolculuğu yapılarak Doğu ülkelerine ulaşılabileceğini savunmuşlardı.; Kristof Kolomb / 47 Hindistan’a gerçekleştirdiğim yolculuk gibi basit bir şey olduğunu ancak birilerinin herkesten önce bunu akıl etmesi ve yapması gerektiğini söyledim.",
+          "synthesized": "-- Kristof Kolomb / 17 Çok yaygın bir hata antik çağlarda, Batlamyus gibi bazı bilim adamları dünyanın yuvarlak olduğunu ve dolayısıyla Batı’ya doğru deniz yolculuğu yapılarak Doğu ülkelerine ulaşılabileceğini savunmuşlardı.; Kristof Kolomb / 47 Hindistan’a gerçekleştirdiğim yolculuk gibi basit bir şey olduğunu ancak birilerinin herkesten önce bunu akıl etmesi ve yapması gerektiğini söyledim.",
+          "source_sentence_id": null
+        },
+        {
+          "original": "Kristof Kolomb / 51 Üçüncü yolculuk: Eğlenceden çok sıkıntı Portekiz ve İspanya arasında imzalanan anlaşma gereği İspanya, Kanarya adaları’nın güneyine keşif yolculukları yapamıyordu.",
+          "synthesized": "Kristof Kolomb / 51 Üçüncü yolculuk: Eğlenceden çok sıkıntı Portekiz ve İspanya arasında imzalanan anlaşma gereği İspanya, Kanarya adaları’nın güneyine keşif yolculukları yapamıyordu.",
+          "source_sentence_id": null
+        }
+      ]
+    },
+    {
+      "file": "runtime_theme_final_selection_debug.json",
+      "title": null,
+      "summary_ir": {
+        "title": "",
+        "central_entities": [],
+        "themes": [],
+        "evidence_snippets": {
+          "__raw_extracted__": []
+        },
+        "metadata": {
+          "source_file": null
+        }
+      },
+      "builder_output": {
+        "narrative": "The story presents a central challenge that tests the main character. This story is about the main journey and what it teaches.",
+        "sections": {
+          "setup": "",
+          "conflict": "The story presents a central challenge that tests the main character.",
+          "events": "",
+          "themes": "",
+          "resolution": "",
+          "message": "This story is about the main journey and what it teaches."
+        },
+        "metadata": {
+          "character_count": 0,
+          "theme_count": 0,
+          "event_count": 0,
+          "word_count": 22,
+          "deterministic": true
+        }
+      },
+      "evaluation": {
+        "summary_quality_score": 32.5,
+        "coverage": 0.4,
+        "coherence": 0.55,
+        "character_presence": 1.0,
+        "conflict_present": true,
+        "resolution_present": false,
+        "main_message_present": true,
+        "evidence_concatenation_detected": false,
+        "repetition_score": 0.0,
+        "concreteness_score": 0.0,
+        "information_density": 0.918,
+        "passed": false
+      },
+      "synthesized_trace": []
+    }
+  ],
+  "total_books": 3,
+  "passed_count": 0,
+  "failed_count": 3,
+  "average_summary_quality_score": 26.067,
+  "average_concreteness_score": 0.001,
+  "average_coherence": 0.557
+}

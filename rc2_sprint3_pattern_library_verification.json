@@ -1,0 +1,27 @@
+{
+  "artifact": "rc2_sprint3_pattern_library_verification",
+  "production_output_changed": false,
+  "equal_without_shadow": true,
+  "deterministic": true,
+  "book_specific_heuristics": false,
+  "new_endpoint_added": false,
+  "summary_ir_changed": false,
+  "pdf_changed": false,
+  "teacher_report_changed": false,
+  "word_changed": false,
+  "total_patterns": 74,
+  "valid_patterns": 74,
+  "category_distribution": {
+    "theme": 20,
+    "character_role": 12,
+    "learning_outcome": 12,
+    "conflict": 10,
+    "emotion": 12,
+    "narrative_structure": 8
+  },
+  "fp_risk_distribution": {
+    "low": 24,
+    "medium": 17,
+    "high": 33
+  }
+}

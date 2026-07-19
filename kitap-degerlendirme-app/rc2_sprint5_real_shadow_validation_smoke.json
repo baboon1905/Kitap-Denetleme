@@ -1,0 +1,9 @@
+{
+  "books": 1,
+  "shadow_payloads": 1,
+  "activated_patterns": 0,
+  "pattern_activation_ids": [],
+  "production_output_changed": false,
+  "equal_without_shadow": true,
+  "deterministic": true
+}

@@ -1,0 +1,29 @@
+{
+  "fix_id": "rc11_fix3_generic_classification_engine",
+  "status": "passed",
+  "summary": "Added shadow-only generic content classification engine under _runtime_v7_shadow.classification; production payload unchanged.",
+  "verification": {
+    "tests_run": [
+      "tests/test_generic_content_classification.py",
+      "tests/test_title_narrator_resolution.py",
+      "tests/test_theme_consistency_across_reports.py"
+    ],
+    "results": {
+      "tests/test_generic_content_classification.py": "passed",
+      "tests/test_title_narrator_resolution.py": "passed",
+      "tests/test_theme_consistency_across_reports.py": "passed"
+    },
+    "pytest_command": "python -m pytest -q tests/test_generic_content_classification.py tests/test_title_narrator_resolution.py tests/test_theme_consistency_across_reports.py"
+  },
+  "checks": {
+    "equal_without_shadow": true,
+    "deterministic": true,
+    "production_payload_unchanged": true
+  },
+  "benchmark_results_file": "rc11_fix3_classification_benchmark_results.json",
+  "files_changed": [
+    "runtime_v7/content_classification.py",
+    "runtime_v7/adapter.py",
+    "tests/test_generic_content_classification.py"
+  ]
+}

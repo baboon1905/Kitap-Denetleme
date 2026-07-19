@@ -1,0 +1,39 @@
+{
+  "pdf_path": "c:\\Users\\fatih\\Masaüstü\\Kitap Değerlendirme\\kitap-degerlendirme-app\\uploads\\test_keywords.pdf",
+  "shadow_present": true,
+  "shadow_keys": [
+    "classification",
+    "comparison",
+    "entity_graph",
+    "event_graph",
+    "narrative",
+    "narrative_plan",
+    "performance_baseline",
+    "quality_contract",
+    "semantic",
+    "summary_ir"
+  ],
+  "semantic_keys": [
+    "character_roles",
+    "concept_graph",
+    "diagnostics",
+    "learning_outcome_clusters",
+    "theme_clusters"
+  ],
+  "pattern_id_in_shadow": false,
+  "activated_patterns": [],
+  "pattern_key_hits": [
+    "summary_ir_matches_existing_canonical"
+  ],
+  "confidence_key_hits": [
+    "audit_confidence",
+    "average_recommendation_confidence",
+    "confidence",
+    "conflict_graph",
+    "overall_confidence",
+    "overall_readiness_confidence",
+    "primary_conflict",
+    "semantic_confidence",
+    "validation_confidence"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "status": "success",
+  "checks": {
+    "has_primary_conflict": false,
+    "has_resolution": true,
+    "has_conflict_graph": true,
+    "primary_conflict_has_id": null,
+    "resolution_has_status": "unresolved",
+    "resolution_has_confidence": true,
+    "resolution_status_is_algorithmic": true,
+    "deterministic_across_runs": true
+  },
+  "debug": {
+    "return_value_keys": [
+      "summary_ir",
+      "entity_graph",
+      "event_graph",
+      "narrative_plan",
+      "quality_contract",
+      "comparison",
+      "narrative"
+    ],
+    "is_shadow_dict": true,
+    "shadow_keys": [
+      "summary_ir",
+      "entity_graph",
+      "event_graph",
+      "narrative_plan",
+      "quality_contract",
+      "comparison",
+      "narrative"
+    ],
+    "narrative_keys": [
+      "event_graph_enriched",
+      "narrative_graph",
+      "story_arc",
+      "narrative_chains",
+      "cause_effect_relations",
+      "conflict_graph",
+      "primary_conflict",
+      "resolution",
+      "diagnostics"
+    ]
+  },
+  "primary_conflict": null,
+  "resolution": {
+    "status": "unresolved",
+    "confidence": 0.0
+  }
+}

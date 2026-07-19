@@ -1,0 +1,221 @@
+{
+  "books": [
+    {
+      "title": "Tavşan Pati",
+      "compare": {
+        "equal_without_shadow": true
+      },
+      "shadow_only_check": {
+        "conflict_graph_only_in_shadow": true,
+        "production_payload_has_conflict_graph": false,
+        "production_payload_has_narrative": false
+      },
+      "conflict_graph": {
+        "conflicts": [
+          {
+            "conflict_id": "conflict-001",
+            "participants": [
+              "Ali"
+            ],
+            "related_events": [
+              "0:sorumluluk almak"
+            ],
+            "conflict_type": "narrative_tension",
+            "confidence": 0.78,
+            "resolved": false
+          }
+        ],
+        "diagnostics": {
+          "conflict_count": 1,
+          "primary_conflict_confidence": 0.78,
+          "conflict_density": 0.2,
+          "unresolved_conflict_count": 1,
+          "weak_conflict_reason": "sufficient",
+          "source": "runtime_v7_conflict_graph_builder"
+        }
+      },
+      "diagnostics": {
+        "story_arc_type": "linear",
+        "generic_event_ratio": 0.0,
+        "placeholder_event_ratio": 0.0,
+        "disconnected_event_count": 0,
+        "narrative_confidence": 1.0,
+        "event_count": 5,
+        "meaningful_event_count": 5,
+        "generic_event_count": 0,
+        "placeholder_event_count": 0,
+        "connected_component_count": 1,
+        "main_arc_confidence": 1.0,
+        "arc_completeness_score": 1.0,
+        "weak_narrative_reason": "sufficient",
+        "source": "runtime_v7_conflict_graph_builder",
+        "chain_count": 1,
+        "largest_chain_size": 5,
+        "isolated_event_count": 0,
+        "average_chain_length": 5.0,
+        "chain_confidence": 0.75,
+        "cause_effect_count": 4,
+        "average_cause_effect_confidence": 0.75,
+        "weak_causal_reason": "sufficient",
+        "conflict_count": 1,
+        "primary_conflict_confidence": 0.78,
+        "conflict_density": 0.2,
+        "unresolved_conflict_count": 1,
+        "weak_conflict_reason": "sufficient"
+      },
+      "deterministic_shadow_output": {
+        "stable_across_repeated_runs": true,
+        "run_count": 2
+      },
+      "generic_pipeline_check": {
+        "same_generic_path_used_for_all_books": true,
+        "title_not_used_as_heuristic_in_shadow_payload": true
+      }
+    },
+    {
+      "title": "Büyülü Yastıklar",
+      "compare": {
+        "equal_without_shadow": true
+      },
+      "shadow_only_check": {
+        "conflict_graph_only_in_shadow": true,
+        "production_payload_has_conflict_graph": false,
+        "production_payload_has_narrative": false
+      },
+      "conflict_graph": {
+        "conflicts": [
+          {
+            "conflict_id": "conflict-001",
+            "participants": [
+              "Dankof Oburof"
+            ],
+            "related_events": [
+              "0:bilgi aktarmak"
+            ],
+            "conflict_type": "narrative_tension",
+            "confidence": 0.78,
+            "resolved": false
+          }
+        ],
+        "diagnostics": {
+          "conflict_count": 1,
+          "primary_conflict_confidence": 0.78,
+          "conflict_density": 0.25,
+          "unresolved_conflict_count": 1,
+          "weak_conflict_reason": "sufficient",
+          "source": "runtime_v7_conflict_graph_builder"
+        }
+      },
+      "diagnostics": {
+        "story_arc_type": "linear",
+        "generic_event_ratio": 0.0,
+        "placeholder_event_ratio": 0.0,
+        "disconnected_event_count": 0,
+        "narrative_confidence": 1.0,
+        "event_count": 4,
+        "meaningful_event_count": 4,
+        "generic_event_count": 0,
+        "placeholder_event_count": 0,
+        "connected_component_count": 1,
+        "main_arc_confidence": 1.0,
+        "arc_completeness_score": 1.0,
+        "weak_narrative_reason": "sufficient",
+        "source": "runtime_v7_conflict_graph_builder",
+        "chain_count": 1,
+        "largest_chain_size": 4,
+        "isolated_event_count": 0,
+        "average_chain_length": 4.0,
+        "chain_confidence": 0.75,
+        "cause_effect_count": 3,
+        "average_cause_effect_confidence": 0.71,
+        "weak_causal_reason": "sufficient",
+        "conflict_count": 1,
+        "primary_conflict_confidence": 0.78,
+        "conflict_density": 0.25,
+        "unresolved_conflict_count": 1,
+        "weak_conflict_reason": "sufficient"
+      },
+      "deterministic_shadow_output": {
+        "stable_across_repeated_runs": true,
+        "run_count": 2
+      },
+      "generic_pipeline_check": {
+        "same_generic_path_used_for_all_books": true,
+        "title_not_used_as_heuristic_in_shadow_payload": true
+      }
+    },
+    {
+      "title": "Benim Adım Kristof Kolomb",
+      "compare": {
+        "equal_without_shadow": true
+      },
+      "shadow_only_check": {
+        "conflict_graph_only_in_shadow": true,
+        "production_payload_has_conflict_graph": false,
+        "production_payload_has_narrative": false
+      },
+      "conflict_graph": {
+        "conflicts": [
+          {
+            "conflict_id": "conflict-001",
+            "participants": [
+              "Kristof Kolomb",
+              "Hernando Kolomb"
+            ],
+            "related_events": [
+              "0:somut bir karar uygulamak"
+            ],
+            "conflict_type": "interpersonal_tension",
+            "confidence": 0.78,
+            "resolved": false
+          }
+        ],
+        "diagnostics": {
+          "conflict_count": 1,
+          "primary_conflict_confidence": 0.78,
+          "conflict_density": 0.5,
+          "unresolved_conflict_count": 1,
+          "weak_conflict_reason": "sufficient",
+          "source": "runtime_v7_conflict_graph_builder"
+        }
+      },
+      "diagnostics": {
+        "story_arc_type": "linear",
+        "generic_event_ratio": 0.0,
+        "placeholder_event_ratio": 0.0,
+        "disconnected_event_count": 0,
+        "narrative_confidence": 1.0,
+        "event_count": 2,
+        "meaningful_event_count": 2,
+        "generic_event_count": 0,
+        "placeholder_event_count": 0,
+        "connected_component_count": 1,
+        "main_arc_confidence": 1.0,
+        "arc_completeness_score": 1.0,
+        "weak_narrative_reason": "sufficient",
+        "source": "runtime_v7_conflict_graph_builder",
+        "chain_count": 1,
+        "largest_chain_size": 2,
+        "isolated_event_count": 0,
+        "average_chain_length": 2.0,
+        "chain_confidence": 0.75,
+        "cause_effect_count": 1,
+        "average_cause_effect_confidence": 0.63,
+        "weak_causal_reason": "sufficient",
+        "conflict_count": 1,
+        "primary_conflict_confidence": 0.78,
+        "conflict_density": 0.5,
+        "unresolved_conflict_count": 1,
+        "weak_conflict_reason": "sufficient"
+      },
+      "deterministic_shadow_output": {
+        "stable_across_repeated_runs": true,
+        "run_count": 2
+      },
+      "generic_pipeline_check": {
+        "same_generic_path_used_for_all_books": true,
+        "title_not_used_as_heuristic_in_shadow_payload": true
+      }
+    }
+  ]
+}

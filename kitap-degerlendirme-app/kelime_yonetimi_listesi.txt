@@ -1,0 +1,1212 @@
+﻿Özel - Cinsellik ve Mahremiyet
+==============================
+- dudaktan optu | Kelime / ifade | Risk 4 | Aktif
+- opustu | Kelime / ifade | Risk 4 | Aktif
+
+Özel - Şiddet ve Suç
+====================
+- bicak cekti | Kelime / ifade | Risk 3 | Aktif
+- pompali | Kelime / ifade | Risk 3 | Aktif
+- silah[ıi]n[ıi]\s+cekti | Regex | Risk 3 | Aktif
+- tabanca | Kelime / ifade | Risk 3 | Aktif
+
+Özel - Zararlı Alışkanlıklar
+============================
+- alkollu\s+arac\s+kulland[ıi] | Regex | Risk 4 | Aktif
+- elektronik sigara | Kelime / ifade | Risk 4 | Aktif
+- nargile | Kelime / ifade | Risk 4 | Aktif
+- sigara | Kelime / ifade | Risk 4 | Aktif
+- vape | Kelime / ifade | Risk 4 | Aktif
+
+Sistem - Ayrımcılık ve Nefret
+=============================
+- aşağı ırk | Kelime / ifade | Risk 5 | Aktif
+- aşağı ırk anlatımı | Kelime / ifade | Risk 5 | Aktif
+- aşağı ırk ifadesi | Kelime / ifade | Risk 5 | Aktif
+- aşağı ırk sahnesi | Kelime / ifade | Risk 5 | Aktif
+- ayrımcı lakap | Kelime / ifade | Risk 5 | Aktif
+- ayrımcı lakap ifadesi | Kelime / ifade | Risk 5 | Aktif
+- ayrımcı lakap sahnesi | Kelime / ifade | Risk 5 | Aktif
+- azınlık düşmanlığı | Kelime / ifade | Risk 5 | Aktif
+- azınlık düşmanlığı ifadesi | Kelime / ifade | Risk 5 | Aktif
+- azınlık düşmanlığı sahnesi | Kelime / ifade | Risk 5 | Aktif
+- beden aşağılama | Kelime / ifade | Risk 5 | Aktif
+- beden aşağılama ifadesi | Kelime / ifade | Risk 5 | Aktif
+- beden aşağılama sahnesi | Kelime / ifade | Risk 5 | Aktif
+- cinsiyetçi | Kelime / ifade | Risk 5 | Aktif
+- cinsiyetçi anlatımı | Kelime / ifade | Risk 5 | Aktif
+- cinsiyetçi ifadesi | Kelime / ifade | Risk 5 | Aktif
+- cinsiyetçi sahnesi | Kelime / ifade | Risk 5 | Aktif
+- çirkin | Kelime / ifade | Risk 5 | Aktif
+- çirkin anlatımı | Kelime / ifade | Risk 5 | Aktif
+- çirkin ifadesi | Kelime / ifade | Risk 5 | Aktif
+- çirkin sahnesi | Kelime / ifade | Risk 5 | Aktif
+- dış görünüşle alay | Kelime / ifade | Risk 5 | Aktif
+- dış görünüşle alay ifadesi | Kelime / ifade | Risk 5 | Aktif
+- dış görünüşle alay sahnesi | Kelime / ifade | Risk 5 | Aktif
+- dil aşağılaması | Kelime / ifade | Risk 5 | Aktif
+- dil aşağılaması ifadesi | Kelime / ifade | Risk 5 | Aktif
+- dil aşağılaması sahnesi | Kelime / ifade | Risk 5 | Aktif
+- din düşmanlığı | Kelime / ifade | Risk 5 | Aktif
+- din düşmanlığı anlatımı | Kelime / ifade | Risk 5 | Aktif
+- din düşmanlığı ifadesi | Kelime / ifade | Risk 5 | Aktif
+- din düşmanlığı sahnesi | Kelime / ifade | Risk 5 | Aktif
+- engelliyle alay | Kelime / ifade | Risk 5 | Aktif
+- engelliyle alay anlatımı | Kelime / ifade | Risk 5 | Aktif
+- engelliyle alay ifadesi | Kelime / ifade | Risk 5 | Aktif
+- engelliyle alay sahnesi | Kelime / ifade | Risk 5 | Aktif
+- erkek işi | Kelime / ifade | Risk 5 | Aktif
+- erkek işi anlatımı | Kelime / ifade | Risk 5 | Aktif
+- erkek işi ifadesi | Kelime / ifade | Risk 5 | Aktif
+- erkek işi sahnesi | Kelime / ifade | Risk 5 | Aktif
+- fakir çocuk | Kelime / ifade | Risk 5 | Aktif
+- fakir çocuk anlatımı | Kelime / ifade | Risk 5 | Aktif
+- fakir çocuk ifadesi | Kelime / ifade | Risk 5 | Aktif
+- fakir çocuk sahnesi | Kelime / ifade | Risk 5 | Aktif
+- hakaret içeren kimlik | Kelime / ifade | Risk 5 | Aktif
+- hakaret içeren kimlik ifadesi | Kelime / ifade | Risk 5 | Aktif
+- hakaret içeren kimlik sahnesi | Kelime / ifade | Risk 5 | Aktif
+- ırkçı | Kelime / ifade | Risk 5 | Aktif
+- ırkçı anlatımı | Kelime / ifade | Risk 5 | Aktif
+- ırkçı göndermesi | Kelime / ifade | Risk 5 | Aktif
+- ırkçı ifadesi | Kelime / ifade | Risk 5 | Aktif
+- ırkçı sahnesi | Kelime / ifade | Risk 5 | Aktif
+- ırkçılık | Kelime / ifade | Risk 5 | Aktif
+- ırkçılık anlatımı | Kelime / ifade | Risk 5 | Aktif
+- ırkçılık ifadesi | Kelime / ifade | Risk 5 | Aktif
+- ırkçılık sahnesi | Kelime / ifade | Risk 5 | Aktif
+- kısa boylu | Kelime / ifade | Risk 5 | Aktif
+- kısa boylu anlatımı | Kelime / ifade | Risk 5 | Aktif
+- kısa boylu ifadesi | Kelime / ifade | Risk 5 | Aktif
+- kısa boylu sahnesi | Kelime / ifade | Risk 5 | Aktif
+- kızlar yapamaz | Kelime / ifade | Risk 5 | Aktif
+- kızlar yapamaz anlatımı | Kelime / ifade | Risk 5 | Aktif
+- kızlar yapamaz ifadesi | Kelime / ifade | Risk 5 | Aktif
+- kızlar yapamaz sahnesi | Kelime / ifade | Risk 5 | Aktif
+- köylü hakareti | Kelime / ifade | Risk 5 | Aktif
+- köylü hakareti ifadesi | Kelime / ifade | Risk 5 | Aktif
+- köylü hakareti sahnesi | Kelime / ifade | Risk 5 | Aktif
+- mezhepçilik | Kelime / ifade | Risk 5 | Aktif
+- mezhepçilik anlatımı | Kelime / ifade | Risk 5 | Aktif
+- mezhepçilik ifadesi | Kelime / ifade | Risk 5 | Aktif
+- mezhepçilik sahnesi | Kelime / ifade | Risk 5 | Aktif
+- nefret | Kelime / ifade | Risk 5 | Aktif
+- nefret anlatımı | Kelime / ifade | Risk 5 | Aktif
+- nefret göndermesi | Kelime / ifade | Risk 5 | Aktif
+- nefret ifadesi | Kelime / ifade | Risk 5 | Aktif
+- nefret sahnesi | Kelime / ifade | Risk 5 | Aktif
+- ötekileştirme | Kelime / ifade | Risk 5 | Aktif
+- ötekileştirme anlatımı | Kelime / ifade | Risk 5 | Aktif
+- ötekileştirme ifadesi | Kelime / ifade | Risk 5 | Aktif
+- ötekileştirme sahnesi | Kelime / ifade | Risk 5 | Aktif
+- sosyal sınıf aşağılama | Kelime / ifade | Risk 5 | Aktif
+- sosyal sınıf aşağılama ifadesi | Kelime / ifade | Risk 5 | Aktif
+- sosyal sınıf aşağılama sahnesi | Kelime / ifade | Risk 5 | Aktif
+- şişman | Kelime / ifade | Risk 5 | Aktif
+- şişman anlatımı | Kelime / ifade | Risk 5 | Aktif
+- şişman ifadesi | Kelime / ifade | Risk 5 | Aktif
+- şişman sahnesi | Kelime / ifade | Risk 5 | Aktif
+- yabancı düşmanlığı | Kelime / ifade | Risk 5 | Aktif
+- yabancı düşmanlığı ifadesi | Kelime / ifade | Risk 5 | Aktif
+- yabancı düşmanlığı sahnesi | Kelime / ifade | Risk 5 | Aktif
+- yoksulla alay | Kelime / ifade | Risk 5 | Aktif
+- yoksulla alay ifadesi | Kelime / ifade | Risk 5 | Aktif
+- yoksulla alay sahnesi | Kelime / ifade | Risk 5 | Aktif
+
+Sistem - Cinsellik ve Mahremiyet
+================================
+- aile | Kelime / ifade | Risk 4 | Aktif
+- aile bütünlüğü | Kelime / ifade | Risk 4 | Aktif
+- aileden | Kelime / ifade | Risk 4 | Aktif
+- ailesinden | Kelime / ifade | Risk 4 | Aktif
+- anne | Kelime / ifade | Risk 4 | Aktif
+- ayıba | Kelime / ifade | Risk 4 | Aktif
+- ayıbı | Kelime / ifade | Risk 4 | Aktif
+- ayıbla | Kelime / ifade | Risk 4 | Aktif
+- ayıp | Kelime / ifade | Risk 4 | Aktif
+- ayıp | Kelime / ifade | Risk 4 | Aktif
+- ayıp ifadesi | Kelime / ifade | Risk 4 | Aktif
+- ayıp sahnesi | Kelime / ifade | Risk 4 | Aktif
+- ayıplar | Kelime / ifade | Risk 4 | Aktif
+- ayrı yaşama | Kelime / ifade | Risk 4 | Aktif
+- baba | Kelime / ifade | Risk 4 | Aktif
+- birbirlerini seviyordu | Kelime / ifade | Risk 4 | Aktif
+- birbirlerini seviyorlardı | Kelime / ifade | Risk 4 | Aktif
+- boşandı | Kelime / ifade | Risk 4 | Aktif
+- boşanma | Kelime / ifade | Risk 4 | Aktif
+- boşanmış | Kelime / ifade | Risk 4 | Aktif
+- cinsel | Kelime / ifade | Risk 4 | Aktif
+- cinsel | Kelime / ifade | Risk 4 | Aktif
+- cinsel anlatımı | Kelime / ifade | Risk 4 | Aktif
+- cinsel davranışı | Kelime / ifade | Risk 4 | Aktif
+- cinsel göndermesi | Kelime / ifade | Risk 4 | Aktif
+- cinsel ifadesi | Kelime / ifade | Risk 4 | Aktif
+- cinsel ilişki | Kelime / ifade | Risk 4 | Aktif
+- cinsel sahnesi | Kelime / ifade | Risk 4 | Aktif
+- cinsel vurgusu | Kelime / ifade | Risk 4 | Aktif
+- cinselllik | Kelime / ifade | Risk 4 | Aktif
+- çıplağı | Kelime / ifade | Risk 4 | Aktif
+- çıplağın | Kelime / ifade | Risk 4 | Aktif
+- çıplak | Kelime / ifade | Risk 4 | Aktif
+- çıplak | Kelime / ifade | Risk 4 | Aktif
+- çıplak anlatımı | Kelime / ifade | Risk 4 | Aktif
+- çıplak davranışı | Kelime / ifade | Risk 4 | Aktif
+- çıplak göndermesi | Kelime / ifade | Risk 4 | Aktif
+- çıplak ifadesi | Kelime / ifade | Risk 4 | Aktif
+- çıplak sahnesi | Kelime / ifade | Risk 4 | Aktif
+- çıplak vurgusu | Kelime / ifade | Risk 4 | Aktif
+- çıplakça | Kelime / ifade | Risk 4 | Aktif
+- dudaktan öptü | Kelime / ifade | Risk 4 | Aktif
+- dudaktan öpüşme | Kelime / ifade | Risk 4 | Aktif
+- erotik | Kelime / ifade | Risk 4 | Aktif
+- erotik | Kelime / ifade | Risk 4 | Aktif
+- erotik anlatımı | Kelime / ifade | Risk 4 | Aktif
+- erotik davranışı | Kelime / ifade | Risk 4 | Aktif
+- erotik göndermesi | Kelime / ifade | Risk 4 | Aktif
+- erotik ifadesi | Kelime / ifade | Risk 4 | Aktif
+- erotik sahnesi | Kelime / ifade | Risk 4 | Aktif
+- erotik vurgusu | Kelime / ifade | Risk 4 | Aktif
+- erotiklik | Kelime / ifade | Risk 4 | Aktif
+- eş | Kelime / ifade | Risk 4 | Aktif
+- evlenmek | Kelime / ifade | Risk 4 | Aktif
+- evlilik | Kelime / ifade | Risk 4 | Aktif
+- evlilik dışı ilişki | Kelime / ifade | Risk 4 | Aktif
+- fahişe | Kelime / ifade | Risk 4 | Aktif
+- fahişelik | Kelime / ifade | Risk 4 | Aktif
+- fiziksel yakınlaşma | Kelime / ifade | Risk 4 | Aktif
+- flört | Kelime / ifade | Risk 4 | Aktif
+- flört etmek | Kelime / ifade | Risk 4 | Aktif
+- fuhuş | Kelime / ifade | Risk 4 | Aktif
+- ırz | Kelime / ifade | Risk 4 | Aktif
+- ırz | Kelime / ifade | Risk 4 | Aktif
+- ırz ifadesi | Kelime / ifade | Risk 4 | Aktif
+- ırz sahnesi | Kelime / ifade | Risk 4 | Aktif
+- ırza | Kelime / ifade | Risk 4 | Aktif
+- ırzdan | Kelime / ifade | Risk 4 | Aktif
+- ırzına | Kelime / ifade | Risk 4 | Aktif
+- ırzını | Kelime / ifade | Risk 4 | Aktif
+- karı | Kelime / ifade | Risk 4 | Aktif
+- koca | Kelime / ifade | Risk 4 | Aktif
+- licik | Kelime / ifade | Risk 4 | Aktif
+- liciklik | Kelime / ifade | Risk 4 | Aktif
+- mahrem | Kelime / ifade | Risk 4 | Aktif
+- mahrem | Kelime / ifade | Risk 4 | Aktif
+- mahrem anlatımı | Kelime / ifade | Risk 4 | Aktif
+- mahrem davranışı | Kelime / ifade | Risk 4 | Aktif
+- mahrem göndermesi | Kelime / ifade | Risk 4 | Aktif
+- mahrem ifadesi | Kelime / ifade | Risk 4 | Aktif
+- mahrem sahnesi | Kelime / ifade | Risk 4 | Aktif
+- mahrem vurgusu | Kelime / ifade | Risk 4 | Aktif
+- mahrem yakınlaşma | Kelime / ifade | Risk 4 | Aktif
+- mahremiyeti | Kelime / ifade | Risk 4 | Aktif
+- mahremiyetin | Kelime / ifade | Risk 4 | Aktif
+- müstehcen | Kelime / ifade | Risk 4 | Aktif
+- müstehcen | Kelime / ifade | Risk 4 | Aktif
+- müstehcen anlatımı | Kelime / ifade | Risk 4 | Aktif
+- müstehcen davranışı | Kelime / ifade | Risk 4 | Aktif
+- müstehcen göndermesi | Kelime / ifade | Risk 4 | Aktif
+- müstehcen ifadesi | Kelime / ifade | Risk 4 | Aktif
+- müstehcen sahnesi | Kelime / ifade | Risk 4 | Aktif
+- müstehcen vurgusu | Kelime / ifade | Risk 4 | Aktif
+- müstehcenlik | Kelime / ifade | Risk 4 | Aktif
+- namus | Kelime / ifade | Risk 4 | Aktif
+- namus | Kelime / ifade | Risk 4 | Aktif
+- namus ifadesi | Kelime / ifade | Risk 4 | Aktif
+- namus sahnesi | Kelime / ifade | Risk 4 | Aktif
+- namustan | Kelime / ifade | Risk 4 | Aktif
+- namusu | Kelime / ifade | Risk 4 | Aktif
+- namusunu | Kelime / ifade | Risk 4 | Aktif
+- namusunun | Kelime / ifade | Risk 4 | Aktif
+- nişanlı | Kelime / ifade | Risk 4 | Aktif
+- öpücük | Kelime / ifade | Risk 4 | Aktif
+- öpüşme | Kelime / ifade | Risk 4 | Aktif
+- öpüşme anlatımı | Kelime / ifade | Risk 4 | Aktif
+- öpüşme davranışı | Kelime / ifade | Risk 4 | Aktif
+- öpüşme göndermesi | Kelime / ifade | Risk 4 | Aktif
+- öpüşme ifadesi | Kelime / ifade | Risk 4 | Aktif
+- öpüşme sahnesi | Kelime / ifade | Risk 4 | Aktif
+- öpüşme vurgusu | Kelime / ifade | Risk 4 | Aktif
+- öpüşmek | Kelime / ifade | Risk 4 | Aktif
+- öpüşmek | Kelime / ifade | Risk 4 | Aktif
+- öpüşmesi | Kelime / ifade | Risk 4 | Aktif
+- öpüştü | Kelime / ifade | Risk 4 | Aktif
+- romantik ilişki | Kelime / ifade | Risk 4 | Aktif
+- sapık | Kelime / ifade | Risk 4 | Aktif
+- sapıklık | Kelime / ifade | Risk 4 | Aktif
+- sarılıp yatmak | Kelime / ifade | Risk 4 | Aktif
+- sevgili | Kelime / ifade | Risk 4 | Aktif
+- taciz | Kelime / ifade | Risk 4 | Aktif
+- taciz | Kelime / ifade | Risk 4 | Aktif
+- taciz anlatımı | Kelime / ifade | Risk 4 | Aktif
+- taciz davranışı | Kelime / ifade | Risk 4 | Aktif
+- taciz etme | Kelime / ifade | Risk 4 | Aktif
+- taciz göndermesi | Kelime / ifade | Risk 4 | Aktif
+- taciz ifadesi | Kelime / ifade | Risk 4 | Aktif
+- taciz sahnesi | Kelime / ifade | Risk 4 | Aktif
+- taciz vurgusu | Kelime / ifade | Risk 4 | Aktif
+- tacizci | Kelime / ifade | Risk 4 | Aktif
+- tecavüz | Kelime / ifade | Risk 4 | Aktif
+- tecavüz | Kelime / ifade | Risk 4 | Aktif
+- tecavüz anlatımı | Kelime / ifade | Risk 4 | Aktif
+- tecavüz davranışı | Kelime / ifade | Risk 4 | Aktif
+- tecavüz etme | Kelime / ifade | Risk 4 | Aktif
+- tecavüz göndermesi | Kelime / ifade | Risk 4 | Aktif
+- tecavüz ifadesi | Kelime / ifade | Risk 4 | Aktif
+- tecavüz sahnesi | Kelime / ifade | Risk 4 | Aktif
+- tecavüz vurgusu | Kelime / ifade | Risk 4 | Aktif
+- tecavüzü | Kelime / ifade | Risk 4 | Aktif
+- utanca | Kelime / ifade | Risk 4 | Aktif
+- utancı | Kelime / ifade | Risk 4 | Aktif
+- utanç | Kelime / ifade | Risk 4 | Aktif
+- utanç ifadesi | Kelime / ifade | Risk 4 | Aktif
+- utanç sahnesi | Kelime / ifade | Risk 4 | Aktif
+- utançtan | Kelime / ifade | Risk 4 | Aktif
+- uygunsuz | Kelime / ifade | Risk 4 | Aktif
+- yoğun romantik temas | Kelime / ifade | Risk 4 | Aktif
+
+Sistem - Dijital Risk ve Hukuk
+==============================
+- challenge | Kelime / ifade | Risk 4 | Aktif
+- challenge anlatımı | Kelime / ifade | Risk 4 | Aktif
+- challenge ifadesi | Kelime / ifade | Risk 4 | Aktif
+- challenge sahnesi | Kelime / ifade | Risk 4 | Aktif
+- çocuk güvenliği riski | Kelime / ifade | Risk 4 | Aktif
+- çocuk güvenliği riski ifadesi | Kelime / ifade | Risk 4 | Aktif
+- çocuk güvenliği riski sahnesi | Kelime / ifade | Risk 4 | Aktif
+- dolandırıcılık | Kelime / ifade | Risk 4 | Aktif
+- dolandırıcılık anlatımı | Kelime / ifade | Risk 4 | Aktif
+- dolandırıcılık ifadesi | Kelime / ifade | Risk 4 | Aktif
+- dolandırıcılık sahnesi | Kelime / ifade | Risk 4 | Aktif
+- gizli fotoğraf | Kelime / ifade | Risk 4 | Aktif
+- gizli fotoğraf anlatımı | Kelime / ifade | Risk 4 | Aktif
+- gizli fotoğraf ifadesi | Kelime / ifade | Risk 4 | Aktif
+- gizli fotoğraf sahnesi | Kelime / ifade | Risk 4 | Aktif
+- hacklemek | Kelime / ifade | Risk 4 | Aktif
+- hacklemek anlatımı | Kelime / ifade | Risk 4 | Aktif
+- hacklemek ifadesi | Kelime / ifade | Risk 4 | Aktif
+- hacklemek sahnesi | Kelime / ifade | Risk 4 | Aktif
+- izinsiz paylaşım | Kelime / ifade | Risk 4 | Aktif
+- izinsiz paylaşım anlatımı | Kelime / ifade | Risk 4 | Aktif
+- izinsiz paylaşım ifadesi | Kelime / ifade | Risk 4 | Aktif
+- izinsiz paylaşım sahnesi | Kelime / ifade | Risk 4 | Aktif
+- karanlık web | Kelime / ifade | Risk 4 | Aktif
+- karanlık web anlatımı | Kelime / ifade | Risk 4 | Aktif
+- karanlık web ifadesi | Kelime / ifade | Risk 4 | Aktif
+- karanlık web sahnesi | Kelime / ifade | Risk 4 | Aktif
+- kimlik çalmak | Kelime / ifade | Risk 4 | Aktif
+- kimlik çalmak anlatımı | Kelime / ifade | Risk 4 | Aktif
+- kimlik çalmak ifadesi | Kelime / ifade | Risk 4 | Aktif
+- kimlik çalmak sahnesi | Kelime / ifade | Risk 4 | Aktif
+- kişisel veri | Kelime / ifade | Risk 4 | Aktif
+- kişisel veri anlatımı | Kelime / ifade | Risk 4 | Aktif
+- kişisel veri ifadesi | Kelime / ifade | Risk 4 | Aktif
+- kişisel veri sahnesi | Kelime / ifade | Risk 4 | Aktif
+- konum paylaşımı | Kelime / ifade | Risk 4 | Aktif
+- konum paylaşımı ifadesi | Kelime / ifade | Risk 4 | Aktif
+- konum paylaşımı sahnesi | Kelime / ifade | Risk 4 | Aktif
+- korsan indirme | Kelime / ifade | Risk 4 | Aktif
+- korsan indirme anlatımı | Kelime / ifade | Risk 4 | Aktif
+- korsan indirme ifadesi | Kelime / ifade | Risk 4 | Aktif
+- korsan indirme sahnesi | Kelime / ifade | Risk 4 | Aktif
+- online taciz | Kelime / ifade | Risk 4 | Aktif
+- online taciz anlatımı | Kelime / ifade | Risk 4 | Aktif
+- online taciz ifadesi | Kelime / ifade | Risk 4 | Aktif
+- online taciz sahnesi | Kelime / ifade | Risk 4 | Aktif
+- özel bilgileri yaymak | Kelime / ifade | Risk 4 | Aktif
+- özel bilgileri yaymak ifadesi | Kelime / ifade | Risk 4 | Aktif
+- özel bilgileri yaymak sahnesi | Kelime / ifade | Risk 4 | Aktif
+- sahte hesap | Kelime / ifade | Risk 4 | Aktif
+- sahte hesap anlatımı | Kelime / ifade | Risk 4 | Aktif
+- sahte hesap ifadesi | Kelime / ifade | Risk 4 | Aktif
+- sahte hesap sahnesi | Kelime / ifade | Risk 4 | Aktif
+- siber zorbalık | Kelime / ifade | Risk 4 | Aktif
+- siber zorbalık anlatımı | Kelime / ifade | Risk 4 | Aktif
+- siber zorbalık ifadesi | Kelime / ifade | Risk 4 | Aktif
+- siber zorbalık sahnesi | Kelime / ifade | Risk 4 | Aktif
+- şifre çalmak | Kelime / ifade | Risk 4 | Aktif
+- şifre çalmak anlatımı | Kelime / ifade | Risk 4 | Aktif
+- şifre çalmak ifadesi | Kelime / ifade | Risk 4 | Aktif
+- şifre çalmak sahnesi | Kelime / ifade | Risk 4 | Aktif
+- tehdit mesajı | Kelime / ifade | Risk 4 | Aktif
+- tehdit mesajı anlatımı | Kelime / ifade | Risk 4 | Aktif
+- tehdit mesajı ifadesi | Kelime / ifade | Risk 4 | Aktif
+- tehdit mesajı sahnesi | Kelime / ifade | Risk 4 | Aktif
+- tehlikeli meydan okama ifadesi | Kelime / ifade | Risk 4 | Aktif
+- tehlikeli meydan okama sahnesi | Kelime / ifade | Risk 4 | Aktif
+- tehlikeli meydan okuma | Kelime / ifade | Risk 4 | Aktif
+- uygunsuz mesajlaşma | Kelime / ifade | Risk 4 | Aktif
+- uygunsuz mesajlaşma ifadesi | Kelime / ifade | Risk 4 | Aktif
+- uygunsuz mesajlaşma sahnesi | Kelime / ifade | Risk 4 | Aktif
+- yasa dışı site | Kelime / ifade | Risk 4 | Aktif
+- yasa dışı site anlatımı | Kelime / ifade | Risk 4 | Aktif
+- yasa dışı site ifadesi | Kelime / ifade | Risk 4 | Aktif
+- yasa dışı site sahnesi | Kelime / ifade | Risk 4 | Aktif
+
+Sistem - Kaba Dil ve Hakaret
+============================
+- ahmak | Kelime / ifade | Risk 3 | Aktif
+- ahmak anlatımı | Kelime / ifade | Risk 3 | Aktif
+- ahmak çağrışımı | Kelime / ifade | Risk 3 | Aktif
+- ahmak davranışı | Kelime / ifade | Risk 3 | Aktif
+- ahmak göndermesi | Kelime / ifade | Risk 3 | Aktif
+- ahmak ifadesi | Kelime / ifade | Risk 3 | Aktif
+- ahmak konuşması | Kelime / ifade | Risk 3 | Aktif
+- ahmak sahnesi | Kelime / ifade | Risk 3 | Aktif
+- ahmak tasviri | Kelime / ifade | Risk 3 | Aktif
+- ahmak vurgusu | Kelime / ifade | Risk 3 | Aktif
+- alay | Kelime / ifade | Risk 3 | Aktif
+- alay anlatımı | Kelime / ifade | Risk 3 | Aktif
+- alay ifadesi | Kelime / ifade | Risk 3 | Aktif
+- alay sahnesi | Kelime / ifade | Risk 3 | Aktif
+- alçak | Kelime / ifade | Risk 3 | Aktif
+- alçak anlatımı | Kelime / ifade | Risk 3 | Aktif
+- alçak ifadesi | Kelime / ifade | Risk 3 | Aktif
+- alçak sahnesi | Kelime / ifade | Risk 3 | Aktif
+- aptal | Kelime / ifade | Risk 3 | Aktif
+- aptal anlatımı | Kelime / ifade | Risk 3 | Aktif
+- aptal çağrışımı | Kelime / ifade | Risk 3 | Aktif
+- aptal davranışı | Kelime / ifade | Risk 3 | Aktif
+- aptal göndermesi | Kelime / ifade | Risk 3 | Aktif
+- aptal ifadesi | Kelime / ifade | Risk 3 | Aktif
+- aptal konuşması | Kelime / ifade | Risk 3 | Aktif
+- aptal sahnesi | Kelime / ifade | Risk 3 | Aktif
+- aptal tasviri | Kelime / ifade | Risk 3 | Aktif
+- aptal vurgusu | Kelime / ifade | Risk 3 | Aktif
+- argo | Kelime / ifade | Risk 3 | Aktif
+- argo anlatımı | Kelime / ifade | Risk 3 | Aktif
+- argo ifadesi | Kelime / ifade | Risk 3 | Aktif
+- argo sahnesi | Kelime / ifade | Risk 3 | Aktif
+- aşağılama | Kelime / ifade | Risk 3 | Aktif
+- aşağılama anlatımı | Kelime / ifade | Risk 3 | Aktif
+- aşağılama ifadesi | Kelime / ifade | Risk 3 | Aktif
+- aşağılama sahnesi | Kelime / ifade | Risk 3 | Aktif
+- budala | Kelime / ifade | Risk 3 | Aktif
+- budala anlatımı | Kelime / ifade | Risk 3 | Aktif
+- budala göndermesi | Kelime / ifade | Risk 3 | Aktif
+- budala ifadesi | Kelime / ifade | Risk 3 | Aktif
+- budala sahnesi | Kelime / ifade | Risk 3 | Aktif
+- defol | Kelime / ifade | Risk 3 | Aktif
+- defol anlatımı | Kelime / ifade | Risk 3 | Aktif
+- defol ifadesi | Kelime / ifade | Risk 3 | Aktif
+- defol sahnesi | Kelime / ifade | Risk 3 | Aktif
+- dışlama | Kelime / ifade | Risk 3 | Aktif
+- dışlama anlatımı | Kelime / ifade | Risk 3 | Aktif
+- dışlama ifadesi | Kelime / ifade | Risk 3 | Aktif
+- dışlama sahnesi | Kelime / ifade | Risk 3 | Aktif
+- enayi | Kelime / ifade | Risk 3 | Aktif
+- enayi anlatımı | Kelime / ifade | Risk 3 | Aktif
+- enayi göndermesi | Kelime / ifade | Risk 3 | Aktif
+- enayi ifadesi | Kelime / ifade | Risk 3 | Aktif
+- enayi sahnesi | Kelime / ifade | Risk 3 | Aktif
+- eşek | Kelime / ifade | Risk 3 | Aktif
+- eşek anlatımı | Kelime / ifade | Risk 3 | Aktif
+- eşek göndermesi | Kelime / ifade | Risk 3 | Aktif
+- eşek ifadesi | Kelime / ifade | Risk 3 | Aktif
+- eşek sahnesi | Kelime / ifade | Risk 3 | Aktif
+- geri zekâlı | Kelime / ifade | Risk 3 | Aktif
+- geri zekâlı anlatımı | Kelime / ifade | Risk 3 | Aktif
+- geri zekâlı ifadesi | Kelime / ifade | Risk 3 | Aktif
+- geri zekâlı sahnesi | Kelime / ifade | Risk 3 | Aktif
+- gerizekâlı | Kelime / ifade | Risk 3 | Aktif
+- gerizekâlı anlatımı | Kelime / ifade | Risk 3 | Aktif
+- gerizekâlı ifadesi | Kelime / ifade | Risk 3 | Aktif
+- gerizekâlı sahnesi | Kelime / ifade | Risk 3 | Aktif
+- hakaret | Kelime / ifade | Risk 3 | Aktif
+- hakaret anlatımı | Kelime / ifade | Risk 3 | Aktif
+- hakaret ifadesi | Kelime / ifade | Risk 3 | Aktif
+- hakaret sahnesi | Kelime / ifade | Risk 3 | Aktif
+- haysiyetsiz | Kelime / ifade | Risk 3 | Aktif
+- haysiyetsiz anlatımı | Kelime / ifade | Risk 3 | Aktif
+- haysiyetsiz ifadesi | Kelime / ifade | Risk 3 | Aktif
+- haysiyetsiz sahnesi | Kelime / ifade | Risk 3 | Aktif
+- kaba hitap | Kelime / ifade | Risk 3 | Aktif
+- kaba hitap anlatımı | Kelime / ifade | Risk 3 | Aktif
+- kaba hitap ifadesi | Kelime / ifade | Risk 3 | Aktif
+- kaba hitap sahnesi | Kelime / ifade | Risk 3 | Aktif
+- kahrol | Kelime / ifade | Risk 3 | Aktif
+- kahrol anlatımı | Kelime / ifade | Risk 3 | Aktif
+- kahrol ifadesi | Kelime / ifade | Risk 3 | Aktif
+- kahrol sahnesi | Kelime / ifade | Risk 3 | Aktif
+- küçümseme | Kelime / ifade | Risk 3 | Aktif
+- küçümseme anlatımı | Kelime / ifade | Risk 3 | Aktif
+- küçümseme ifadesi | Kelime / ifade | Risk 3 | Aktif
+- küçümseme sahnesi | Kelime / ifade | Risk 3 | Aktif
+- küfür | Kelime / ifade | Risk 3 | Aktif
+- küfür anlatımı | Kelime / ifade | Risk 3 | Aktif
+- küfür ifadesi | Kelime / ifade | Risk 3 | Aktif
+- küfür sahnesi | Kelime / ifade | Risk 3 | Aktif
+- lakap takma | Kelime / ifade | Risk 3 | Aktif
+- lakap takma anlatımı | Kelime / ifade | Risk 3 | Aktif
+- lakap takma ifadesi | Kelime / ifade | Risk 3 | Aktif
+- lakap takma sahnesi | Kelime / ifade | Risk 3 | Aktif
+- lan | Kelime / ifade | Risk 3 | Aktif
+- lan anlatımı | Kelime / ifade | Risk 3 | Aktif
+- lan göndermesi | Kelime / ifade | Risk 3 | Aktif
+- lan ifadesi | Kelime / ifade | Risk 3 | Aktif
+- lan sahnesi | Kelime / ifade | Risk 3 | Aktif
+- namussuz | Kelime / ifade | Risk 3 | Aktif
+- namussuz anlatımı | Kelime / ifade | Risk 3 | Aktif
+- namussuz ifadesi | Kelime / ifade | Risk 3 | Aktif
+- namussuz sahnesi | Kelime / ifade | Risk 3 | Aktif
+- pislik | Kelime / ifade | Risk 3 | Aktif
+- pislik anlatımı | Kelime / ifade | Risk 3 | Aktif
+- pislik ifadesi | Kelime / ifade | Risk 3 | Aktif
+- pislik sahnesi | Kelime / ifade | Risk 3 | Aktif
+- rezil | Kelime / ifade | Risk 3 | Aktif
+- rezil anlatımı | Kelime / ifade | Risk 3 | Aktif
+- rezil ifadesi | Kelime / ifade | Risk 3 | Aktif
+- rezil sahnesi | Kelime / ifade | Risk 3 | Aktif
+- salak | Kelime / ifade | Risk 3 | Aktif
+- salak anlatımı | Kelime / ifade | Risk 3 | Aktif
+- salak çağrışımı | Kelime / ifade | Risk 3 | Aktif
+- salak davranışı | Kelime / ifade | Risk 3 | Aktif
+- salak göndermesi | Kelime / ifade | Risk 3 | Aktif
+- salak ifadesi | Kelime / ifade | Risk 3 | Aktif
+- salak konuşması | Kelime / ifade | Risk 3 | Aktif
+- salak sahnesi | Kelime / ifade | Risk 3 | Aktif
+- salak tasviri | Kelime / ifade | Risk 3 | Aktif
+- salak vurgusu | Kelime / ifade | Risk 3 | Aktif
+- serseri | Kelime / ifade | Risk 3 | Aktif
+- serseri anlatımı | Kelime / ifade | Risk 3 | Aktif
+- serseri göndermesi | Kelime / ifade | Risk 3 | Aktif
+- serseri ifadesi | Kelime / ifade | Risk 3 | Aktif
+- serseri sahnesi | Kelime / ifade | Risk 3 | Aktif
+- şerefsiz | Kelime / ifade | Risk 3 | Aktif
+- şerefsiz anlatımı | Kelime / ifade | Risk 3 | Aktif
+- şerefsiz ifadesi | Kelime / ifade | Risk 3 | Aktif
+- şerefsiz sahnesi | Kelime / ifade | Risk 3 | Aktif
+- tehditkâr söz | Kelime / ifade | Risk 3 | Aktif
+- tehditkâr söz anlatımı | Kelime / ifade | Risk 3 | Aktif
+- tehditkâr söz ifadesi | Kelime / ifade | Risk 3 | Aktif
+- tehditkâr söz sahnesi | Kelime / ifade | Risk 3 | Aktif
+- ulan | Kelime / ifade | Risk 3 | Aktif
+- ulan anlatımı | Kelime / ifade | Risk 3 | Aktif
+- ulan göndermesi | Kelime / ifade | Risk 3 | Aktif
+- ulan ifadesi | Kelime / ifade | Risk 3 | Aktif
+- ulan sahnesi | Kelime / ifade | Risk 3 | Aktif
+
+Sistem - Korku, Travma ve Karanlık Unsurlar
+===========================================
+- canavar | Kelime / ifade | Risk 3 | Aktif
+- canavar anlatımı | Kelime / ifade | Risk 3 | Aktif
+- canavar göndermesi | Kelime / ifade | Risk 3 | Aktif
+- canavar ifadesi | Kelime / ifade | Risk 3 | Aktif
+- canavar sahnesi | Kelime / ifade | Risk 3 | Aktif
+- cin | Kelime / ifade | Risk 3 | Aktif
+- cin anlatımı | Kelime / ifade | Risk 3 | Aktif
+- cin göndermesi | Kelime / ifade | Risk 3 | Aktif
+- cin ifadesi | Kelime / ifade | Risk 3 | Aktif
+- cin sahnesi | Kelime / ifade | Risk 3 | Aktif
+- çığlık | Kelime / ifade | Risk 3 | Aktif
+- çığlık anlatımı | Kelime / ifade | Risk 3 | Aktif
+- çığlık göndermesi | Kelime / ifade | Risk 3 | Aktif
+- çığlık ifadesi | Kelime / ifade | Risk 3 | Aktif
+- çığlık sahnesi | Kelime / ifade | Risk 3 | Aktif
+- dehşet | Kelime / ifade | Risk 3 | Aktif
+- dehşet anlatımı | Kelime / ifade | Risk 3 | Aktif
+- dehşet göndermesi | Kelime / ifade | Risk 3 | Aktif
+- dehşet ifadesi | Kelime / ifade | Risk 3 | Aktif
+- dehşet sahnesi | Kelime / ifade | Risk 3 | Aktif
+- gece korkusu | Kelime / ifade | Risk 3 | Aktif
+- gece korkusu anlatımı | Kelime / ifade | Risk 3 | Aktif
+- gece korkusu ifadesi | Kelime / ifade | Risk 3 | Aktif
+- gece korkusu sahnesi | Kelime / ifade | Risk 3 | Aktif
+- hayalet | Kelime / ifade | Risk 3 | Aktif
+- hayalet anlatımı | Kelime / ifade | Risk 3 | Aktif
+- hayalet göndermesi | Kelime / ifade | Risk 3 | Aktif
+- hayalet ifadesi | Kelime / ifade | Risk 3 | Aktif
+- hayalet sahnesi | Kelime / ifade | Risk 3 | Aktif
+- iblis | Kelime / ifade | Risk 3 | Aktif
+- iblis anlatımı | Kelime / ifade | Risk 3 | Aktif
+- iblis göndermesi | Kelime / ifade | Risk 3 | Aktif
+- iblis ifadesi | Kelime / ifade | Risk 3 | Aktif
+- iblis sahnesi | Kelime / ifade | Risk 3 | Aktif
+- kabus | Kelime / ifade | Risk 3 | Aktif
+- kabus anlatımı | Kelime / ifade | Risk 3 | Aktif
+- kabus göndermesi | Kelime / ifade | Risk 3 | Aktif
+- kabus ifadesi | Kelime / ifade | Risk 3 | Aktif
+- kabus sahnesi | Kelime / ifade | Risk 3 | Aktif
+- kaçış | Kelime / ifade | Risk 3 | Aktif
+- kaçış anlatımı | Kelime / ifade | Risk 3 | Aktif
+- kaçış göndermesi | Kelime / ifade | Risk 3 | Aktif
+- kaçış ifadesi | Kelime / ifade | Risk 3 | Aktif
+- kaçış sahnesi | Kelime / ifade | Risk 3 | Aktif
+- kanlı yüz | Kelime / ifade | Risk 3 | Aktif
+- kanlı yüz anlatımı | Kelime / ifade | Risk 3 | Aktif
+- kanlı yüz ifadesi | Kelime / ifade | Risk 3 | Aktif
+- kanlı yüz sahnesi | Kelime / ifade | Risk 3 | Aktif
+- karabasan | Kelime / ifade | Risk 3 | Aktif
+- karabasan anlatımı | Kelime / ifade | Risk 3 | Aktif
+- karabasan ifadesi | Kelime / ifade | Risk 3 | Aktif
+- karabasan sahnesi | Kelime / ifade | Risk 3 | Aktif
+- karanlık oda | Kelime / ifade | Risk 3 | Aktif
+- karanlık oda anlatımı | Kelime / ifade | Risk 3 | Aktif
+- karanlık oda ifadesi | Kelime / ifade | Risk 3 | Aktif
+- karanlık oda sahnesi | Kelime / ifade | Risk 3 | Aktif
+- korku oyunu | Kelime / ifade | Risk 3 | Aktif
+- korku oyunu anlatımı | Kelime / ifade | Risk 3 | Aktif
+- korku oyunu ifadesi | Kelime / ifade | Risk 3 | Aktif
+- korku oyunu sahnesi | Kelime / ifade | Risk 3 | Aktif
+- korkunç | Kelime / ifade | Risk 3 | Aktif
+- korkunç anlatımı | Kelime / ifade | Risk 3 | Aktif
+- korkunç göndermesi | Kelime / ifade | Risk 3 | Aktif
+- korkunç ifadesi | Kelime / ifade | Risk 3 | Aktif
+- korkunç sahnesi | Kelime / ifade | Risk 3 | Aktif
+- lanet | Kelime / ifade | Risk 3 | Aktif
+- lanet anlatımı | Kelime / ifade | Risk 3 | Aktif
+- lanet göndermesi | Kelime / ifade | Risk 3 | Aktif
+- lanet ifadesi | Kelime / ifade | Risk 3 | Aktif
+- lanet sahnesi | Kelime / ifade | Risk 3 | Aktif
+- mezar taşı | Kelime / ifade | Risk 3 | Aktif
+- mezar taşı anlatımı | Kelime / ifade | Risk 3 | Aktif
+- mezar taşı ifadesi | Kelime / ifade | Risk 3 | Aktif
+- mezar taşı sahnesi | Kelime / ifade | Risk 3 | Aktif
+- mezarlık | Kelime / ifade | Risk 3 | Aktif
+- mezarlık anlatımı | Kelime / ifade | Risk 3 | Aktif
+- mezarlık göndermesi | Kelime / ifade | Risk 3 | Aktif
+- mezarlık ifadesi | Kelime / ifade | Risk 3 | Aktif
+- mezarlık sahnesi | Kelime / ifade | Risk 3 | Aktif
+- ölü | Kelime / ifade | Risk 3 | Aktif
+- ölü anlatımı | Kelime / ifade | Risk 3 | Aktif
+- ölü göndermesi | Kelime / ifade | Risk 3 | Aktif
+- ölü ifadesi | Kelime / ifade | Risk 3 | Aktif
+- ölü sahnesi | Kelime / ifade | Risk 3 | Aktif
+- ölüler | Kelime / ifade | Risk 3 | Aktif
+- ölüler anlatımı | Kelime / ifade | Risk 3 | Aktif
+- ölüler göndermesi | Kelime / ifade | Risk 3 | Aktif
+- ölüler ifadesi | Kelime / ifade | Risk 3 | Aktif
+- ölüler sahnesi | Kelime / ifade | Risk 3 | Aktif
+- ölüm tehdidi | Kelime / ifade | Risk 3 | Aktif
+- ölüm tehdidi anlatımı | Kelime / ifade | Risk 3 | Aktif
+- ölüm tehdidi ifadesi | Kelime / ifade | Risk 3 | Aktif
+- ölüm tehdidi sahnesi | Kelime / ifade | Risk 3 | Aktif
+- panik | Kelime / ifade | Risk 3 | Aktif
+- panik anlatımı | Kelime / ifade | Risk 3 | Aktif
+- panik göndermesi | Kelime / ifade | Risk 3 | Aktif
+- panik ifadesi | Kelime / ifade | Risk 3 | Aktif
+- panik sahnesi | Kelime / ifade | Risk 3 | Aktif
+- perili ev | Kelime / ifade | Risk 3 | Aktif
+- perili ev anlatımı | Kelime / ifade | Risk 3 | Aktif
+- perili ev ifadesi | Kelime / ifade | Risk 3 | Aktif
+- perili ev sahnesi | Kelime / ifade | Risk 3 | Aktif
+- saklanmak | Kelime / ifade | Risk 3 | Aktif
+- saklanmak anlatımı | Kelime / ifade | Risk 3 | Aktif
+- saklanmak ifadesi | Kelime / ifade | Risk 3 | Aktif
+- saklanmak sahnesi | Kelime / ifade | Risk 3 | Aktif
+- şeytan | Kelime / ifade | Risk 3 | Aktif
+- şeytan anlatımı | Kelime / ifade | Risk 3 | Aktif
+- şeytan göndermesi | Kelime / ifade | Risk 3 | Aktif
+- şeytan ifadesi | Kelime / ifade | Risk 3 | Aktif
+- şeytan sahnesi | Kelime / ifade | Risk 3 | Aktif
+- takip edilmek | Kelime / ifade | Risk 3 | Aktif
+- takip edilmek anlatımı | Kelime / ifade | Risk 3 | Aktif
+- takip edilmek ifadesi | Kelime / ifade | Risk 3 | Aktif
+- takip edilmek sahnesi | Kelime / ifade | Risk 3 | Aktif
+- travma | Kelime / ifade | Risk 3 | Aktif
+- travma anlatımı | Kelime / ifade | Risk 3 | Aktif
+- travma göndermesi | Kelime / ifade | Risk 3 | Aktif
+- travma ifadesi | Kelime / ifade | Risk 3 | Aktif
+- travma sahnesi | Kelime / ifade | Risk 3 | Aktif
+- uğursuz | Kelime / ifade | Risk 3 | Aktif
+- uğursuz anlatımı | Kelime / ifade | Risk 3 | Aktif
+- uğursuz göndermesi | Kelime / ifade | Risk 3 | Aktif
+- uğursuz ifadesi | Kelime / ifade | Risk 3 | Aktif
+- uğursuz sahnesi | Kelime / ifade | Risk 3 | Aktif
+- ürpertici | Kelime / ifade | Risk 3 | Aktif
+- ürpertici anlatımı | Kelime / ifade | Risk 3 | Aktif
+- ürpertici ifadesi | Kelime / ifade | Risk 3 | Aktif
+- ürpertici sahnesi | Kelime / ifade | Risk 3 | Aktif
+- vahşi yaratık | Kelime / ifade | Risk 3 | Aktif
+- vahşi yaratık anlatımı | Kelime / ifade | Risk 3 | Aktif
+- vahşi yaratık ifadesi | Kelime / ifade | Risk 3 | Aktif
+- vahşi yaratık sahnesi | Kelime / ifade | Risk 3 | Aktif
+
+Sistem - Okültizm ve Batıl İnanç
+================================
+- astroloji yönlendirmesi | Kelime / ifade | Risk 4 | Aktif
+- astroloji yönlendirmesi ifadesi | Kelime / ifade | Risk 4 | Aktif
+- astroloji yönlendirmesi sahnesi | Kelime / ifade | Risk 4 | Aktif
+- ayin | Kelime / ifade | Risk 4 | Aktif
+- ayin anlatımı | Kelime / ifade | Risk 4 | Aktif
+- ayin göndermesi | Kelime / ifade | Risk 4 | Aktif
+- ayin ifadesi | Kelime / ifade | Risk 4 | Aktif
+- ayin sahnesi | Kelime / ifade | Risk 4 | Aktif
+- burç kaderi | Kelime / ifade | Risk 4 | Aktif
+- burç kaderi anlatımı | Kelime / ifade | Risk 4 | Aktif
+- burç kaderi ifadesi | Kelime / ifade | Risk 4 | Aktif
+- burç kaderi sahnesi | Kelime / ifade | Risk 4 | Aktif
+- büyü | Kelime / ifade | Risk 4 | Aktif
+- büyü anlatımı | Kelime / ifade | Risk 4 | Aktif
+- büyü göndermesi | Kelime / ifade | Risk 4 | Aktif
+- büyü ifadesi | Kelime / ifade | Risk 4 | Aktif
+- büyü sahnesi | Kelime / ifade | Risk 4 | Aktif
+- büyücü | Kelime / ifade | Risk 4 | Aktif
+- büyücü anlatımı | Kelime / ifade | Risk 4 | Aktif
+- büyücü göndermesi | Kelime / ifade | Risk 4 | Aktif
+- büyücü ifadesi | Kelime / ifade | Risk 4 | Aktif
+- büyücü sahnesi | Kelime / ifade | Risk 4 | Aktif
+- cadı | Kelime / ifade | Risk 4 | Aktif
+- cadı anlatımı | Kelime / ifade | Risk 4 | Aktif
+- cadı göndermesi | Kelime / ifade | Risk 4 | Aktif
+- cadı ifadesi | Kelime / ifade | Risk 4 | Aktif
+- cadı sahnesi | Kelime / ifade | Risk 4 | Aktif
+- cin çağırma | Kelime / ifade | Risk 4 | Aktif
+- cin çağırma anlatımı | Kelime / ifade | Risk 4 | Aktif
+- cin çağırma ifadesi | Kelime / ifade | Risk 4 | Aktif
+- cin çağırma sahnesi | Kelime / ifade | Risk 4 | Aktif
+- doğaüstü güç | Kelime / ifade | Risk 4 | Aktif
+- doğaüstü güç anlatımı | Kelime / ifade | Risk 4 | Aktif
+- doğaüstü güç ifadesi | Kelime / ifade | Risk 4 | Aktif
+- doğaüstü güç sahnesi | Kelime / ifade | Risk 4 | Aktif
+- fal | Kelime / ifade | Risk 4 | Aktif
+- fal anlatımı | Kelime / ifade | Risk 4 | Aktif
+- fal baktırmak | Kelime / ifade | Risk 4 | Aktif
+- fal baktırmak anlatımı | Kelime / ifade | Risk 4 | Aktif
+- fal baktırmak ifadesi | Kelime / ifade | Risk 4 | Aktif
+- fal baktırmak sahnesi | Kelime / ifade | Risk 4 | Aktif
+- fal göndermesi | Kelime / ifade | Risk 4 | Aktif
+- fal ifadesi | Kelime / ifade | Risk 4 | Aktif
+- fal sahnesi | Kelime / ifade | Risk 4 | Aktif
+- gizli güç | Kelime / ifade | Risk 4 | Aktif
+- gizli güç anlatımı | Kelime / ifade | Risk 4 | Aktif
+- gizli güç ifadesi | Kelime / ifade | Risk 4 | Aktif
+- gizli güç sahnesi | Kelime / ifade | Risk 4 | Aktif
+- gökkuşağı | Kelime / ifade | Risk 4 | Aktif
+- gökkuşağı göndermesi | Kelime / ifade | Risk 4 | Aktif
+- gökkuşağı mistik | Kelime / ifade | Risk 4 | Aktif
+- gökkuşağı ritüeli | Kelime / ifade | Risk 4 | Aktif
+- gökkuşağı sembolü | Kelime / ifade | Risk 4 | Aktif
+- gökkuşağı sembolü ifadesi | Kelime / ifade | Risk 4 | Aktif
+- gökkuşağı sembolü sahnesi | Kelime / ifade | Risk 4 | Aktif
+- kanlı ayin | Kelime / ifade | Risk 4 | Aktif
+- kanlı ayin anlatımı | Kelime / ifade | Risk 4 | Aktif
+- kanlı ayin ifadesi | Kelime / ifade | Risk 4 | Aktif
+- kanlı ayin sahnesi | Kelime / ifade | Risk 4 | Aktif
+- kara büyü | Kelime / ifade | Risk 4 | Aktif
+- kara büyü anlatımı | Kelime / ifade | Risk 4 | Aktif
+- kara büyü ifadesi | Kelime / ifade | Risk 4 | Aktif
+- kara büyü sahnesi | Kelime / ifade | Risk 4 | Aktif
+- kehanet | Kelime / ifade | Risk 4 | Aktif
+- kehanet anlatımı | Kelime / ifade | Risk 4 | Aktif
+- kehanet göndermesi | Kelime / ifade | Risk 4 | Aktif
+- kehanet ifadesi | Kelime / ifade | Risk 4 | Aktif
+- kehanet sahnesi | Kelime / ifade | Risk 4 | Aktif
+- lanetleme | Kelime / ifade | Risk 4 | Aktif
+- lanetleme anlatımı | Kelime / ifade | Risk 4 | Aktif
+- lanetleme ifadesi | Kelime / ifade | Risk 4 | Aktif
+- lanetleme sahnesi | Kelime / ifade | Risk 4 | Aktif
+- medyum | Kelime / ifade | Risk 4 | Aktif
+- medyum anlatımı | Kelime / ifade | Risk 4 | Aktif
+- medyum göndermesi | Kelime / ifade | Risk 4 | Aktif
+- medyum ifadesi | Kelime / ifade | Risk 4 | Aktif
+- medyum sahnesi | Kelime / ifade | Risk 4 | Aktif
+- mistik ritüel | Kelime / ifade | Risk 4 | Aktif
+- mistik ritüel anlatımı | Kelime / ifade | Risk 4 | Aktif
+- mistik ritüel ifadesi | Kelime / ifade | Risk 4 | Aktif
+- mistik ritüel sahnesi | Kelime / ifade | Risk 4 | Aktif
+- muska | Kelime / ifade | Risk 4 | Aktif
+- muska anlatımı | Kelime / ifade | Risk 4 | Aktif
+- muska göndermesi | Kelime / ifade | Risk 4 | Aktif
+- muska ifadesi | Kelime / ifade | Risk 4 | Aktif
+- muska sahnesi | Kelime / ifade | Risk 4 | Aktif
+- okült | Kelime / ifade | Risk 4 | Aktif
+- okült anlatımı | Kelime / ifade | Risk 4 | Aktif
+- okült göndermesi | Kelime / ifade | Risk 4 | Aktif
+- okült ifadesi | Kelime / ifade | Risk 4 | Aktif
+- okült sahnesi | Kelime / ifade | Risk 4 | Aktif
+- periler gerçek | Kelime / ifade | Risk 4 | Aktif
+- periler gerçek anlatımı | Kelime / ifade | Risk 4 | Aktif
+- periler gerçek ifadesi | Kelime / ifade | Risk 4 | Aktif
+- periler gerçek sahnesi | Kelime / ifade | Risk 4 | Aktif
+- ruh çağırma | Kelime / ifade | Risk 4 | Aktif
+- ruh çağırma anlatımı | Kelime / ifade | Risk 4 | Aktif
+- ruh çağırma ifadesi | Kelime / ifade | Risk 4 | Aktif
+- ruh çağırma sahnesi | Kelime / ifade | Risk 4 | Aktif
+- sihir | Kelime / ifade | Risk 4 | Aktif
+- sihir anlatımı | Kelime / ifade | Risk 4 | Aktif
+- sihir göndermesi | Kelime / ifade | Risk 4 | Aktif
+- sihir ifadesi | Kelime / ifade | Risk 4 | Aktif
+- sihir sahnesi | Kelime / ifade | Risk 4 | Aktif
+- şeytani ritüel | Kelime / ifade | Risk 4 | Aktif
+- şeytani ritüel anlatımı | Kelime / ifade | Risk 4 | Aktif
+- şeytani ritüel ifadesi | Kelime / ifade | Risk 4 | Aktif
+- şeytani ritüel sahnesi | Kelime / ifade | Risk 4 | Aktif
+- tılsım | Kelime / ifade | Risk 4 | Aktif
+- tılsım anlatımı | Kelime / ifade | Risk 4 | Aktif
+- tılsım göndermesi | Kelime / ifade | Risk 4 | Aktif
+- tılsım ifadesi | Kelime / ifade | Risk 4 | Aktif
+- tılsım sahnesi | Kelime / ifade | Risk 4 | Aktif
+- uğur taşı | Kelime / ifade | Risk 4 | Aktif
+- uğur taşı anlatımı | Kelime / ifade | Risk 4 | Aktif
+- uğur taşı ifadesi | Kelime / ifade | Risk 4 | Aktif
+- uğur taşı sahnesi | Kelime / ifade | Risk 4 | Aktif
+
+Sistem - Olumsuz Davranış Modeli
+================================
+- anneye bağırmak | Kelime / ifade | Risk 3 | Aktif
+- anneye bağırmak anlatımı | Kelime / ifade | Risk 3 | Aktif
+- anneye bağırmak ifadesi | Kelime / ifade | Risk 3 | Aktif
+- anneye bağırmak sahnesi | Kelime / ifade | Risk 3 | Aktif
+- arkadaşını dışlamak | Kelime / ifade | Risk 3 | Aktif
+- arkadaşını dışlamak ifadesi | Kelime / ifade | Risk 3 | Aktif
+- arkadaşını dışlamak sahnesi | Kelime / ifade | Risk 3 | Aktif
+- babaya saygısızlık | Kelime / ifade | Risk 3 | Aktif
+- babaya saygısızlık ifadesi | Kelime / ifade | Risk 3 | Aktif
+- babaya saygısızlık sahnesi | Kelime / ifade | Risk 3 | Aktif
+- bencillik | Kelime / ifade | Risk 3 | Aktif
+- bencillik anlatımı | Kelime / ifade | Risk 3 | Aktif
+- bencillik ifadesi | Kelime / ifade | Risk 3 | Aktif
+- bencillik sahnesi | Kelime / ifade | Risk 3 | Aktif
+- çalmak | Kelime / ifade | Risk 3 | Aktif
+- çalmak anlatımı | Kelime / ifade | Risk 3 | Aktif
+- çalmak göndermesi | Kelime / ifade | Risk 3 | Aktif
+- çalmak ifadesi | Kelime / ifade | Risk 3 | Aktif
+- çalmak sahnesi | Kelime / ifade | Risk 3 | Aktif
+- dersi bozmak | Kelime / ifade | Risk 3 | Aktif
+- dersi bozmak anlatımı | Kelime / ifade | Risk 3 | Aktif
+- dersi bozmak ifadesi | Kelime / ifade | Risk 3 | Aktif
+- dersi bozmak sahnesi | Kelime / ifade | Risk 3 | Aktif
+- emek vermeden kazanmak | Kelime / ifade | Risk 3 | Aktif
+- emek vermeden kazanmak ifadesi | Kelime / ifade | Risk 3 | Aktif
+- emek vermeden kazanmak sahnesi | Kelime / ifade | Risk 3 | Aktif
+- eşyaya zarar | Kelime / ifade | Risk 3 | Aktif
+- eşyaya zarar anlatımı | Kelime / ifade | Risk 3 | Aktif
+- eşyaya zarar ifadesi | Kelime / ifade | Risk 3 | Aktif
+- eşyaya zarar sahnesi | Kelime / ifade | Risk 3 | Aktif
+- gösteriş | Kelime / ifade | Risk 3 | Aktif
+- gösteriş anlatımı | Kelime / ifade | Risk 3 | Aktif
+- gösteriş ifadesi | Kelime / ifade | Risk 3 | Aktif
+- gösteriş sahnesi | Kelime / ifade | Risk 3 | Aktif
+- hayvana zarar | Kelime / ifade | Risk 3 | Aktif
+- hayvana zarar anlatımı | Kelime / ifade | Risk 3 | Aktif
+- hayvana zarar ifadesi | Kelime / ifade | Risk 3 | Aktif
+- hayvana zarar sahnesi | Kelime / ifade | Risk 3 | Aktif
+- hile yapmak | Kelime / ifade | Risk 3 | Aktif
+- hile yapmak anlatımı | Kelime / ifade | Risk 3 | Aktif
+- hile yapmak ifadesi | Kelime / ifade | Risk 3 | Aktif
+- hile yapmak sahnesi | Kelime / ifade | Risk 3 | Aktif
+- intikam planı | Kelime / ifade | Risk 3 | Aktif
+- intikam planı anlatımı | Kelime / ifade | Risk 3 | Aktif
+- intikam planı ifadesi | Kelime / ifade | Risk 3 | Aktif
+- intikam planı sahnesi | Kelime / ifade | Risk 3 | Aktif
+- itaatsizlik | Kelime / ifade | Risk 3 | Aktif
+- itaatsizlik anlatımı | Kelime / ifade | Risk 3 | Aktif
+- itaatsizlik ifadesi | Kelime / ifade | Risk 3 | Aktif
+- itaatsizlik sahnesi | Kelime / ifade | Risk 3 | Aktif
+- kıskançlık | Kelime / ifade | Risk 3 | Aktif
+- kıskançlık anlatımı | Kelime / ifade | Risk 3 | Aktif
+- kıskançlık ifadesi | Kelime / ifade | Risk 3 | Aktif
+- kıskançlık sahnesi | Kelime / ifade | Risk 3 | Aktif
+- kopya çekmek | Kelime / ifade | Risk 3 | Aktif
+- kopya çekmek anlatımı | Kelime / ifade | Risk 3 | Aktif
+- kopya çekmek ifadesi | Kelime / ifade | Risk 3 | Aktif
+- kopya çekmek sahnesi | Kelime / ifade | Risk 3 | Aktif
+- lüks özentisi | Kelime / ifade | Risk 3 | Aktif
+- lüks özentisi anlatımı | Kelime / ifade | Risk 3 | Aktif
+- lüks özentisi ifadesi | Kelime / ifade | Risk 3 | Aktif
+- lüks özentisi sahnesi | Kelime / ifade | Risk 3 | Aktif
+- okuldan kaçmak | Kelime / ifade | Risk 3 | Aktif
+- okuldan kaçmak anlatımı | Kelime / ifade | Risk 3 | Aktif
+- okuldan kaçmak ifadesi | Kelime / ifade | Risk 3 | Aktif
+- okuldan kaçmak sahnesi | Kelime / ifade | Risk 3 | Aktif
+- öğretmene hakaret | Kelime / ifade | Risk 3 | Aktif
+- öğretmene hakaret ifadesi | Kelime / ifade | Risk 3 | Aktif
+- öğretmene hakaret sahnesi | Kelime / ifade | Risk 3 | Aktif
+- parayı yüceltmek | Kelime / ifade | Risk 3 | Aktif
+- parayı yüceltmek ifadesi | Kelime / ifade | Risk 3 | Aktif
+- parayı yüceltmek sahnesi | Kelime / ifade | Risk 3 | Aktif
+- sorumluluktan kaçmak | Kelime / ifade | Risk 3 | Aktif
+- sorumluluktan kaçmak ifadesi | Kelime / ifade | Risk 3 | Aktif
+- sorumluluktan kaçmak sahnesi | Kelime / ifade | Risk 3 | Aktif
+- yalan söylemek | Kelime / ifade | Risk 3 | Aktif
+- yalan söylemek anlatımı | Kelime / ifade | Risk 3 | Aktif
+- yalan söylemek ifadesi | Kelime / ifade | Risk 3 | Aktif
+- yalan söylemek sahnesi | Kelime / ifade | Risk 3 | Aktif
+
+Sistem - Reklam ve Ticari Yönlendirme
+=====================================
+- abone ol | Kelime / ifade | Risk 2 | Aktif
+- abone ol anlatımı | Kelime / ifade | Risk 2 | Aktif
+- abone ol ifadesi | Kelime / ifade | Risk 2 | Aktif
+- abone ol sahnesi | Kelime / ifade | Risk 2 | Aktif
+- dış bağlantı | Kelime / ifade | Risk 2 | Aktif
+- dış bağlantı anlatımı | Kelime / ifade | Risk 2 | Aktif
+- dış bağlantı ifadesi | Kelime / ifade | Risk 2 | Aktif
+- dış bağlantı sahnesi | Kelime / ifade | Risk 2 | Aktif
+- indirim kodu | Kelime / ifade | Risk 2 | Aktif
+- indirim kodu anlatımı | Kelime / ifade | Risk 2 | Aktif
+- indirim kodu ifadesi | Kelime / ifade | Risk 2 | Aktif
+- indirim kodu sahnesi | Kelime / ifade | Risk 2 | Aktif
+- kampanya | Kelime / ifade | Risk 2 | Aktif
+- kampanya anlatımı | Kelime / ifade | Risk 2 | Aktif
+- kampanya ifadesi | Kelime / ifade | Risk 2 | Aktif
+- kampanya sahnesi | Kelime / ifade | Risk 2 | Aktif
+- mağaza linki | Kelime / ifade | Risk 2 | Aktif
+- mağaza linki anlatımı | Kelime / ifade | Risk 2 | Aktif
+- mağaza linki ifadesi | Kelime / ifade | Risk 2 | Aktif
+- mağaza linki sahnesi | Kelime / ifade | Risk 2 | Aktif
+- marka adı | Kelime / ifade | Risk 2 | Aktif
+- marka adı anlatımı | Kelime / ifade | Risk 2 | Aktif
+- marka adı ifadesi | Kelime / ifade | Risk 2 | Aktif
+- marka adı sahnesi | Kelime / ifade | Risk 2 | Aktif
+- oyun içi satın alma | Kelime / ifade | Risk 2 | Aktif
+- oyun içi satın alma ifadesi | Kelime / ifade | Risk 2 | Aktif
+- oyun içi satın alma sahnesi | Kelime / ifade | Risk 2 | Aktif
+- QR kod | Kelime / ifade | Risk 2 | Aktif
+- QR kod anlatımı | Kelime / ifade | Risk 2 | Aktif
+- QR kod ifadesi | Kelime / ifade | Risk 2 | Aktif
+- QR kod sahnesi | Kelime / ifade | Risk 2 | Aktif
+- reklam metni | Kelime / ifade | Risk 2 | Aktif
+- reklam metni anlatımı | Kelime / ifade | Risk 2 | Aktif
+- reklam metni ifadesi | Kelime / ifade | Risk 2 | Aktif
+- reklam metni sahnesi | Kelime / ifade | Risk 2 | Aktif
+- satın al | Kelime / ifade | Risk 2 | Aktif
+- satın al anlatımı | Kelime / ifade | Risk 2 | Aktif
+- satın al ifadesi | Kelime / ifade | Risk 2 | Aktif
+- satın al sahnesi | Kelime / ifade | Risk 2 | Aktif
+- sosyal medya hesabı | Kelime / ifade | Risk 2 | Aktif
+- sosyal medya hesabı ifadesi | Kelime / ifade | Risk 2 | Aktif
+- sosyal medya hesabı sahnesi | Kelime / ifade | Risk 2 | Aktif
+- sponsor | Kelime / ifade | Risk 2 | Aktif
+- sponsor anlatımı | Kelime / ifade | Risk 2 | Aktif
+- sponsor ifadesi | Kelime / ifade | Risk 2 | Aktif
+- sponsor sahnesi | Kelime / ifade | Risk 2 | Aktif
+- takip et | Kelime / ifade | Risk 2 | Aktif
+- takip et anlatımı | Kelime / ifade | Risk 2 | Aktif
+- takip et ifadesi | Kelime / ifade | Risk 2 | Aktif
+- takip et sahnesi | Kelime / ifade | Risk 2 | Aktif
+- ticari yönlendirme | Kelime / ifade | Risk 2 | Aktif
+- ticari yönlendirme ifadesi | Kelime / ifade | Risk 2 | Aktif
+- ticari yönlendirme sahnesi | Kelime / ifade | Risk 2 | Aktif
+- uygulama indir | Kelime / ifade | Risk 2 | Aktif
+- uygulama indir anlatımı | Kelime / ifade | Risk 2 | Aktif
+- uygulama indir ifadesi | Kelime / ifade | Risk 2 | Aktif
+- uygulama indir sahnesi | Kelime / ifade | Risk 2 | Aktif
+- ürün yerleştirme | Kelime / ifade | Risk 2 | Aktif
+- ürün yerleştirme anlatımı | Kelime / ifade | Risk 2 | Aktif
+- ürün yerleştirme ifadesi | Kelime / ifade | Risk 2 | Aktif
+- ürün yerleştirme sahnesi | Kelime / ifade | Risk 2 | Aktif
+
+Sistem - Şiddet ve Suç
+======================
+- adam öldürme | Kelime / ifade | Risk 3 | Aktif
+- balta | Kelime / ifade | Risk 3 | Aktif
+- bıçağı | Kelime / ifade | Risk 3 | Aktif
+- bıçağın | Kelime / ifade | Risk 3 | Aktif
+- bıçağından | Kelime / ifade | Risk 3 | Aktif
+- bıçağını | Kelime / ifade | Risk 3 | Aktif
+- bıçak | Kelime / ifade | Risk 3 | Aktif
+- bıçak | Kelime / ifade | Risk 3 | Aktif
+- bıçak anlatımı | Kelime / ifade | Risk 3 | Aktif
+- bıçak göndermesi | Kelime / ifade | Risk 3 | Aktif
+- bıçak ifadesi | Kelime / ifade | Risk 3 | Aktif
+- bıçak sahnesi | Kelime / ifade | Risk 3 | Aktif
+- bıçakla | Kelime / ifade | Risk 3 | Aktif
+- bıçakları | Kelime / ifade | Risk 3 | Aktif
+- cinayet | Kelime / ifade | Risk 3 | Aktif
+- cinayete | Kelime / ifade | Risk 3 | Aktif
+- cinayeti | Kelime / ifade | Risk 3 | Aktif
+- cinayetin | Kelime / ifade | Risk 3 | Aktif
+- cinayetten | Kelime / ifade | Risk 3 | Aktif
+- çalıyor | Kelime / ifade | Risk 3 | Aktif
+- çalma | Kelime / ifade | Risk 3 | Aktif
+- çalma ifadesi | Kelime / ifade | Risk 3 | Aktif
+- çalmak | Kelime / ifade | Risk 3 | Aktif
+- dolandırıcı | Kelime / ifade | Risk 3 | Aktif
+- dolandırıcılık | Kelime / ifade | Risk 3 | Aktif
+- dolandırma | Kelime / ifade | Risk 3 | Aktif
+- dolandırma ifadesi | Kelime / ifade | Risk 3 | Aktif
+- dövdü | Kelime / ifade | Risk 3 | Aktif
+- döver | Kelime / ifade | Risk 3 | Aktif
+- dövme ifadesi | Kelime / ifade | Risk 3 | Aktif
+- dövme sahnesi | Kelime / ifade | Risk 3 | Aktif
+- dövmek | Kelime / ifade | Risk 3 | Aktif
+- dövüş | Kelime / ifade | Risk 3 | Aktif
+- dövüş sahnesi | Kelime / ifade | Risk 3 | Aktif
+- dövüşlü | Kelime / ifade | Risk 3 | Aktif
+- dövüşmek | Kelime / ifade | Risk 3 | Aktif
+- dövüştü | Kelime / ifade | Risk 3 | Aktif
+- hançer | Kelime / ifade | Risk 3 | Aktif
+- hırsızlık | Kelime / ifade | Risk 3 | Aktif
+- hırsızlık yapmak | Kelime / ifade | Risk 3 | Aktif
+- infaz | Kelime / ifade | Risk 3 | Aktif
+- işkence | Kelime / ifade | Risk 3 | Aktif
+- kama | Kelime / ifade | Risk 3 | Aktif
+- kan | Kelime / ifade | Risk 3 | Aktif
+- kan dokenler | Kelime / ifade | Risk 3 | Aktif
+- kan dök | Kelime / ifade | Risk 3 | Aktif
+- kan dökmek | Kelime / ifade | Risk 3 | Aktif
+- kan saçma | Kelime / ifade | Risk 3 | Aktif
+- katil | Kelime / ifade | Risk 3 | Aktif
+- katilden | Kelime / ifade | Risk 3 | Aktif
+- katile | Kelime / ifade | Risk 3 | Aktif
+- katiler | Kelime / ifade | Risk 3 | Aktif
+- katili | Kelime / ifade | Risk 3 | Aktif
+- katillerin | Kelime / ifade | Risk 3 | Aktif
+- katliam | Kelime / ifade | Risk 3 | Aktif
+- katliam | Kelime / ifade | Risk 3 | Aktif
+- kavga | Kelime / ifade | Risk 3 | Aktif
+- kavga etmek | Kelime / ifade | Risk 3 | Aktif
+- kavga etti | Kelime / ifade | Risk 3 | Aktif
+- kavga sahnesi | Kelime / ifade | Risk 3 | Aktif
+- kavgalı | Kelime / ifade | Risk 3 | Aktif
+- kavgalı dövüşlü | Kelime / ifade | Risk 3 | Aktif
+- keser | Kelime / ifade | Risk 3 | Aktif
+- kılıç | Kelime / ifade | Risk 3 | Aktif
+- kıtal | Kelime / ifade | Risk 3 | Aktif
+- kıtalama | Kelime / ifade | Risk 3 | Aktif
+- mızrak | Kelime / ifade | Risk 3 | Aktif
+- öldür | Kelime / ifade | Risk 3 | Aktif
+- öldürdü | Kelime / ifade | Risk 3 | Aktif
+- öldürdüğü | Kelime / ifade | Risk 3 | Aktif
+- öldürdükten | Kelime / ifade | Risk 3 | Aktif
+- öldürme | Kelime / ifade | Risk 3 | Aktif
+- öldürme anlatımı | Kelime / ifade | Risk 3 | Aktif
+- öldürme göndermesi | Kelime / ifade | Risk 3 | Aktif
+- öldürme ifadesi | Kelime / ifade | Risk 3 | Aktif
+- öldürme sahnesi | Kelime / ifade | Risk 3 | Aktif
+- öldürmek | Kelime / ifade | Risk 3 | Aktif
+- öldürüş | Kelime / ifade | Risk 3 | Aktif
+- öldürüyor | Kelime / ifade | Risk 3 | Aktif
+- ölü | Kelime / ifade | Risk 3 | Aktif
+- ölü | Kelime / ifade | Risk 3 | Aktif
+- ölü anlatımı | Kelime / ifade | Risk 3 | Aktif
+- ölü göndermesi | Kelime / ifade | Risk 3 | Aktif
+- ölü ifadesi | Kelime / ifade | Risk 3 | Aktif
+- ölü sahnesi | Kelime / ifade | Risk 3 | Aktif
+- ölüde | Kelime / ifade | Risk 3 | Aktif
+- ölüden | Kelime / ifade | Risk 3 | Aktif
+- ölüler | Kelime / ifade | Risk 3 | Aktif
+- ölüler | Kelime / ifade | Risk 3 | Aktif
+- ölüm | Kelime / ifade | Risk 3 | Aktif
+- ölüm | Kelime / ifade | Risk 3 | Aktif
+- ölüm anlatımı | Kelime / ifade | Risk 3 | Aktif
+- ölüm göndermesi | Kelime / ifade | Risk 3 | Aktif
+- ölüm ifadesi | Kelime / ifade | Risk 3 | Aktif
+- ölüm sahnesi | Kelime / ifade | Risk 3 | Aktif
+- ölümcül | Kelime / ifade | Risk 3 | Aktif
+- ölümde | Kelime / ifade | Risk 3 | Aktif
+- ölümden | Kelime / ifade | Risk 3 | Aktif
+- ölümlü | Kelime / ifade | Risk 3 | Aktif
+- ölümü | Kelime / ifade | Risk 3 | Aktif
+- ölümün | Kelime / ifade | Risk 3 | Aktif
+- ölüsü | Kelime / ifade | Risk 3 | Aktif
+- ölüyü | Kelime / ifade | Risk 3 | Aktif
+- ölüyü | Kelime / ifade | Risk 3 | Aktif
+- pistol | Kelime / ifade | Risk 3 | Aktif
+- polis tabancası | Kelime / ifade | Risk 3 | Aktif
+- revolver | Kelime / ifade | Risk 3 | Aktif
+- savaş | Kelime / ifade | Risk 3 | Aktif
+- savaş | Kelime / ifade | Risk 3 | Aktif
+- savaş anlatımı | Kelime / ifade | Risk 3 | Aktif
+- savaş göndermesi | Kelime / ifade | Risk 3 | Aktif
+- savaş ifadesi | Kelime / ifade | Risk 3 | Aktif
+- savaş sahnesi | Kelime / ifade | Risk 3 | Aktif
+- savaşı | Kelime / ifade | Risk 3 | Aktif
+- savaşının | Kelime / ifade | Risk 3 | Aktif
+- savaşkı | Kelime / ifade | Risk 3 | Aktif
+- savaşlı | Kelime / ifade | Risk 3 | Aktif
+- savaşta | Kelime / ifade | Risk 3 | Aktif
+- savaştan | Kelime / ifade | Risk 3 | Aktif
+- silah | Kelime / ifade | Risk 3 | Aktif
+- silah | Kelime / ifade | Risk 3 | Aktif
+- silah anlatımı | Kelime / ifade | Risk 3 | Aktif
+- silah göndermesi | Kelime / ifade | Risk 3 | Aktif
+- silah ifadesi | Kelime / ifade | Risk 3 | Aktif
+- silah sahnesi | Kelime / ifade | Risk 3 | Aktif
+- silahı | Kelime / ifade | Risk 3 | Aktif
+- silahın | Kelime / ifade | Risk 3 | Aktif
+- silahından | Kelime / ifade | Risk 3 | Aktif
+- silahını | Kelime / ifade | Risk 3 | Aktif
+- silahla | Kelime / ifade | Risk 3 | Aktif
+- silahları | Kelime / ifade | Risk 3 | Aktif
+- sopa | Kelime / ifade | Risk 3 | Aktif
+- sopa anlatımı | Kelime / ifade | Risk 3 | Aktif
+- sopa ifadesi | Kelime / ifade | Risk 3 | Aktif
+- sopa sahnesi | Kelime / ifade | Risk 3 | Aktif
+- sopalarla | Kelime / ifade | Risk 3 | Aktif
+- sopasını | Kelime / ifade | Risk 3 | Aktif
+- sopayla | Kelime / ifade | Risk 3 | Aktif
+- tomahawk | Kelime / ifade | Risk 3 | Aktif
+- topuz | Kelime / ifade | Risk 3 | Aktif
+- torba | Kelime / ifade | Risk 3 | Aktif
+- tüfek | Kelime / ifade | Risk 3 | Aktif
+- vuran | Kelime / ifade | Risk 3 | Aktif
+- vurarak | Kelime / ifade | Risk 3 | Aktif
+- vurdu | Kelime / ifade | Risk 3 | Aktif
+- vurduğu | Kelime / ifade | Risk 3 | Aktif
+- vurduk | Kelime / ifade | Risk 3 | Aktif
+- vurduktan | Kelime / ifade | Risk 3 | Aktif
+- vurdular | Kelime / ifade | Risk 3 | Aktif
+- vurdum | Kelime / ifade | Risk 3 | Aktif
+- vurdunuz | Kelime / ifade | Risk 3 | Aktif
+- vurma | Kelime / ifade | Risk 3 | Aktif
+- vurma anlatımı | Kelime / ifade | Risk 3 | Aktif
+- vurma göndermesi | Kelime / ifade | Risk 3 | Aktif
+- vurma ifadesi | Kelime / ifade | Risk 3 | Aktif
+- vurma sahnesi | Kelime / ifade | Risk 3 | Aktif
+- vurmak | Kelime / ifade | Risk 3 | Aktif
+- vurmak | Kelime / ifade | Risk 3 | Aktif
+- vurmamak | Kelime / ifade | Risk 3 | Aktif
+- vurması | Kelime / ifade | Risk 3 | Aktif
+- vuruş | Kelime / ifade | Risk 3 | Aktif
+- vuruyor | Kelime / ifade | Risk 3 | Aktif
+- yaraladı | Kelime / ifade | Risk 3 | Aktif
+- yaraladığı | Kelime / ifade | Risk 3 | Aktif
+- yaralama | Kelime / ifade | Risk 3 | Aktif
+- yaralamak | Kelime / ifade | Risk 3 | Aktif
+- yaralamak | Kelime / ifade | Risk 3 | Aktif
+- yaralanıyor | Kelime / ifade | Risk 3 | Aktif
+- yaralanma | Kelime / ifade | Risk 3 | Aktif
+- yaralanma anlatımı | Kelime / ifade | Risk 3 | Aktif
+- yaralanma göndermesi | Kelime / ifade | Risk 3 | Aktif
+- yaralanma ifadesi | Kelime / ifade | Risk 3 | Aktif
+- yaralanma sahnesi | Kelime / ifade | Risk 3 | Aktif
+
+Sistem - Zararlı Alışkanlıklar
+==============================
+- alkol | Kelime / ifade | Risk 4 | Aktif
+- alkol ifadesi | Kelime / ifade | Risk 4 | Aktif
+- alkol sahnesi | Kelime / ifade | Risk 4 | Aktif
+- alkole | Kelime / ifade | Risk 4 | Aktif
+- alkollü | Kelime / ifade | Risk 4 | Aktif
+- alkolsüz | Kelime / ifade | Risk 4 | Aktif
+- ayyaş | Kelime / ifade | Risk 4 | Aktif
+- ayyaş ifadesi | Kelime / ifade | Risk 4 | Aktif
+- ayyaş sahnesi | Kelime / ifade | Risk 4 | Aktif
+- ayyaşlık | Kelime / ifade | Risk 4 | Aktif
+- bağımlılığı | Kelime / ifade | Risk 4 | Aktif
+- bağımlılık | Kelime / ifade | Risk 4 | Aktif
+- bağımlılık ifadesi | Kelime / ifade | Risk 4 | Aktif
+- bağımlılıktan | Kelime / ifade | Risk 4 | Aktif
+- bahis | Kelime / ifade | Risk 4 | Aktif
+- bahis ifadesi | Kelime / ifade | Risk 4 | Aktif
+- bahis sahnesi | Kelime / ifade | Risk 4 | Aktif
+- bahiste | Kelime / ifade | Risk 4 | Aktif
+- bahsi | Kelime / ifade | Risk 4 | Aktif
+- bar | Kelime / ifade | Risk 4 | Aktif
+- bar ifadesi | Kelime / ifade | Risk 4 | Aktif
+- bar sahnesi | Kelime / ifade | Risk 4 | Aktif
+- barda | Kelime / ifade | Risk 4 | Aktif
+- barı | Kelime / ifade | Risk 4 | Aktif
+- barında | Kelime / ifade | Risk 4 | Aktif
+- barlar | Kelime / ifade | Risk 4 | Aktif
+- bira | Kelime / ifade | Risk 4 | Aktif
+- blackjack | Kelime / ifade | Risk 4 | Aktif
+- blackjack ifadesi | Kelime / ifade | Risk 4 | Aktif
+- blackjack sahnesi | Kelime / ifade | Risk 4 | Aktif
+- casino | Kelime / ifade | Risk 4 | Aktif
+- casino ifadesi | Kelime / ifade | Risk 4 | Aktif
+- casino sahnesi | Kelime / ifade | Risk 4 | Aktif
+- casinoda | Kelime / ifade | Risk 4 | Aktif
+- casinoya | Kelime / ifade | Risk 4 | Aktif
+- duman | Kelime / ifade | Risk 4 | Aktif
+- duman ifadesi | Kelime / ifade | Risk 4 | Aktif
+- duman sahnesi | Kelime / ifade | Risk 4 | Aktif
+- eroin | Kelime / ifade | Risk 4 | Aktif
+- eroin ifadesi | Kelime / ifade | Risk 4 | Aktif
+- eroin sahnesi | Kelime / ifade | Risk 4 | Aktif
+- eroini | Kelime / ifade | Risk 4 | Aktif
+- eroinle | Kelime / ifade | Risk 4 | Aktif
+- esrar | Kelime / ifade | Risk 4 | Aktif
+- esrar ifadesi | Kelime / ifade | Risk 4 | Aktif
+- esrar sahnesi | Kelime / ifade | Risk 4 | Aktif
+- esrarı | Kelime / ifade | Risk 4 | Aktif
+- içki | Kelime / ifade | Risk 4 | Aktif
+- içki ifadesi | Kelime / ifade | Risk 4 | Aktif
+- içki sahnesi | Kelime / ifade | Risk 4 | Aktif
+- içkile | Kelime / ifade | Risk 4 | Aktif
+- içkiler | Kelime / ifade | Risk 4 | Aktif
+- içkiye | Kelime / ifade | Risk 4 | Aktif
+- içkiyi | Kelime / ifade | Risk 4 | Aktif
+- kokain | Kelime / ifade | Risk 4 | Aktif
+- kokain ifadesi | Kelime / ifade | Risk 4 | Aktif
+- kokain sahnesi | Kelime / ifade | Risk 4 | Aktif
+- kokaini | Kelime / ifade | Risk 4 | Aktif
+- kumar | Kelime / ifade | Risk 4 | Aktif
+- kumar ifadesi | Kelime / ifade | Risk 4 | Aktif
+- kumar sahnesi | Kelime / ifade | Risk 4 | Aktif
+- kumarcı | Kelime / ifade | Risk 4 | Aktif
+- kumarda | Kelime / ifade | Risk 4 | Aktif
+- kumarı | Kelime / ifade | Risk 4 | Aktif
+- madde bağımlılığı | Kelime / ifade | Risk 4 | Aktif
+- madde kullanımı | Kelime / ifade | Risk 4 | Aktif
+- maddesi | Kelime / ifade | Risk 4 | Aktif
+- meyhanda | Kelime / ifade | Risk 4 | Aktif
+- meyhane | Kelime / ifade | Risk 4 | Aktif
+- meyhane ifadesi | Kelime / ifade | Risk 4 | Aktif
+- meyhane sahnesi | Kelime / ifade | Risk 4 | Aktif
+- meyhanesi | Kelime / ifade | Risk 4 | Aktif
+- meyhaneyi | Kelime / ifade | Risk 4 | Aktif
+- nargile | Kelime / ifade | Risk 4 | Aktif
+- nargile ifadesi | Kelime / ifade | Risk 4 | Aktif
+- nargile sahnesi | Kelime / ifade | Risk 4 | Aktif
+- nargilesi | Kelime / ifade | Risk 4 | Aktif
+- poker | Kelime / ifade | Risk 4 | Aktif
+- poker ifadesi | Kelime / ifade | Risk 4 | Aktif
+- poker sahnesi | Kelime / ifade | Risk 4 | Aktif
+- pokerde | Kelime / ifade | Risk 4 | Aktif
+- rakı | Kelime / ifade | Risk 4 | Aktif
+- rakı ifadesi | Kelime / ifade | Risk 4 | Aktif
+- rakı sahnesi | Kelime / ifade | Risk 4 | Aktif
+- rakısı | Kelime / ifade | Risk 4 | Aktif
+- rakıya | Kelime / ifade | Risk 4 | Aktif
+- rulet | Kelime / ifade | Risk 4 | Aktif
+- rulet ifadesi | Kelime / ifade | Risk 4 | Aktif
+- rulet sahnesi | Kelime / ifade | Risk 4 | Aktif
+- ruleti | Kelime / ifade | Risk 4 | Aktif
+- sarhoş | Kelime / ifade | Risk 4 | Aktif
+- sarhoş ifadesi | Kelime / ifade | Risk 4 | Aktif
+- sarhoş sahnesi | Kelime / ifade | Risk 4 | Aktif
+- sarhoşlar | Kelime / ifade | Risk 4 | Aktif
+- sarhoşluk | Kelime / ifade | Risk 4 | Aktif
+- sarhoşu | Kelime / ifade | Risk 4 | Aktif
+- sigara | Kelime / ifade | Risk 4 | Aktif
+- sigaraları | Kelime / ifade | Risk 4 | Aktif
+- sigarası | Kelime / ifade | Risk 4 | Aktif
+- sigarası anlatımı | Kelime / ifade | Risk 4 | Aktif
+- sigarası göndermesi | Kelime / ifade | Risk 4 | Aktif
+- sigarası ifadesi | Kelime / ifade | Risk 4 | Aktif
+- sigarası sahnesi | Kelime / ifade | Risk 4 | Aktif
+- sigarası vurgusu | Kelime / ifade | Risk 4 | Aktif
+- sigarasını | Kelime / ifade | Risk 4 | Aktif
+- sigarayı | Kelime / ifade | Risk 4 | Aktif
+- şaraba | Kelime / ifade | Risk 4 | Aktif
+- şarabı | Kelime / ifade | Risk 4 | Aktif
+- şarabın | Kelime / ifade | Risk 4 | Aktif
+- şarap | Kelime / ifade | Risk 4 | Aktif
+- şarap ifadesi | Kelime / ifade | Risk 4 | Aktif
+- şarap sahnesi | Kelime / ifade | Risk 4 | Aktif
+- tiryakı ifadesi | Kelime / ifade | Risk 4 | Aktif
+- tiryakı sahnesi | Kelime / ifade | Risk 4 | Aktif
+- tiryaki | Kelime / ifade | Risk 4 | Aktif
+- tiryakilik | Kelime / ifade | Risk 4 | Aktif
+- tütün | Kelime / ifade | Risk 4 | Aktif
+- tütün anlatımı | Kelime / ifade | Risk 4 | Aktif
+- tütün göndermesi | Kelime / ifade | Risk 4 | Aktif
+- tütün ifadesi | Kelime / ifade | Risk 4 | Aktif
+- tütün sahnesi | Kelime / ifade | Risk 4 | Aktif
+- tütün vurgusu | Kelime / ifade | Risk 4 | Aktif
+- tütüne | Kelime / ifade | Risk 4 | Aktif
+- tütünle | Kelime / ifade | Risk 4 | Aktif
+- tütünler | Kelime / ifade | Risk 4 | Aktif
+- tütünü | Kelime / ifade | Risk 4 | Aktif
+- tütünün | Kelime / ifade | Risk 4 | Aktif
+- uyuşturucu | Kelime / ifade | Risk 4 | Aktif
+- uyuşturucu anlatımı | Kelime / ifade | Risk 4 | Aktif
+- uyuşturucu göndermesi | Kelime / ifade | Risk 4 | Aktif
+- uyuşturucu ifadesi | Kelime / ifade | Risk 4 | Aktif
+- uyuşturucu maddesi | Kelime / ifade | Risk 4 | Aktif
+- uyuşturucu sahnesi | Kelime / ifade | Risk 4 | Aktif
+- uyuşturucudan | Kelime / ifade | Risk 4 | Aktif
+- uyuşturucusu | Kelime / ifade | Risk 4 | Aktif
+- uyuşturucuyu | Kelime / ifade | Risk 4 | Aktif
+- vape | Kelime / ifade | Risk 4 | Aktif
+- vape ifadesi | Kelime / ifade | Risk 4 | Aktif
+- vape sahnesi | Kelime / ifade | Risk 4 | Aktif
+- vapeyi | Kelime / ifade | Risk 4 | Aktif
+- viski | Kelime / ifade | Risk 4 | Aktif
+- viski ifadesi | Kelime / ifade | Risk 4 | Aktif
+- viski sahnesi | Kelime / ifade | Risk 4 | Aktif
+- viskisi | Kelime / ifade | Risk 4 | Aktif
+- viskiye | Kelime / ifade | Risk 4 | Aktif

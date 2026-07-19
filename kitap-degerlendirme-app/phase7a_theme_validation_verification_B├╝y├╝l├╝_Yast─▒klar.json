@@ -1,0 +1,31 @@
+{
+  "title": "Büyülü Yastıklar",
+  "compare": {
+    "diff_paths": [],
+    "equal_without_shadow": true
+  },
+  "validation_checks": {
+    "theme_validation_present": true,
+    "theme_validation_only_in_shadow": true,
+    "theme_validation_item_count": 3,
+    "validation_diagnostics_present": true
+  },
+  "true_shadow_keys": [
+    "comparison",
+    "entity_graph",
+    "event_graph",
+    "narrative",
+    "narrative_plan",
+    "quality_contract",
+    "summary_ir"
+  ],
+  "production_leakage": {
+    "root_has_theme_validation": false,
+    "shadow_only_structure_present": true,
+    "production_payload_leaks_detected": false
+  },
+  "deterministic_shadow_output": {
+    "stable_across_repeated_runs": true,
+    "run_count": 2
+  }
+}

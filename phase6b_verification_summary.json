@@ -1,0 +1,130 @@
+{
+  "phase": "6B",
+  "title": "Primary Conflict & Resolution Engine (Shadow Only)",
+  "status": "VERIFIED",
+  "timestamp": "2024-01-17T00:00:00Z",
+  "objectives": {
+    "extract_primary_conflict": "Extract primary conflict from conflict graph using only algorithmic rules",
+    "determine_resolution_status": "Determine resolution_status (resolved/partially_resolved/unresolved/ambiguous) based on outcome presence and chain_confidence >= 0.75",
+    "shadow_only_output": "Attach primary_conflict and resolution to _runtime_v7_shadow.narrative only",
+    "maintain_backward_compatibility": "No changes to production payload structure",
+    "no_book_specific_heuristics": "Use only algorithmic rules, no book titles/authors/hardcoded references"
+  },
+  "verification_results": {
+    "adapter_integration": {
+      "status": "PASS",
+      "details": {
+        "primary_conflict_field_present": true,
+        "resolution_field_present": true,
+        "attached_to_shadow_narrative": true,
+        "production_payload_clean": true
+      }
+    },
+    "algorithmic_resolution_rules": {
+      "status": "PASS",
+      "details": {
+        "resolved": "outcome exists AND chain_confidence >= 0.75",
+        "partially_resolved": "outcome exists AND chain_confidence < 0.75",
+        "unresolved": "no outcome",
+        "ambiguous": "conflicting signals",
+        "test_result": "unresolved (sample payload has no conflicts)"
+      }
+    },
+    "determinism": {
+      "status": "PASS",
+      "details": {
+        "shadow_deterministic_across_repeated_calls": true,
+        "no_datetime_in_shadow_build_path": true,
+        "no_random_in_shadow_build_path": true
+      }
+    },
+    "no_book_specific_heuristics": {
+      "status": "PASS",
+      "details": {
+        "weak_resolution_reason_options": [
+          "insufficient_conflict_data",
+          "low_resolution_confidence",
+          "fragmented_conflict_graph",
+          "sufficient"
+        ],
+        "no_book_names_in_output": true,
+        "no_author_names_in_output": true,
+        "purely_algorithmic": true
+      }
+    }
+  },
+  "code_changes": {
+    "new_files": [
+      "runtime_v7/conflict_resolution.py"
+    ],
+    "modified_files": [
+      "runtime_v7/adapter.py",
+      "runtime_v7/__init__.py"
+    ]
+  },
+  "implementation_details": {
+    "conflict_resolution_module": {
+      "file": "runtime_v7/conflict_resolution.py",
+      "functions": [
+        "_determine_resolution_status(conflict, cause_effect_relations, chain_confidence) -> (status_string, confidence_float)",
+        "build_primary_conflict_resolution(conflict_graph, narrative_chains, cause_effect) -> Dict[str, Any]"
+      ],
+      "output_structure": {
+        "primary_conflict": {
+          "conflict_id": "ID of highest confidence conflict",
+          "confidence": "Float 0.0-1.0",
+          "participants": "List of entities involved",
+          "related_events": "Event indices",
+          "conflict_type": "Type of conflict"
+        },
+        "resolution": {
+          "status": "resolved | partially_resolved | unresolved | ambiguous",
+          "confidence": "Float 0.0-1.0"
+        },
+        "diagnostics": {
+          "resolution_status": "Determined status",
+          "resolution_confidence": "Confidence value",
+          "conflict_resolution_score": "Average of conflict and resolution confidence",
+          "unresolved_major_conflicts": "Count of unresolved conflicts",
+          "weak_resolution_reason": "insufficient_conflict_data | low_resolution_confidence | fragmented_conflict_graph | sufficient",
+          "source": "primary_conflict_resolution_engine"
+        }
+      }
+    },
+    "adapter_integration": {
+      "file": "runtime_v7/adapter.py",
+      "line": 308,
+      "integration": "primary_conflict_resolution = build_primary_conflict_resolution(conflict_graph, narrative_chains, cause_effect)",
+      "shadow_attachment": "Lines 321-324: Adds primary_conflict and resolution to shadow.narrative"
+    }
+  },
+  "testing": {
+    "test_file": "phase6b_conflict_resolution_test.py",
+    "test_type": "Unit test with determinism verification",
+    "test_results": {
+      "has_resolution_field": true,
+      "resolution_status_is_algorithmic": true,
+      "deterministic_across_repeated_runs": true,
+      "no_book_specific_heuristics": true
+    }
+  },
+  "backward_compatibility": {
+    "production_payload": "UNCHANGED - Shadow-only output attached via _runtime_v7_shadow key",
+    "existing_routes": "COMPATIBLE - Shadow data does not affect production responses",
+    "performance_impact": "Minimal - Shadow pipeline runs in conditional block only when feature flag enabled"
+  },
+  "requirements_met": {
+    "primary_conflict_extraction": "YES - Extracts from conflict_graph using algorithmic rules",
+    "resolution_determination": "YES - Uses outcome presence and chain_confidence thresholds",
+    "shadow_only_output": "YES - Attached to _runtime_v7_shadow.narrative only",
+    "no_production_leak": "YES - Production payload structure unchanged",
+    "no_book_heuristics": "YES - All rules algorithmic, no hardcoded references",
+    "determinism": "YES - Output stable across repeated runs"
+  },
+  "next_steps": [
+    "Stage phase6b_conflict_resolution_test.py for verification",
+    "Stage phase6b_conflict_resolution_test_result.json for documentation",
+    "Create git commit with message 'phase6b primary conflict resolution engine'",
+    "Close Phase 6B (Primary Conflict & Resolution Engine)"
+  ]
+}

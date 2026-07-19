@@ -1,0 +1,239 @@
+{
+  "books": [
+    {
+      "title": "Büyülü Yastıklar",
+      "checks": {
+        "equal_without_shadow": true,
+        "shadow_impact_only_under_narrative": true,
+        "production_payload_unchanged": true,
+        "deterministic": true,
+        "book_specific_heuristic": false
+      },
+      "diagnostics": {
+        "high_impact_component_count": 0,
+        "medium_impact_component_count": 2,
+        "low_impact_component_count": 4,
+        "insufficient_data_component_count": 2,
+        "overall_estimated_impact": "low",
+        "overall_impact_confidence": 0.38,
+        "source": "runtime_v7_shadow_impact"
+      },
+      "diagnostics_ok": true,
+      "impact": {
+        "components": [
+          {
+            "name": "Theme Validation",
+            "estimated_impact": "medium",
+            "confidence": 0.72,
+            "reasons": [
+              "Uses confidence and coverage signals from the theme validation layer.",
+              "The assessment remains deterministic and does not depend on title-specific branching."
+            ]
+          },
+          {
+            "name": "Character Validation",
+            "estimated_impact": "low",
+            "confidence": 0.52,
+            "reasons": [
+              "Uses confidence and coverage signals from the character validation layer.",
+              "The assessment remains deterministic and does not depend on title-specific branching."
+            ]
+          },
+          {
+            "name": "Learning Outcome Validation",
+            "estimated_impact": "insufficient_data",
+            "confidence": 0.0,
+            "reasons": [
+              "Uses confidence and coverage signals from the learning outcome validation layer.",
+              "The assessment remains deterministic and does not depend on title-specific branching."
+            ]
+          },
+          {
+            "name": "Validation Coverage",
+            "estimated_impact": "low",
+            "confidence": 0.41,
+            "reasons": [
+              "Uses overall validation coverage as the main signal for potential impact.",
+              "If coverage is sparse, the impact is capped at low or insufficient data."
+            ]
+          },
+          {
+            "name": "Validation Confidence",
+            "estimated_impact": "low",
+            "confidence": 0.41,
+            "reasons": [
+              "Uses the calibrated confidence score for the validation stack.",
+              "Higher confidence indicates more stable impact assessment."
+            ]
+          },
+          {
+            "name": "Quality Comparison",
+            "estimated_impact": "insufficient_data",
+            "confidence": 0.0,
+            "reasons": [
+              "Uses the quality comparison delta and confidence as the main signal.",
+              "A stronger delta with more confidence raises the estimated impact."
+            ]
+          },
+          {
+            "name": "Recommendation Engine",
+            "estimated_impact": "medium",
+            "confidence": 0.58,
+            "reasons": [
+              "Uses the number of generated recommendations and their average confidence.",
+              "A richer recommendation set suggests stronger shadow-side impact."
+            ]
+          },
+          {
+            "name": "Promotion Readiness",
+            "estimated_impact": "low",
+            "confidence": 0.38,
+            "reasons": [
+              "Uses promotion readiness confidence and the readiness state as the main signal.",
+              "A clearer readiness signal suggests more potential impact on deployment decisions."
+            ]
+          }
+        ],
+        "overall_estimated_impact": "low",
+        "overall_confidence": 0.38,
+        "diagnostics": {
+          "high_impact_component_count": 0,
+          "medium_impact_component_count": 2,
+          "low_impact_component_count": 4,
+          "insufficient_data_component_count": 2,
+          "overall_estimated_impact": "low",
+          "overall_impact_confidence": 0.38,
+          "source": "runtime_v7_shadow_impact"
+        }
+      },
+      "impact_component_names": [
+        "Theme Validation",
+        "Character Validation",
+        "Learning Outcome Validation",
+        "Validation Coverage",
+        "Validation Confidence",
+        "Quality Comparison",
+        "Recommendation Engine",
+        "Promotion Readiness"
+      ]
+    },
+    {
+      "title": "Benim Adım Kristof Kolomb",
+      "checks": {
+        "equal_without_shadow": true,
+        "shadow_impact_only_under_narrative": true,
+        "production_payload_unchanged": true,
+        "deterministic": true,
+        "book_specific_heuristic": false
+      },
+      "diagnostics": {
+        "high_impact_component_count": 0,
+        "medium_impact_component_count": 6,
+        "low_impact_component_count": 1,
+        "insufficient_data_component_count": 1,
+        "overall_estimated_impact": "medium",
+        "overall_impact_confidence": 0.5,
+        "source": "runtime_v7_shadow_impact"
+      },
+      "diagnostics_ok": true,
+      "impact": {
+        "components": [
+          {
+            "name": "Theme Validation",
+            "estimated_impact": "medium",
+            "confidence": 0.73,
+            "reasons": [
+              "Uses confidence and coverage signals from the theme validation layer.",
+              "The assessment remains deterministic and does not depend on title-specific branching."
+            ]
+          },
+          {
+            "name": "Character Validation",
+            "estimated_impact": "low",
+            "confidence": 0.37,
+            "reasons": [
+              "Uses confidence and coverage signals from the character validation layer.",
+              "The assessment remains deterministic and does not depend on title-specific branching."
+            ]
+          },
+          {
+            "name": "Learning Outcome Validation",
+            "estimated_impact": "medium",
+            "confidence": 0.74,
+            "reasons": [
+              "Uses confidence and coverage signals from the learning outcome validation layer.",
+              "The assessment remains deterministic and does not depend on title-specific branching."
+            ]
+          },
+          {
+            "name": "Validation Coverage",
+            "estimated_impact": "medium",
+            "confidence": 0.61,
+            "reasons": [
+              "Uses overall validation coverage as the main signal for potential impact.",
+              "If coverage is sparse, the impact is capped at low or insufficient data."
+            ]
+          },
+          {
+            "name": "Validation Confidence",
+            "estimated_impact": "medium",
+            "confidence": 0.61,
+            "reasons": [
+              "Uses the calibrated confidence score for the validation stack.",
+              "Higher confidence indicates more stable impact assessment."
+            ]
+          },
+          {
+            "name": "Quality Comparison",
+            "estimated_impact": "insufficient_data",
+            "confidence": 0.0,
+            "reasons": [
+              "Uses the quality comparison delta and confidence as the main signal.",
+              "A stronger delta with more confidence raises the estimated impact."
+            ]
+          },
+          {
+            "name": "Recommendation Engine",
+            "estimated_impact": "medium",
+            "confidence": 0.47,
+            "reasons": [
+              "Uses the number of generated recommendations and their average confidence.",
+              "A richer recommendation set suggests stronger shadow-side impact."
+            ]
+          },
+          {
+            "name": "Promotion Readiness",
+            "estimated_impact": "medium",
+            "confidence": 0.5,
+            "reasons": [
+              "Uses promotion readiness confidence and the readiness state as the main signal.",
+              "A clearer readiness signal suggests more potential impact on deployment decisions."
+            ]
+          }
+        ],
+        "overall_estimated_impact": "medium",
+        "overall_confidence": 0.5,
+        "diagnostics": {
+          "high_impact_component_count": 0,
+          "medium_impact_component_count": 6,
+          "low_impact_component_count": 1,
+          "insufficient_data_component_count": 1,
+          "overall_estimated_impact": "medium",
+          "overall_impact_confidence": 0.5,
+          "source": "runtime_v7_shadow_impact"
+        }
+      },
+      "impact_component_names": [
+        "Theme Validation",
+        "Character Validation",
+        "Learning Outcome Validation",
+        "Validation Coverage",
+        "Validation Confidence",
+        "Quality Comparison",
+        "Recommendation Engine",
+        "Promotion Readiness"
+      ]
+    }
+  ],
+  "all_ok": true
+}

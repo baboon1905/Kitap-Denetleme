@@ -1,0 +1,11 @@
+{
+  "book_title": "Canary Test Kitabı",
+  "semantic_labels": ["kahraman", "macera"],
+  "pattern_activations": [
+    {
+      "pattern_id": "theme_adventure",
+      "matched_keywords": ["macera"],
+      "source": "summary_ir.themes"
+    }
+  ]
+}

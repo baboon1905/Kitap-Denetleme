@@ -1,0 +1,1424 @@
+{
+  "library_format": "RC2_SPRINT3",
+  "total_patterns": 74,
+  "patterns": {
+    "theme_adventure": {
+      "id": "theme_adventure",
+      "name": "Adventure",
+      "category": "theme",
+      "description": "Journey, exploration, discovery, quest",
+      "keywords": [
+        "macera",
+        "yolculuk",
+        "keşif",
+        "sefaret",
+        "arama",
+        "deniz",
+        "dağ"
+      ],
+      "matching_strategy": "keyword_frequency",
+      "default_fp_risk": "low",
+      "expected_density": 0.5,
+      "confidence_weight": 1.0,
+      "status": "VALIDATED"
+    },
+    "theme_growth": {
+      "id": "theme_growth",
+      "name": "Growth & Development",
+      "category": "theme",
+      "description": "Personal development, learning, maturation",
+      "keywords": [
+        "büyüme",
+        "gelişim",
+        "olgunlaşma",
+        "öğrenme",
+        "değişme",
+        "ilerleme"
+      ],
+      "matching_strategy": "keyword_frequency",
+      "default_fp_risk": "high",
+      "expected_density": 0.6,
+      "confidence_weight": 0.95,
+      "status": "VALIDATED"
+    },
+    "theme_conflict": {
+      "id": "theme_conflict",
+      "name": "Conflict & Challenge",
+      "category": "theme",
+      "description": "Struggle, confrontation, combat, obstacles",
+      "keywords": [
+        "çatışma",
+        "mücadele",
+        "savaş",
+        "karşılaşma",
+        "engel",
+        "zorluk"
+      ],
+      "matching_strategy": "keyword_frequency",
+      "default_fp_risk": "low",
+      "expected_density": 0.4,
+      "confidence_weight": 1.0,
+      "status": "VALIDATED"
+    },
+    "theme_friendship": {
+      "id": "theme_friendship",
+      "name": "Friendship & Connection",
+      "category": "theme",
+      "description": "Bonds, collaboration, loyalty, partnership",
+      "keywords": [
+        "dostluk",
+        "arkadaşlık",
+        "birlik",
+        "dayanışma",
+        "sadakat",
+        "yardım"
+      ],
+      "matching_strategy": "keyword_frequency",
+      "default_fp_risk": "medium",
+      "expected_density": 0.5,
+      "confidence_weight": 1.0,
+      "status": "VALIDATED"
+    },
+    "theme_family": {
+      "id": "theme_family",
+      "name": "Family & Kinship",
+      "category": "theme",
+      "description": "Family relationships, parenthood, siblings",
+      "keywords": [
+        "aile",
+        "baba",
+        "anne",
+        "kardeş",
+        "ebeveyn",
+        "ata",
+        "nesil"
+      ],
+      "matching_strategy": "keyword_frequency",
+      "default_fp_risk": "low",
+      "expected_density": 0.3,
+      "confidence_weight": 1.0,
+      "status": "VALIDATED"
+    },
+    "theme_courage": {
+      "id": "theme_courage",
+      "name": "Courage & Bravery",
+      "category": "theme",
+      "description": "Bravery, fearlessness, heroism, confidence",
+      "keywords": [
+        "cesaret",
+        "yiğitlik",
+        "korkmamak",
+        "kahraman",
+        "güven",
+        "cüret"
+      ],
+      "matching_strategy": "keyword_frequency",
+      "default_fp_risk": "medium",
+      "expected_density": 0.5,
+      "confidence_weight": 0.95,
+      "status": "VALIDATED"
+    },
+    "theme_knowledge": {
+      "id": "theme_knowledge",
+      "name": "Learning & Wisdom",
+      "category": "theme",
+      "description": "Education, discovery of knowledge, wisdom",
+      "keywords": [
+        "bilgi",
+        "çalışma",
+        "eğitim",
+        "öğrenme",
+        "keşfet",
+        "akıl"
+      ],
+      "matching_strategy": "keyword_frequency",
+      "default_fp_risk": "medium",
+      "expected_density": 0.4,
+      "confidence_weight": 0.9,
+      "status": "VALIDATED"
+    },
+    "theme_mystery": {
+      "id": "theme_mystery",
+      "name": "Mystery & Intrigue",
+      "category": "theme",
+      "description": "Puzzle, secret, investigation, suspense",
+      "keywords": [
+        "gizem",
+        "sır",
+        "araştırma",
+        "ipucu",
+        "belirsizlik",
+        "merak"
+      ],
+      "matching_strategy": "keyword_frequency",
+      "default_fp_risk": "high",
+      "expected_density": 0.3,
+      "confidence_weight": 0.85,
+      "status": "NEW"
+    },
+    "theme_wonder": {
+      "id": "theme_wonder",
+      "name": "Wonder & Magic",
+      "category": "theme",
+      "description": "Magic, fantasy, supernatural, extraordinary",
+      "keywords": [
+        "sihir",
+        "büyü",
+        "harika",
+        "doğaüstü",
+        "mucize",
+        "fantezi"
+      ],
+      "matching_strategy": "keyword_frequency",
+      "default_fp_risk": "low",
+      "expected_density": 0.4,
+      "confidence_weight": 0.9,
+      "status": "NEW"
+    },
+    "theme_loss": {
+      "id": "theme_loss",
+      "name": "Loss & Grief",
+      "category": "theme",
+      "description": "Sadness, grief, farewell, goodbye",
+      "keywords": [
+        "kayıp",
+        "yas",
+        "acı",
+        "veda",
+        "ayrılık",
+        "hüzün"
+      ],
+      "matching_strategy": "keyword_frequency",
+      "default_fp_risk": "high",
+      "expected_density": 0.2,
+      "confidence_weight": 0.8,
+      "status": "NEW"
+    },
+    "theme_belonging": {
+      "id": "theme_belonging",
+      "name": "Belonging & Acceptance",
+      "category": "theme",
+      "description": "Inclusion, acceptance, finding home",
+      "keywords": [
+        "ait olma",
+        "kabul",
+        "ev",
+        "toplum",
+        "aidiyet",
+        "yer"
+      ],
+      "matching_strategy": "keyword_frequency",
+      "default_fp_risk": "high",
+      "expected_density": 0.3,
+      "confidence_weight": 0.85,
+      "status": "NEW"
+    },
+    "theme_justice": {
+      "id": "theme_justice",
+      "name": "Justice & Fairness",
+      "category": "theme",
+      "description": "Right vs wrong, morality, balance",
+      "keywords": [
+        "adalet",
+        "doğru",
+        "hak",
+        "yanlış",
+        "ceza",
+        "ödül"
+      ],
+      "matching_strategy": "keyword_frequency",
+      "default_fp_risk": "medium",
+      "expected_density": 0.3,
+      "confidence_weight": 0.85,
+      "status": "NEW"
+    },
+    "theme_nature": {
+      "id": "theme_nature",
+      "name": "Nature & Environment",
+      "category": "theme",
+      "description": "Natural world, environment, animals",
+      "keywords": [
+        "doğa",
+        "çevre",
+        "hayvan",
+        "mevsim",
+        "orman",
+        "su"
+      ],
+      "matching_strategy": "keyword_frequency",
+      "default_fp_risk": "low",
+      "expected_density": 0.4,
+      "confidence_weight": 0.9,
+      "status": "NEW"
+    },
+    "theme_identity": {
+      "id": "theme_identity",
+      "name": "Identity & Self-Discovery",
+      "category": "theme",
+      "description": "Who am I, self-realization",
+      "keywords": [
+        "kimlik",
+        "öz",
+        "yüz",
+        "ben",
+        "tanıma",
+        "bilinç"
+      ],
+      "matching_strategy": "keyword_frequency",
+      "default_fp_risk": "high",
+      "expected_density": 0.3,
+      "confidence_weight": 0.8,
+      "status": "NEW"
+    },
+    "theme_dreams": {
+      "id": "theme_dreams",
+      "name": "Dreams & Aspiration",
+      "category": "theme",
+      "description": "Goals, wishes, aspirations, ambition",
+      "keywords": [
+        "rüya",
+        "hayal",
+        "hedef",
+        "isteme",
+        "tutkun",
+        "imren"
+      ],
+      "matching_strategy": "keyword_frequency",
+      "default_fp_risk": "medium",
+      "expected_density": 0.3,
+      "confidence_weight": 0.85,
+      "status": "NEW"
+    },
+    "theme_tradition": {
+      "id": "theme_tradition",
+      "name": "Tradition & Culture",
+      "category": "theme",
+      "description": "Customs, heritage, cultural values",
+      "keywords": [
+        "gelenek",
+        "kültür",
+        "miras",
+        "görenek",
+        "değer",
+        "adet"
+      ],
+      "matching_strategy": "keyword_frequency",
+      "default_fp_risk": "low",
+      "expected_density": 0.3,
+      "confidence_weight": 0.85,
+      "status": "NEW"
+    },
+    "theme_change": {
+      "id": "theme_change",
+      "name": "Change & Adaptation",
+      "category": "theme",
+      "description": "Transformation, adaptation, new beginning",
+      "keywords": [
+        "değişim",
+        "uyum",
+        "başlangıç",
+        "yeni",
+        "devrim",
+        "dönüş"
+      ],
+      "matching_strategy": "keyword_frequency",
+      "default_fp_risk": "medium",
+      "expected_density": 0.4,
+      "confidence_weight": 0.85,
+      "status": "NEW"
+    },
+    "theme_power": {
+      "id": "theme_power",
+      "name": "Power & Authority",
+      "category": "theme",
+      "description": "Leadership, influence, control, strength",
+      "keywords": [
+        "güç",
+        "yetki",
+        "kontrol",
+        "liderlik",
+        "etki",
+        "kuvvet"
+      ],
+      "matching_strategy": "keyword_frequency",
+      "default_fp_risk": "medium",
+      "expected_density": 0.3,
+      "confidence_weight": 0.8,
+      "status": "NEW"
+    },
+    "theme_freedom": {
+      "id": "theme_freedom",
+      "name": "Freedom & Liberation",
+      "category": "theme",
+      "description": "Liberty, independence, breaking free",
+      "keywords": [
+        "özgürlük",
+        "bağımsızlık",
+        "kurtulma",
+        "baskıdan kurtulma"
+      ],
+      "matching_strategy": "keyword_frequency",
+      "default_fp_risk": "medium",
+      "expected_density": 0.3,
+      "confidence_weight": 0.85,
+      "status": "NEW"
+    },
+    "theme_redemption": {
+      "id": "theme_redemption",
+      "name": "Redemption & Renewal",
+      "category": "theme",
+      "description": "Transformation, second chances, amends",
+      "keywords": [
+        "kurtarma",
+        "iyileşme",
+        "bağışlama",
+        "yenileme",
+        "tövbe"
+      ],
+      "matching_strategy": "keyword_frequency",
+      "default_fp_risk": "high",
+      "expected_density": 0.2,
+      "confidence_weight": 0.8,
+      "status": "NEW"
+    },
+    "character_protagonist": {
+      "id": "character_protagonist",
+      "name": "Protagonist",
+      "category": "character_role",
+      "description": "Main character, hero, central figure",
+      "keywords": [
+        "ana karakter",
+        "kahraman",
+        "çocuk",
+        "kız",
+        "oğlan",
+        "başkarakter"
+      ],
+      "matching_strategy": "contextual",
+      "default_fp_risk": "low",
+      "expected_density": 0.6,
+      "confidence_weight": 1.0,
+      "status": "VALIDATED"
+    },
+    "character_antagonist": {
+      "id": "character_antagonist",
+      "name": "Antagonist",
+      "category": "character_role",
+      "description": "Opposition, villain, opposing force",
+      "keywords": [
+        "düşman",
+        "kötü",
+        "olumsuz",
+        "karşı",
+        "muhalif"
+      ],
+      "matching_strategy": "contextual",
+      "default_fp_risk": "high",
+      "expected_density": 0.1,
+      "confidence_weight": 0.7,
+      "status": "VALIDATED"
+    },
+    "character_mentor": {
+      "id": "character_mentor",
+      "name": "Mentor & Guide",
+      "category": "character_role",
+      "description": "Teacher, guide, wise figure, advisor",
+      "keywords": [
+        "öğretmen",
+        "rehber",
+        "bilge",
+        "yaşlı",
+        "danışman",
+        "öncü"
+      ],
+      "matching_strategy": "contextual",
+      "default_fp_risk": "low",
+      "expected_density": 0.3,
+      "confidence_weight": 0.9,
+      "status": "VALIDATED"
+    },
+    "character_companion": {
+      "id": "character_companion",
+      "name": "Companion & Friend",
+      "category": "character_role",
+      "description": "Ally, friend, partner, helper",
+      "keywords": [
+        "arkadaş",
+        "dost",
+        "yoldaş",
+        "asistan",
+        "müttefik",
+        "yardımcı"
+      ],
+      "matching_strategy": "contextual",
+      "default_fp_risk": "low",
+      "expected_density": 0.4,
+      "confidence_weight": 1.0,
+      "status": "VALIDATED"
+    },
+    "character_innocent": {
+      "id": "character_innocent",
+      "name": "Innocent & Victim",
+      "category": "character_role",
+      "description": "Innocent party, victim, vulnerable",
+      "keywords": [
+        "masum",
+        "kurban",
+        "çaresiz",
+        "zayıf",
+        "savunmasız",
+        "mağdur"
+      ],
+      "matching_strategy": "contextual",
+      "default_fp_risk": "high",
+      "expected_density": 0.2,
+      "confidence_weight": 0.8,
+      "status": "NEW"
+    },
+    "character_trickster": {
+      "id": "character_trickster",
+      "name": "Trickster & Deceiver",
+      "category": "character_role",
+      "description": "Cunning, deceiver, prankster",
+      "keywords": [
+        "aldatıcı",
+        "hile",
+        "oyun",
+        "sinsi",
+        "hilekâr",
+        "üretici"
+      ],
+      "matching_strategy": "contextual",
+      "default_fp_risk": "high",
+      "expected_density": 0.2,
+      "confidence_weight": 0.75,
+      "status": "NEW"
+    },
+    "character_sage": {
+      "id": "character_sage",
+      "name": "Sage & Wise One",
+      "category": "character_role",
+      "description": "Wise figure, oracle, philosopher",
+      "keywords": [
+        "bilge",
+        "usta",
+        "danışman",
+        "dergah",
+        "fen",
+        "hikmet"
+      ],
+      "matching_strategy": "contextual",
+      "default_fp_risk": "low",
+      "expected_density": 0.2,
+      "confidence_weight": 0.85,
+      "status": "NEW"
+    },
+    "character_comic_relief": {
+      "id": "character_comic_relief",
+      "name": "Comic Relief & Jester",
+      "category": "character_role",
+      "description": "Humorous, entertainer, buffoon",
+      "keywords": [
+        "komik",
+        "espri",
+        "şaka",
+        "eğlence",
+        "buffo",
+        "maskara"
+      ],
+      "matching_strategy": "contextual",
+      "default_fp_risk": "high",
+      "expected_density": 0.15,
+      "confidence_weight": 0.7,
+      "status": "NEW"
+    },
+    "character_creature": {
+      "id": "character_creature",
+      "name": "Creature & Animal",
+      "category": "character_role",
+      "description": "Animal companion, magical creature",
+      "keywords": [
+        "hayvan",
+        "canlı",
+        "yaratık",
+        "varlık",
+        "elf",
+        "yoksa"
+      ],
+      "matching_strategy": "contextual",
+      "default_fp_risk": "medium",
+      "expected_density": 0.2,
+      "confidence_weight": 0.8,
+      "status": "NEW"
+    },
+    "character_outsider": {
+      "id": "character_outsider",
+      "name": "Outsider & Outcast",
+      "category": "character_role",
+      "description": "Outcast, outsider, misfit",
+      "keywords": [
+        "dışlanmış",
+        "misfit",
+        "garip",
+        "yadığı",
+        "paria",
+        "yabancı"
+      ],
+      "matching_strategy": "contextual",
+      "default_fp_risk": "high",
+      "expected_density": 0.15,
+      "confidence_weight": 0.75,
+      "status": "NEW"
+    },
+    "character_authority": {
+      "id": "character_authority",
+      "name": "Authority Figure",
+      "category": "character_role",
+      "description": "Figure in power, ruler, leader",
+      "keywords": [
+        "yetkilisi",
+        "hakim",
+        "kral",
+        "prenses",
+        "başkan",
+        "sahibi"
+      ],
+      "matching_strategy": "contextual",
+      "default_fp_risk": "low",
+      "expected_density": 0.2,
+      "confidence_weight": 0.85,
+      "status": "NEW"
+    },
+    "character_observer": {
+      "id": "character_observer",
+      "name": "Observer & Narrator",
+      "category": "character_role",
+      "description": "Witness, observer, narrator",
+      "keywords": [
+        "gözlemci",
+        "tanık",
+        "anlatıcı",
+        "bakış",
+        "perspektif"
+      ],
+      "matching_strategy": "contextual",
+      "default_fp_risk": "high",
+      "expected_density": 0.15,
+      "confidence_weight": 0.7,
+      "status": "NEW"
+    },
+    "learning_cognitive": {
+      "id": "learning_cognitive",
+      "name": "Cognitive Learning",
+      "category": "learning_outcome",
+      "description": "Knowledge, understanding, critical thinking",
+      "keywords": [
+        "öğrendi",
+        "anladı",
+        "bildi",
+        "kavradı",
+        "düşün",
+        "akıl"
+      ],
+      "matching_strategy": "context_window",
+      "default_fp_risk": "low",
+      "expected_density": 0.4,
+      "confidence_weight": 0.9,
+      "status": "VALIDATED"
+    },
+    "learning_social": {
+      "id": "learning_social",
+      "name": "Social Learning",
+      "category": "learning_outcome",
+      "description": "Cooperation, communication, interpersonal",
+      "keywords": [
+        "işbirliği",
+        "dayanışma",
+        "iletişim",
+        "empati",
+        "konuş",
+        "dinle"
+      ],
+      "matching_strategy": "context_window",
+      "default_fp_risk": "high",
+      "expected_density": 0.3,
+      "confidence_weight": 0.85,
+      "status": "VALIDATED"
+    },
+    "learning_emotional": {
+      "id": "learning_emotional",
+      "name": "Emotional Learning",
+      "category": "learning_outcome",
+      "description": "Emotional intelligence, self-awareness",
+      "keywords": [
+        "hissetti",
+        "duygulanıyor",
+        "deneyimle",
+        "anlış",
+        "duygu",
+        "kalp"
+      ],
+      "matching_strategy": "context_window",
+      "default_fp_risk": "high",
+      "expected_density": 0.3,
+      "confidence_weight": 0.8,
+      "status": "VALIDATED"
+    },
+    "learning_physical": {
+      "id": "learning_physical",
+      "name": "Physical Learning",
+      "category": "learning_outcome",
+      "description": "Motor skills, physical activity, movement",
+      "keywords": [
+        "hareketi",
+        "aktivite",
+        "oyun",
+        "spor",
+        "dans",
+        "koşu"
+      ],
+      "matching_strategy": "context_window",
+      "default_fp_risk": "low",
+      "expected_density": 0.2,
+      "confidence_weight": 0.85,
+      "status": "VALIDATED"
+    },
+    "learning_moral": {
+      "id": "learning_moral",
+      "name": "Moral Learning",
+      "category": "learning_outcome",
+      "description": "Ethics, right vs wrong, moral reasoning",
+      "keywords": [
+        "ahlak",
+        "doğru",
+        "hak",
+        "yanlış",
+        "etik",
+        "vicdan"
+      ],
+      "matching_strategy": "context_window",
+      "default_fp_risk": "high",
+      "expected_density": 0.25,
+      "confidence_weight": 0.8,
+      "status": "NEW"
+    },
+    "learning_creativity": {
+      "id": "learning_creativity",
+      "name": "Creative Learning",
+      "category": "learning_outcome",
+      "description": "Imagination, creativity, innovation",
+      "keywords": [
+        "yaratıcılık",
+        "hayal",
+        "sanat",
+        "müzik",
+        "icat",
+        "buluş"
+      ],
+      "matching_strategy": "context_window",
+      "default_fp_risk": "medium",
+      "expected_density": 0.25,
+      "confidence_weight": 0.8,
+      "status": "NEW"
+    },
+    "learning_resilience": {
+      "id": "learning_resilience",
+      "name": "Resilience & Perseverance",
+      "category": "learning_outcome",
+      "description": "Perseverance, determination",
+      "keywords": [
+        "ısrarcı",
+        "azim",
+        "yılmamak",
+        "zorluğa katlansa",
+        "tekrar"
+      ],
+      "matching_strategy": "context_window",
+      "default_fp_risk": "medium",
+      "expected_density": 0.25,
+      "confidence_weight": 0.8,
+      "status": "NEW"
+    },
+    "learning_cultural": {
+      "id": "learning_cultural",
+      "name": "Cultural Learning",
+      "category": "learning_outcome",
+      "description": "Cultural awareness, understanding diversity",
+      "keywords": [
+        "kültür",
+        "farklılık",
+        "gelenek",
+        "adet",
+        "ırk",
+        "din"
+      ],
+      "matching_strategy": "context_window",
+      "default_fp_risk": "low",
+      "expected_density": 0.2,
+      "confidence_weight": 0.8,
+      "status": "NEW"
+    },
+    "learning_environmental": {
+      "id": "learning_environmental",
+      "name": "Environmental Awareness",
+      "category": "learning_outcome",
+      "description": "Ecological, care for nature",
+      "keywords": [
+        "çevre",
+        "doğa",
+        "koruma",
+        "yaşam",
+        "ağaç",
+        "hayvan"
+      ],
+      "matching_strategy": "context_window",
+      "default_fp_risk": "low",
+      "expected_density": 0.2,
+      "confidence_weight": 0.8,
+      "status": "NEW"
+    },
+    "learning_critical_thinking": {
+      "id": "learning_critical_thinking",
+      "name": "Critical Thinking",
+      "category": "learning_outcome",
+      "description": "Analysis, evaluation, questioning",
+      "keywords": [
+        "analiz",
+        "değerlend",
+        "sorgula",
+        "neden",
+        "nasıl",
+        "kanıt"
+      ],
+      "matching_strategy": "context_window",
+      "default_fp_risk": "high",
+      "expected_density": 0.2,
+      "confidence_weight": 0.75,
+      "status": "NEW"
+    },
+    "learning_self_awareness": {
+      "id": "learning_self_awareness",
+      "name": "Self-Awareness & Reflection",
+      "category": "learning_outcome",
+      "description": "Self-knowledge, reflection",
+      "keywords": [
+        "kendini tanı",
+        "iç denetim",
+        "farkında",
+        "yansıt",
+        "keşfet"
+      ],
+      "matching_strategy": "context_window",
+      "default_fp_risk": "high",
+      "expected_density": 0.15,
+      "confidence_weight": 0.75,
+      "status": "NEW"
+    },
+    "learning_problem_solving": {
+      "id": "learning_problem_solving",
+      "name": "Problem-Solving",
+      "category": "learning_outcome",
+      "description": "Solution finding, strategy, planning",
+      "keywords": [
+        "çöz",
+        "plan",
+        "strateji",
+        "çare",
+        "sonuç",
+        "çıkış"
+      ],
+      "matching_strategy": "context_window",
+      "default_fp_risk": "medium",
+      "expected_density": 0.2,
+      "confidence_weight": 0.8,
+      "status": "NEW"
+    },
+    "conflict_man_vs_self": {
+      "id": "conflict_man_vs_self",
+      "name": "Man vs Self",
+      "category": "conflict",
+      "description": "Internal struggle, personal challenge",
+      "keywords": [
+        "iç çatışma",
+        "kendisi",
+        "tercih",
+        "ikilem",
+        "karar",
+        "vicdan"
+      ],
+      "matching_strategy": "keyword_frequency",
+      "default_fp_risk": "high",
+      "expected_density": 0.2,
+      "confidence_weight": 0.8,
+      "status": "NEW"
+    },
+    "conflict_man_vs_man": {
+      "id": "conflict_man_vs_man",
+      "name": "Man vs Man",
+      "category": "conflict",
+      "description": "Interpersonal conflict, competition",
+      "keywords": [
+        "çatışma",
+        "rakip",
+        "düşman",
+        "dövüş",
+        "anlaşmazlık",
+        "çekişme"
+      ],
+      "matching_strategy": "keyword_frequency",
+      "default_fp_risk": "low",
+      "expected_density": 0.3,
+      "confidence_weight": 0.9,
+      "status": "NEW"
+    },
+    "conflict_man_vs_nature": {
+      "id": "conflict_man_vs_nature",
+      "name": "Man vs Nature",
+      "category": "conflict",
+      "description": "Struggle against natural forces",
+      "keywords": [
+        "doğa",
+        "fırtına",
+        "sel",
+        "deprem",
+        "soğuk",
+        "hayvan"
+      ],
+      "matching_strategy": "keyword_frequency",
+      "default_fp_risk": "low",
+      "expected_density": 0.2,
+      "confidence_weight": 0.85,
+      "status": "NEW"
+    },
+    "conflict_man_vs_society": {
+      "id": "conflict_man_vs_society",
+      "name": "Man vs Society",
+      "category": "conflict",
+      "description": "Social conflict, rebellion",
+      "keywords": [
+        "toplum",
+        "haksızlık",
+        "isyan",
+        "otorite",
+        "kanun",
+        "sistem"
+      ],
+      "matching_strategy": "keyword_frequency",
+      "default_fp_risk": "medium",
+      "expected_density": 0.2,
+      "confidence_weight": 0.8,
+      "status": "NEW"
+    },
+    "conflict_man_vs_fate": {
+      "id": "conflict_man_vs_fate",
+      "name": "Man vs Fate",
+      "category": "conflict",
+      "description": "Struggle against destiny",
+      "keywords": [
+        "kader",
+        "talih",
+        "yazı",
+        "tesadüf",
+        "ölüm",
+        "çok geç"
+      ],
+      "matching_strategy": "keyword_frequency",
+      "default_fp_risk": "high",
+      "expected_density": 0.15,
+      "confidence_weight": 0.75,
+      "status": "NEW"
+    },
+    "conflict_ideological": {
+      "id": "conflict_ideological",
+      "name": "Ideological Conflict",
+      "category": "conflict",
+      "description": "Conflict of beliefs, values",
+      "keywords": [
+        "inanç",
+        "felsefe",
+        "değer",
+        "doğru",
+        "yanlış",
+        "ideoloji"
+      ],
+      "matching_strategy": "keyword_frequency",
+      "default_fp_risk": "high",
+      "expected_density": 0.15,
+      "confidence_weight": 0.75,
+      "status": "NEW"
+    },
+    "conflict_economic": {
+      "id": "conflict_economic",
+      "name": "Economic Conflict",
+      "category": "conflict",
+      "description": "Conflict over resources, money",
+      "keywords": [
+        "para",
+        "zengin",
+        "fakir",
+        "kıtlık",
+        "bolluk",
+        "miras"
+      ],
+      "matching_strategy": "keyword_frequency",
+      "default_fp_risk": "low",
+      "expected_density": 0.2,
+      "confidence_weight": 0.8,
+      "status": "NEW"
+    },
+    "conflict_political": {
+      "id": "conflict_political",
+      "name": "Political Conflict",
+      "category": "conflict",
+      "description": "Power struggles, governance",
+      "keywords": [
+        "hükümet",
+        "kral",
+        "prenses",
+        "savaş",
+        "taht",
+        "yönetim"
+      ],
+      "matching_strategy": "keyword_frequency",
+      "default_fp_risk": "low",
+      "expected_density": 0.15,
+      "confidence_weight": 0.8,
+      "status": "NEW"
+    },
+    "conflict_romantic": {
+      "id": "conflict_romantic",
+      "name": "Romantic Conflict",
+      "category": "conflict",
+      "description": "Love triangles, relationship challenges",
+      "keywords": [
+        "aşk",
+        "sevgi",
+        "kalp",
+        "evlilik",
+        "seçim",
+        "ayrılık"
+      ],
+      "matching_strategy": "keyword_frequency",
+      "default_fp_risk": "high",
+      "expected_density": 0.15,
+      "confidence_weight": 0.75,
+      "status": "NEW"
+    },
+    "conflict_generational": {
+      "id": "conflict_generational",
+      "name": "Generational Conflict",
+      "category": "conflict",
+      "description": "Youth vs age, tradition vs change",
+      "keywords": [
+        "kuşak",
+        "genç",
+        "yaşlı",
+        "gelenek",
+        "modern",
+        "farklılık"
+      ],
+      "matching_strategy": "keyword_frequency",
+      "default_fp_risk": "medium",
+      "expected_density": 0.15,
+      "confidence_weight": 0.8,
+      "status": "NEW"
+    },
+    "emotion_joy": {
+      "id": "emotion_joy",
+      "name": "Joy & Happiness",
+      "category": "emotion",
+      "description": "Happiness, delight, contentment",
+      "keywords": [
+        "mutluluk",
+        "sevinç",
+        "gül",
+        "kutlama",
+        "coşku",
+        "keyif"
+      ],
+      "matching_strategy": "sentiment",
+      "default_fp_risk": "low",
+      "expected_density": 0.3,
+      "confidence_weight": 0.9,
+      "status": "NEW"
+    },
+    "emotion_sadness": {
+      "id": "emotion_sadness",
+      "name": "Sadness & Sorrow",
+      "category": "emotion",
+      "description": "Sadness, grief, melancholy, despair",
+      "keywords": [
+        "hüzün",
+        "keder",
+        "ağla",
+        "acı",
+        "üzüntü",
+        "mutsuzluk"
+      ],
+      "matching_strategy": "sentiment",
+      "default_fp_risk": "low",
+      "expected_density": 0.2,
+      "confidence_weight": 0.9,
+      "status": "NEW"
+    },
+    "emotion_fear": {
+      "id": "emotion_fear",
+      "name": "Fear & Anxiety",
+      "category": "emotion",
+      "description": "Fear, anxiety, worry, terror",
+      "keywords": [
+        "korku",
+        "kaygı",
+        "endişe",
+        "dehşet",
+        "ürkü",
+        "çekince"
+      ],
+      "matching_strategy": "sentiment",
+      "default_fp_risk": "low",
+      "expected_density": 0.2,
+      "confidence_weight": 0.9,
+      "status": "NEW"
+    },
+    "emotion_anger": {
+      "id": "emotion_anger",
+      "name": "Anger & Rage",
+      "category": "emotion",
+      "description": "Anger, rage, fury, frustration",
+      "keywords": [
+        "öfke",
+        "gazap",
+        "kızgınlık",
+        "hiddet",
+        "sinir",
+        "nefret"
+      ],
+      "matching_strategy": "sentiment",
+      "default_fp_risk": "low",
+      "expected_density": 0.2,
+      "confidence_weight": 0.9,
+      "status": "NEW"
+    },
+    "emotion_love": {
+      "id": "emotion_love",
+      "name": "Love & Affection",
+      "category": "emotion",
+      "description": "Love, affection, tenderness, care",
+      "keywords": [
+        "aşk",
+        "sevgi",
+        "ten",
+        "bakım",
+        "şefkat",
+        "hubb"
+      ],
+      "matching_strategy": "sentiment",
+      "default_fp_risk": "high",
+      "expected_density": 0.2,
+      "confidence_weight": 0.85,
+      "status": "NEW"
+    },
+    "emotion_surprise": {
+      "id": "emotion_surprise",
+      "name": "Surprise & Wonder",
+      "category": "emotion",
+      "description": "Surprise, astonishment, amazement",
+      "keywords": [
+        "sürpriz",
+        "hayret",
+        "şaşkınlık",
+        "mucize",
+        "merak"
+      ],
+      "matching_strategy": "sentiment",
+      "default_fp_risk": "high",
+      "expected_density": 0.15,
+      "confidence_weight": 0.8,
+      "status": "NEW"
+    },
+    "emotion_shame": {
+      "id": "emotion_shame",
+      "name": "Shame & Embarrassment",
+      "category": "emotion",
+      "description": "Shame, embarrassment, guilt",
+      "keywords": [
+        "utanç",
+        "pişmanlık",
+        "suçlu",
+        "alçaklık",
+        "eziyet"
+      ],
+      "matching_strategy": "sentiment",
+      "default_fp_risk": "high",
+      "expected_density": 0.1,
+      "confidence_weight": 0.75,
+      "status": "NEW"
+    },
+    "emotion_hope": {
+      "id": "emotion_hope",
+      "name": "Hope & Optimism",
+      "category": "emotion",
+      "description": "Hope, optimism, belief, expectation",
+      "keywords": [
+        "umut",
+        "iyimserlik",
+        "inanç",
+        "beklenti",
+        "gelecek"
+      ],
+      "matching_strategy": "sentiment",
+      "default_fp_risk": "high",
+      "expected_density": 0.15,
+      "confidence_weight": 0.8,
+      "status": "NEW"
+    },
+    "emotion_despair": {
+      "id": "emotion_despair",
+      "name": "Despair & Hopelessness",
+      "category": "emotion",
+      "description": "Despair, hopelessness, defeat",
+      "keywords": [
+        "çaresizlik",
+        "ümitsizlik",
+        "yenilgi",
+        "teslim",
+        "bitti"
+      ],
+      "matching_strategy": "sentiment",
+      "default_fp_risk": "high",
+      "expected_density": 0.1,
+      "confidence_weight": 0.75,
+      "status": "NEW"
+    },
+    "emotion_trust": {
+      "id": "emotion_trust",
+      "name": "Trust & Confidence",
+      "category": "emotion",
+      "description": "Trust, confidence, faith in others",
+      "keywords": [
+        "güven",
+        "inanç",
+        "sadakat",
+        "dürüstlük",
+        "vefa"
+      ],
+      "matching_strategy": "sentiment",
+      "default_fp_risk": "high",
+      "expected_density": 0.15,
+      "confidence_weight": 0.8,
+      "status": "NEW"
+    },
+    "emotion_betrayal": {
+      "id": "emotion_betrayal",
+      "name": "Betrayal & Distrust",
+      "category": "emotion",
+      "description": "Betrayal, distrust, disappointment",
+      "keywords": [
+        "ihanet",
+        "terketme",
+        "aldatma",
+        "güvensizlik",
+        "hayal kırıklığı"
+      ],
+      "matching_strategy": "sentiment",
+      "default_fp_risk": "high",
+      "expected_density": 0.1,
+      "confidence_weight": 0.75,
+      "status": "NEW"
+    },
+    "emotion_pride": {
+      "id": "emotion_pride",
+      "name": "Pride & Dignity",
+      "category": "emotion",
+      "description": "Pride, dignity, self-respect, arrogance",
+      "keywords": [
+        "gurur",
+        "saygınlık",
+        "kibir",
+        "onur",
+        "izzet"
+      ],
+      "matching_strategy": "sentiment",
+      "default_fp_risk": "high",
+      "expected_density": 0.15,
+      "confidence_weight": 0.8,
+      "status": "NEW"
+    },
+    "narrative_linear": {
+      "id": "narrative_linear",
+      "name": "Linear Narrative",
+      "category": "narrative_structure",
+      "description": "Straightforward chronological progression",
+      "keywords": [
+        "sonra",
+        "sonunda",
+        "daha sonra",
+        "şimdi",
+        "ilk",
+        "son"
+      ],
+      "matching_strategy": "structure",
+      "default_fp_risk": "low",
+      "expected_density": 0.4,
+      "confidence_weight": 0.85,
+      "status": "NEW"
+    },
+    "narrative_flashback": {
+      "id": "narrative_flashback",
+      "name": "Flashback & Memory",
+      "category": "narrative_structure",
+      "description": "Past events through flashback",
+      "keywords": [
+        "hatırla",
+        "geçmişte",
+        "uzun zaman",
+        "geçen",
+        "anı",
+        "iyi eski"
+      ],
+      "matching_strategy": "structure",
+      "default_fp_risk": "medium",
+      "expected_density": 0.2,
+      "confidence_weight": 0.8,
+      "status": "NEW"
+    },
+    "narrative_parallel": {
+      "id": "narrative_parallel",
+      "name": "Parallel Narratives",
+      "category": "narrative_structure",
+      "description": "Multiple storylines in parallel",
+      "keywords": [
+        "eş zamanlı",
+        "aynı anda",
+        "başka",
+        "diğeri",
+        "ikinci",
+        "ayrıntı"
+      ],
+      "matching_strategy": "structure",
+      "default_fp_risk": "high",
+      "expected_density": 0.15,
+      "confidence_weight": 0.75,
+      "status": "NEW"
+    },
+    "narrative_frame": {
+      "id": "narrative_frame",
+      "name": "Frame Narrative",
+      "category": "narrative_structure",
+      "description": "Story within a story",
+      "keywords": [
+        "hikaye anlat",
+        "tanık",
+        "öykü",
+        "anlatma",
+        "böyle",
+        "derken"
+      ],
+      "matching_strategy": "structure",
+      "default_fp_risk": "high",
+      "expected_density": 0.15,
+      "confidence_weight": 0.75,
+      "status": "NEW"
+    },
+    "narrative_plot_twist": {
+      "id": "narrative_plot_twist",
+      "name": "Plot Twist & Revelation",
+      "category": "narrative_structure",
+      "description": "Unexpected turn, revelations",
+      "keywords": [
+        "beklenti",
+        "sürpriz",
+        "açıklanmak",
+        "çok kötü",
+        "ne var ki"
+      ],
+      "matching_strategy": "structure",
+      "default_fp_risk": "high",
+      "expected_density": 0.1,
+      "confidence_weight": 0.7,
+      "status": "NEW"
+    },
+    "narrative_rising_action": {
+      "id": "narrative_rising_action",
+      "name": "Rising Action & Tension",
+      "category": "narrative_structure",
+      "description": "Escalating tension",
+      "keywords": [
+        "kötüleşmek",
+        "artmak",
+        "endişe",
+        "sorun",
+        "çok zor",
+        "ciddi"
+      ],
+      "matching_strategy": "structure",
+      "default_fp_risk": "medium",
+      "expected_density": 0.2,
+      "confidence_weight": 0.8,
+      "status": "NEW"
+    },
+    "narrative_climax": {
+      "id": "narrative_climax",
+      "name": "Climax & Resolution",
+      "category": "narrative_structure",
+      "description": "Peak, conflict resolution",
+      "keywords": [
+        "doruk",
+        "çatışma",
+        "sonuç",
+        "çözüm",
+        "karar",
+        "bitir"
+      ],
+      "matching_strategy": "structure",
+      "default_fp_risk": "medium",
+      "expected_density": 0.15,
+      "confidence_weight": 0.8,
+      "status": "NEW"
+    },
+    "narrative_denouement": {
+      "id": "narrative_denouement",
+      "name": "Denouement & Reflection",
+      "category": "narrative_structure",
+      "description": "Falling action, reflection",
+      "keywords": [
+        "sonuncu",
+        "refleks",
+        "yansıt",
+        "anlamı",
+        "dernek",
+        "ilham"
+      ],
+      "matching_strategy": "structure",
+      "default_fp_risk": "high",
+      "expected_density": 0.1,
+      "confidence_weight": 0.75,
+      "status": "NEW"
+    }
+  },
+  "statistics": {
+    "total_patterns": 74,
+    "by_category": {
+      "theme": 20,
+      "character_role": 12,
+      "learning_outcome": 12,
+      "conflict": 10,
+      "emotion": 12,
+      "narrative_structure": 8
+    },
+    "by_status": {
+      "VALIDATED": 15,
+      "NEW": 59,
+      "UNDER_REVIEW": 0,
+      "DEPRECATED": 0
+    },
+    "by_fp_risk": {
+      "low": 24,
+      "medium": 17,
+      "high": 33
+    },
+    "average_keywords": 5.82,
+    "average_confidence_weight": 0.829,
+    "average_expected_density": 0.247
+  }
+}

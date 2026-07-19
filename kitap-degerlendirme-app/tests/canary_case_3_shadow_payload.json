@@ -1,0 +1,16 @@
+{
+  "book_title": "Canary Case 3",
+  "keywords": ["umut", "dostluk", "cesaret"],
+  "pattern_activations": [
+    {
+      "pattern_id": "theme_friendship",
+      "matched_keywords": ["dostluk"],
+      "source": "semantic.theme_clusters"
+    },
+    {
+      "pattern_id": "theme_courage",
+      "matched_keywords": ["cesaret"],
+      "source": "summary_ir.themes"
+    }
+  ]
+}

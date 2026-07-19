@@ -1,0 +1,262 @@
+{
+  "total_cases": 23,
+  "main_character_accuracy": 0.83,
+  "theme_accuracy": 0.13,
+  "book_type_accuracy": 0.17,
+  "gain_accuracy": 0.0,
+  "rows": [
+    {
+      "case_id": "buyulu_yastiklar",
+      "main_character_ok": false,
+      "theme_ok": false,
+      "book_type_ok": false,
+      "gain_ok": false,
+      "actual_main_character": "Aydin Ogretmen",
+      "actual_main_theme": "problem çözme",
+      "actual_book_type": "kurgu çocuk öyküsü",
+      "actual_gains": []
+    },
+    {
+      "case_id": "bay_lemoncello",
+      "main_character_ok": false,
+      "theme_ok": true,
+      "book_type_ok": true,
+      "gain_ok": false,
+      "actual_main_character": "Miguel Fernandez",
+      "actual_main_theme": "problem çözme",
+      "actual_book_type": "macera",
+      "actual_gains": []
+    },
+    {
+      "case_id": "kolomb",
+      "main_character_ok": true,
+      "theme_ok": false,
+      "book_type_ok": true,
+      "gain_ok": false,
+      "actual_main_character": "Kristof Kolomb",
+      "actual_main_theme": "Yeterli güvenle belirlenemedi.",
+      "actual_book_type": "tarihî biyografi",
+      "actual_gains": []
+    },
+    {
+      "case_id": "defter",
+      "main_character_ok": true,
+      "theme_ok": true,
+      "book_type_ok": false,
+      "gain_ok": false,
+      "actual_main_character": "Elif",
+      "actual_main_theme": "sorumluluk",
+      "actual_book_type": "değerler eğitimi odaklı eser",
+      "actual_gains": []
+    },
+    {
+      "case_id": "park",
+      "main_character_ok": true,
+      "theme_ok": false,
+      "book_type_ok": true,
+      "gain_ok": false,
+      "actual_main_character": "Mert",
+      "actual_main_theme": "problem çözme",
+      "actual_book_type": "çağdaş çocuk romanı",
+      "actual_gains": []
+    },
+    {
+      "case_id": "mahalle",
+      "main_character_ok": false,
+      "theme_ok": true,
+      "book_type_ok": true,
+      "gain_ok": false,
+      "actual_main_character": "",
+      "actual_main_theme": "geçmişe özlem",
+      "actual_book_type": "çağdaş çocuk romanı",
+      "actual_gains": []
+    },
+    {
+      "case_id": "bilim_defteri",
+      "main_character_ok": true,
+      "theme_ok": false,
+      "book_type_ok": false,
+      "gain_ok": false,
+      "actual_main_character": "",
+      "actual_main_theme": "Yeterli güvenle belirlenemedi.",
+      "actual_book_type": "bilimsel içerik",
+      "actual_gains": []
+    },
+    {
+      "case_id": "mini_masal",
+      "main_character_ok": false,
+      "theme_ok": false,
+      "book_type_ok": false,
+      "gain_ok": false,
+      "actual_main_character": "",
+      "actual_main_theme": "sorumluluk",
+      "actual_book_type": "kurgu çocuk öyküsü",
+      "actual_gains": []
+    },
+    {
+      "case_id": "generic_6",
+      "main_character_ok": true,
+      "theme_ok": false,
+      "book_type_ok": false,
+      "gain_ok": false,
+      "actual_main_character": "Ayse Yilmaz",
+      "actual_main_theme": "sorumluluk",
+      "actual_book_type": "değerler eğitimi odaklı eser",
+      "actual_gains": []
+    },
+    {
+      "case_id": "generic_7",
+      "main_character_ok": true,
+      "theme_ok": false,
+      "book_type_ok": false,
+      "gain_ok": false,
+      "actual_main_character": "Can Demir",
+      "actual_main_theme": "sorumluluk",
+      "actual_book_type": "değerler eğitimi odaklı eser",
+      "actual_gains": []
+    },
+    {
+      "case_id": "generic_8",
+      "main_character_ok": true,
+      "theme_ok": false,
+      "book_type_ok": false,
+      "gain_ok": false,
+      "actual_main_character": "Zeynep Kaya",
+      "actual_main_theme": "sorumluluk",
+      "actual_book_type": "değerler eğitimi odaklı eser",
+      "actual_gains": []
+    },
+    {
+      "case_id": "generic_9",
+      "main_character_ok": true,
+      "theme_ok": false,
+      "book_type_ok": false,
+      "gain_ok": false,
+      "actual_main_character": "Emre Aydin",
+      "actual_main_theme": "sorumluluk",
+      "actual_book_type": "değerler eğitimi odaklı eser",
+      "actual_gains": []
+    },
+    {
+      "case_id": "generic_10",
+      "main_character_ok": true,
+      "theme_ok": false,
+      "book_type_ok": false,
+      "gain_ok": false,
+      "actual_main_character": "Nisa Cakir",
+      "actual_main_theme": "sorumluluk",
+      "actual_book_type": "değerler eğitimi odaklı eser",
+      "actual_gains": []
+    },
+    {
+      "case_id": "generic_11",
+      "main_character_ok": true,
+      "theme_ok": false,
+      "book_type_ok": false,
+      "gain_ok": false,
+      "actual_main_character": "Kerem Arslan",
+      "actual_main_theme": "sorumluluk",
+      "actual_book_type": "değerler eğitimi odaklı eser",
+      "actual_gains": []
+    },
+    {
+      "case_id": "generic_12",
+      "main_character_ok": true,
+      "theme_ok": false,
+      "book_type_ok": false,
+      "gain_ok": false,
+      "actual_main_character": "Derya Yildiz",
+      "actual_main_theme": "sorumluluk",
+      "actual_book_type": "değerler eğitimi odaklı eser",
+      "actual_gains": []
+    },
+    {
+      "case_id": "generic_13",
+      "main_character_ok": true,
+      "theme_ok": false,
+      "book_type_ok": false,
+      "gain_ok": false,
+      "actual_main_character": "Selim Koc",
+      "actual_main_theme": "sorumluluk",
+      "actual_book_type": "değerler eğitimi odaklı eser",
+      "actual_gains": []
+    },
+    {
+      "case_id": "generic_14",
+      "main_character_ok": true,
+      "theme_ok": false,
+      "book_type_ok": false,
+      "gain_ok": false,
+      "actual_main_character": "Ela Kaplan",
+      "actual_main_theme": "sorumluluk",
+      "actual_book_type": "değerler eğitimi odaklı eser",
+      "actual_gains": []
+    },
+    {
+      "case_id": "generic_15",
+      "main_character_ok": true,
+      "theme_ok": false,
+      "book_type_ok": false,
+      "gain_ok": false,
+      "actual_main_character": "Burak Deniz",
+      "actual_main_theme": "sorumluluk",
+      "actual_book_type": "değerler eğitimi odaklı eser",
+      "actual_gains": []
+    },
+    {
+      "case_id": "generic_16",
+      "main_character_ok": true,
+      "theme_ok": false,
+      "book_type_ok": false,
+      "gain_ok": false,
+      "actual_main_character": "Seda Polat",
+      "actual_main_theme": "sorumluluk",
+      "actual_book_type": "değerler eğitimi odaklı eser",
+      "actual_gains": []
+    },
+    {
+      "case_id": "generic_17",
+      "main_character_ok": true,
+      "theme_ok": false,
+      "book_type_ok": false,
+      "gain_ok": false,
+      "actual_main_character": "Ozan Tekin",
+      "actual_main_theme": "sorumluluk",
+      "actual_book_type": "değerler eğitimi odaklı eser",
+      "actual_gains": []
+    },
+    {
+      "case_id": "generic_18",
+      "main_character_ok": true,
+      "theme_ok": false,
+      "book_type_ok": false,
+      "gain_ok": false,
+      "actual_main_character": "Melis Gunes",
+      "actual_main_theme": "sorumluluk",
+      "actual_book_type": "değerler eğitimi odaklı eser",
+      "actual_gains": []
+    },
+    {
+      "case_id": "generic_19",
+      "main_character_ok": true,
+      "theme_ok": false,
+      "book_type_ok": false,
+      "gain_ok": false,
+      "actual_main_character": "Tarik Aslan",
+      "actual_main_theme": "sorumluluk",
+      "actual_book_type": "değerler eğitimi odaklı eser",
+      "actual_gains": []
+    },
+    {
+      "case_id": "generic_20",
+      "main_character_ok": true,
+      "theme_ok": false,
+      "book_type_ok": false,
+      "gain_ok": false,
+      "actual_main_character": "Yasemin Celik",
+      "actual_main_theme": "sorumluluk",
+      "actual_book_type": "değerler eğitimi odaklı eser",
+      "actual_gains": []
+    }
+  ]
+}

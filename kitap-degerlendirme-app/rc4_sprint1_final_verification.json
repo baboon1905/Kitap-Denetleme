@@ -1,0 +1,15 @@
+{
+  "sprint": "RC4 Sprint 1 — Real Book Validation Dataset",
+  "plan_created": true,
+  "dataset_builder_tests_passed": 6,
+  "dataset_artifact_test_passed": true,
+  "validation_dataset_created": true,
+  "total_books": 3,
+  "generated_at_deterministic": true,
+  "all_validation_status_pending": true,
+  "all_human_review_status_pending": true,
+  "production_output_changed": false,
+  "shadow_pipeline_called": false,
+  "semantic_analysis_called": false,
+  "runtime_pipeline_bound": false
+}

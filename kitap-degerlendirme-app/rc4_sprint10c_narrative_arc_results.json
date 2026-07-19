@@ -1,0 +1,308 @@
+{
+  "sprint": "RC4 Sprint 10C - Narrative Arc Compression Regression",
+  "timestamp": "2026-07-09T11:49:14.566652",
+  "source_data": "rc4_sprint9b_event_reconstruction_results.json",
+  "books": [
+    {
+      "book_idx": 1,
+      "book_title": "benim_adim_kristof_kolomb.pdf",
+      "event_count": 44,
+      "arc_count": 15,
+      "compression_ratio": 0.659,
+      "average_supporting_events": 1.933,
+      "average_arc_length": 2.933,
+      "source_trace_preservation": 1.0,
+      "deterministic": true,
+      "first_5_arcs": [
+        {
+          "arc_id": "arc_000",
+          "title": "Yeni Dünyanın Keşfi",
+          "actors": [
+            "Harikalar",
+            "Hindistan",
+            "Marco",
+            "Polo"
+          ],
+          "objective": "keşif",
+          "conflict": false,
+          "progression": [
+            "event_000"
+          ],
+          "resolution": "Resolution pending",
+          "supporting_events": [],
+          "source_sentence_ids": [
+            "p14:s4"
+          ],
+          "importance": 0.7
+        },
+        {
+          "arc_id": "arc_001",
+          "title": "Eğlenceden, Kanarya ile Yeni Bir Aşama",
+          "actors": [
+            "Eğlenceden",
+            "Kanarya",
+            "Kolomb",
+            "Kristof",
+            "Portekiz"
+          ],
+          "objective": "Narrative objective",
+          "conflict": false,
+          "progression": [
+            "event_001",
+            "event_002",
+            "event_003",
+            "event_004",
+            "event_005"
+          ],
+          "resolution": "Resolution pending",
+          "supporting_events": [
+            "event_002",
+            "event_003",
+            "event_004",
+            "event_005"
+          ],
+          "source_sentence_ids": [
+            "p51:s14",
+            "runtime_1_analyze_theme_gain_return.json:0:2",
+            "runtime_1_analyze_theme_gain_return.json:0:3",
+            "runtime_1_analyze_theme_gain_return.json:0:4",
+            "runtime_1_analyze_theme_gain_return.json:0:5"
+          ],
+          "importance": 1.0
+        },
+        {
+          "arc_id": "arc_002",
+          "title": "Yerlilerle İlk Karşılaşma",
+          "actors": [
+            "Kolomb",
+            "Kristof"
+          ],
+          "objective": "karşılaşma",
+          "conflict": true,
+          "progression": [
+            "event_006",
+            "event_007"
+          ],
+          "resolution": "Resolution pending",
+          "supporting_events": [
+            "event_007"
+          ],
+          "source_sentence_ids": [
+            "runtime_1_analyze_theme_gain_return.json:0:6",
+            "runtime_1_analyze_theme_gain_return.json:0:7"
+          ],
+          "importance": 1.0
+        },
+        {
+          "arc_id": "arc_003",
+          "title": "Yeni Dünyanın Keşfi",
+          "actors": [
+            "Fernando",
+            "Isabel"
+          ],
+          "objective": "keşif",
+          "conflict": false,
+          "progression": [
+            "event_008",
+            "event_009"
+          ],
+          "resolution": "Resolution pending",
+          "supporting_events": [
+            "event_009"
+          ],
+          "source_sentence_ids": [
+            "runtime_1_analyze_theme_gain_return.json:0:8",
+            "runtime_1_analyze_theme_gain_return.json:0:9"
+          ],
+          "importance": 0.7
+        },
+        {
+          "arc_id": "arc_004",
+          "title": "Hedeflerimde ile Yeni Bir Aşama",
+          "actors": [
+            "Hedeflerimde"
+          ],
+          "objective": "Narrative objective",
+          "conflict": false,
+          "progression": [
+            "event_010",
+            "event_011",
+            "event_012"
+          ],
+          "resolution": "Resolution pending",
+          "supporting_events": [
+            "event_011",
+            "event_012"
+          ],
+          "source_sentence_ids": [
+            "runtime_1_analyze_theme_gain_return.json:0:10",
+            "runtime_1_analyze_theme_gain_return.json:0:11",
+            "runtime_1_analyze_theme_gain_return.json:0:12"
+          ],
+          "importance": 0.7
+        }
+      ]
+    },
+    {
+      "book_idx": 2,
+      "book_title": "benim_adim_kristof_kolomb.pdf",
+      "event_count": 43,
+      "arc_count": 15,
+      "compression_ratio": 0.651,
+      "average_supporting_events": 1.867,
+      "average_arc_length": 2.867,
+      "source_trace_preservation": 1.0,
+      "deterministic": true,
+      "first_5_arcs": [
+        {
+          "arc_id": "arc_000",
+          "title": "Yeni Dünyanın Keşfi",
+          "actors": [
+            "Harikalar",
+            "Hindistan",
+            "Marco",
+            "Polo"
+          ],
+          "objective": "keşif",
+          "conflict": false,
+          "progression": [
+            "event_000"
+          ],
+          "resolution": "Resolution pending",
+          "supporting_events": [],
+          "source_sentence_ids": [
+            "p14:s4"
+          ],
+          "importance": 0.7
+        },
+        {
+          "arc_id": "arc_001",
+          "title": "Eğlenceden, Kanarya ile Yeni Bir Aşama",
+          "actors": [
+            "Eğlenceden",
+            "Kanarya",
+            "Kolomb",
+            "Kristof",
+            "Portekiz"
+          ],
+          "objective": "Narrative objective",
+          "conflict": false,
+          "progression": [
+            "event_001",
+            "event_002",
+            "event_003",
+            "event_004",
+            "event_005"
+          ],
+          "resolution": "Resolution pending",
+          "supporting_events": [
+            "event_002",
+            "event_003",
+            "event_004",
+            "event_005"
+          ],
+          "source_sentence_ids": [
+            "p51:s14",
+            "runtime_2_build_pdf_report_input.json:1:2",
+            "runtime_2_build_pdf_report_input.json:1:3",
+            "runtime_2_build_pdf_report_input.json:1:4",
+            "runtime_2_build_pdf_report_input.json:1:5"
+          ],
+          "importance": 1.0
+        },
+        {
+          "arc_id": "arc_002",
+          "title": "Yerlilerle İlk Karşılaşma",
+          "actors": [
+            "Kolomb",
+            "Kristof"
+          ],
+          "objective": "karşılaşma",
+          "conflict": true,
+          "progression": [
+            "event_006",
+            "event_007"
+          ],
+          "resolution": "Resolution pending",
+          "supporting_events": [
+            "event_007"
+          ],
+          "source_sentence_ids": [
+            "runtime_2_build_pdf_report_input.json:1:6",
+            "runtime_2_build_pdf_report_input.json:1:7"
+          ],
+          "importance": 1.0
+        },
+        {
+          "arc_id": "arc_003",
+          "title": "Yeni Dünyanın Keşfi",
+          "actors": [
+            "Fernando",
+            "Isabel"
+          ],
+          "objective": "keşif",
+          "conflict": false,
+          "progression": [
+            "event_008",
+            "event_009"
+          ],
+          "resolution": "Resolution pending",
+          "supporting_events": [
+            "event_009"
+          ],
+          "source_sentence_ids": [
+            "runtime_2_build_pdf_report_input.json:1:8",
+            "runtime_2_build_pdf_report_input.json:1:9"
+          ],
+          "importance": 0.7
+        },
+        {
+          "arc_id": "arc_004",
+          "title": "Hedeflerimde ile Yeni Bir Aşama",
+          "actors": [
+            "Hedeflerimde"
+          ],
+          "objective": "Narrative objective",
+          "conflict": false,
+          "progression": [
+            "event_010",
+            "event_011",
+            "event_012"
+          ],
+          "resolution": "Resolution pending",
+          "supporting_events": [
+            "event_011",
+            "event_012"
+          ],
+          "source_sentence_ids": [
+            "runtime_2_build_pdf_report_input.json:1:10",
+            "runtime_2_build_pdf_report_input.json:1:11",
+            "runtime_2_build_pdf_report_input.json:1:12"
+          ],
+          "importance": 0.7
+        }
+      ]
+    },
+    {
+      "book_idx": 3,
+      "book_title": "Book 3",
+      "event_count": 0,
+      "arc_count": 0,
+      "compression_ratio": 0.0,
+      "average_supporting_events": 0.0,
+      "average_arc_length": 0.0,
+      "source_trace_preservation": 0.0,
+      "deterministic": true,
+      "first_5_arcs": []
+    }
+  ],
+  "aggregate_metrics": {
+    "total_books": 3,
+    "total_input_events": 87,
+    "total_arc_count": 30,
+    "average_compression_ratio": 0.437,
+    "average_groups_per_book": 10.0,
+    "source_trace_preservation": 0.667,
+    "deterministic": true
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "sprint": "RC3 Sprint 1 — Shadow vs Production Delta Analysis",
+  "plan_created": true,
+  "delta_analyzer_tests_passed": 6,
+  "delta_result_artifact_created": true,
+  "delta_benchmark_artifact_created": true,
+  "total_benchmark_cases": 3,
+  "avg_coverage_delta": 0.5767195767195767,
+  "avg_overlap_score": 0.5166666666666667,
+  "avg_activation_count_delta": 1.0,
+  "deterministic_all": true,
+  "production_output_changed_any": false,
+  "equal_without_shadow_all": true,
+  "production_output_changed": false,
+  "equal_without_shadow": true,
+  "deterministic": true
+}

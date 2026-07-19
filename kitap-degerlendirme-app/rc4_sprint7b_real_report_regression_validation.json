@@ -1,0 +1,115 @@
+{
+  "sprint": "RC4 Sprint 7B — Real Report Regression Validation",
+  "generated_at": "1970-01-01T00:00:00Z",
+  "total_books": 3,
+  "passed_count": 0,
+  "failed_count": 3,
+  "average_summary_quality_score": 52.967,
+  "average_coherence": 0.317,
+  "average_concreteness_score": 0.021,
+  "shadow_only": true,
+  "production_output_changed": false,
+  "deterministic": true,
+  "runtime_pipeline_bound": false,
+  "books": [
+    {
+      "case_id": "tavsan_pati_real_report",
+      "title": "Tavşan Pati",
+      "description": "Sprint 7B regression validation for real book Tavşan Pati.",
+      "summary_text": "Tavşan Pati is a curious little rabbit who learns about friendship and courage. He faces a challenge, shares it with friends, and finds a safe way forward. The story underlines the value of teamwork and empathy.",
+      "summary_ir": {
+        "central_entities": [
+          "Tavşan Pati"
+        ],
+        "themes": [
+          "arkadaşlık",
+          "cesaret"
+        ]
+      },
+      "evaluation": {
+        "summary_quality_score": 76.7,
+        "coverage": 1.0,
+        "coherence": 0.267,
+        "character_presence": 1.0,
+        "conflict_present": true,
+        "resolution_present": true,
+        "main_message_present": true,
+        "evidence_concatenation_detected": false,
+        "repetition_score": 0.0,
+        "concreteness_score": 0.01,
+        "information_density": 0.961,
+        "passed": false
+      },
+      "shadow_only": true,
+      "production_output_changed": false,
+      "deterministic": true,
+      "runtime_pipeline_bound": false
+    },
+    {
+      "case_id": "buyulu_yastiklar_real_report",
+      "title": "Büyülü Yastıklar",
+      "description": "Sprint 7B regression validation for real book Büyülü Yastıklar.",
+      "summary_text": "Büyülü Yastıklar tells of a child who discovers magical pillows and explores the imagination of family. The narrative balances wonder with a gentle lesson about belonging and trust. The ending highlights kindness and shared dreams.",
+      "summary_ir": {
+        "central_entities": [
+          "Büyülü Yastıklar"
+        ],
+        "themes": [
+          "hayal gücü",
+          "aile"
+        ]
+      },
+      "evaluation": {
+        "summary_quality_score": 49.6,
+        "coverage": 1.0,
+        "coherence": 0.417,
+        "character_presence": 1.0,
+        "conflict_present": false,
+        "resolution_present": true,
+        "main_message_present": false,
+        "evidence_concatenation_detected": false,
+        "repetition_score": 0.0,
+        "concreteness_score": 0.045,
+        "information_density": 0.929,
+        "passed": false
+      },
+      "shadow_only": true,
+      "production_output_changed": false,
+      "deterministic": true,
+      "runtime_pipeline_bound": false
+    },
+    {
+      "case_id": "kolomb_real_report",
+      "title": "Benim Adım Kristof Kolomb",
+      "description": "Sprint 7B regression validation for real book Benim Adım Kristof Kolomb.",
+      "summary_text": "Benim Adım Kristof Kolomb follows an explorer on a voyage of discovery, resilience, and learning. He meets obstacles, keeps a strong purpose, and achieves a new understanding of the world. The story emphasizes perseverance and historic curiosity.",
+      "summary_ir": {
+        "central_entities": [
+          "Kristof Kolomb"
+        ],
+        "themes": [
+          "keşif",
+          "azim"
+        ]
+      },
+      "evaluation": {
+        "summary_quality_score": 32.6,
+        "coverage": 1.0,
+        "coherence": 0.267,
+        "character_presence": 1.0,
+        "conflict_present": false,
+        "resolution_present": false,
+        "main_message_present": true,
+        "evidence_concatenation_detected": false,
+        "repetition_score": 0.0,
+        "concreteness_score": 0.009,
+        "information_density": 0.938,
+        "passed": false
+      },
+      "shadow_only": true,
+      "production_output_changed": false,
+      "deterministic": true,
+      "runtime_pipeline_bound": false
+    }
+  ]
+}

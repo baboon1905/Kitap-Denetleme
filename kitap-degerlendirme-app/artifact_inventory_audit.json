@@ -1,0 +1,1694 @@
+{
+  "scanned_files_count": 46,
+  "files": [
+    {
+      "path": "phase10a_shadow_impact_verification.json",
+      "filename": "phase10a_shadow_impact_verification.json",
+      "classification_by_name": "verification",
+      "top_level_keys": [
+        "books",
+        "all_ok"
+      ],
+      "content_benchmark": true,
+      "content_verification": false,
+      "nonstandard_naming": false
+    },
+    {
+      "path": "phase10b_promotion_candidates_verification.json",
+      "filename": "phase10b_promotion_candidates_verification.json",
+      "classification_by_name": "verification",
+      "top_level_keys": [
+        "books",
+        "all_ok"
+      ],
+      "content_benchmark": true,
+      "content_verification": false,
+      "nonstandard_naming": false
+    },
+    {
+      "path": "phase10c_rollout_plan_verification.json",
+      "filename": "phase10c_rollout_plan_verification.json",
+      "classification_by_name": "verification",
+      "top_level_keys": [
+        "books",
+        "all_ok"
+      ],
+      "content_benchmark": true,
+      "content_verification": false,
+      "nonstandard_naming": false
+    },
+    {
+      "path": "phase11a_shadow_audit_verification.json",
+      "filename": "phase11a_shadow_audit_verification.json",
+      "classification_by_name": "verification",
+      "top_level_keys": [
+        "books",
+        "all_ok"
+      ],
+      "content_benchmark": true,
+      "content_verification": false,
+      "nonstandard_naming": false
+    },
+    {
+      "path": "phase12a_runtime_performance_baseline.json",
+      "filename": "phase12a_runtime_performance_baseline.json",
+      "classification_by_name": "unknown",
+      "top_level_keys": [
+        "books",
+        "all_ok"
+      ],
+      "content_benchmark": true,
+      "content_verification": false,
+      "nonstandard_naming": false
+    },
+    {
+      "path": "phase13a_release_candidate_audit.json",
+      "filename": "phase13a_release_candidate_audit.json",
+      "classification_by_name": "unknown",
+      "top_level_keys": [
+        "release_candidate_audit"
+      ],
+      "content_benchmark": false,
+      "content_verification": false,
+      "nonstandard_naming": false
+    },
+    {
+      "path": "phase13b_rc1_final_verification.json",
+      "filename": "phase13b_rc1_final_verification.json",
+      "classification_by_name": "verification",
+      "top_level_keys": [
+        "completed_phase_count",
+        "executed_test_count",
+        "benchmark_book_count",
+        "regression_status",
+        "performance_status",
+        "release_candidate_status",
+        "final_rc1_status",
+        "notes"
+      ],
+      "content_benchmark": false,
+      "content_verification": false,
+      "nonstandard_naming": false
+    },
+    {
+      "path": "phase13c_rc1_regression_blocker_fix.json",
+      "filename": "phase13c_rc1_regression_blocker_fix.json",
+      "classification_by_name": "unknown",
+      "top_level_keys": [
+        "phase",
+        "phase_name",
+        "status",
+        "objective",
+        "summary",
+        "verification",
+        "release_implications"
+      ],
+      "content_benchmark": false,
+      "content_verification": false,
+      "nonstandard_naming": false
+    },
+    {
+      "path": "phase4a_narrative_graph_verification.json",
+      "filename": "phase4a_narrative_graph_verification.json",
+      "classification_by_name": "verification",
+      "top_level_keys": [
+        "books",
+        "run_v7_tests"
+      ],
+      "content_benchmark": true,
+      "content_verification": false,
+      "nonstandard_naming": false
+    },
+    {
+      "path": "phase4b_narrative_quality_diagnostics.json",
+      "filename": "phase4b_narrative_quality_diagnostics.json",
+      "classification_by_name": "unknown",
+      "top_level_keys": [
+        "books",
+        "run_v7_tests"
+      ],
+      "content_benchmark": true,
+      "content_verification": false,
+      "nonstandard_naming": false
+    },
+    {
+      "path": "phase4c_narrative_stability_calibration.json",
+      "filename": "phase4c_narrative_stability_calibration.json",
+      "classification_by_name": "unknown",
+      "top_level_keys": [
+        "books"
+      ],
+      "content_benchmark": true,
+      "content_verification": false,
+      "nonstandard_naming": false
+    },
+    {
+      "path": "phase5a_narrative_chain_verification.json",
+      "filename": "phase5a_narrative_chain_verification.json",
+      "classification_by_name": "verification",
+      "top_level_keys": [
+        "books"
+      ],
+      "content_benchmark": true,
+      "content_verification": false,
+      "nonstandard_naming": false
+    },
+    {
+      "path": "phase5b_cause_effect_verification.json",
+      "filename": "phase5b_cause_effect_verification.json",
+      "classification_by_name": "verification",
+      "top_level_keys": [
+        "books"
+      ],
+      "content_benchmark": true,
+      "content_verification": false,
+      "nonstandard_naming": false
+    },
+    {
+      "path": "phase6a_conflict_graph_verification.json",
+      "filename": "phase6a_conflict_graph_verification.json",
+      "classification_by_name": "verification",
+      "top_level_keys": [
+        "books"
+      ],
+      "content_benchmark": true,
+      "content_verification": false,
+      "nonstandard_naming": false
+    },
+    {
+      "path": "phase6b_conflict_resolution_test_result.json",
+      "filename": "phase6b_conflict_resolution_test_result.json",
+      "classification_by_name": "unknown",
+      "top_level_keys": [
+        "status",
+        "checks",
+        "debug",
+        "primary_conflict",
+        "resolution"
+      ],
+      "content_benchmark": false,
+      "content_verification": true,
+      "nonstandard_naming": false
+    },
+    {
+      "path": "phase6c_story_arc_classification_verification.json",
+      "filename": "phase6c_story_arc_classification_verification.json",
+      "classification_by_name": "verification",
+      "top_level_keys": [
+        "books"
+      ],
+      "content_benchmark": true,
+      "content_verification": false,
+      "nonstandard_naming": false
+    },
+    {
+      "path": "phase7a_theme_validation_verification.json",
+      "filename": "phase7a_theme_validation_verification.json",
+      "classification_by_name": "verification",
+      "top_level_keys": [
+        "books"
+      ],
+      "content_benchmark": true,
+      "content_verification": false,
+      "nonstandard_naming": false
+    },
+    {
+      "path": "phase7a_theme_validation_verification_Benim_Adım_Kristof_Kolomb.json",
+      "filename": "phase7a_theme_validation_verification_Benim_Adım_Kristof_Kolomb.json",
+      "classification_by_name": "verification",
+      "top_level_keys": [
+        "title",
+        "compare",
+        "validation_checks",
+        "true_shadow_keys",
+        "production_leakage",
+        "deterministic_shadow_output"
+      ],
+      "content_benchmark": false,
+      "content_verification": false,
+      "nonstandard_naming": true
+    },
+    {
+      "path": "phase7a_theme_validation_verification_Büyülü_Yastıklar.json",
+      "filename": "phase7a_theme_validation_verification_Büyülü_Yastıklar.json",
+      "classification_by_name": "verification",
+      "top_level_keys": [
+        "title",
+        "compare",
+        "validation_checks",
+        "true_shadow_keys",
+        "production_leakage",
+        "deterministic_shadow_output"
+      ],
+      "content_benchmark": false,
+      "content_verification": false,
+      "nonstandard_naming": true
+    },
+    {
+      "path": "phase7a_theme_validation_verification_Tavşan_Pati.json",
+      "filename": "phase7a_theme_validation_verification_Tavşan_Pati.json",
+      "classification_by_name": "verification",
+      "top_level_keys": [
+        "title",
+        "compare",
+        "validation_checks",
+        "true_shadow_keys",
+        "production_leakage",
+        "deterministic_shadow_output"
+      ],
+      "content_benchmark": false,
+      "content_verification": false,
+      "nonstandard_naming": true
+    },
+    {
+      "path": "phase7b_character_validation_verification.json",
+      "filename": "phase7b_character_validation_verification.json",
+      "classification_by_name": "verification",
+      "top_level_keys": [
+        "books"
+      ],
+      "content_benchmark": true,
+      "content_verification": false,
+      "nonstandard_naming": false
+    },
+    {
+      "path": "phase7b_character_validation_verification_Benim_Adım_Kristof_Kolomb.json",
+      "filename": "phase7b_character_validation_verification_Benim_Adım_Kristof_Kolomb.json",
+      "classification_by_name": "verification",
+      "top_level_keys": [
+        "title",
+        "compare",
+        "character_validation_checks",
+        "true_shadow_keys",
+        "production_leakage",
+        "deterministic_shadow_output"
+      ],
+      "content_benchmark": false,
+      "content_verification": false,
+      "nonstandard_naming": true
+    },
+    {
+      "path": "phase7b_character_validation_verification_Büyülü_Yastıklar.json",
+      "filename": "phase7b_character_validation_verification_Büyülü_Yastıklar.json",
+      "classification_by_name": "verification",
+      "top_level_keys": [
+        "title",
+        "compare",
+        "character_validation_checks",
+        "true_shadow_keys",
+        "production_leakage",
+        "deterministic_shadow_output"
+      ],
+      "content_benchmark": false,
+      "content_verification": false,
+      "nonstandard_naming": true
+    },
+    {
+      "path": "phase7b_character_validation_verification_Tavşan_Pati.json",
+      "filename": "phase7b_character_validation_verification_Tavşan_Pati.json",
+      "classification_by_name": "verification",
+      "top_level_keys": [
+        "title",
+        "compare",
+        "character_validation_checks",
+        "true_shadow_keys",
+        "production_leakage",
+        "deterministic_shadow_output"
+      ],
+      "content_benchmark": false,
+      "content_verification": false,
+      "nonstandard_naming": true
+    },
+    {
+      "path": "phase7c_learning_outcome_validation_verification.json",
+      "filename": "phase7c_learning_outcome_validation_verification.json",
+      "classification_by_name": "verification",
+      "top_level_keys": [
+        "books"
+      ],
+      "content_benchmark": true,
+      "content_verification": false,
+      "nonstandard_naming": false
+    },
+    {
+      "path": "phase7c_learning_outcome_validation_verification_Benim_Adım_Kristof_Kolomb.json",
+      "filename": "phase7c_learning_outcome_validation_verification_Benim_Adım_Kristof_Kolomb.json",
+      "classification_by_name": "verification",
+      "top_level_keys": [
+        "title",
+        "compare",
+        "learning_outcome_validation_checks",
+        "true_shadow_keys",
+        "production_leakage",
+        "deterministic_shadow_output"
+      ],
+      "content_benchmark": false,
+      "content_verification": false,
+      "nonstandard_naming": true
+    },
+    {
+      "path": "phase7c_learning_outcome_validation_verification_Büyülü_Yastıklar.json",
+      "filename": "phase7c_learning_outcome_validation_verification_Büyülü_Yastıklar.json",
+      "classification_by_name": "verification",
+      "top_level_keys": [
+        "title",
+        "compare",
+        "learning_outcome_validation_checks",
+        "true_shadow_keys",
+        "production_leakage",
+        "deterministic_shadow_output"
+      ],
+      "content_benchmark": false,
+      "content_verification": false,
+      "nonstandard_naming": true
+    },
+    {
+      "path": "phase7c_learning_outcome_validation_verification_Tavşan_Pati.json",
+      "filename": "phase7c_learning_outcome_validation_verification_Tavşan_Pati.json",
+      "classification_by_name": "verification",
+      "top_level_keys": [
+        "title",
+        "compare",
+        "learning_outcome_validation_checks",
+        "true_shadow_keys",
+        "production_leakage",
+        "deterministic_shadow_output"
+      ],
+      "content_benchmark": false,
+      "content_verification": false,
+      "nonstandard_naming": true
+    },
+    {
+      "path": "phase8a_validation_coverage_verification.json",
+      "filename": "phase8a_validation_coverage_verification.json",
+      "classification_by_name": "verification",
+      "top_level_keys": [
+        "books"
+      ],
+      "content_benchmark": true,
+      "content_verification": false,
+      "nonstandard_naming": false
+    },
+    {
+      "path": "phase8a_validation_coverage_verification_Benim_Adım_Kristof_Kolomb.json",
+      "filename": "phase8a_validation_coverage_verification_Benim_Adım_Kristof_Kolomb.json",
+      "classification_by_name": "verification",
+      "top_level_keys": [
+        "title",
+        "compare",
+        "shadow_only_check",
+        "validation_coverage",
+        "validation_diagnostics",
+        "true_shadow_keys",
+        "deterministic_shadow_output",
+        "book_specific_heuristics"
+      ],
+      "content_benchmark": false,
+      "content_verification": false,
+      "nonstandard_naming": true
+    },
+    {
+      "path": "phase8a_validation_coverage_verification_Büyülü_Yastıklar.json",
+      "filename": "phase8a_validation_coverage_verification_Büyülü_Yastıklar.json",
+      "classification_by_name": "verification",
+      "top_level_keys": [
+        "title",
+        "compare",
+        "shadow_only_check",
+        "validation_coverage",
+        "validation_diagnostics",
+        "true_shadow_keys",
+        "deterministic_shadow_output",
+        "book_specific_heuristics"
+      ],
+      "content_benchmark": false,
+      "content_verification": false,
+      "nonstandard_naming": true
+    },
+    {
+      "path": "phase8a_validation_coverage_verification_Tavşan_Pati.json",
+      "filename": "phase8a_validation_coverage_verification_Tavşan_Pati.json",
+      "classification_by_name": "verification",
+      "top_level_keys": [
+        "title",
+        "compare",
+        "shadow_only_check",
+        "validation_coverage",
+        "validation_diagnostics",
+        "true_shadow_keys",
+        "deterministic_shadow_output",
+        "book_specific_heuristics"
+      ],
+      "content_benchmark": false,
+      "content_verification": false,
+      "nonstandard_naming": true
+    },
+    {
+      "path": "phase8b_validation_confidence_verification.json",
+      "filename": "phase8b_validation_confidence_verification.json",
+      "classification_by_name": "verification",
+      "top_level_keys": [
+        "books"
+      ],
+      "content_benchmark": true,
+      "content_verification": false,
+      "nonstandard_naming": false
+    },
+    {
+      "path": "phase8c_quality_comparison_verification.json",
+      "filename": "phase8c_quality_comparison_verification.json",
+      "classification_by_name": "verification",
+      "top_level_keys": [
+        "books"
+      ],
+      "content_benchmark": true,
+      "content_verification": false,
+      "nonstandard_naming": false
+    },
+    {
+      "path": "phase9a_recommendation_engine_verification.json",
+      "filename": "phase9a_recommendation_engine_verification.json",
+      "classification_by_name": "verification",
+      "top_level_keys": [
+        "books",
+        "all_ok"
+      ],
+      "content_benchmark": true,
+      "content_verification": false,
+      "nonstandard_naming": false
+    },
+    {
+      "path": "phase9a_recommendation_engine_verification_Benim_Adım_Kristof_Kolomb.json",
+      "filename": "phase9a_recommendation_engine_verification_Benim_Adım_Kristof_Kolomb.json",
+      "classification_by_name": "verification",
+      "top_level_keys": [
+        "title",
+        "checks",
+        "recommendation_checks",
+        "recommendations_keys",
+        "diagnostics"
+      ],
+      "content_benchmark": false,
+      "content_verification": true,
+      "nonstandard_naming": true
+    },
+    {
+      "path": "phase9a_recommendation_engine_verification_Büyülü_Yastıklar.json",
+      "filename": "phase9a_recommendation_engine_verification_Büyülü_Yastıklar.json",
+      "classification_by_name": "verification",
+      "top_level_keys": [
+        "title",
+        "checks",
+        "recommendation_checks",
+        "recommendations_keys",
+        "diagnostics"
+      ],
+      "content_benchmark": false,
+      "content_verification": true,
+      "nonstandard_naming": true
+    },
+    {
+      "path": "phase9a_recommendation_engine_verification_Tavşan_Pati.json",
+      "filename": "phase9a_recommendation_engine_verification_Tavşan_Pati.json",
+      "classification_by_name": "verification",
+      "top_level_keys": [
+        "title",
+        "checks",
+        "recommendation_checks",
+        "recommendations_keys",
+        "diagnostics"
+      ],
+      "content_benchmark": false,
+      "content_verification": true,
+      "nonstandard_naming": true
+    },
+    {
+      "path": "phase9b_promotion_readiness_verification.json",
+      "filename": "phase9b_promotion_readiness_verification.json",
+      "classification_by_name": "verification",
+      "top_level_keys": [
+        "books",
+        "all_ok"
+      ],
+      "content_benchmark": true,
+      "content_verification": false,
+      "nonstandard_naming": false
+    },
+    {
+      "path": "phase9b_promotion_readiness_verification_Benim_Adım_Kristof_Kolomb.json",
+      "filename": "phase9b_promotion_readiness_verification_Benim_Adım_Kristof_Kolomb.json",
+      "classification_by_name": "verification",
+      "top_level_keys": [
+        "title",
+        "checks",
+        "diagnostics_ok",
+        "components_ok",
+        "promotion"
+      ],
+      "content_benchmark": false,
+      "content_verification": true,
+      "nonstandard_naming": true
+    },
+    {
+      "path": "phase9b_promotion_readiness_verification_Büyülü_Yastıklar.json",
+      "filename": "phase9b_promotion_readiness_verification_Büyülü_Yastıklar.json",
+      "classification_by_name": "verification",
+      "top_level_keys": [
+        "title",
+        "checks",
+        "diagnostics_ok",
+        "components_ok",
+        "promotion"
+      ],
+      "content_benchmark": false,
+      "content_verification": true,
+      "nonstandard_naming": true
+    },
+    {
+      "path": "phase9b_promotion_readiness_verification_Tavşan_Pati.json",
+      "filename": "phase9b_promotion_readiness_verification_Tavşan_Pati.json",
+      "classification_by_name": "verification",
+      "top_level_keys": [
+        "title",
+        "checks",
+        "diagnostics_ok",
+        "components_ok",
+        "promotion"
+      ],
+      "content_benchmark": false,
+      "content_verification": true,
+      "nonstandard_naming": true
+    },
+    {
+      "path": "rc11_fix1_title_narrator_verification.json",
+      "filename": "rc11_fix1_title_narrator_verification.json",
+      "classification_by_name": "verification",
+      "top_level_keys": [
+        "fix_id",
+        "title",
+        "status",
+        "summary",
+        "verification",
+        "constraints"
+      ],
+      "content_benchmark": false,
+      "content_verification": false,
+      "nonstandard_naming": false
+    },
+    {
+      "path": "rc11_fix2_theme_consistency_verification.json",
+      "filename": "rc11_fix2_theme_consistency_verification.json",
+      "classification_by_name": "verification",
+      "top_level_keys": [
+        "fix_id",
+        "status",
+        "summary",
+        "verification",
+        "files_changed"
+      ],
+      "content_benchmark": false,
+      "content_verification": true,
+      "nonstandard_naming": false
+    },
+    {
+      "path": "rc11_fix3_classification_benchmark_results.json",
+      "filename": "rc11_fix3_classification_benchmark_results.json",
+      "classification_by_name": "benchmark",
+      "top_level_keys": [
+        "timestamp",
+        "books"
+      ],
+      "content_benchmark": true,
+      "content_verification": false,
+      "nonstandard_naming": false
+    },
+    {
+      "path": "rc11_fix3_generic_classification_verification.json",
+      "filename": "rc11_fix3_generic_classification_verification.json",
+      "classification_by_name": "verification",
+      "top_level_keys": [
+        "fix_id",
+        "status",
+        "summary",
+        "verification",
+        "checks",
+        "benchmark_results_file",
+        "files_changed"
+      ],
+      "content_benchmark": false,
+      "content_verification": true,
+      "nonstandard_naming": false
+    }
+  ],
+  "verification_files": [
+    {
+      "path": "phase10a_shadow_impact_verification.json",
+      "filename": "phase10a_shadow_impact_verification.json",
+      "classification_by_name": "verification",
+      "top_level_keys": [
+        "books",
+        "all_ok"
+      ],
+      "content_benchmark": true,
+      "content_verification": false,
+      "nonstandard_naming": false
+    },
+    {
+      "path": "phase10b_promotion_candidates_verification.json",
+      "filename": "phase10b_promotion_candidates_verification.json",
+      "classification_by_name": "verification",
+      "top_level_keys": [
+        "books",
+        "all_ok"
+      ],
+      "content_benchmark": true,
+      "content_verification": false,
+      "nonstandard_naming": false
+    },
+    {
+      "path": "phase10c_rollout_plan_verification.json",
+      "filename": "phase10c_rollout_plan_verification.json",
+      "classification_by_name": "verification",
+      "top_level_keys": [
+        "books",
+        "all_ok"
+      ],
+      "content_benchmark": true,
+      "content_verification": false,
+      "nonstandard_naming": false
+    },
+    {
+      "path": "phase11a_shadow_audit_verification.json",
+      "filename": "phase11a_shadow_audit_verification.json",
+      "classification_by_name": "verification",
+      "top_level_keys": [
+        "books",
+        "all_ok"
+      ],
+      "content_benchmark": true,
+      "content_verification": false,
+      "nonstandard_naming": false
+    },
+    {
+      "path": "phase13b_rc1_final_verification.json",
+      "filename": "phase13b_rc1_final_verification.json",
+      "classification_by_name": "verification",
+      "top_level_keys": [
+        "completed_phase_count",
+        "executed_test_count",
+        "benchmark_book_count",
+        "regression_status",
+        "performance_status",
+        "release_candidate_status",
+        "final_rc1_status",
+        "notes"
+      ],
+      "content_benchmark": false,
+      "content_verification": false,
+      "nonstandard_naming": false
+    },
+    {
+      "path": "phase4a_narrative_graph_verification.json",
+      "filename": "phase4a_narrative_graph_verification.json",
+      "classification_by_name": "verification",
+      "top_level_keys": [
+        "books",
+        "run_v7_tests"
+      ],
+      "content_benchmark": true,
+      "content_verification": false,
+      "nonstandard_naming": false
+    },
+    {
+      "path": "phase5a_narrative_chain_verification.json",
+      "filename": "phase5a_narrative_chain_verification.json",
+      "classification_by_name": "verification",
+      "top_level_keys": [
+        "books"
+      ],
+      "content_benchmark": true,
+      "content_verification": false,
+      "nonstandard_naming": false
+    },
+    {
+      "path": "phase5b_cause_effect_verification.json",
+      "filename": "phase5b_cause_effect_verification.json",
+      "classification_by_name": "verification",
+      "top_level_keys": [
+        "books"
+      ],
+      "content_benchmark": true,
+      "content_verification": false,
+      "nonstandard_naming": false
+    },
+    {
+      "path": "phase6a_conflict_graph_verification.json",
+      "filename": "phase6a_conflict_graph_verification.json",
+      "classification_by_name": "verification",
+      "top_level_keys": [
+        "books"
+      ],
+      "content_benchmark": true,
+      "content_verification": false,
+      "nonstandard_naming": false
+    },
+    {
+      "path": "phase6c_story_arc_classification_verification.json",
+      "filename": "phase6c_story_arc_classification_verification.json",
+      "classification_by_name": "verification",
+      "top_level_keys": [
+        "books"
+      ],
+      "content_benchmark": true,
+      "content_verification": false,
+      "nonstandard_naming": false
+    },
+    {
+      "path": "phase7a_theme_validation_verification.json",
+      "filename": "phase7a_theme_validation_verification.json",
+      "classification_by_name": "verification",
+      "top_level_keys": [
+        "books"
+      ],
+      "content_benchmark": true,
+      "content_verification": false,
+      "nonstandard_naming": false
+    },
+    {
+      "path": "phase7a_theme_validation_verification_Benim_Adım_Kristof_Kolomb.json",
+      "filename": "phase7a_theme_validation_verification_Benim_Adım_Kristof_Kolomb.json",
+      "classification_by_name": "verification",
+      "top_level_keys": [
+        "title",
+        "compare",
+        "validation_checks",
+        "true_shadow_keys",
+        "production_leakage",
+        "deterministic_shadow_output"
+      ],
+      "content_benchmark": false,
+      "content_verification": false,
+      "nonstandard_naming": true
+    },
+    {
+      "path": "phase7a_theme_validation_verification_Büyülü_Yastıklar.json",
+      "filename": "phase7a_theme_validation_verification_Büyülü_Yastıklar.json",
+      "classification_by_name": "verification",
+      "top_level_keys": [
+        "title",
+        "compare",
+        "validation_checks",
+        "true_shadow_keys",
+        "production_leakage",
+        "deterministic_shadow_output"
+      ],
+      "content_benchmark": false,
+      "content_verification": false,
+      "nonstandard_naming": true
+    },
+    {
+      "path": "phase7a_theme_validation_verification_Tavşan_Pati.json",
+      "filename": "phase7a_theme_validation_verification_Tavşan_Pati.json",
+      "classification_by_name": "verification",
+      "top_level_keys": [
+        "title",
+        "compare",
+        "validation_checks",
+        "true_shadow_keys",
+        "production_leakage",
+        "deterministic_shadow_output"
+      ],
+      "content_benchmark": false,
+      "content_verification": false,
+      "nonstandard_naming": true
+    },
+    {
+      "path": "phase7b_character_validation_verification.json",
+      "filename": "phase7b_character_validation_verification.json",
+      "classification_by_name": "verification",
+      "top_level_keys": [
+        "books"
+      ],
+      "content_benchmark": true,
+      "content_verification": false,
+      "nonstandard_naming": false
+    },
+    {
+      "path": "phase7b_character_validation_verification_Benim_Adım_Kristof_Kolomb.json",
+      "filename": "phase7b_character_validation_verification_Benim_Adım_Kristof_Kolomb.json",
+      "classification_by_name": "verification",
+      "top_level_keys": [
+        "title",
+        "compare",
+        "character_validation_checks",
+        "true_shadow_keys",
+        "production_leakage",
+        "deterministic_shadow_output"
+      ],
+      "content_benchmark": false,
+      "content_verification": false,
+      "nonstandard_naming": true
+    },
+    {
+      "path": "phase7b_character_validation_verification_Büyülü_Yastıklar.json",
+      "filename": "phase7b_character_validation_verification_Büyülü_Yastıklar.json",
+      "classification_by_name": "verification",
+      "top_level_keys": [
+        "title",
+        "compare",
+        "character_validation_checks",
+        "true_shadow_keys",
+        "production_leakage",
+        "deterministic_shadow_output"
+      ],
+      "content_benchmark": false,
+      "content_verification": false,
+      "nonstandard_naming": true
+    },
+    {
+      "path": "phase7b_character_validation_verification_Tavşan_Pati.json",
+      "filename": "phase7b_character_validation_verification_Tavşan_Pati.json",
+      "classification_by_name": "verification",
+      "top_level_keys": [
+        "title",
+        "compare",
+        "character_validation_checks",
+        "true_shadow_keys",
+        "production_leakage",
+        "deterministic_shadow_output"
+      ],
+      "content_benchmark": false,
+      "content_verification": false,
+      "nonstandard_naming": true
+    },
+    {
+      "path": "phase7c_learning_outcome_validation_verification.json",
+      "filename": "phase7c_learning_outcome_validation_verification.json",
+      "classification_by_name": "verification",
+      "top_level_keys": [
+        "books"
+      ],
+      "content_benchmark": true,
+      "content_verification": false,
+      "nonstandard_naming": false
+    },
+    {
+      "path": "phase7c_learning_outcome_validation_verification_Benim_Adım_Kristof_Kolomb.json",
+      "filename": "phase7c_learning_outcome_validation_verification_Benim_Adım_Kristof_Kolomb.json",
+      "classification_by_name": "verification",
+      "top_level_keys": [
+        "title",
+        "compare",
+        "learning_outcome_validation_checks",
+        "true_shadow_keys",
+        "production_leakage",
+        "deterministic_shadow_output"
+      ],
+      "content_benchmark": false,
+      "content_verification": false,
+      "nonstandard_naming": true
+    },
+    {
+      "path": "phase7c_learning_outcome_validation_verification_Büyülü_Yastıklar.json",
+      "filename": "phase7c_learning_outcome_validation_verification_Büyülü_Yastıklar.json",
+      "classification_by_name": "verification",
+      "top_level_keys": [
+        "title",
+        "compare",
+        "learning_outcome_validation_checks",
+        "true_shadow_keys",
+        "production_leakage",
+        "deterministic_shadow_output"
+      ],
+      "content_benchmark": false,
+      "content_verification": false,
+      "nonstandard_naming": true
+    },
+    {
+      "path": "phase7c_learning_outcome_validation_verification_Tavşan_Pati.json",
+      "filename": "phase7c_learning_outcome_validation_verification_Tavşan_Pati.json",
+      "classification_by_name": "verification",
+      "top_level_keys": [
+        "title",
+        "compare",
+        "learning_outcome_validation_checks",
+        "true_shadow_keys",
+        "production_leakage",
+        "deterministic_shadow_output"
+      ],
+      "content_benchmark": false,
+      "content_verification": false,
+      "nonstandard_naming": true
+    },
+    {
+      "path": "phase8a_validation_coverage_verification.json",
+      "filename": "phase8a_validation_coverage_verification.json",
+      "classification_by_name": "verification",
+      "top_level_keys": [
+        "books"
+      ],
+      "content_benchmark": true,
+      "content_verification": false,
+      "nonstandard_naming": false
+    },
+    {
+      "path": "phase8a_validation_coverage_verification_Benim_Adım_Kristof_Kolomb.json",
+      "filename": "phase8a_validation_coverage_verification_Benim_Adım_Kristof_Kolomb.json",
+      "classification_by_name": "verification",
+      "top_level_keys": [
+        "title",
+        "compare",
+        "shadow_only_check",
+        "validation_coverage",
+        "validation_diagnostics",
+        "true_shadow_keys",
+        "deterministic_shadow_output",
+        "book_specific_heuristics"
+      ],
+      "content_benchmark": false,
+      "content_verification": false,
+      "nonstandard_naming": true
+    },
+    {
+      "path": "phase8a_validation_coverage_verification_Büyülü_Yastıklar.json",
+      "filename": "phase8a_validation_coverage_verification_Büyülü_Yastıklar.json",
+      "classification_by_name": "verification",
+      "top_level_keys": [
+        "title",
+        "compare",
+        "shadow_only_check",
+        "validation_coverage",
+        "validation_diagnostics",
+        "true_shadow_keys",
+        "deterministic_shadow_output",
+        "book_specific_heuristics"
+      ],
+      "content_benchmark": false,
+      "content_verification": false,
+      "nonstandard_naming": true
+    },
+    {
+      "path": "phase8a_validation_coverage_verification_Tavşan_Pati.json",
+      "filename": "phase8a_validation_coverage_verification_Tavşan_Pati.json",
+      "classification_by_name": "verification",
+      "top_level_keys": [
+        "title",
+        "compare",
+        "shadow_only_check",
+        "validation_coverage",
+        "validation_diagnostics",
+        "true_shadow_keys",
+        "deterministic_shadow_output",
+        "book_specific_heuristics"
+      ],
+      "content_benchmark": false,
+      "content_verification": false,
+      "nonstandard_naming": true
+    },
+    {
+      "path": "phase8b_validation_confidence_verification.json",
+      "filename": "phase8b_validation_confidence_verification.json",
+      "classification_by_name": "verification",
+      "top_level_keys": [
+        "books"
+      ],
+      "content_benchmark": true,
+      "content_verification": false,
+      "nonstandard_naming": false
+    },
+    {
+      "path": "phase8c_quality_comparison_verification.json",
+      "filename": "phase8c_quality_comparison_verification.json",
+      "classification_by_name": "verification",
+      "top_level_keys": [
+        "books"
+      ],
+      "content_benchmark": true,
+      "content_verification": false,
+      "nonstandard_naming": false
+    },
+    {
+      "path": "phase9a_recommendation_engine_verification.json",
+      "filename": "phase9a_recommendation_engine_verification.json",
+      "classification_by_name": "verification",
+      "top_level_keys": [
+        "books",
+        "all_ok"
+      ],
+      "content_benchmark": true,
+      "content_verification": false,
+      "nonstandard_naming": false
+    },
+    {
+      "path": "phase9a_recommendation_engine_verification_Benim_Adım_Kristof_Kolomb.json",
+      "filename": "phase9a_recommendation_engine_verification_Benim_Adım_Kristof_Kolomb.json",
+      "classification_by_name": "verification",
+      "top_level_keys": [
+        "title",
+        "checks",
+        "recommendation_checks",
+        "recommendations_keys",
+        "diagnostics"
+      ],
+      "content_benchmark": false,
+      "content_verification": true,
+      "nonstandard_naming": true
+    },
+    {
+      "path": "phase9a_recommendation_engine_verification_Büyülü_Yastıklar.json",
+      "filename": "phase9a_recommendation_engine_verification_Büyülü_Yastıklar.json",
+      "classification_by_name": "verification",
+      "top_level_keys": [
+        "title",
+        "checks",
+        "recommendation_checks",
+        "recommendations_keys",
+        "diagnostics"
+      ],
+      "content_benchmark": false,
+      "content_verification": true,
+      "nonstandard_naming": true
+    },
+    {
+      "path": "phase9a_recommendation_engine_verification_Tavşan_Pati.json",
+      "filename": "phase9a_recommendation_engine_verification_Tavşan_Pati.json",
+      "classification_by_name": "verification",
+      "top_level_keys": [
+        "title",
+        "checks",
+        "recommendation_checks",
+        "recommendations_keys",
+        "diagnostics"
+      ],
+      "content_benchmark": false,
+      "content_verification": true,
+      "nonstandard_naming": true
+    },
+    {
+      "path": "phase9b_promotion_readiness_verification.json",
+      "filename": "phase9b_promotion_readiness_verification.json",
+      "classification_by_name": "verification",
+      "top_level_keys": [
+        "books",
+        "all_ok"
+      ],
+      "content_benchmark": true,
+      "content_verification": false,
+      "nonstandard_naming": false
+    },
+    {
+      "path": "phase9b_promotion_readiness_verification_Benim_Adım_Kristof_Kolomb.json",
+      "filename": "phase9b_promotion_readiness_verification_Benim_Adım_Kristof_Kolomb.json",
+      "classification_by_name": "verification",
+      "top_level_keys": [
+        "title",
+        "checks",
+        "diagnostics_ok",
+        "components_ok",
+        "promotion"
+      ],
+      "content_benchmark": false,
+      "content_verification": true,
+      "nonstandard_naming": true
+    },
+    {
+      "path": "phase9b_promotion_readiness_verification_Büyülü_Yastıklar.json",
+      "filename": "phase9b_promotion_readiness_verification_Büyülü_Yastıklar.json",
+      "classification_by_name": "verification",
+      "top_level_keys": [
+        "title",
+        "checks",
+        "diagnostics_ok",
+        "components_ok",
+        "promotion"
+      ],
+      "content_benchmark": false,
+      "content_verification": true,
+      "nonstandard_naming": true
+    },
+    {
+      "path": "phase9b_promotion_readiness_verification_Tavşan_Pati.json",
+      "filename": "phase9b_promotion_readiness_verification_Tavşan_Pati.json",
+      "classification_by_name": "verification",
+      "top_level_keys": [
+        "title",
+        "checks",
+        "diagnostics_ok",
+        "components_ok",
+        "promotion"
+      ],
+      "content_benchmark": false,
+      "content_verification": true,
+      "nonstandard_naming": true
+    },
+    {
+      "path": "rc11_fix1_title_narrator_verification.json",
+      "filename": "rc11_fix1_title_narrator_verification.json",
+      "classification_by_name": "verification",
+      "top_level_keys": [
+        "fix_id",
+        "title",
+        "status",
+        "summary",
+        "verification",
+        "constraints"
+      ],
+      "content_benchmark": false,
+      "content_verification": false,
+      "nonstandard_naming": false
+    },
+    {
+      "path": "rc11_fix2_theme_consistency_verification.json",
+      "filename": "rc11_fix2_theme_consistency_verification.json",
+      "classification_by_name": "verification",
+      "top_level_keys": [
+        "fix_id",
+        "status",
+        "summary",
+        "verification",
+        "files_changed"
+      ],
+      "content_benchmark": false,
+      "content_verification": true,
+      "nonstandard_naming": false
+    },
+    {
+      "path": "rc11_fix3_generic_classification_verification.json",
+      "filename": "rc11_fix3_generic_classification_verification.json",
+      "classification_by_name": "verification",
+      "top_level_keys": [
+        "fix_id",
+        "status",
+        "summary",
+        "verification",
+        "checks",
+        "benchmark_results_file",
+        "files_changed"
+      ],
+      "content_benchmark": false,
+      "content_verification": true,
+      "nonstandard_naming": false
+    }
+  ],
+  "benchmark_files": [
+    {
+      "path": "rc11_fix3_classification_benchmark_results.json",
+      "filename": "rc11_fix3_classification_benchmark_results.json",
+      "classification_by_name": "benchmark",
+      "top_level_keys": [
+        "timestamp",
+        "books"
+      ],
+      "content_benchmark": true,
+      "content_verification": false,
+      "nonstandard_naming": false
+    }
+  ],
+  "nonstandard_naming": [
+    {
+      "path": "phase7a_theme_validation_verification_Benim_Adım_Kristof_Kolomb.json",
+      "filename": "phase7a_theme_validation_verification_Benim_Adım_Kristof_Kolomb.json",
+      "classification_by_name": "verification",
+      "top_level_keys": [
+        "title",
+        "compare",
+        "validation_checks",
+        "true_shadow_keys",
+        "production_leakage",
+        "deterministic_shadow_output"
+      ],
+      "content_benchmark": false,
+      "content_verification": false,
+      "nonstandard_naming": true
+    },
+    {
+      "path": "phase7a_theme_validation_verification_Büyülü_Yastıklar.json",
+      "filename": "phase7a_theme_validation_verification_Büyülü_Yastıklar.json",
+      "classification_by_name": "verification",
+      "top_level_keys": [
+        "title",
+        "compare",
+        "validation_checks",
+        "true_shadow_keys",
+        "production_leakage",
+        "deterministic_shadow_output"
+      ],
+      "content_benchmark": false,
+      "content_verification": false,
+      "nonstandard_naming": true
+    },
+    {
+      "path": "phase7a_theme_validation_verification_Tavşan_Pati.json",
+      "filename": "phase7a_theme_validation_verification_Tavşan_Pati.json",
+      "classification_by_name": "verification",
+      "top_level_keys": [
+        "title",
+        "compare",
+        "validation_checks",
+        "true_shadow_keys",
+        "production_leakage",
+        "deterministic_shadow_output"
+      ],
+      "content_benchmark": false,
+      "content_verification": false,
+      "nonstandard_naming": true
+    },
+    {
+      "path": "phase7b_character_validation_verification_Benim_Adım_Kristof_Kolomb.json",
+      "filename": "phase7b_character_validation_verification_Benim_Adım_Kristof_Kolomb.json",
+      "classification_by_name": "verification",
+      "top_level_keys": [
+        "title",
+        "compare",
+        "character_validation_checks",
+        "true_shadow_keys",
+        "production_leakage",
+        "deterministic_shadow_output"
+      ],
+      "content_benchmark": false,
+      "content_verification": false,
+      "nonstandard_naming": true
+    },
+    {
+      "path": "phase7b_character_validation_verification_Büyülü_Yastıklar.json",
+      "filename": "phase7b_character_validation_verification_Büyülü_Yastıklar.json",
+      "classification_by_name": "verification",
+      "top_level_keys": [
+        "title",
+        "compare",
+        "character_validation_checks",
+        "true_shadow_keys",
+        "production_leakage",
+        "deterministic_shadow_output"
+      ],
+      "content_benchmark": false,
+      "content_verification": false,
+      "nonstandard_naming": true
+    },
+    {
+      "path": "phase7b_character_validation_verification_Tavşan_Pati.json",
+      "filename": "phase7b_character_validation_verification_Tavşan_Pati.json",
+      "classification_by_name": "verification",
+      "top_level_keys": [
+        "title",
+        "compare",
+        "character_validation_checks",
+        "true_shadow_keys",
+        "production_leakage",
+        "deterministic_shadow_output"
+      ],
+      "content_benchmark": false,
+      "content_verification": false,
+      "nonstandard_naming": true
+    },
+    {
+      "path": "phase7c_learning_outcome_validation_verification_Benim_Adım_Kristof_Kolomb.json",
+      "filename": "phase7c_learning_outcome_validation_verification_Benim_Adım_Kristof_Kolomb.json",
+      "classification_by_name": "verification",
+      "top_level_keys": [
+        "title",
+        "compare",
+        "learning_outcome_validation_checks",
+        "true_shadow_keys",
+        "production_leakage",
+        "deterministic_shadow_output"
+      ],
+      "content_benchmark": false,
+      "content_verification": false,
+      "nonstandard_naming": true
+    },
+    {
+      "path": "phase7c_learning_outcome_validation_verification_Büyülü_Yastıklar.json",
+      "filename": "phase7c_learning_outcome_validation_verification_Büyülü_Yastıklar.json",
+      "classification_by_name": "verification",
+      "top_level_keys": [
+        "title",
+        "compare",
+        "learning_outcome_validation_checks",
+        "true_shadow_keys",
+        "production_leakage",
+        "deterministic_shadow_output"
+      ],
+      "content_benchmark": false,
+      "content_verification": false,
+      "nonstandard_naming": true
+    },
+    {
+      "path": "phase7c_learning_outcome_validation_verification_Tavşan_Pati.json",
+      "filename": "phase7c_learning_outcome_validation_verification_Tavşan_Pati.json",
+      "classification_by_name": "verification",
+      "top_level_keys": [
+        "title",
+        "compare",
+        "learning_outcome_validation_checks",
+        "true_shadow_keys",
+        "production_leakage",
+        "deterministic_shadow_output"
+      ],
+      "content_benchmark": false,
+      "content_verification": false,
+      "nonstandard_naming": true
+    },
+    {
+      "path": "phase8a_validation_coverage_verification_Benim_Adım_Kristof_Kolomb.json",
+      "filename": "phase8a_validation_coverage_verification_Benim_Adım_Kristof_Kolomb.json",
+      "classification_by_name": "verification",
+      "top_level_keys": [
+        "title",
+        "compare",
+        "shadow_only_check",
+        "validation_coverage",
+        "validation_diagnostics",
+        "true_shadow_keys",
+        "deterministic_shadow_output",
+        "book_specific_heuristics"
+      ],
+      "content_benchmark": false,
+      "content_verification": false,
+      "nonstandard_naming": true
+    },
+    {
+      "path": "phase8a_validation_coverage_verification_Büyülü_Yastıklar.json",
+      "filename": "phase8a_validation_coverage_verification_Büyülü_Yastıklar.json",
+      "classification_by_name": "verification",
+      "top_level_keys": [
+        "title",
+        "compare",
+        "shadow_only_check",
+        "validation_coverage",
+        "validation_diagnostics",
+        "true_shadow_keys",
+        "deterministic_shadow_output",
+        "book_specific_heuristics"
+      ],
+      "content_benchmark": false,
+      "content_verification": false,
+      "nonstandard_naming": true
+    },
+    {
+      "path": "phase8a_validation_coverage_verification_Tavşan_Pati.json",
+      "filename": "phase8a_validation_coverage_verification_Tavşan_Pati.json",
+      "classification_by_name": "verification",
+      "top_level_keys": [
+        "title",
+        "compare",
+        "shadow_only_check",
+        "validation_coverage",
+        "validation_diagnostics",
+        "true_shadow_keys",
+        "deterministic_shadow_output",
+        "book_specific_heuristics"
+      ],
+      "content_benchmark": false,
+      "content_verification": false,
+      "nonstandard_naming": true
+    },
+    {
+      "path": "phase9a_recommendation_engine_verification_Benim_Adım_Kristof_Kolomb.json",
+      "filename": "phase9a_recommendation_engine_verification_Benim_Adım_Kristof_Kolomb.json",
+      "classification_by_name": "verification",
+      "top_level_keys": [
+        "title",
+        "checks",
+        "recommendation_checks",
+        "recommendations_keys",
+        "diagnostics"
+      ],
+      "content_benchmark": false,
+      "content_verification": true,
+      "nonstandard_naming": true
+    },
+    {
+      "path": "phase9a_recommendation_engine_verification_Büyülü_Yastıklar.json",
+      "filename": "phase9a_recommendation_engine_verification_Büyülü_Yastıklar.json",
+      "classification_by_name": "verification",
+      "top_level_keys": [
+        "title",
+        "checks",
+        "recommendation_checks",
+        "recommendations_keys",
+        "diagnostics"
+      ],
+      "content_benchmark": false,
+      "content_verification": true,
+      "nonstandard_naming": true
+    },
+    {
+      "path": "phase9a_recommendation_engine_verification_Tavşan_Pati.json",
+      "filename": "phase9a_recommendation_engine_verification_Tavşan_Pati.json",
+      "classification_by_name": "verification",
+      "top_level_keys": [
+        "title",
+        "checks",
+        "recommendation_checks",
+        "recommendations_keys",
+        "diagnostics"
+      ],
+      "content_benchmark": false,
+      "content_verification": true,
+      "nonstandard_naming": true
+    },
+    {
+      "path": "phase9b_promotion_readiness_verification_Benim_Adım_Kristof_Kolomb.json",
+      "filename": "phase9b_promotion_readiness_verification_Benim_Adım_Kristof_Kolomb.json",
+      "classification_by_name": "verification",
+      "top_level_keys": [
+        "title",
+        "checks",
+        "diagnostics_ok",
+        "components_ok",
+        "promotion"
+      ],
+      "content_benchmark": false,
+      "content_verification": true,
+      "nonstandard_naming": true
+    },
+    {
+      "path": "phase9b_promotion_readiness_verification_Büyülü_Yastıklar.json",
+      "filename": "phase9b_promotion_readiness_verification_Büyülü_Yastıklar.json",
+      "classification_by_name": "verification",
+      "top_level_keys": [
+        "title",
+        "checks",
+        "diagnostics_ok",
+        "components_ok",
+        "promotion"
+      ],
+      "content_benchmark": false,
+      "content_verification": true,
+      "nonstandard_naming": true
+    },
+    {
+      "path": "phase9b_promotion_readiness_verification_Tavşan_Pati.json",
+      "filename": "phase9b_promotion_readiness_verification_Tavşan_Pati.json",
+      "classification_by_name": "verification",
+      "top_level_keys": [
+        "title",
+        "checks",
+        "diagnostics_ok",
+        "components_ok",
+        "promotion"
+      ],
+      "content_benchmark": false,
+      "content_verification": true,
+      "nonstandard_naming": true
+    }
+  ],
+  "verification_with_benchmark_content": [
+    {
+      "path": "phase10a_shadow_impact_verification.json",
+      "filename": "phase10a_shadow_impact_verification.json",
+      "classification_by_name": "verification",
+      "top_level_keys": [
+        "books",
+        "all_ok"
+      ],
+      "content_benchmark": true,
+      "content_verification": false,
+      "nonstandard_naming": false
+    },
+    {
+      "path": "phase10b_promotion_candidates_verification.json",
+      "filename": "phase10b_promotion_candidates_verification.json",
+      "classification_by_name": "verification",
+      "top_level_keys": [
+        "books",
+        "all_ok"
+      ],
+      "content_benchmark": true,
+      "content_verification": false,
+      "nonstandard_naming": false
+    },
+    {
+      "path": "phase10c_rollout_plan_verification.json",
+      "filename": "phase10c_rollout_plan_verification.json",
+      "classification_by_name": "verification",
+      "top_level_keys": [
+        "books",
+        "all_ok"
+      ],
+      "content_benchmark": true,
+      "content_verification": false,
+      "nonstandard_naming": false
+    },
+    {
+      "path": "phase11a_shadow_audit_verification.json",
+      "filename": "phase11a_shadow_audit_verification.json",
+      "classification_by_name": "verification",
+      "top_level_keys": [
+        "books",
+        "all_ok"
+      ],
+      "content_benchmark": true,
+      "content_verification": false,
+      "nonstandard_naming": false
+    },
+    {
+      "path": "phase4a_narrative_graph_verification.json",
+      "filename": "phase4a_narrative_graph_verification.json",
+      "classification_by_name": "verification",
+      "top_level_keys": [
+        "books",
+        "run_v7_tests"
+      ],
+      "content_benchmark": true,
+      "content_verification": false,
+      "nonstandard_naming": false
+    },
+    {
+      "path": "phase5a_narrative_chain_verification.json",
+      "filename": "phase5a_narrative_chain_verification.json",
+      "classification_by_name": "verification",
+      "top_level_keys": [
+        "books"
+      ],
+      "content_benchmark": true,
+      "content_verification": false,
+      "nonstandard_naming": false
+    },
+    {
+      "path": "phase5b_cause_effect_verification.json",
+      "filename": "phase5b_cause_effect_verification.json",
+      "classification_by_name": "verification",
+      "top_level_keys": [
+        "books"
+      ],
+      "content_benchmark": true,
+      "content_verification": false,
+      "nonstandard_naming": false
+    },
+    {
+      "path": "phase6a_conflict_graph_verification.json",
+      "filename": "phase6a_conflict_graph_verification.json",
+      "classification_by_name": "verification",
+      "top_level_keys": [
+        "books"
+      ],
+      "content_benchmark": true,
+      "content_verification": false,
+      "nonstandard_naming": false
+    },
+    {
+      "path": "phase6c_story_arc_classification_verification.json",
+      "filename": "phase6c_story_arc_classification_verification.json",
+      "classification_by_name": "verification",
+      "top_level_keys": [
+        "books"
+      ],
+      "content_benchmark": true,
+      "content_verification": false,
+      "nonstandard_naming": false
+    },
+    {
+      "path": "phase7a_theme_validation_verification.json",
+      "filename": "phase7a_theme_validation_verification.json",
+      "classification_by_name": "verification",
+      "top_level_keys": [
+        "books"
+      ],
+      "content_benchmark": true,
+      "content_verification": false,
+      "nonstandard_naming": false
+    },
+    {
+      "path": "phase7b_character_validation_verification.json",
+      "filename": "phase7b_character_validation_verification.json",
+      "classification_by_name": "verification",
+      "top_level_keys": [
+        "books"
+      ],
+      "content_benchmark": true,
+      "content_verification": false,
+      "nonstandard_naming": false
+    },
+    {
+      "path": "phase7c_learning_outcome_validation_verification.json",
+      "filename": "phase7c_learning_outcome_validation_verification.json",
+      "classification_by_name": "verification",
+      "top_level_keys": [
+        "books"
+      ],
+      "content_benchmark": true,
+      "content_verification": false,
+      "nonstandard_naming": false
+    },
+    {
+      "path": "phase8a_validation_coverage_verification.json",
+      "filename": "phase8a_validation_coverage_verification.json",
+      "classification_by_name": "verification",
+      "top_level_keys": [
+        "books"
+      ],
+      "content_benchmark": true,
+      "content_verification": false,
+      "nonstandard_naming": false
+    },
+    {
+      "path": "phase8b_validation_confidence_verification.json",
+      "filename": "phase8b_validation_confidence_verification.json",
+      "classification_by_name": "verification",
+      "top_level_keys": [
+        "books"
+      ],
+      "content_benchmark": true,
+      "content_verification": false,
+      "nonstandard_naming": false
+    },
+    {
+      "path": "phase8c_quality_comparison_verification.json",
+      "filename": "phase8c_quality_comparison_verification.json",
+      "classification_by_name": "verification",
+      "top_level_keys": [
+        "books"
+      ],
+      "content_benchmark": true,
+      "content_verification": false,
+      "nonstandard_naming": false
+    },
+    {
+      "path": "phase9a_recommendation_engine_verification.json",
+      "filename": "phase9a_recommendation_engine_verification.json",
+      "classification_by_name": "verification",
+      "top_level_keys": [
+        "books",
+        "all_ok"
+      ],
+      "content_benchmark": true,
+      "content_verification": false,
+      "nonstandard_naming": false
+    },
+    {
+      "path": "phase9b_promotion_readiness_verification.json",
+      "filename": "phase9b_promotion_readiness_verification.json",
+      "classification_by_name": "verification",
+      "top_level_keys": [
+        "books",
+        "all_ok"
+      ],
+      "content_benchmark": true,
+      "content_verification": false,
+      "nonstandard_naming": false
+    }
+  ],
+  "benchmark_with_verification_content": []
+}

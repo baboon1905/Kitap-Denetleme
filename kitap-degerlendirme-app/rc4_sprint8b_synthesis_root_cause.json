@@ -1,0 +1,59 @@
+{
+  "sprint": "RC4 Sprint 8B — Evidence Synthesis Root Cause",
+  "generated_at": null,
+  "total_runtime_payloads": 3,
+  "processed_payloads": 3,
+  "per_payload": [
+    {
+      "payload_file": "runtime_1_analyze_theme_gain_return.json",
+      "book_title": "runtime_1_analyze_theme_gain_return",
+      "trace": {},
+      "summary": {
+        "total_input_evidence": 0,
+        "total_output_evidence": 0,
+        "loss_per_stage": {},
+        "removal_reasons": {},
+        "first_stage_with_major_loss": null,
+        "dominant_root_cause": null,
+        "removed_items": []
+      }
+    },
+    {
+      "payload_file": "runtime_2_build_pdf_report_input.json",
+      "book_title": "runtime_2_build_pdf_report_input",
+      "trace": {},
+      "summary": {
+        "total_input_evidence": 0,
+        "total_output_evidence": 0,
+        "loss_per_stage": {},
+        "removal_reasons": {},
+        "first_stage_with_major_loss": null,
+        "dominant_root_cause": null,
+        "removed_items": []
+      }
+    },
+    {
+      "payload_file": "runtime_theme_final_selection_debug.json",
+      "book_title": "runtime_theme_final_selection_debug",
+      "trace": {},
+      "summary": {
+        "total_input_evidence": 0,
+        "total_output_evidence": 0,
+        "loss_per_stage": {},
+        "removal_reasons": {},
+        "first_stage_with_major_loss": null,
+        "dominant_root_cause": null,
+        "removed_items": []
+      }
+    }
+  ],
+  "aggregate": {
+    "total_input_evidence": 0,
+    "total_output_evidence": 0,
+    "loss_per_stage": {},
+    "removal_reasons": {},
+    "first_stage_with_major_loss": null,
+    "dominant_root_cause": null
+  },
+  "shadow_only": true
+}

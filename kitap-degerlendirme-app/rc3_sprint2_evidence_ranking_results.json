@@ -1,0 +1,52 @@
+{
+  "total_activations": 4,
+  "ranked_evidence_count": 4,
+  "top_ranked_evidence": [
+    {
+      "pattern_id": "theme_resilience",
+      "rank_score": 7.3,
+      "ranking_signals": {
+        "evidence_count": 3,
+        "source_weight": 1.0,
+        "semantic_density": 0.0,
+        "cluster_support": 1
+      },
+      "evidence_count": 3,
+      "source": "semantic.theme_clusters",
+      "match_snippet": "Dayanıklılığın teması tekrarlanır.",
+      "rank": 1
+    },
+    {
+      "pattern_id": "theme_adventure",
+      "rank_score": 4.6,
+      "ranking_signals": {
+        "evidence_count": 2,
+        "source_weight": 0.8,
+        "semantic_density": 0.0,
+        "cluster_support": 0
+      },
+      "evidence_count": 2,
+      "source": "summary_ir.themes",
+      "match_snippet": "Macera dolu bir hikaye.",
+      "rank": 2
+    },
+    {
+      "pattern_id": "theme_friendship",
+      "rank_score": 4.3,
+      "ranking_signals": {
+        "evidence_count": 1,
+        "source_weight": 1.0,
+        "semantic_density": 0.0,
+        "cluster_support": 1
+      },
+      "evidence_count": 1,
+      "source": "semantic.theme_clusters",
+      "match_snippet": "Dostluğun önemi vurgulanır.",
+      "rank": 3
+    }
+  ],
+  "average_rank_score": 4.825,
+  "deterministic": true,
+  "production_output_changed": false,
+  "equal_without_shadow": true
+}

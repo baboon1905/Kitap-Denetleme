@@ -1,0 +1,132 @@
+{
+  "sprint": "RC4 Sprint 11C - Semantic Field Failure Analysis",
+  "timestamp": "2026-07-09T12:40:00",
+  "source_report": "rc4_sprint11b_event_reconstructor_reports.json",
+  "summary": {
+    "overall_top_failed_fields": ["object","location","goal"],
+    "artificially_filled_fields": ["cause","effect"],
+    "narrative_function_skew": "inciting_incident/resolution bias observed (very few rising_action)"
+  },
+  "books": {
+    "Tavşan Pati": {
+      "metrics": {
+        "total_events": 78,
+        "goal_fill_rate": 0.0,
+        "object_fill_rate": 0.0,
+        "location_fill_rate": 0.0,
+        "cause_fill_rate": 1.0,
+        "effect_fill_rate": 1.0
+      },
+      "empty_fields": ["goal","object","location"],
+      "artificial_or_generic_fields": {
+        "cause": "mostly the literal token 'olay' for every event",
+        "effect": "mostly the literal token 'durum değişimi' for every event"
+      },
+      "sample_event_quality_comments": [
+        {"event_id":"event_057","comment":"actors present, action is garbled (OCR noise); object/goal/location empty; cause/effect generic 'olay'/'durum değişimi' -> low specificity."},
+        {"event_id":"event_015","comment":"actor ok, action noisy; no object/goal/location; cause/effect generic."},
+        {"event_id":"event_049","comment":"duplicate-like action text; no object/goal/location; cause/effect generic."},
+        {"event_id":"event_010","comment":"actor extracted but action truncated; empty object/goal/location; cause/effect generic."},
+        {"event_id":"event_005","comment":"same pattern as above; evidence appears short; fields missing."},
+        {"event_id":"event_027","comment":"two actors detected; still no object/goal/location; cause/effect generic; suggests argument extraction not implemented."},
+        {"event_id":"event_055","comment":"actors ok; action short; semantic arguments missing; cause/effect default."},
+        {"event_id":"event_013","comment":"action contains longer phrase but object/goal/location still empty; cause/effect generic."},
+        {"event_id":"event_061","comment":"actor ok; no location/object/goal; default cause/effect."},
+        {"event_id":"event_032","comment":"actor partial; heavy OCR tokenization; semantic fields missing."}
+      ],
+      "most_frequent_failures": ["object","goal","location","cause_specificity"],
+      "root_cause": "Input evidence appears short and/or OCR-corrupted; heuristics default to generic 'cause'/'effect' when they do not detect explicit causal language; object/goal/location extraction rules are too narrow or absent for Turkish and noisy tokens.",
+      "recommended_fixes": [
+        "Add OCR/text-cleaning + normalization before extraction (remove garbled tokens).",
+        "Broaden goal/object/location extraction: use Turkish morphological clues (case suffixes), postpositions, and common patterns (için, -mek üzere, hedef, amaç, -i/-ı as direct objects).",
+        "Implement a conservative defaulting policy: do NOT fill 'cause'/'effect' with generic labels unless causal connectives (çünkü,dolayı,sonuç olarak,bunun sonucu) or effect verbs are detected.",
+        "Add lightweight NER or gazetteer lookup for locations to increase `location` recall.",
+        "Log and surface examples of low-confidence events for manual review (for iterative rule improvement)."
+      ]
+    },
+    "Büyülü Yastıklar": {
+      "metrics": {
+        "total_events": 48,
+        "goal_fill_rate": 0.042,
+        "object_fill_rate": 0.0,
+        "location_fill_rate": 0.0,
+        "cause_fill_rate": 1.0,
+        "effect_fill_rate": 1.0
+      },
+      "empty_fields": ["object","location","goal (mostly)"],
+      "artificial_or_generic_fields": {
+        "cause": "'olay' repeated for every sample",
+        "effect": "'durum değişimi' repeated for every sample"
+      },
+      "sample_event_quality_comments": [
+        {"event_id":"event_010","comment":"actors OK; repeated sentence 'yaparsak mutlaka bir çare buluruz' used many times -> evidence duplication or coarse sentence grouping; object/goal empty."},
+        {"event_id":"event_038","comment":"actors present; result populated but object empty; cause/effect generic."},
+        {"event_id":"event_001","comment":"inciting incident label with resolved state suggests heuristic mismatch; semantic args missing."},
+        {"event_id":"event_009","comment":"duplicate-like action; no object/goal/location."},
+        {"event_id":"event_024","comment":"same action repeated; suggests dedup step needed."},
+        {"event_id":"event_041","comment":"same pattern; lack of object extraction."},
+        {"event_id":"event_020","comment":"same action phrase; location empty."},
+        {"event_id":"event_007","comment":"actor list noisy (many tokens treated as actors); NER/actor-cleaning needed; object empty."},
+        {"event_id":"event_043","comment":"conflict=true detected correctly but object/goal/location empty; cause/effect generic."},
+        {"event_id":"event_005","comment":"conflict flagged but semantic args missing."}
+      ],
+      "most_frequent_failures": ["object","location","dedup/evidence_grouping","actor_noise"],
+      "root_cause": "Evidence grouping and actor/entity extraction are noisy; heuristics create duplicate events from repeated sentences; object/location patterns absent; cause/effect defaulting masks real causal signal.",
+      "recommended_fixes": [
+        "Add deduplication of identical/similar evidence texts before reconstruction.",
+        "Improve actor extraction to filter short/noisy tokens and normalize named entities.",
+        "Add object extraction rules using Turkish case markers and noun phrase chunking; consider a shallow dependency parser (spaCy with tr models or Zemberek integration).",
+        "Constrain cause/effect filling to explicit causal constructions; attach confidence scores rather than binary fill flags."
+      ]
+    },
+    "Benim Adım Kristof Kolomb": {
+      "metrics": {
+        "total_events": 103,
+        "goal_fill_rate": 0.437,
+        "object_fill_rate": 0.184,
+        "location_fill_rate": 0.311,
+        "cause_fill_rate": 1.0,
+        "effect_fill_rate": 1.0
+      },
+      "empty_fields": ["object (majority), location (majority), some goals still missing"],
+      "artificial_or_generic_fields": {
+        "cause": "often 'olay' but some specific causes (e.g., 'hedefe yaklaşma','moral kaybı') are detected",
+        "effect": "mixed: many generic 'durum değişimi' but some specific effects present"
+      },
+      "sample_event_quality_comments": [
+        {"event_id":"event_094","comment":"actor 'Burası' (likely OCR); action 'geldiğimizi düşündüm' — no object/goal/location; cause generic."},
+        {"event_id":"event_012","comment":"goal 'yardım' correctly detected; cause/effect specific strings present -> heuristic can succeed when phrasing explicit."},
+        {"event_id":"event_079","comment":"actor ok; location missing though topic suggests place; cause generic."},
+        {"event_id":"event_003","comment":"object 'Karaya' and goal 'karaya ulaşma' extracted — good example of successful argument extraction."},
+        {"event_id":"event_084","comment":"short action; missing object/goal; cause generic."},
+        {"event_id":"event_051","comment":"location 'Hindistan' detected — shows NER-like matching works for known place names."},
+        {"event_id":"event_087","comment":"actors noisy; action complex; no object/goal extracted; cause generic."},
+        {"event_id":"event_052","comment":"goal 'batıya yolculuk' detected — good pattern match for purpose/goal clauses."},
+        {"event_id":"event_000","comment":"goal 'karşılaşma' present and conflict true — successful extraction in some cases."},
+        {"event_id":"event_058","comment":"goal 'yardım' detected; cause/effect are more meaningful here (moral kaybı etc.)."}
+      ],
+      "most_frequent_failures": ["object","location (when not a known place name)","overgeneralized cause/effect"],
+      "root_cause": "Heuristics partially tuned for biography-style texts allow some goal detection in explicit phrasing, but argument extraction remains surface-level and fails on varied phrasing; cause/effect fallback still too permissive.",
+      "recommended_fixes": [
+        "Preserve and reuse heuristics that worked here (named-place matching) and expand with a place-name list and morphological checks.",
+        "Add a noun-chunker or light dependency parse to reliably extract objects and locations from verb arguments.",
+        "Introduce confidence scoring for each semantic field; suppress generic placeholders below a confidence threshold.",
+        "Adjust narrative function heuristics: include features from sentence position, connective words, and event consequence verbs to separate rising action from inciting/resolution more evenly."
+      ]
+    }
+  },
+  "conclusions_and_next_steps": {
+    "conclusions": [
+      "Primary missing fields: object, location, goal — caused by narrow or absent extraction rules and noisy OCR/evidence.",
+      "Cause/effect appear saturated due to a permissive defaulting rule; they must be made conditional and scored.",
+      "Narrative function skew arises from coarse rule thresholds and evidence-position heuristics; needs richer features."
+    ],
+    "next_engineering_steps": [
+      "Add preprocessing: OCR cleanup + sentence normalization.",
+      "Implement conservative defaulting for cause/effect and add confidence scores.",
+      "Integrate a Turkish-capable NLP stack (spaCy tr or Zemberek) for noun-chunking/NER/morphology.",
+      "Add deduplication and evidence grouping to avoid repeated identical events.",
+      "Create a small human-reviewed seed set (50–100 events) to craft and validate improved rules and thresholds."
+    ]
+  }
+}

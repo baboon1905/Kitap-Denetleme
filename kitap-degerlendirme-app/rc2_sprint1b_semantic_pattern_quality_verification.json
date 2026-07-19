@@ -1,0 +1,347 @@
+{
+  "sprint": "RC2_Sprint1B",
+  "timestamp": "2026-07-06T14:30:00Z",
+  "test_date": "2026-07-06",
+  "audit_type": "semantic_pattern_quality",
+  "production_safety": {
+    "production_output_unchanged": true,
+    "shadow_only_analysis": true,
+    "deterministic_output": true,
+    "no_book_specific_heuristics": true,
+    "status": "✓ PASS"
+  },
+  "pattern_audit_summary": {
+    "total_patterns": 15,
+    "active_patterns": 10,
+    "review_patterns": 5,
+    "remove_patterns": 0,
+    "quality_status": "review_needed"
+  },
+  "individual_pattern_audit": [
+    {
+      "pattern_name": "adventure",
+      "category": "theme",
+      "keyword_count": 4,
+      "keywords": [
+        "macera",
+        "yolculuk",
+        "keşif",
+        "sefaret"
+      ],
+      "total_matched_count": 3,
+      "books_with_matches": 2,
+      "confidence": 0.2,
+      "coverage_score": 0.333,
+      "false_positive_risk": "low",
+      "recommendation": "keep",
+      "status": "✓"
+    },
+    {
+      "pattern_name": "growth",
+      "category": "theme",
+      "keyword_count": 4,
+      "keywords": [
+        "büyüme",
+        "gelişim",
+        "olgunlaşma",
+        "öğrenme"
+      ],
+      "total_matched_count": 7,
+      "books_with_matches": 3,
+      "confidence": 0.467,
+      "coverage_score": 0.778,
+      "false_positive_risk": "high",
+      "recommendation": "review",
+      "status": "⚠"
+    },
+    {
+      "pattern_name": "conflict",
+      "category": "theme",
+      "keyword_count": 4,
+      "keywords": [
+        "çatışma",
+        "mücadele",
+        "savaş",
+        "karşılaşma"
+      ],
+      "total_matched_count": 2,
+      "books_with_matches": 2,
+      "confidence": 0.133,
+      "coverage_score": 0.222,
+      "false_positive_risk": "low",
+      "recommendation": "keep",
+      "status": "✓"
+    },
+    {
+      "pattern_name": "friendship",
+      "category": "theme",
+      "keyword_count": 4,
+      "keywords": [
+        "dostluk",
+        "arkadaşlık",
+        "birlik",
+        "dayanışma"
+      ],
+      "total_matched_count": 4,
+      "books_with_matches": 2,
+      "confidence": 0.267,
+      "coverage_score": 0.444,
+      "false_positive_risk": "medium",
+      "recommendation": "keep",
+      "status": "✓"
+    },
+    {
+      "pattern_name": "family",
+      "category": "theme",
+      "keyword_count": 4,
+      "keywords": [
+        "aile",
+        "baba",
+        "anne",
+        "kardeş"
+      ],
+      "total_matched_count": 1,
+      "books_with_matches": 1,
+      "confidence": 0.067,
+      "coverage_score": 0.111,
+      "false_positive_risk": "low",
+      "recommendation": "keep",
+      "status": "✓"
+    },
+    {
+      "pattern_name": "courage",
+      "category": "theme",
+      "keyword_count": 4,
+      "keywords": [
+        "cesaret",
+        "yiğitlik",
+        "korkmamak",
+        "kahraman"
+      ],
+      "total_matched_count": 7,
+      "books_with_matches": 3,
+      "confidence": 0.467,
+      "coverage_score": 0.778,
+      "false_positive_risk": "medium",
+      "recommendation": "review",
+      "status": "⚠"
+    },
+    {
+      "pattern_name": "knowledge",
+      "category": "theme",
+      "keyword_count": 4,
+      "keywords": [
+        "bilgi",
+        "çalışma",
+        "eğitim",
+        "öğrenme"
+      ],
+      "total_matched_count": 3,
+      "books_with_matches": 3,
+      "confidence": 0.2,
+      "coverage_score": 0.333,
+      "false_positive_risk": "medium",
+      "recommendation": "keep",
+      "status": "✓"
+    },
+    {
+      "pattern_name": "protagonist",
+      "category": "character_role",
+      "keyword_count": 5,
+      "keywords": [
+        "ana karakter",
+        "kahraman",
+        "çocuk",
+        "kız",
+        "oğlan"
+      ],
+      "total_matched_count": 3,
+      "books_with_matches": 2,
+      "confidence": 0.25,
+      "coverage_score": 0.5,
+      "false_positive_risk": "low",
+      "recommendation": "keep",
+      "status": "✓"
+    },
+    {
+      "pattern_name": "antagonist",
+      "category": "character_role",
+      "keyword_count": 3,
+      "keywords": [
+        "düşman",
+        "kötü",
+        "olumsuz"
+      ],
+      "total_matched_count": 0,
+      "books_with_matches": 0,
+      "confidence": 0.0,
+      "coverage_score": 0.0,
+      "false_positive_risk": "unknown",
+      "recommendation": "review",
+      "status": "⚠"
+    },
+    {
+      "pattern_name": "mentor",
+      "category": "character_role",
+      "keyword_count": 4,
+      "keywords": [
+        "öğretmen",
+        "rehber",
+        "bilge",
+        "yaşlı"
+      ],
+      "total_matched_count": 2,
+      "books_with_matches": 1,
+      "confidence": 0.167,
+      "coverage_score": 0.333,
+      "false_positive_risk": "low",
+      "recommendation": "keep",
+      "status": "✓"
+    },
+    {
+      "pattern_name": "companion",
+      "category": "character_role",
+      "keyword_count": 4,
+      "keywords": [
+        "arkadaş",
+        "dost",
+        "yoldaş",
+        "asistan"
+      ],
+      "total_matched_count": 3,
+      "books_with_matches": 2,
+      "confidence": 0.25,
+      "coverage_score": 0.5,
+      "false_positive_risk": "low",
+      "recommendation": "keep",
+      "status": "✓"
+    },
+    {
+      "pattern_name": "cognitive",
+      "category": "learning_outcome",
+      "keyword_count": 4,
+      "keywords": [
+        "öğrendi",
+        "anladı",
+        "bildi",
+        "kavradı"
+      ],
+      "total_matched_count": 1,
+      "books_with_matches": 1,
+      "confidence": 0.083,
+      "coverage_score": 0.167,
+      "false_positive_risk": "low",
+      "recommendation": "keep",
+      "status": "✓"
+    },
+    {
+      "pattern_name": "social",
+      "category": "learning_outcome",
+      "keyword_count": 4,
+      "keywords": [
+        "işbirliği",
+        "dayanışma",
+        "iletişim",
+        "empati"
+      ],
+      "total_matched_count": 3,
+      "books_with_matches": 3,
+      "confidence": 0.25,
+      "coverage_score": 0.5,
+      "false_positive_risk": "high",
+      "recommendation": "review",
+      "status": "⚠"
+    },
+    {
+      "pattern_name": "emotional",
+      "category": "learning_outcome",
+      "keyword_count": 4,
+      "keywords": [
+        "hissetti",
+        "duygulanıyor",
+        "deneyimle",
+        "anlış"
+      ],
+      "total_matched_count": 1,
+      "books_with_matches": 1,
+      "confidence": 0.083,
+      "coverage_score": 0.167,
+      "false_positive_risk": "low",
+      "recommendation": "keep",
+      "status": "✓"
+    },
+    {
+      "pattern_name": "physical",
+      "category": "learning_outcome",
+      "keyword_count": 4,
+      "keywords": [
+        "hareketi",
+        "aktivite",
+        "oyun",
+        "spor"
+      ],
+      "total_matched_count": 1,
+      "books_with_matches": 1,
+      "confidence": 0.083,
+      "coverage_score": 0.167,
+      "false_positive_risk": "high",
+      "recommendation": "review",
+      "status": "⚠"
+    }
+  ],
+  "aggregate_metrics": {
+    "total_pattern_count": 15,
+    "active_pattern_count": 10,
+    "review_pattern_count": 5,
+    "remove_pattern_count": 0,
+    "average_pattern_confidence": 0.198,
+    "average_coverage_score": 0.356,
+    "total_matches_across_all_patterns": 41,
+    "semantic_coverage_score": 0.356,
+    "quality_status": "review_needed"
+  },
+  "books_analyzed": {
+    "count": 3,
+    "books": [
+      "Tavşan Pati",
+      "Büyülü Yastıklar",
+      "Benim Adım Kristof Kolomb"
+    ]
+  },
+  "book_analysis_summary": {
+    "Tavşan Pati": {
+      "theme_clusters": 5,
+      "character_roles": 3,
+      "learning_outcomes": 2,
+      "total_semantic_entities": 10,
+      "semantic_confidence": 0.246,
+      "semantic_density": 0.667
+    },
+    "Büyülü Yastıklar": {
+      "theme_clusters": 5,
+      "character_roles": 1,
+      "learning_outcomes": 2,
+      "total_semantic_entities": 8,
+      "semantic_confidence": 0.349,
+      "semantic_density": 0.533
+    },
+    "Benim Adım Kristof Kolomb": {
+      "theme_clusters": 6,
+      "character_roles": 1,
+      "learning_outcomes": 2,
+      "total_semantic_entities": 9,
+      "semantic_confidence": 0.28,
+      "semantic_density": 0.6
+    }
+  },
+  "quality_gates": {
+    "zero_production_impact": true,
+    "deterministic_output": true,
+    "no_book_specific_logic": true,
+    "generic_patterns_only": true,
+    "shadow_preserved": true,
+    "all_gates_passed": true
+  },
+  "status": "✓ AUDIT_COMPLETE",
+  "recommendation": "Proceed with RC2 Sprint 2 — Pattern Expansion"
+}

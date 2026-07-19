@@ -1,0 +1,563 @@
+{
+  "books": [
+    {
+      "title": "Tavşan Pati",
+      "checks": {
+        "equal_without_shadow": true,
+        "shadow_audit_only_under_narrative": true,
+        "production_payload_unchanged": true,
+        "deterministic": true,
+        "book_specific_heuristic": false
+      },
+      "summary": {
+        "component_count": 16,
+        "ready_component_count": 1,
+        "high_impact_component_count": 0,
+        "recommendation_count": 4,
+        "rollout_step_count": 3
+      },
+      "summary_ok": true,
+      "findings_count": 23,
+      "findings_valid": true,
+      "diagnostics": {
+        "audit_finding_count": 23,
+        "audit_info_count": 9,
+        "audit_warning_count": 8,
+        "audit_critical_count": 6,
+        "audit_confidence": 0.47,
+        "source": "runtime_v7_shadow_audit"
+      },
+      "diagnostics_ok": true,
+      "shadow_audit": {
+        "summary": {
+          "component_count": 16,
+          "ready_component_count": 1,
+          "high_impact_component_count": 0,
+          "recommendation_count": 4,
+          "rollout_step_count": 3
+        },
+        "findings": [
+          {
+            "category": "promotion_readiness",
+            "severity": "info",
+            "message": "theme_validation: ready for production (confidence: 0.72)",
+            "confidence": 0.72
+          },
+          {
+            "category": "promotion_readiness",
+            "severity": "warning",
+            "message": "character_validation: needs more validation (confidence: 0.52)",
+            "confidence": 0.52
+          },
+          {
+            "category": "promotion_readiness",
+            "severity": "critical",
+            "message": "learning_outcome_validation: experimental phase, more data needed (confidence: 0.0)",
+            "confidence": 0.0
+          },
+          {
+            "category": "promotion_readiness",
+            "severity": "info",
+            "message": "validation_coverage: needs_more_validation (confidence: 0.41)",
+            "confidence": 0.41
+          },
+          {
+            "category": "promotion_readiness",
+            "severity": "info",
+            "message": "validation_confidence: needs_more_validation (confidence: 0.41)",
+            "confidence": 0.41
+          },
+          {
+            "category": "promotion_readiness",
+            "severity": "critical",
+            "message": "quality_comparison: experimental phase, more data needed (confidence: 0.0)",
+            "confidence": 0.0
+          },
+          {
+            "category": "promotion_readiness",
+            "severity": "warning",
+            "message": "recommendation_engine: needs more validation (confidence: 0.58)",
+            "confidence": 0.58
+          },
+          {
+            "category": "promotion_readiness",
+            "severity": "critical",
+            "message": "promotion_readiness: experimental phase, more data needed (confidence: 0.38)",
+            "confidence": 0.38
+          },
+          {
+            "category": "shadow_impact",
+            "severity": "warning",
+            "message": "Theme Validation: moderate-impact with medium confidence (confidence: 0.72)",
+            "confidence": 0.72
+          },
+          {
+            "category": "shadow_impact",
+            "severity": "warning",
+            "message": "Character Validation: moderate-impact with medium confidence (confidence: 0.52)",
+            "confidence": 0.52
+          },
+          {
+            "category": "shadow_impact",
+            "severity": "critical",
+            "message": "Learning Outcome Validation: insufficient data or low confidence (confidence: 0.0)",
+            "confidence": 0.0
+          },
+          {
+            "category": "shadow_impact",
+            "severity": "info",
+            "message": "Validation Coverage: low impact",
+            "confidence": 0.41
+          },
+          {
+            "category": "shadow_impact",
+            "severity": "info",
+            "message": "Validation Confidence: low impact",
+            "confidence": 0.41
+          },
+          {
+            "category": "shadow_impact",
+            "severity": "critical",
+            "message": "Quality Comparison: insufficient data or low confidence (confidence: 0.0)",
+            "confidence": 0.0
+          },
+          {
+            "category": "shadow_impact",
+            "severity": "warning",
+            "message": "Recommendation Engine: moderate-impact with medium confidence (confidence: 0.58)",
+            "confidence": 0.58
+          },
+          {
+            "category": "shadow_impact",
+            "severity": "info",
+            "message": "Promotion Readiness: low impact",
+            "confidence": 0.38
+          },
+          {
+            "category": "recommendations",
+            "severity": "info",
+            "message": "Theme validation: 1 items ready to strengthen",
+            "confidence": 0.5
+          },
+          {
+            "category": "recommendations",
+            "severity": "info",
+            "message": "Character validation: 1 items ready to strengthen",
+            "confidence": 1.0
+          },
+          {
+            "category": "recommendations",
+            "severity": "warning",
+            "message": "Learning outcome validation: 1 items need review",
+            "confidence": 1.0
+          },
+          {
+            "category": "rollout_plan",
+            "severity": "info",
+            "message": "Rollout plan: 1 components ready for pilot",
+            "confidence": 0.75
+          },
+          {
+            "category": "rollout_plan",
+            "severity": "warning",
+            "message": "Rollout plan: 1 components need validation expansion",
+            "confidence": 0.65
+          },
+          {
+            "category": "rollout_plan",
+            "severity": "critical",
+            "message": "Rollout plan: 1 components on hold pending improvements",
+            "confidence": 0.33
+          },
+          {
+            "category": "overall_sentiment",
+            "severity": "warning",
+            "message": "Overall narrative readiness: Mixed signals - human review recommended",
+            "confidence": 0.58
+          }
+        ],
+        "diagnostics": {
+          "audit_finding_count": 23,
+          "audit_info_count": 9,
+          "audit_warning_count": 8,
+          "audit_critical_count": 6,
+          "audit_confidence": 0.47,
+          "source": "runtime_v7_shadow_audit"
+        }
+      }
+    },
+    {
+      "title": "Büyülü Yastıklar",
+      "checks": {
+        "equal_without_shadow": true,
+        "shadow_audit_only_under_narrative": true,
+        "production_payload_unchanged": true,
+        "deterministic": true,
+        "book_specific_heuristic": false
+      },
+      "summary": {
+        "component_count": 16,
+        "ready_component_count": 1,
+        "high_impact_component_count": 0,
+        "recommendation_count": 4,
+        "rollout_step_count": 3
+      },
+      "summary_ok": true,
+      "findings_count": 23,
+      "findings_valid": true,
+      "diagnostics": {
+        "audit_finding_count": 23,
+        "audit_info_count": 9,
+        "audit_warning_count": 8,
+        "audit_critical_count": 6,
+        "audit_confidence": 0.47,
+        "source": "runtime_v7_shadow_audit"
+      },
+      "diagnostics_ok": true,
+      "shadow_audit": {
+        "summary": {
+          "component_count": 16,
+          "ready_component_count": 1,
+          "high_impact_component_count": 0,
+          "recommendation_count": 4,
+          "rollout_step_count": 3
+        },
+        "findings": [
+          {
+            "category": "promotion_readiness",
+            "severity": "info",
+            "message": "theme_validation: ready for production (confidence: 0.72)",
+            "confidence": 0.72
+          },
+          {
+            "category": "promotion_readiness",
+            "severity": "warning",
+            "message": "character_validation: needs more validation (confidence: 0.52)",
+            "confidence": 0.52
+          },
+          {
+            "category": "promotion_readiness",
+            "severity": "critical",
+            "message": "learning_outcome_validation: experimental phase, more data needed (confidence: 0.0)",
+            "confidence": 0.0
+          },
+          {
+            "category": "promotion_readiness",
+            "severity": "info",
+            "message": "validation_coverage: needs_more_validation (confidence: 0.41)",
+            "confidence": 0.41
+          },
+          {
+            "category": "promotion_readiness",
+            "severity": "info",
+            "message": "validation_confidence: needs_more_validation (confidence: 0.41)",
+            "confidence": 0.41
+          },
+          {
+            "category": "promotion_readiness",
+            "severity": "critical",
+            "message": "quality_comparison: experimental phase, more data needed (confidence: 0.0)",
+            "confidence": 0.0
+          },
+          {
+            "category": "promotion_readiness",
+            "severity": "warning",
+            "message": "recommendation_engine: needs more validation (confidence: 0.58)",
+            "confidence": 0.58
+          },
+          {
+            "category": "promotion_readiness",
+            "severity": "critical",
+            "message": "promotion_readiness: experimental phase, more data needed (confidence: 0.38)",
+            "confidence": 0.38
+          },
+          {
+            "category": "shadow_impact",
+            "severity": "warning",
+            "message": "Theme Validation: moderate-impact with medium confidence (confidence: 0.72)",
+            "confidence": 0.72
+          },
+          {
+            "category": "shadow_impact",
+            "severity": "warning",
+            "message": "Character Validation: moderate-impact with medium confidence (confidence: 0.52)",
+            "confidence": 0.52
+          },
+          {
+            "category": "shadow_impact",
+            "severity": "critical",
+            "message": "Learning Outcome Validation: insufficient data or low confidence (confidence: 0.0)",
+            "confidence": 0.0
+          },
+          {
+            "category": "shadow_impact",
+            "severity": "info",
+            "message": "Validation Coverage: low impact",
+            "confidence": 0.41
+          },
+          {
+            "category": "shadow_impact",
+            "severity": "info",
+            "message": "Validation Confidence: low impact",
+            "confidence": 0.41
+          },
+          {
+            "category": "shadow_impact",
+            "severity": "critical",
+            "message": "Quality Comparison: insufficient data or low confidence (confidence: 0.0)",
+            "confidence": 0.0
+          },
+          {
+            "category": "shadow_impact",
+            "severity": "warning",
+            "message": "Recommendation Engine: moderate-impact with medium confidence (confidence: 0.58)",
+            "confidence": 0.58
+          },
+          {
+            "category": "shadow_impact",
+            "severity": "info",
+            "message": "Promotion Readiness: low impact",
+            "confidence": 0.38
+          },
+          {
+            "category": "recommendations",
+            "severity": "info",
+            "message": "Theme validation: 1 items ready to strengthen",
+            "confidence": 0.5
+          },
+          {
+            "category": "recommendations",
+            "severity": "info",
+            "message": "Character validation: 1 items ready to strengthen",
+            "confidence": 1.0
+          },
+          {
+            "category": "recommendations",
+            "severity": "warning",
+            "message": "Learning outcome validation: 1 items need review",
+            "confidence": 1.0
+          },
+          {
+            "category": "rollout_plan",
+            "severity": "info",
+            "message": "Rollout plan: 1 components ready for pilot",
+            "confidence": 0.75
+          },
+          {
+            "category": "rollout_plan",
+            "severity": "warning",
+            "message": "Rollout plan: 1 components need validation expansion",
+            "confidence": 0.65
+          },
+          {
+            "category": "rollout_plan",
+            "severity": "critical",
+            "message": "Rollout plan: 1 components on hold pending improvements",
+            "confidence": 0.33
+          },
+          {
+            "category": "overall_sentiment",
+            "severity": "warning",
+            "message": "Overall narrative readiness: Mixed signals - human review recommended",
+            "confidence": 0.58
+          }
+        ],
+        "diagnostics": {
+          "audit_finding_count": 23,
+          "audit_info_count": 9,
+          "audit_warning_count": 8,
+          "audit_critical_count": 6,
+          "audit_confidence": 0.47,
+          "source": "runtime_v7_shadow_audit"
+        }
+      }
+    },
+    {
+      "title": "Benim Adım Kristof Kolomb",
+      "checks": {
+        "equal_without_shadow": true,
+        "shadow_audit_only_under_narrative": true,
+        "production_payload_unchanged": true,
+        "deterministic": true,
+        "book_specific_heuristic": false
+      },
+      "summary": {
+        "component_count": 16,
+        "ready_component_count": 1,
+        "high_impact_component_count": 0,
+        "recommendation_count": 4,
+        "rollout_step_count": 3
+      },
+      "summary_ok": true,
+      "findings_count": 23,
+      "findings_valid": true,
+      "diagnostics": {
+        "audit_finding_count": 23,
+        "audit_info_count": 9,
+        "audit_warning_count": 8,
+        "audit_critical_count": 6,
+        "audit_confidence": 0.47,
+        "source": "runtime_v7_shadow_audit"
+      },
+      "diagnostics_ok": true,
+      "shadow_audit": {
+        "summary": {
+          "component_count": 16,
+          "ready_component_count": 1,
+          "high_impact_component_count": 0,
+          "recommendation_count": 4,
+          "rollout_step_count": 3
+        },
+        "findings": [
+          {
+            "category": "promotion_readiness",
+            "severity": "info",
+            "message": "theme_validation: ready for production (confidence: 0.72)",
+            "confidence": 0.72
+          },
+          {
+            "category": "promotion_readiness",
+            "severity": "warning",
+            "message": "character_validation: needs more validation (confidence: 0.52)",
+            "confidence": 0.52
+          },
+          {
+            "category": "promotion_readiness",
+            "severity": "critical",
+            "message": "learning_outcome_validation: experimental phase, more data needed (confidence: 0.0)",
+            "confidence": 0.0
+          },
+          {
+            "category": "promotion_readiness",
+            "severity": "info",
+            "message": "validation_coverage: needs_more_validation (confidence: 0.41)",
+            "confidence": 0.41
+          },
+          {
+            "category": "promotion_readiness",
+            "severity": "info",
+            "message": "validation_confidence: needs_more_validation (confidence: 0.41)",
+            "confidence": 0.41
+          },
+          {
+            "category": "promotion_readiness",
+            "severity": "critical",
+            "message": "quality_comparison: experimental phase, more data needed (confidence: 0.0)",
+            "confidence": 0.0
+          },
+          {
+            "category": "promotion_readiness",
+            "severity": "warning",
+            "message": "recommendation_engine: needs more validation (confidence: 0.58)",
+            "confidence": 0.58
+          },
+          {
+            "category": "promotion_readiness",
+            "severity": "critical",
+            "message": "promotion_readiness: experimental phase, more data needed (confidence: 0.38)",
+            "confidence": 0.38
+          },
+          {
+            "category": "shadow_impact",
+            "severity": "warning",
+            "message": "Theme Validation: moderate-impact with medium confidence (confidence: 0.72)",
+            "confidence": 0.72
+          },
+          {
+            "category": "shadow_impact",
+            "severity": "warning",
+            "message": "Character Validation: moderate-impact with medium confidence (confidence: 0.52)",
+            "confidence": 0.52
+          },
+          {
+            "category": "shadow_impact",
+            "severity": "critical",
+            "message": "Learning Outcome Validation: insufficient data or low confidence (confidence: 0.0)",
+            "confidence": 0.0
+          },
+          {
+            "category": "shadow_impact",
+            "severity": "info",
+            "message": "Validation Coverage: low impact",
+            "confidence": 0.41
+          },
+          {
+            "category": "shadow_impact",
+            "severity": "info",
+            "message": "Validation Confidence: low impact",
+            "confidence": 0.41
+          },
+          {
+            "category": "shadow_impact",
+            "severity": "critical",
+            "message": "Quality Comparison: insufficient data or low confidence (confidence: 0.0)",
+            "confidence": 0.0
+          },
+          {
+            "category": "shadow_impact",
+            "severity": "warning",
+            "message": "Recommendation Engine: moderate-impact with medium confidence (confidence: 0.58)",
+            "confidence": 0.58
+          },
+          {
+            "category": "shadow_impact",
+            "severity": "info",
+            "message": "Promotion Readiness: low impact",
+            "confidence": 0.38
+          },
+          {
+            "category": "recommendations",
+            "severity": "info",
+            "message": "Theme validation: 1 items ready to strengthen",
+            "confidence": 0.5
+          },
+          {
+            "category": "recommendations",
+            "severity": "info",
+            "message": "Character validation: 1 items ready to strengthen",
+            "confidence": 1.0
+          },
+          {
+            "category": "recommendations",
+            "severity": "warning",
+            "message": "Learning outcome validation: 1 items need review",
+            "confidence": 1.0
+          },
+          {
+            "category": "rollout_plan",
+            "severity": "info",
+            "message": "Rollout plan: 1 components ready for pilot",
+            "confidence": 0.75
+          },
+          {
+            "category": "rollout_plan",
+            "severity": "warning",
+            "message": "Rollout plan: 1 components need validation expansion",
+            "confidence": 0.65
+          },
+          {
+            "category": "rollout_plan",
+            "severity": "critical",
+            "message": "Rollout plan: 1 components on hold pending improvements",
+            "confidence": 0.33
+          },
+          {
+            "category": "overall_sentiment",
+            "severity": "warning",
+            "message": "Overall narrative readiness: Mixed signals - human review recommended",
+            "confidence": 0.58
+          }
+        ],
+        "diagnostics": {
+          "audit_finding_count": 23,
+          "audit_info_count": 9,
+          "audit_warning_count": 8,
+          "audit_critical_count": 6,
+          "audit_confidence": 0.47,
+          "source": "runtime_v7_shadow_audit"
+        }
+      }
+    }
+  ],
+  "all_ok": true
+}

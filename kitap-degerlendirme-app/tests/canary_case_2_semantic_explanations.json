@@ -1,0 +1,24 @@
+[
+  {
+    "pattern_id": "theme_courage",
+    "reasoning": "Pattern selected due to evidence from narrative.summary source with 1 supporting evidence items and moderate confidence threshold",
+    "supporting_signals": [
+      "calibrated_confidence=0.51",
+      "evidence_count=1",
+      "raw_confidence=0.45",
+      "source=narrative.summary",
+      "status=candidate"
+    ]
+  },
+  {
+    "pattern_id": "theme_resilience",
+    "reasoning": "Pattern selected due to evidence from semantic.theme_clusters source with 3 supporting evidence items and strong confidence threshold",
+    "supporting_signals": [
+      "calibrated_confidence=0.75",
+      "evidence_count=3",
+      "raw_confidence=0.72",
+      "source=semantic.theme_clusters",
+      "status=active"
+    ]
+  }
+]

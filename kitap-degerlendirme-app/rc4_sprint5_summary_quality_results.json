@@ -1,0 +1,99 @@
+{
+  "total_cases": 3,
+  "passed_count": 1,
+  "failed_count": 2,
+  "per_case_results": [
+    {
+      "case_id": "tavsan-pati-weak",
+      "description": "Tavşan Pati mevcut zayıf özet",
+      "summary_text": "The book says the rabbit named Pati loses his way. For example, he meets a strange fox. According to the text, he learns something and the end is okay.",
+      "summary_ir": {
+        "central_entities": [
+          "Tavşan Pati"
+        ],
+        "themes": [
+          "arkadaşlık",
+          "cesaret"
+        ]
+      },
+      "evaluation": {
+        "summary_quality_score": 0.0,
+        "coverage": 0.0,
+        "coherence": 0.35,
+        "character_presence": 0.0,
+        "conflict_present": false,
+        "resolution_present": true,
+        "main_message_present": false,
+        "evidence_concatenation_detected": true,
+        "repetition_score": 0.0,
+        "concreteness_score": 0.0,
+        "information_density": 0.962,
+        "passed": false
+      }
+    },
+    {
+      "case_id": "buyulu-yastiklar-weak",
+      "description": "Büyülü Yastıklar mevcut zayıf/tutarsız özet",
+      "summary_text": "This book is about magic pillows and a family. It has a strange lesson about dreams. In the end, something changes but it is not clear why.",
+      "summary_ir": {
+        "central_entities": [
+          "Yastık",
+          "Gizem"
+        ],
+        "themes": [
+          "hayal gücü",
+          "aile"
+        ]
+      },
+      "evaluation": {
+        "summary_quality_score": 0.0,
+        "coverage": 0.0,
+        "coherence": 0.5,
+        "character_presence": 0.0,
+        "conflict_present": false,
+        "resolution_present": true,
+        "main_message_present": false,
+        "evidence_concatenation_detected": false,
+        "repetition_score": 0.0,
+        "concreteness_score": 0.023,
+        "information_density": 0.952,
+        "passed": false
+      }
+    },
+    {
+      "case_id": "good-narrative-summary",
+      "description": "İyi narrative summary örneği",
+      "summary_text": "This story is about a girl named Elif who lives in a village surrounded by a forest. She faces a challenge when a storm destroys her home, and she must find a safe place for her family. At the end, the community works together to rebuild the house, showing the value of courage and friendship.",
+      "summary_ir": {
+        "central_entities": [
+          "Elif"
+        ],
+        "themes": [
+          "cesaret",
+          "arkadaşlık"
+        ]
+      },
+      "evaluation": {
+        "summary_quality_score": 79.9,
+        "coverage": 1.0,
+        "coherence": 0.417,
+        "character_presence": 1.0,
+        "conflict_present": true,
+        "resolution_present": true,
+        "main_message_present": true,
+        "evidence_concatenation_detected": false,
+        "repetition_score": 0.0,
+        "concreteness_score": 0.085,
+        "information_density": 0.9,
+        "passed": true
+      }
+    }
+  ],
+  "average_summary_quality_score": 26.633,
+  "average_coherence": 0.422,
+  "average_concreteness": 0.036,
+  "evidence_concatenation_detected_count": 1,
+  "deterministic": true,
+  "production_output_changed": false,
+  "runtime_pipeline_bound": false
+}

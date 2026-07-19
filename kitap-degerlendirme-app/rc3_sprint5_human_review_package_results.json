@@ -1,0 +1,46 @@
+{
+  "sprint": "RC3 Sprint 5B — Human Review Package Artifact Producer",
+  "total_review_items": 4,
+  "approve_candidate_count": 1,
+  "review_human_count": 3,
+  "reject_count": 0,
+  "package_schema_valid": true,
+  "deterministic": true,
+  "production_output_changed": false,
+  "equal_without_shadow": true,
+  "first_3_review_items": [
+    {
+      "pattern_id": "theme_adventure",
+      "acceptance_decision": "accepted",
+      "decision_score": 1.0,
+      "confidence_summary": "status=active; confidence=0.59",
+      "evidence_summary": "evidence_count=2; rank=2; rank_score=4.6",
+      "explanation_summary": "reasoning=Pattern selected due to evidence from summary_ir.themes source with 2 supporting evidence items and sufficient confidence threshold; supporting_signals=calibrated_confidence=0.59,evidence_count=2,raw_confidence=0.55,source=summary_ir.themes,status=active",
+      "delta_summary": "coverage_delta=0.5714285714285714; overlap_score=0.5",
+      "review_recommendation": "approve_candidate",
+      "audit_reference": "pattern:theme_adventure;decision:accepted"
+    },
+    {
+      "pattern_id": "theme_courage",
+      "acceptance_decision": "review",
+      "decision_score": 0.5,
+      "confidence_summary": "status=candidate; confidence=0.51",
+      "evidence_summary": "evidence_count=1; rank=4; rank_score=3.1",
+      "explanation_summary": "reasoning=Pattern marked as candidate based on 1 evidence item(s) from narrative.summary source, below active threshold; supporting_signals=calibrated_confidence=0.51,evidence_count=1,raw_confidence=0.45,source=narrative.summary,status=candidate",
+      "delta_summary": "coverage_delta=0.5714285714285714; overlap_score=0.5",
+      "review_recommendation": "review_human",
+      "audit_reference": "pattern:theme_courage;decision:review"
+    },
+    {
+      "pattern_id": "theme_friendship",
+      "acceptance_decision": "review",
+      "decision_score": 0.0,
+      "confidence_summary": "status=active; confidence=0.68",
+      "evidence_summary": "evidence_count=1; rank=3; rank_score=4.3",
+      "explanation_summary": "reasoning=Pattern selected due to evidence from semantic.theme_clusters source with 1 supporting evidence items and sufficient confidence threshold; supporting_signals=calibrated_confidence=0.68,evidence_count=1,raw_confidence=0.65,source=semantic.theme_clusters,status=active",
+      "delta_summary": "coverage_delta=0.5714285714285714; overlap_score=0.5",
+      "review_recommendation": "review_human",
+      "audit_reference": "pattern:theme_friendship;decision:review"
+    }
+  ]
+}

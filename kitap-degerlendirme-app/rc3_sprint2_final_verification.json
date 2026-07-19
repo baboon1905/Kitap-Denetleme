@@ -1,0 +1,17 @@
+{
+  "sprint": "RC3 Sprint 2 — Semantic Evidence Ranking",
+  "plan_created": true,
+  "ranker_tests_passed": 5,
+  "ranking_result_artifact_created": true,
+  "ranking_benchmark_artifact_created": true,
+  "total_benchmark_cases": 3,
+  "total_ranked_evidence": 7,
+  "avg_rank_score": 4.6333,
+  "deterministic_all": true,
+  "production_output_changed_any": false,
+  "equal_without_shadow_all": true,
+  "confidence_modified": false,
+  "pattern_generated": false,
+  "activation_generated": false,
+  "runtime_pipeline_bound": false
+}

@@ -1,0 +1,11 @@
+{
+  "book_title": "Canary Case 3",
+  "keywords": ["umut", "dostluk"],
+  "pattern_activations": [
+    {
+      "pattern_id": "theme_friendship",
+      "matched_keywords": ["dostluk"],
+      "source": "semantic.theme_clusters"
+    }
+  ]
+}

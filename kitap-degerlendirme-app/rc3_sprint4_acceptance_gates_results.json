@@ -1,0 +1,83 @@
+{
+  "sprint": "RC3 Sprint 4B — Acceptance Gate Artifact Producer",
+  "timestamp": "2026-07-07T00:00:00Z",
+  "total_decisions": 4,
+  "accepted_count": 1,
+  "review_count": 3,
+  "rejected_count": 0,
+  "decision_schema_valid": true,
+  "deterministic": true,
+  "production_output_changed": false,
+  "equal_without_shadow": true,
+  "first_3_decisions": [
+    {
+      "pattern_id": "theme_adventure",
+      "decision": "review",
+      "decision_score": 0.5,
+      "decision_reasons": [
+        "partial_support",
+        "requires_manual_review"
+      ],
+      "blocking_factors": [
+        "insufficient_rank_or_status"
+      ],
+      "supporting_factors": [
+        "moderate_confidence",
+        "supporting_explanation"
+      ],
+      "decision_trace": [
+        "confidence=0.59",
+        "rank_score=4.6",
+        "has_explanation=True",
+        "status=active",
+        "delta_support=0.5714285714285714"
+      ]
+    },
+    {
+      "pattern_id": "theme_courage",
+      "decision": "review",
+      "decision_score": 0.5,
+      "decision_reasons": [
+        "partial_support",
+        "requires_manual_review"
+      ],
+      "blocking_factors": [
+        "insufficient_rank_or_status"
+      ],
+      "supporting_factors": [
+        "moderate_confidence",
+        "supporting_explanation"
+      ],
+      "decision_trace": [
+        "confidence=0.51",
+        "rank_score=3.1",
+        "has_explanation=True",
+        "status=candidate",
+        "delta_support=0.5714285714285714"
+      ]
+    },
+    {
+      "pattern_id": "theme_friendship",
+      "decision": "review",
+      "decision_score": 0.5,
+      "decision_reasons": [
+        "partial_support",
+        "requires_manual_review"
+      ],
+      "blocking_factors": [
+        "insufficient_rank_or_status"
+      ],
+      "supporting_factors": [
+        "moderate_confidence",
+        "supporting_explanation"
+      ],
+      "decision_trace": [
+        "confidence=0.68",
+        "rank_score=4.3",
+        "has_explanation=True",
+        "status=active",
+        "delta_support=0.5714285714285714"
+      ]
+    }
+  ]
+}

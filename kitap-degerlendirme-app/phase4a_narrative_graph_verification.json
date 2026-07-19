@@ -1,0 +1,1615 @@
+{
+  "books": [
+    {
+      "title": "Tavşan Pati",
+      "false_payload_keys": [
+        "_17_word_fallback_prevented",
+        "_canonical_event_count",
+        "_entity_blacklist_applied",
+        "_entity_blacklist_filtered_count",
+        "_entity_blacklist_filtered_names",
+        "_event_concreteness_applied",
+        "_fallback_prevention_reason",
+        "_generic_event_count",
+        "_generic_event_ratio",
+        "_hash_consistency_pass",
+        "_pipeline_enforcer_stage",
+        "_pipeline_enforcer_version",
+        "_pipeline_runtime_enforcer",
+        "_runtime_v7_shadow",
+        "_total_event_count",
+        "alt_temalar",
+        "ana_karakterler",
+        "ana_tema",
+        "ana_tema_guven_skoru",
+        "ana_tema_kanitlari",
+        "ana_tema_tema_gucu",
+        "analiz_tarihi",
+        "analiz_tipi",
+        "analysis_timestamp",
+        "anlatici",
+        "anlatici_adi",
+        "anlatici_guven_skoru",
+        "anlatici_tespit_uyarisi",
+        "anlatim_kalite_degerlendirmesi",
+        "anlatim_turu",
+        "baskin_tema_ozeti",
+        "birinci_sahis_anlatim_skoru",
+        "birinci_sahis_gosterge_sayisi",
+        "birinci_sahis_yogunlugu",
+        "book_id",
+        "book_subtype",
+        "book_summary",
+        "book_type",
+        "bridge_sentence_ratio",
+        "cache_key",
+        "canonical_entity_store",
+        "canonical_event_count",
+        "canonical_summary",
+        "central_entity_resolver_diagnostics",
+        "central_entity_resolver_version",
+        "checked_summary_hash",
+        "deger_analizi",
+        "degerler_egitimi",
+        "ders_ici_kullanim_onerileri",
+        "destekleyici_temalar",
+        "discarded_generic_events",
+        "dosya_adi",
+        "dosya_yolu",
+        "entity_confidence",
+        "entity_store_graph",
+        "event_confidence",
+        "event_coverage",
+        "event_graph",
+        "evidence_coverage",
+        "file_hash",
+        "generic_event_ratio",
+        "guclu_temalar",
+        "hedef_yas_grubu",
+        "ilk_uc_baskin_tema",
+        "kanit_kalitesi_genel_aciklamasi",
+        "kanit_temelli",
+        "kanıt_cumleleri",
+        "kanıt_kuralı",
+        "kazanim_analizi",
+        "kitap_adi",
+        "kitap_ozeti",
+        "low_confidence_event_count",
+        "maarif_profili_eslesmeleri",
+        "merkezi_kalite_skorlari",
+        "narrative_plan",
+        "narrative_type",
+        "narrative_type_confidence",
+        "narrative_type_signals",
+        "ogrenci_kazanimlari",
+        "ogretmen_notu",
+        "olay_akisi",
+        "ozet",
+        "ozet_guven_skoru",
+        "ozet_kalite_hatalari",
+        "ozet_kalite_kontrol",
+        "ozet_olay_kumeleri",
+        "ozet_somutluk_skoru",
+        "ozet_turu",
+        "ozet_uzunlugu",
+        "ozet_yasak_icerik_orani",
+        "ozetin_dayandigi_sayfa_sayisi",
+        "payload_id",
+        "pdf_summary_hash",
+        "previous_payload_id",
+        "quote_ratio",
+        "rapor_build_id",
+        "rapor_guven_aciklamasi",
+        "rapor_guven_skoru",
+        "raw_generic_event_ratio",
+        "rendered_summary_hash",
+        "repeated_event_ratio",
+        "report_blocking_reasons",
+        "risk_skoru",
+        "scene_graph",
+        "sections",
+        "story_graph",
+        "summary",
+        "summary_confidence",
+        "summary_consistency_audit",
+        "summary_strategy",
+        "teacher_summary",
+        "teacher_summary_hash",
+        "tema_analizi",
+        "tema_cikarim_gerekcesi",
+        "temel_mesajlar",
+        "theme_confidence",
+        "ui_summary_hash",
+        "yazar",
+        "zayif_eslesmeler"
+      ],
+      "true_payload_keys": [
+        "_17_word_fallback_prevented",
+        "_canonical_event_count",
+        "_entity_blacklist_applied",
+        "_entity_blacklist_filtered_count",
+        "_entity_blacklist_filtered_names",
+        "_event_concreteness_applied",
+        "_fallback_prevention_reason",
+        "_generic_event_count",
+        "_generic_event_ratio",
+        "_hash_consistency_pass",
+        "_pipeline_enforcer_stage",
+        "_pipeline_enforcer_version",
+        "_pipeline_runtime_enforcer",
+        "_runtime_v7_shadow",
+        "_total_event_count",
+        "alt_temalar",
+        "ana_karakterler",
+        "ana_tema",
+        "ana_tema_guven_skoru",
+        "ana_tema_kanitlari",
+        "ana_tema_tema_gucu",
+        "analiz_tarihi",
+        "analiz_tipi",
+        "analysis_timestamp",
+        "anlatici",
+        "anlatici_adi",
+        "anlatici_guven_skoru",
+        "anlatici_tespit_uyarisi",
+        "anlatim_kalite_degerlendirmesi",
+        "anlatim_turu",
+        "baskin_tema_ozeti",
+        "birinci_sahis_anlatim_skoru",
+        "birinci_sahis_gosterge_sayisi",
+        "birinci_sahis_yogunlugu",
+        "book_id",
+        "book_subtype",
+        "book_summary",
+        "book_type",
+        "bridge_sentence_ratio",
+        "cache_key",
+        "canonical_entity_store",
+        "canonical_event_count",
+        "canonical_summary",
+        "central_entity_resolver_diagnostics",
+        "central_entity_resolver_version",
+        "checked_summary_hash",
+        "deger_analizi",
+        "degerler_egitimi",
+        "ders_ici_kullanim_onerileri",
+        "destekleyici_temalar",
+        "discarded_generic_events",
+        "dosya_adi",
+        "dosya_yolu",
+        "entity_confidence",
+        "entity_store_graph",
+        "event_confidence",
+        "event_coverage",
+        "event_graph",
+        "evidence_coverage",
+        "file_hash",
+        "generic_event_ratio",
+        "guclu_temalar",
+        "hedef_yas_grubu",
+        "ilk_uc_baskin_tema",
+        "kanit_kalitesi_genel_aciklamasi",
+        "kanit_temelli",
+        "kanıt_cumleleri",
+        "kanıt_kuralı",
+        "kazanim_analizi",
+        "kitap_adi",
+        "kitap_ozeti",
+        "low_confidence_event_count",
+        "maarif_profili_eslesmeleri",
+        "merkezi_kalite_skorlari",
+        "narrative_plan",
+        "narrative_type",
+        "narrative_type_confidence",
+        "narrative_type_signals",
+        "ogrenci_kazanimlari",
+        "ogretmen_notu",
+        "olay_akisi",
+        "ozet",
+        "ozet_guven_skoru",
+        "ozet_kalite_hatalari",
+        "ozet_kalite_kontrol",
+        "ozet_olay_kumeleri",
+        "ozet_somutluk_skoru",
+        "ozet_turu",
+        "ozet_uzunlugu",
+        "ozet_yasak_icerik_orani",
+        "ozetin_dayandigi_sayfa_sayisi",
+        "payload_id",
+        "pdf_summary_hash",
+        "previous_payload_id",
+        "quote_ratio",
+        "rapor_build_id",
+        "rapor_guven_aciklamasi",
+        "rapor_guven_skoru",
+        "raw_generic_event_ratio",
+        "rendered_summary_hash",
+        "repeated_event_ratio",
+        "report_blocking_reasons",
+        "risk_skoru",
+        "scene_graph",
+        "sections",
+        "story_graph",
+        "summary",
+        "summary_confidence",
+        "summary_consistency_audit",
+        "summary_strategy",
+        "teacher_summary",
+        "teacher_summary_hash",
+        "tema_analizi",
+        "tema_cikarim_gerekcesi",
+        "temel_mesajlar",
+        "theme_confidence",
+        "ui_summary_hash",
+        "yazar",
+        "zayif_eslesmeler"
+      ],
+      "compare": {
+        "diff_paths": [],
+        "equal_without_shadow": true
+      },
+      "narrative_present": true,
+      "narrative_checks": {
+        "has_event_graph_enriched": true,
+        "has_narrative_graph": true,
+        "has_story_arc": true,
+        "has_diagnostics": true,
+        "diagnostics_keys": [
+          "disconnected_event_count",
+          "generic_event_ratio",
+          "narrative_confidence",
+          "placeholder_event_ratio",
+          "source",
+          "story_arc_type"
+        ]
+      },
+      "true_shadow": {
+        "summary_ir": {
+          "version": "runtime_v7_phase2",
+          "schema_version": "v1",
+          "book_id": "0ee8dfa9f7df03b6",
+          "title": "Belirsiz",
+          "central_entities": [
+            "Pati",
+            "Eren",
+            "Ali"
+          ],
+          "entity_graph_summary": [
+            {
+              "name": "Pati",
+              "type": "PERSON",
+              "mention_count": 0,
+              "source_pages": [],
+              "relation_score": 0.0,
+              "central": true,
+              "diagnostics": {
+                "blacklist_reason": ""
+              }
+            },
+            {
+              "name": "Eren",
+              "type": "PERSON",
+              "mention_count": 0,
+              "source_pages": [],
+              "relation_score": 0.0,
+              "central": true,
+              "diagnostics": {
+                "blacklist_reason": ""
+              }
+            },
+            {
+              "name": "Ali",
+              "type": "PERSON",
+              "mention_count": 0,
+              "source_pages": [],
+              "relation_score": 0.0,
+              "central": true,
+              "diagnostics": {
+                "blacklist_reason": ""
+              }
+            }
+          ],
+          "narrative_graph": {},
+          "story_arc": {
+            "narrative_type": "animal_responsibility_story",
+            "stages": [
+              "hayvanla_karsilasma",
+              "sahiplenme_bakim",
+              "sorun",
+              "sorumluluk_farkindaligi",
+              "cozum"
+            ],
+            "strategy_hint": "event_chronology"
+          },
+          "timeline": [],
+          "themes": [
+            "hayvan sevgisi",
+            "vicdan"
+          ],
+          "learning_outcomes": [],
+          "confidence": {
+            "summary": 0.626,
+            "theme": 0.39,
+            "event": 0.45,
+            "entity": 0.805
+          },
+          "diagnostics": {
+            "source": "runtime_v7_adapter_phase2",
+            "built_at": "2026-07-03T17:04:45"
+          },
+          "source_metadata": {
+            "book_id": "0ee8dfa9f7df03b6",
+            "title": "Belirsiz"
+          }
+        },
+        "entity_graph": {
+          "entities": [
+            {
+              "name": "Pati",
+              "type": "PERSON",
+              "mention_count": 0,
+              "source_pages": [],
+              "relation_score": 0.0,
+              "central": true,
+              "diagnostics": {
+                "blacklist_reason": ""
+              }
+            },
+            {
+              "name": "Eren",
+              "type": "PERSON",
+              "mention_count": 0,
+              "source_pages": [],
+              "relation_score": 0.0,
+              "central": true,
+              "diagnostics": {
+                "blacklist_reason": ""
+              }
+            },
+            {
+              "name": "Ali",
+              "type": "PERSON",
+              "mention_count": 0,
+              "source_pages": [],
+              "relation_score": 0.0,
+              "central": true,
+              "diagnostics": {
+                "blacklist_reason": ""
+              }
+            }
+          ],
+          "diagnostics": {
+            "source": "runtime_v7_adapter_phase2"
+          }
+        },
+        "event_graph": {
+          "nodes": [],
+          "edges": [],
+          "diagnostics": {
+            "source": "runtime_v7_adapter_phase2"
+          }
+        },
+        "narrative_plan": {
+          "narrative_type": "animal_responsibility_story",
+          "stages": [
+            "hayvanla_karsilasma",
+            "sahiplenme_bakim",
+            "sorun",
+            "sorumluluk_farkindaligi",
+            "cozum"
+          ],
+          "strategy_hint": "medium_safe_summary",
+          "story_arc_type": "",
+          "confidence": {
+            "summary": 0.626,
+            "event": 0.45,
+            "entity": 0.805
+          },
+          "diagnostics": {
+            "source": "runtime_v7_adapter_phase2"
+          }
+        },
+        "quality_contract": {
+          "status": "PASS",
+          "issues": [],
+          "risk_categories": [],
+          "diagnostics": {
+            "source": "runtime_v7_adapter_phase2",
+            "built_at": "2026-07-03T17:04:45"
+          },
+          "checked_at": "2026-07-03T17:04:45",
+          "schema_version": "v1"
+        },
+        "comparison": {
+          "source": "runtime_v7_adapter_phase2",
+          "summary_ir_hash": "b4dcbf3ffdd0498e7214c847054b7a7d27e34ce00b646b4b7faaa330ae4945fd",
+          "existing_canonical_summary_ir_hash": "",
+          "legacy_summary_text_hash": "17062e8490957472550bc49200fd906e07f121c6f1f292153f817cb90d79c376",
+          "summary_ir_matches_existing_canonical": false,
+          "legacy_summary_word_count": 169
+        },
+        "narrative": {
+          "event_graph_enriched": {
+            "nodes": [],
+            "edges": [],
+            "diagnostics": {
+              "actor_references": {},
+              "temporal_order": [],
+              "causal_links": [],
+              "confidence": {
+                "score": 1.0,
+                "generic_ratio": 0.0,
+                "placeholder_ratio": 0.0
+              },
+              "source": "runtime_v7_event_graph_enricher"
+            }
+          },
+          "narrative_graph": {
+            "nodes": [],
+            "conflict_links": [],
+            "resolution_links": [],
+            "dependency": {},
+            "transitions": [],
+            "diagnostics": {
+              "source": "runtime_v7_narrative_graph_builder"
+            }
+          },
+          "story_arc": {
+            "type": "linear",
+            "stages": {},
+            "source": "runtime_v7_story_arc_planner"
+          },
+          "diagnostics": {
+            "story_arc_type": "linear",
+            "generic_event_ratio": 0.0,
+            "placeholder_event_ratio": 0.0,
+            "disconnected_event_count": 0,
+            "narrative_confidence": 1.0,
+            "source": "runtime_v7_narrative_diagnostics"
+          }
+        }
+      }
+    },
+    {
+      "title": "Büyülü Yastıklar",
+      "false_payload_keys": [
+        "_17_word_fallback_prevented",
+        "_canonical_event_count",
+        "_entity_blacklist_applied",
+        "_entity_blacklist_filtered_count",
+        "_entity_blacklist_filtered_names",
+        "_event_concreteness_applied",
+        "_fallback_prevention_reason",
+        "_generic_event_count",
+        "_generic_event_ratio",
+        "_hash_consistency_pass",
+        "_pipeline_enforcer_stage",
+        "_pipeline_enforcer_version",
+        "_pipeline_runtime_enforcer",
+        "_runtime_v7_shadow",
+        "_total_event_count",
+        "alt_temalar",
+        "ana_karakterler",
+        "ana_tema",
+        "ana_tema_guven_skoru",
+        "ana_tema_kanitlari",
+        "ana_tema_tema_gucu",
+        "analiz_tarihi",
+        "analiz_tipi",
+        "analysis_timestamp",
+        "anlatici",
+        "anlatici_adi",
+        "anlatici_guven_skoru",
+        "anlatici_tespit_uyarisi",
+        "anlatim_kalite_degerlendirmesi",
+        "anlatim_turu",
+        "baskin_tema_ozeti",
+        "birinci_sahis_anlatim_skoru",
+        "birinci_sahis_gosterge_sayisi",
+        "birinci_sahis_yogunlugu",
+        "book_id",
+        "book_subtype",
+        "book_summary",
+        "book_type",
+        "bridge_sentence_ratio",
+        "cache_key",
+        "canonical_entity_store",
+        "canonical_event_count",
+        "canonical_summary",
+        "central_entity_resolver_diagnostics",
+        "central_entity_resolver_version",
+        "checked_summary_hash",
+        "deger_analizi",
+        "degerler_egitimi",
+        "ders_ici_kullanim_onerileri",
+        "destekleyici_temalar",
+        "discarded_generic_events",
+        "dosya_adi",
+        "dosya_yolu",
+        "entity_confidence",
+        "entity_store_graph",
+        "event_confidence",
+        "event_coverage",
+        "event_graph",
+        "evidence_coverage",
+        "file_hash",
+        "generic_event_ratio",
+        "guclu_temalar",
+        "hedef_yas_grubu",
+        "ilk_uc_baskin_tema",
+        "kanit_kalitesi_genel_aciklamasi",
+        "kanit_temelli",
+        "kanıt_cumleleri",
+        "kanıt_kuralı",
+        "kazanim_analizi",
+        "kitap_adi",
+        "kitap_ozeti",
+        "low_confidence_event_count",
+        "maarif_profili_eslesmeleri",
+        "merkezi_kalite_skorlari",
+        "narrative_plan",
+        "narrative_type",
+        "narrative_type_confidence",
+        "narrative_type_signals",
+        "ogrenci_kazanimlari",
+        "ogretmen_notu",
+        "olay_akisi",
+        "ozet",
+        "ozet_guven_skoru",
+        "ozet_kalite_hatalari",
+        "ozet_kalite_kontrol",
+        "ozet_olay_kumeleri",
+        "ozet_somutluk_skoru",
+        "ozet_turu",
+        "ozet_uzunlugu",
+        "ozet_yasak_icerik_orani",
+        "ozetin_dayandigi_sayfa_sayisi",
+        "payload_id",
+        "pdf_summary_hash",
+        "previous_payload_id",
+        "quote_ratio",
+        "rapor_build_id",
+        "rapor_guven_aciklamasi",
+        "rapor_guven_skoru",
+        "raw_generic_event_ratio",
+        "rendered_summary_hash",
+        "repeated_event_ratio",
+        "report_blocking_reasons",
+        "risk_skoru",
+        "scene_graph",
+        "sections",
+        "story_graph",
+        "summary",
+        "summary_confidence",
+        "summary_consistency_audit",
+        "summary_strategy",
+        "teacher_summary",
+        "teacher_summary_hash",
+        "tema_analizi",
+        "tema_cikarim_gerekcesi",
+        "temel_mesajlar",
+        "theme_confidence",
+        "ui_summary_hash",
+        "yazar",
+        "zayif_eslesmeler"
+      ],
+      "true_payload_keys": [
+        "_17_word_fallback_prevented",
+        "_canonical_event_count",
+        "_entity_blacklist_applied",
+        "_entity_blacklist_filtered_count",
+        "_entity_blacklist_filtered_names",
+        "_event_concreteness_applied",
+        "_fallback_prevention_reason",
+        "_generic_event_count",
+        "_generic_event_ratio",
+        "_hash_consistency_pass",
+        "_pipeline_enforcer_stage",
+        "_pipeline_enforcer_version",
+        "_pipeline_runtime_enforcer",
+        "_runtime_v7_shadow",
+        "_total_event_count",
+        "alt_temalar",
+        "ana_karakterler",
+        "ana_tema",
+        "ana_tema_guven_skoru",
+        "ana_tema_kanitlari",
+        "ana_tema_tema_gucu",
+        "analiz_tarihi",
+        "analiz_tipi",
+        "analysis_timestamp",
+        "anlatici",
+        "anlatici_adi",
+        "anlatici_guven_skoru",
+        "anlatici_tespit_uyarisi",
+        "anlatim_kalite_degerlendirmesi",
+        "anlatim_turu",
+        "baskin_tema_ozeti",
+        "birinci_sahis_anlatim_skoru",
+        "birinci_sahis_gosterge_sayisi",
+        "birinci_sahis_yogunlugu",
+        "book_id",
+        "book_subtype",
+        "book_summary",
+        "book_type",
+        "bridge_sentence_ratio",
+        "cache_key",
+        "canonical_entity_store",
+        "canonical_event_count",
+        "canonical_summary",
+        "central_entity_resolver_diagnostics",
+        "central_entity_resolver_version",
+        "checked_summary_hash",
+        "deger_analizi",
+        "degerler_egitimi",
+        "ders_ici_kullanim_onerileri",
+        "destekleyici_temalar",
+        "discarded_generic_events",
+        "dosya_adi",
+        "dosya_yolu",
+        "entity_confidence",
+        "entity_store_graph",
+        "event_confidence",
+        "event_coverage",
+        "event_graph",
+        "evidence_coverage",
+        "file_hash",
+        "generic_event_ratio",
+        "guclu_temalar",
+        "hedef_yas_grubu",
+        "ilk_uc_baskin_tema",
+        "kanit_kalitesi_genel_aciklamasi",
+        "kanit_temelli",
+        "kanıt_cumleleri",
+        "kanıt_kuralı",
+        "kazanim_analizi",
+        "kitap_adi",
+        "kitap_ozeti",
+        "low_confidence_event_count",
+        "maarif_profili_eslesmeleri",
+        "merkezi_kalite_skorlari",
+        "narrative_plan",
+        "narrative_type",
+        "narrative_type_confidence",
+        "narrative_type_signals",
+        "ogrenci_kazanimlari",
+        "ogretmen_notu",
+        "olay_akisi",
+        "ozet",
+        "ozet_guven_skoru",
+        "ozet_kalite_hatalari",
+        "ozet_kalite_kontrol",
+        "ozet_olay_kumeleri",
+        "ozet_somutluk_skoru",
+        "ozet_turu",
+        "ozet_uzunlugu",
+        "ozet_yasak_icerik_orani",
+        "ozetin_dayandigi_sayfa_sayisi",
+        "payload_id",
+        "pdf_summary_hash",
+        "previous_payload_id",
+        "quote_ratio",
+        "rapor_build_id",
+        "rapor_guven_aciklamasi",
+        "rapor_guven_skoru",
+        "raw_generic_event_ratio",
+        "rendered_summary_hash",
+        "repeated_event_ratio",
+        "report_blocking_reasons",
+        "risk_skoru",
+        "scene_graph",
+        "sections",
+        "story_graph",
+        "summary",
+        "summary_confidence",
+        "summary_consistency_audit",
+        "summary_strategy",
+        "teacher_summary",
+        "teacher_summary_hash",
+        "tema_analizi",
+        "tema_cikarim_gerekcesi",
+        "temel_mesajlar",
+        "theme_confidence",
+        "ui_summary_hash",
+        "yazar",
+        "zayif_eslesmeler"
+      ],
+      "compare": {
+        "diff_paths": [],
+        "equal_without_shadow": true
+      },
+      "narrative_present": true,
+      "narrative_checks": {
+        "has_event_graph_enriched": true,
+        "has_narrative_graph": true,
+        "has_story_arc": true,
+        "has_diagnostics": true,
+        "diagnostics_keys": [
+          "disconnected_event_count",
+          "generic_event_ratio",
+          "narrative_confidence",
+          "placeholder_event_ratio",
+          "source",
+          "story_arc_type"
+        ]
+      },
+      "true_shadow": {
+        "summary_ir": {
+          "version": "runtime_v7_phase2",
+          "schema_version": "v1",
+          "book_id": "87a5ad40d36b41f5",
+          "title": "Belirsiz",
+          "central_entities": [
+            "Kral Kapgötür",
+            "Dankof Oburof",
+            "Aydın Öğretmen"
+          ],
+          "entity_graph_summary": [
+            {
+              "name": "Kral Kapgötür",
+              "type": "PERSON",
+              "mention_count": 0,
+              "source_pages": [],
+              "relation_score": 0.0,
+              "central": true,
+              "diagnostics": {
+                "blacklist_reason": ""
+              }
+            },
+            {
+              "name": "Dankof Oburof",
+              "type": "PERSON",
+              "mention_count": 0,
+              "source_pages": [],
+              "relation_score": 0.0,
+              "central": true,
+              "diagnostics": {
+                "blacklist_reason": ""
+              }
+            },
+            {
+              "name": "Aydın Öğretmen",
+              "type": "PERSON",
+              "mention_count": 0,
+              "source_pages": [],
+              "relation_score": 0.0,
+              "central": true,
+              "diagnostics": {
+                "blacklist_reason": ""
+              }
+            },
+            {
+              "name": "Lanson Yılanson",
+              "type": "PERSON",
+              "mention_count": 0,
+              "source_pages": [],
+              "relation_score": 0.0,
+              "central": false,
+              "diagnostics": {
+                "blacklist_reason": ""
+              }
+            },
+            {
+              "name": "Yasemin",
+              "type": "PERSON",
+              "mention_count": 0,
+              "source_pages": [],
+              "relation_score": 0.0,
+              "central": false,
+              "diagnostics": {
+                "blacklist_reason": ""
+              }
+            },
+            {
+              "name": "Zilius Rezilius",
+              "type": "PERSON",
+              "mention_count": 0,
+              "source_pages": [],
+              "relation_score": 0.0,
+              "central": false,
+              "diagnostics": {
+                "blacklist_reason": ""
+              }
+            },
+            {
+              "name": "Kalabalıktan",
+              "type": "PERSON",
+              "mention_count": 0,
+              "source_pages": [],
+              "relation_score": 0.0,
+              "central": false,
+              "diagnostics": {
+                "blacklist_reason": ""
+              }
+            }
+          ],
+          "narrative_graph": {},
+          "story_arc": {
+            "narrative_type": "animal_responsibility_story",
+            "stages": [
+              "hayvanla_karsilasma",
+              "sahiplenme_bakim",
+              "sorun",
+              "sorumluluk_farkindaligi",
+              "cozum"
+            ],
+            "strategy_hint": "event_chronology"
+          },
+          "timeline": [],
+          "themes": [
+            "sorumluluk",
+            "cesaret",
+            "problem çözme"
+          ],
+          "learning_outcomes": [],
+          "confidence": {
+            "summary": 0.634,
+            "theme": 0.527,
+            "event": 0.75,
+            "entity": 0.86
+          },
+          "diagnostics": {
+            "source": "runtime_v7_adapter_phase2",
+            "built_at": "2026-07-03T17:06:06"
+          },
+          "source_metadata": {
+            "book_id": "87a5ad40d36b41f5",
+            "title": "Belirsiz"
+          }
+        },
+        "entity_graph": {
+          "entities": [
+            {
+              "name": "Kral Kapgötür",
+              "type": "PERSON",
+              "mention_count": 0,
+              "source_pages": [],
+              "relation_score": 0.0,
+              "central": true,
+              "diagnostics": {
+                "blacklist_reason": ""
+              }
+            },
+            {
+              "name": "Dankof Oburof",
+              "type": "PERSON",
+              "mention_count": 0,
+              "source_pages": [],
+              "relation_score": 0.0,
+              "central": true,
+              "diagnostics": {
+                "blacklist_reason": ""
+              }
+            },
+            {
+              "name": "Aydın Öğretmen",
+              "type": "PERSON",
+              "mention_count": 0,
+              "source_pages": [],
+              "relation_score": 0.0,
+              "central": true,
+              "diagnostics": {
+                "blacklist_reason": ""
+              }
+            },
+            {
+              "name": "Lanson Yılanson",
+              "type": "PERSON",
+              "mention_count": 0,
+              "source_pages": [],
+              "relation_score": 0.0,
+              "central": false,
+              "diagnostics": {
+                "blacklist_reason": ""
+              }
+            },
+            {
+              "name": "Yasemin",
+              "type": "PERSON",
+              "mention_count": 0,
+              "source_pages": [],
+              "relation_score": 0.0,
+              "central": false,
+              "diagnostics": {
+                "blacklist_reason": ""
+              }
+            },
+            {
+              "name": "Zilius Rezilius",
+              "type": "PERSON",
+              "mention_count": 0,
+              "source_pages": [],
+              "relation_score": 0.0,
+              "central": false,
+              "diagnostics": {
+                "blacklist_reason": ""
+              }
+            },
+            {
+              "name": "Kalabalıktan",
+              "type": "PERSON",
+              "mention_count": 0,
+              "source_pages": [],
+              "relation_score": 0.0,
+              "central": false,
+              "diagnostics": {
+                "blacklist_reason": ""
+              }
+            }
+          ],
+          "diagnostics": {
+            "source": "runtime_v7_adapter_phase2"
+          }
+        },
+        "event_graph": {
+          "nodes": [],
+          "edges": [],
+          "diagnostics": {
+            "source": "runtime_v7_adapter_phase2"
+          }
+        },
+        "narrative_plan": {
+          "narrative_type": "animal_responsibility_story",
+          "stages": [
+            "hayvanla_karsilasma",
+            "sahiplenme_bakim",
+            "sorun",
+            "sorumluluk_farkindaligi",
+            "cozum"
+          ],
+          "strategy_hint": "medium_safe_summary",
+          "story_arc_type": "",
+          "confidence": {
+            "summary": 0.634,
+            "event": 0.75,
+            "entity": 0.86
+          },
+          "diagnostics": {
+            "source": "runtime_v7_adapter_phase2"
+          }
+        },
+        "quality_contract": {
+          "status": "PASS",
+          "issues": [],
+          "risk_categories": [],
+          "diagnostics": {
+            "source": "runtime_v7_adapter_phase2",
+            "built_at": "2026-07-03T17:06:06"
+          },
+          "checked_at": "2026-07-03T17:06:06",
+          "schema_version": "v1"
+        },
+        "comparison": {
+          "source": "runtime_v7_adapter_phase2",
+          "summary_ir_hash": "9ee8ab1ad59831ee48cde2f6d37e65d1638e38cf7dc4773fa79fb05069ec0acf",
+          "existing_canonical_summary_ir_hash": "",
+          "legacy_summary_text_hash": "80474b00ab2164c21dba9f28da7de5036152fcabc1ad4d144d43678a2ec882e0",
+          "summary_ir_matches_existing_canonical": false,
+          "legacy_summary_word_count": 171
+        },
+        "narrative": {
+          "event_graph_enriched": {
+            "nodes": [],
+            "edges": [],
+            "diagnostics": {
+              "actor_references": {},
+              "temporal_order": [],
+              "causal_links": [],
+              "confidence": {
+                "score": 1.0,
+                "generic_ratio": 0.0,
+                "placeholder_ratio": 0.0
+              },
+              "source": "runtime_v7_event_graph_enricher"
+            }
+          },
+          "narrative_graph": {
+            "nodes": [],
+            "conflict_links": [],
+            "resolution_links": [],
+            "dependency": {},
+            "transitions": [],
+            "diagnostics": {
+              "source": "runtime_v7_narrative_graph_builder"
+            }
+          },
+          "story_arc": {
+            "type": "linear",
+            "stages": {},
+            "source": "runtime_v7_story_arc_planner"
+          },
+          "diagnostics": {
+            "story_arc_type": "linear",
+            "generic_event_ratio": 0.0,
+            "placeholder_event_ratio": 0.0,
+            "disconnected_event_count": 0,
+            "narrative_confidence": 1.0,
+            "source": "runtime_v7_narrative_diagnostics"
+          }
+        }
+      }
+    },
+    {
+      "title": "Benim Adım Kristof Kolomb",
+      "false_payload_keys": [
+        "_17_word_fallback_prevented",
+        "_canonical_event_count",
+        "_entity_blacklist_applied",
+        "_entity_blacklist_filtered_count",
+        "_entity_blacklist_filtered_names",
+        "_event_concreteness_applied",
+        "_fallback_prevention_reason",
+        "_generic_event_count",
+        "_generic_event_ratio",
+        "_hash_consistency_pass",
+        "_pipeline_enforcer_stage",
+        "_pipeline_enforcer_version",
+        "_pipeline_runtime_enforcer",
+        "_runtime_v7_shadow",
+        "_total_event_count",
+        "alt_temalar",
+        "ana_karakterler",
+        "ana_tema",
+        "ana_tema_guven_skoru",
+        "ana_tema_kanitlari",
+        "ana_tema_tema_gucu",
+        "analiz_tarihi",
+        "analiz_tipi",
+        "analysis_timestamp",
+        "anlatici",
+        "anlatici_adi",
+        "anlatici_guven_skoru",
+        "anlatici_tespit_uyarisi",
+        "anlatim_kalite_degerlendirmesi",
+        "anlatim_turu",
+        "baskin_tema_ozeti",
+        "birinci_sahis_anlatim_skoru",
+        "birinci_sahis_gosterge_sayisi",
+        "birinci_sahis_yogunlugu",
+        "book_id",
+        "book_subtype",
+        "book_summary",
+        "book_type",
+        "bridge_sentence_ratio",
+        "cache_key",
+        "canonical_entity_store",
+        "canonical_event_count",
+        "canonical_summary",
+        "central_entity_resolver_diagnostics",
+        "central_entity_resolver_version",
+        "checked_summary_hash",
+        "deger_analizi",
+        "degerler_egitimi",
+        "ders_ici_kullanim_onerileri",
+        "destekleyici_temalar",
+        "discarded_generic_events",
+        "dosya_adi",
+        "dosya_yolu",
+        "entity_confidence",
+        "entity_store_graph",
+        "event_confidence",
+        "event_coverage",
+        "event_graph",
+        "evidence_coverage",
+        "file_hash",
+        "generic_event_ratio",
+        "guclu_temalar",
+        "hedef_yas_grubu",
+        "ilk_uc_baskin_tema",
+        "kanit_kalitesi_genel_aciklamasi",
+        "kanit_temelli",
+        "kanıt_cumleleri",
+        "kanıt_kuralı",
+        "kazanim_analizi",
+        "kitap_adi",
+        "kitap_ozeti",
+        "low_confidence_event_count",
+        "maarif_profili_eslesmeleri",
+        "merkezi_kalite_skorlari",
+        "narrative_plan",
+        "narrative_type",
+        "narrative_type_confidence",
+        "narrative_type_signals",
+        "ogrenci_kazanimlari",
+        "ogretmen_notu",
+        "olay_akisi",
+        "ozet",
+        "ozet_guven_skoru",
+        "ozet_kalite_hatalari",
+        "ozet_kalite_kontrol",
+        "ozet_olay_kumeleri",
+        "ozet_somutluk_skoru",
+        "ozet_turu",
+        "ozet_uzunlugu",
+        "ozet_yasak_icerik_orani",
+        "ozetin_dayandigi_sayfa_sayisi",
+        "payload_id",
+        "pdf_summary_hash",
+        "previous_payload_id",
+        "quote_ratio",
+        "rapor_build_id",
+        "rapor_guven_aciklamasi",
+        "rapor_guven_skoru",
+        "raw_generic_event_ratio",
+        "rendered_summary_hash",
+        "repeated_event_ratio",
+        "report_blocking_reasons",
+        "risk_skoru",
+        "scene_graph",
+        "sections",
+        "story_graph",
+        "summary",
+        "summary_confidence",
+        "summary_consistency_audit",
+        "summary_strategy",
+        "teacher_summary",
+        "teacher_summary_hash",
+        "tema_analizi",
+        "tema_cikarim_gerekcesi",
+        "temel_mesajlar",
+        "theme_confidence",
+        "ui_summary_hash",
+        "yazar",
+        "zayif_eslesmeler"
+      ],
+      "true_payload_keys": [
+        "_17_word_fallback_prevented",
+        "_canonical_event_count",
+        "_entity_blacklist_applied",
+        "_entity_blacklist_filtered_count",
+        "_entity_blacklist_filtered_names",
+        "_event_concreteness_applied",
+        "_fallback_prevention_reason",
+        "_generic_event_count",
+        "_generic_event_ratio",
+        "_hash_consistency_pass",
+        "_pipeline_enforcer_stage",
+        "_pipeline_enforcer_version",
+        "_pipeline_runtime_enforcer",
+        "_runtime_v7_shadow",
+        "_total_event_count",
+        "alt_temalar",
+        "ana_karakterler",
+        "ana_tema",
+        "ana_tema_guven_skoru",
+        "ana_tema_kanitlari",
+        "ana_tema_tema_gucu",
+        "analiz_tarihi",
+        "analiz_tipi",
+        "analysis_timestamp",
+        "anlatici",
+        "anlatici_adi",
+        "anlatici_guven_skoru",
+        "anlatici_tespit_uyarisi",
+        "anlatim_kalite_degerlendirmesi",
+        "anlatim_turu",
+        "baskin_tema_ozeti",
+        "birinci_sahis_anlatim_skoru",
+        "birinci_sahis_gosterge_sayisi",
+        "birinci_sahis_yogunlugu",
+        "book_id",
+        "book_subtype",
+        "book_summary",
+        "book_type",
+        "bridge_sentence_ratio",
+        "cache_key",
+        "canonical_entity_store",
+        "canonical_event_count",
+        "canonical_summary",
+        "central_entity_resolver_diagnostics",
+        "central_entity_resolver_version",
+        "checked_summary_hash",
+        "deger_analizi",
+        "degerler_egitimi",
+        "ders_ici_kullanim_onerileri",
+        "destekleyici_temalar",
+        "discarded_generic_events",
+        "dosya_adi",
+        "dosya_yolu",
+        "entity_confidence",
+        "entity_store_graph",
+        "event_confidence",
+        "event_coverage",
+        "event_graph",
+        "evidence_coverage",
+        "file_hash",
+        "generic_event_ratio",
+        "guclu_temalar",
+        "hedef_yas_grubu",
+        "ilk_uc_baskin_tema",
+        "kanit_kalitesi_genel_aciklamasi",
+        "kanit_temelli",
+        "kanıt_cumleleri",
+        "kanıt_kuralı",
+        "kazanim_analizi",
+        "kitap_adi",
+        "kitap_ozeti",
+        "low_confidence_event_count",
+        "maarif_profili_eslesmeleri",
+        "merkezi_kalite_skorlari",
+        "narrative_plan",
+        "narrative_type",
+        "narrative_type_confidence",
+        "narrative_type_signals",
+        "ogrenci_kazanimlari",
+        "ogretmen_notu",
+        "olay_akisi",
+        "ozet",
+        "ozet_guven_skoru",
+        "ozet_kalite_hatalari",
+        "ozet_kalite_kontrol",
+        "ozet_olay_kumeleri",
+        "ozet_somutluk_skoru",
+        "ozet_turu",
+        "ozet_uzunlugu",
+        "ozet_yasak_icerik_orani",
+        "ozetin_dayandigi_sayfa_sayisi",
+        "payload_id",
+        "pdf_summary_hash",
+        "previous_payload_id",
+        "quote_ratio",
+        "rapor_build_id",
+        "rapor_guven_aciklamasi",
+        "rapor_guven_skoru",
+        "raw_generic_event_ratio",
+        "rendered_summary_hash",
+        "repeated_event_ratio",
+        "report_blocking_reasons",
+        "risk_skoru",
+        "scene_graph",
+        "sections",
+        "story_graph",
+        "summary",
+        "summary_confidence",
+        "summary_consistency_audit",
+        "summary_strategy",
+        "teacher_summary",
+        "teacher_summary_hash",
+        "tema_analizi",
+        "tema_cikarim_gerekcesi",
+        "temel_mesajlar",
+        "theme_confidence",
+        "ui_summary_hash",
+        "yazar",
+        "zayif_eslesmeler"
+      ],
+      "compare": {
+        "diff_paths": [],
+        "equal_without_shadow": true
+      },
+      "narrative_present": true,
+      "narrative_checks": {
+        "has_event_graph_enriched": true,
+        "has_narrative_graph": true,
+        "has_story_arc": true,
+        "has_diagnostics": true,
+        "diagnostics_keys": [
+          "disconnected_event_count",
+          "generic_event_ratio",
+          "narrative_confidence",
+          "placeholder_event_ratio",
+          "source",
+          "story_arc_type"
+        ]
+      },
+      "true_shadow": {
+        "summary_ir": {
+          "version": "runtime_v7_phase2",
+          "schema_version": "v1",
+          "book_id": "579041f4421c11bf",
+          "title": "Belirsiz",
+          "central_entities": [
+            "Kristof Kolomb",
+            "Hernando Kolomb",
+            "Marco Polo"
+          ],
+          "entity_graph_summary": [
+            {
+              "name": "Kristof Kolomb",
+              "type": "PERSON",
+              "mention_count": 0,
+              "source_pages": [],
+              "relation_score": 0.0,
+              "central": true,
+              "diagnostics": {
+                "blacklist_reason": ""
+              }
+            },
+            {
+              "name": "Hernando Kolomb",
+              "type": "PERSON",
+              "mention_count": 0,
+              "source_pages": [],
+              "relation_score": 0.0,
+              "central": true,
+              "diagnostics": {
+                "blacklist_reason": ""
+              }
+            },
+            {
+              "name": "Marco Polo",
+              "type": "PERSON",
+              "mention_count": 0,
+              "source_pages": [],
+              "relation_score": 0.0,
+              "central": true,
+              "diagnostics": {
+                "blacklist_reason": ""
+              }
+            },
+            {
+              "name": "Filipa Monis",
+              "type": "PERSON",
+              "mention_count": 0,
+              "source_pages": [],
+              "relation_score": 0.0,
+              "central": false,
+              "diagnostics": {
+                "blacklist_reason": ""
+              }
+            },
+            {
+              "name": "Kral Fernando",
+              "type": "PERSON",
+              "mention_count": 0,
+              "source_pages": [],
+              "relation_score": 0.0,
+              "central": false,
+              "diagnostics": {
+                "blacklist_reason": ""
+              }
+            },
+            {
+              "name": "Bartolome",
+              "type": "PERSON",
+              "mention_count": 0,
+              "source_pages": [],
+              "relation_score": 0.0,
+              "central": false,
+              "diagnostics": {
+                "blacklist_reason": ""
+              }
+            },
+            {
+              "name": "Kraliçe Isabel",
+              "type": "PERSON",
+              "mention_count": 0,
+              "source_pages": [],
+              "relation_score": 0.0,
+              "central": false,
+              "diagnostics": {
+                "blacklist_reason": ""
+              }
+            },
+            {
+              "name": "Adım",
+              "type": "PERSON",
+              "mention_count": 0,
+              "source_pages": [],
+              "relation_score": 0.0,
+              "central": false,
+              "diagnostics": {
+                "blacklist_reason": ""
+              }
+            }
+          ],
+          "narrative_graph": {},
+          "story_arc": {
+            "narrative_type": "fairy_tale",
+            "stages": [
+              "masal_duzeni",
+              "eksiklik_veya_dilek",
+              "deneme",
+              "yardimci_unsur",
+              "ders_sonuc"
+            ],
+            "strategy_hint": "short_safe"
+          },
+          "timeline": [],
+          "themes": [
+            "söz tutma"
+          ],
+          "learning_outcomes": [],
+          "confidence": {
+            "summary": 0.615,
+            "theme": 0.523,
+            "event": 0.45,
+            "entity": 0.902
+          },
+          "diagnostics": {
+            "source": "runtime_v7_adapter_phase2",
+            "built_at": "2026-07-03T17:08:41"
+          },
+          "source_metadata": {
+            "book_id": "579041f4421c11bf",
+            "title": "Belirsiz"
+          }
+        },
+        "entity_graph": {
+          "entities": [
+            {
+              "name": "Kristof Kolomb",
+              "type": "PERSON",
+              "mention_count": 0,
+              "source_pages": [],
+              "relation_score": 0.0,
+              "central": true,
+              "diagnostics": {
+                "blacklist_reason": ""
+              }
+            },
+            {
+              "name": "Hernando Kolomb",
+              "type": "PERSON",
+              "mention_count": 0,
+              "source_pages": [],
+              "relation_score": 0.0,
+              "central": true,
+              "diagnostics": {
+                "blacklist_reason": ""
+              }
+            },
+            {
+              "name": "Marco Polo",
+              "type": "PERSON",
+              "mention_count": 0,
+              "source_pages": [],
+              "relation_score": 0.0,
+              "central": true,
+              "diagnostics": {
+                "blacklist_reason": ""
+              }
+            },
+            {
+              "name": "Filipa Monis",
+              "type": "PERSON",
+              "mention_count": 0,
+              "source_pages": [],
+              "relation_score": 0.0,
+              "central": false,
+              "diagnostics": {
+                "blacklist_reason": ""
+              }
+            },
+            {
+              "name": "Kral Fernando",
+              "type": "PERSON",
+              "mention_count": 0,
+              "source_pages": [],
+              "relation_score": 0.0,
+              "central": false,
+              "diagnostics": {
+                "blacklist_reason": ""
+              }
+            },
+            {
+              "name": "Bartolome",
+              "type": "PERSON",
+              "mention_count": 0,
+              "source_pages": [],
+              "relation_score": 0.0,
+              "central": false,
+              "diagnostics": {
+                "blacklist_reason": ""
+              }
+            },
+            {
+              "name": "Kraliçe Isabel",
+              "type": "PERSON",
+              "mention_count": 0,
+              "source_pages": [],
+              "relation_score": 0.0,
+              "central": false,
+              "diagnostics": {
+                "blacklist_reason": ""
+              }
+            },
+            {
+              "name": "Adım",
+              "type": "PERSON",
+              "mention_count": 0,
+              "source_pages": [],
+              "relation_score": 0.0,
+              "central": false,
+              "diagnostics": {
+                "blacklist_reason": ""
+              }
+            }
+          ],
+          "diagnostics": {
+            "source": "runtime_v7_adapter_phase2"
+          }
+        },
+        "event_graph": {
+          "nodes": [],
+          "edges": [],
+          "diagnostics": {
+            "source": "runtime_v7_adapter_phase2"
+          }
+        },
+        "narrative_plan": {
+          "narrative_type": "fairy_tale",
+          "stages": [
+            "masal_duzeni",
+            "eksiklik_veya_dilek",
+            "deneme",
+            "yardimci_unsur",
+            "ders_sonuc"
+          ],
+          "strategy_hint": "medium_safe_summary",
+          "story_arc_type": "",
+          "confidence": {
+            "summary": 0.615,
+            "event": 0.45,
+            "entity": 0.902
+          },
+          "diagnostics": {
+            "source": "runtime_v7_adapter_phase2"
+          }
+        },
+        "quality_contract": {
+          "status": "PASS",
+          "issues": [],
+          "risk_categories": [],
+          "diagnostics": {
+            "source": "runtime_v7_adapter_phase2",
+            "built_at": "2026-07-03T17:08:41"
+          },
+          "checked_at": "2026-07-03T17:08:41",
+          "schema_version": "v1"
+        },
+        "comparison": {
+          "source": "runtime_v7_adapter_phase2",
+          "summary_ir_hash": "f07334f89ceb95bf341137dac2ec8196e590aaf3d1fb81420feed3d240fe6704",
+          "existing_canonical_summary_ir_hash": "",
+          "legacy_summary_text_hash": "47560b671d7319853ae8b89aeacd7a2e6a6b9324f01b342292eead79a7ddc37d",
+          "summary_ir_matches_existing_canonical": false,
+          "legacy_summary_word_count": 181
+        },
+        "narrative": {
+          "event_graph_enriched": {
+            "nodes": [],
+            "edges": [],
+            "diagnostics": {
+              "actor_references": {},
+              "temporal_order": [],
+              "causal_links": [],
+              "confidence": {
+                "score": 1.0,
+                "generic_ratio": 0.0,
+                "placeholder_ratio": 0.0
+              },
+              "source": "runtime_v7_event_graph_enricher"
+            }
+          },
+          "narrative_graph": {
+            "nodes": [],
+            "conflict_links": [],
+            "resolution_links": [],
+            "dependency": {},
+            "transitions": [],
+            "diagnostics": {
+              "source": "runtime_v7_narrative_graph_builder"
+            }
+          },
+          "story_arc": {
+            "type": "linear",
+            "stages": {},
+            "source": "runtime_v7_story_arc_planner"
+          },
+          "diagnostics": {
+            "story_arc_type": "linear",
+            "generic_event_ratio": 0.0,
+            "placeholder_event_ratio": 0.0,
+            "disconnected_event_count": 0,
+            "narrative_confidence": 1.0,
+            "source": "runtime_v7_narrative_diagnostics"
+          }
+        }
+      }
+    }
+  ],
+  "run_v7_tests": {
+    "error": "could not parse run_v7_tests output"
+  }
+}

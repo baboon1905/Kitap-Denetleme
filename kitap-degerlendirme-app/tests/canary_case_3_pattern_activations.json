@@ -1,0 +1,24 @@
+[
+  {
+    "pattern_id": "theme_growth",
+    "category": "theme",
+    "status": "active",
+    "raw_confidence": 0.62,
+    "calibrated_confidence": 0.66,
+    "evidence_count": 2,
+    "source": "summary_ir.themes",
+    "algorithm_version": "monitor-v1",
+    "match_snippet": "Büyüme ve dönüşüm vurgulanır."
+  },
+  {
+    "pattern_id": "theme_loss",
+    "category": "theme",
+    "status": "candidate",
+    "raw_confidence": 0.48,
+    "calibrated_confidence": 0.53,
+    "evidence_count": 1,
+    "source": "narrative.summary",
+    "algorithm_version": "monitor-v1",
+    "match_snippet": "Kayıp ve yas teması görünür."
+  }
+]

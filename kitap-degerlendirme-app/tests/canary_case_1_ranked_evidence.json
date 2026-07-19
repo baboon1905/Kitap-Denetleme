@@ -1,0 +1,24 @@
+[
+  {
+    "pattern_id": "theme_adventure",
+    "rank": 2,
+    "rank_score": 4.6,
+    "ranking_signals": {
+      "evidence_count": 2,
+      "source_weight": 0.8,
+      "semantic_density": 0.0,
+      "cluster_support": 0
+    }
+  },
+  {
+    "pattern_id": "theme_friendship",
+    "rank": 1,
+    "rank_score": 4.3,
+    "ranking_signals": {
+      "evidence_count": 1,
+      "source_weight": 1.0,
+      "semantic_density": 0.0,
+      "cluster_support": 1
+    }
+  }
+]

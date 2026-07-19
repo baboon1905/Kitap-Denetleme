@@ -1,0 +1,774 @@
+SAKINCALI İÇERİK TARAMA RAPORU
+ Yayın Denetim Birimi
+ 
+1. Kitap Bilgileri
+Alan
+Bilgi
+Kitap Adı
+uploads\alyanin_dunyasi_gizemli_duvar_80sf_5F
+Yazar
+Belirsiz
+Sayfa Sayısı
+?
+Dosya Adı
+uploads\alyanin_dunyasi_gizemli_duvar_80sf_5F.pdf
+Konu
+Belirtilmemiş
+2. Genel Değerlendirme
+Değerlendirme Alanı
+Sonuç
+Sakıncalı Kelime Taraması
+12 tam kelime bulgusu; 10 problemli bağlam; problemli olmayan bulgular risk
+0 olarak rapora alınmıştır.
+MEB TTK Kriterleri
+MEB uyum puanı 0/100; karar: Bilinmiyor.
+Kültürel Uyum ve Maarif
+Modeli
+Kültürel uyum puanı 100/100; değerlendirme: [Uygun] Yüksek uyum. Analiz
+profili: HIBRIT, hedef yaş grubu: 9-12.
+Risk Seviyesi
+ORTA RİSK (57.53/100)
+Karar
+DÜZELTMELERLE YAYINA UYGUNDUR
+Karar; yalnızca kelime eşleşmesine değil, tam kelime kontrolü, cümle bazlı bağlam analizi,
+MEB TTK ölçütleri ve kültürel uyum değerlendirmesinin birlikte yorumlanmasına göre
+verilmiştir. Eğitsel, tarihsel, mecazi veya eleştirel bağlamda kalan bulgular raporda
+görünür; ancak risk puanı 0 kabul edilir.
+
+3. Sakıncalı Kelime Taraması
+Metin, sakıncalı kelime listesiyle taranmış; her eşleşmede önce tam kelime kontrolü
+yapılmış, ardından ilgili cümle bağlam analiziyle değerlendirilmiştir. Başka bir kelimenin
+içinde geçen ifadeler bulgu sayılmamıştır.
+Kategori
+Bulgu
+Ortalama Risk
+BULGU Ayrımcılık ve Nefret
+3
+5.00/5
+BULGU Cinsellik ve Mahremiyet
+3
+3.33/5
+TEMİZ Dijital Risk
+0
+0.00/5
+TEMİZ Kaba Dil ve Hakaret
+0
+0.00/5
+BULGU Korku ve Travma
+4
+0.50/5
+BULGU Okültizm ve Batıl
+1
+4.00/5
+TEMİZ Olumsuz Davranış
+0
+0.00/5
+TEMİZ Reklam ve Ticari Unsurlar
+0
+0.00/5
+TEMİZ Şiddet ve Suç
+0
+0.00/5
+BULGU Zararlı Alışkanlıklar
+1
+2.00/5
+3.1. Bağlam Analizi Tablosu
+Kelime
+Adet
+Sayfa
+Bağlam Analizi
+Değerlendirme
+çirkin
+3
+42
+Kategori: Ayrımcılık ve Nefret. Bağlam tipi:
+ozendirici. Cümle: Hatta on bin kat daha
+güzelsiniz. Gerekçe: Özendirici veya
+olumlayıcı kullanım.
+RİSKLİ - ozendirici bağlam;
+düzenleme veya açıklayıcı not
+önerilir. Risk puanı: 5/5.
+ayıp
+2
+40
+Kategori: Cinsellik ve Mahremiyet. Bağlam
+tipi: taklit_tesviki. Cümle: ilişkimiz daha yeni
+başladı. Gerekçe: Taklit etmeye veya
+denemeye yönelten kullanım.
+RİSKLİ - taklit_tesviki bağlam;
+düzenleme veya açıklayıcı not
+önerilir. Risk puanı: 4/5.
+utanç
+1
+43
+Kategori: Cinsellik ve Mahremiyet. Bağlam
+tipi: notr. Cümle: Utanç duygusu ne fenaydı
+öyle. Başımı öne eğdim. Gerekçe: Tam kelime
+bulundu; cümlede riski sıfırlayan açık bir
+bağlam yok.
+BİLGİ/DÜŞÜK RİSK - notr
+bağlam; öğretmen notu ile
+izlenebilir. Risk puanı: 2/5.
+dehşet
+1
+57
+Kategori: Korku ve Travma. Bağlam tipi: notr.
+Cümle: O zaman ikimiz de aynı anda
+dehşetten kocaman olmuş gözlerimizle
+birbirimize baktık. Gerekçe: Tam kelime
+bulundu; cümlede riski sıfırlayan açık bir
+bağlam yok.
+BİLGİ/DÜŞÜK RİSK - notr
+bağlam; öğretmen notu ile
+izlenebilir. Risk puanı: 1/5.
+korkunç
+2
+62, 63
+Kategori: Korku ve Travma. Bağlam tipi: notr.
+Cümle: Bana sonsuz kadar uzun gelen bir
+süre koştuk ama sanırım o bir süre harekete
+geçmedi. Gerekçe: Tam kelime bulundu;
+cümlede riski sıfırlayan açık bir bağlam yok.
+BİLGİ/DÜŞÜK RİSK - notr
+bağlam; öğretmen notu ile
+izlenebilir. Risk puanı: 1/5.
+çığlık
+1
+63
+Kategori: Korku ve Travma. Bağlam tipi:
+mecazi. Cümle: Hatta maymunlar gibi bir iki
+kez çığlık atmış da olabilirim. Kurt ikimizin
+tırmandığı ağaçların arasında durdu. Gerekçe:
+Mecazi/sembolik kullanım.
+TEMİZ - mecazi bağlam;
+raporda görünür fakat risk
+puanı 0. Risk puanı: 0/5.
+
+Kelime
+Adet
+Sayfa
+Bağlam Analizi
+Değerlendirme
+büyü
+1
+77
+Kategori: Okültizm ve Batıl. Bağlam tipi: notr.
+Cümle: ama sorgularsam büyü --- SAYFA 77
+--- 77bozulur diye korktum. Gerekçe: Tam
+kelime bulundu; cümlede riski sıfırlayan açık
+bir bağlam yok.
+RİSKLİ - notr bağlam;
+düzenleme veya açıklayıcı not
+önerilir. Risk puanı: 4/5.
+barı
+1
+21
+Kategori: Zararlı Alışkanlıklar. Bağlam tipi:
+notr. Cümle: Mutfaktan tost kokusu geliyor.
+Gerekçe: Tam kelime bulundu; cümlede riski
+sıfırlayan açık bir bağlam yok.
+BİLGİ/DÜŞÜK RİSK - notr
+bağlam; öğretmen notu ile
+izlenebilir. Risk puanı: 2/5.
+4. MEB TTK Kriterleri Analizi
+Kriter
+Risk
+Durum
+Denetim Notu
+Anayasa ve Mevzuat
+Uygunluğu
+0/5
+TEMİZ - Uygun
+Risk tespit edilmedi.
+Millî Güvenlik
+0/5
+TEMİZ - Uygun
+Risk tespit edilmedi.
+Eşitlik ve Kapsayıcılık
+5/5
+YÜKSEK - Ret
+Yayın öncesi ayrıntılı revizyon gerektirir.
+Millî ve Manevi Değerler
+4/5
+YÜKSEK - Zayıf
+Yayın öncesi ayrıntılı revizyon gerektirir.
+Güvenli ve Etik İçerik
+1/5
+BİLGİ - Uyarı
+Düşük düzeyli editoryal kontrol yeterlidir.
+Bilimsel Doğruluk
+0/5
+TEMİZ - Uygun
+Risk tespit edilmedi.
+Reklam ve Ticari Unsurlar
+0/5
+TEMİZ - Temiz
+Risk tespit edilmedi.
+Dil ve Anlatım
+0/5
+TEMİZ - Uygun
+Risk tespit edilmedi.
+MEB Uyum Puanı: 50/100 -> Bilinmiyor
+Sonuç: KOŞULLU - Kitap koşullu olarak MEB kriterlerine uygun olabilir. İşaretli bölümler
+kontrol edilmelidir.
+4.1 Riskli Kriterlerin Ayrıntılı Analizi
+Aşağıdaki bulgular, risk puanı alan MEB TTK kriterleri için alıntı, gerekçe ve uygulanabilir
+düzeltme önerisiyle birlikte verilmiştir.
+Eşitlik ve Kapsayıcılık - YÜKSEK (5/5)
+Kriter Açıklaması: Ayrımcı, dışlayıcı, aşağılayıcı veya nefret söylemine yaklaşan ifadeler
+kontrol edilir.
+Risk Gerekçesi: Yayın öncesi ayrıntılı revizyon gerektirir. Karar notu: Ret
+Sayfa
+Alıntı
+Risk Açıklaması
+Tavsiye / Düzeltme
+S. 42
+Hatta on bin kat daha güzelsiniz.
+Bulgu 1: çirkin: Risk 5
+Risk: 5/5.
+Ayrımcı dili nötrleştirin;
+farklılıklara saygıyı
+belirginleştiren bir ifade
+ekleyin.
+
+Sayfa
+Alıntı
+Risk Açıklaması
+Tavsiye / Düzeltme
+S. 42
+” “Onu da kendimi de çirkin
+buluyorum.
+Bulgu 2: çirkin: Risk 5
+Risk: 5/5.
+Ayrımcı dili nötrleştirin;
+farklılıklara saygıyı
+belirginleştiren bir ifade
+ekleyin.
+S. 42
+” Hay allah, kendimi mi dedim ben?
+Bulgu 3: çirkin: Risk 5
+Risk: 5/5.
+Ayrımcı dili nötrleştirin;
+farklılıklara saygıyı
+belirginleştiren bir ifade
+ekleyin.
+Güvenli ve Etik İçerik - BİLGİ (1/5)
+Kriter Açıklaması: Çocuk güvenliği, zararlı alışkanlıklar, şiddet, taklit edilebilir eylem ve
+etik riskler incelenir.
+Risk Gerekçesi: Düşük düzeyli editoryal kontrol yeterlidir. Karar notu: Uyarı
+Sayfa
+Alıntı
+Risk Açıklaması
+Tavsiye / Düzeltme
+S. 57
+O zaman ikimiz de aynı anda
+dehşetten kocaman olmuş
+gözlerimizle birbirimize baktık.
+Bulgu 1: dehşet: Risk 1
+Risk: 1/5.
+Çocuk okur için taklit
+edilebilir ayrıntıları azaltın;
+güvenli davranış ve sonuç
+bilgisini güçlendirin.
+S. 62
+Bana sonsuz kadar uzun gelen bir
+süre koştuk ama sanırım o bir süre
+harekete geçmedi.
+Bulgu 2: korkunç: Risk 1
+Risk: 1/5.
+Çocuk okur için taklit
+edilebilir ayrıntıları azaltın;
+güvenli davranış ve sonuç
+bilgisini güçlendirin.
+S. 63
+Sanki korkunç bir film sahnesinin
+içine düşmüştük.
+Bulgu 3: korkunç: Risk 0
+Risk: 0/5.
+Çocuk okur için taklit
+edilebilir ayrıntıları azaltın;
+güvenli davranış ve sonuç
+bilgisini güçlendirin.
+S. 63
+Hatta maymunlar gibi bir iki kez çığlık
+atmış da olabilirim. Kurt ikimizin
+tırmandığı ağaçların arasında durdu.
+Bulgu 4: çığlık: Risk 0
+Risk: 0/5.
+Çocuk okur için taklit
+edilebilir ayrıntıları azaltın;
+güvenli davranış ve sonuç
+bilgisini güçlendirin.
+Millî Güvenlik - TEMİZ (0/5)
+Kriter Açıklaması: Terör, şiddet örgütü, güvenliği zedeleyen çağrı veya özendirme
+izlenimi veren anlatımlar incelenir.
+Risk Gerekçesi: Risk tespit edilmedi. Karar notu: Uygun
+Sayfa
+Alıntı
+Risk Açıklaması
+Tavsiye / Düzeltme
+-
+...er içimden geçeni söyleseydim...
+mesela ben de ressam olmayı
+istiyorum. lafı geçenlerde bir kere
+oraya getirdim de s
+Bulgu 1:
+Ozendir/ozdeslesme
+Risk: 5/5.
+Bu içerik tamamen
+silinmelidir
+-
+...dem --- sayfa 8 --- 8 yolun a.
+sonuçta ben de istemediğim bir şeye
+zorlandığımda sinirleniyorum. bana
+engel olunması
+Bulgu 2:
+Ozendir/ozdeslesme
+Risk: 5/5.
+Bu içerik tamamen
+silinmelidir
+-
+...pacaksın anne? eşyamı toplayıp
+giderim ben de!” biraz da babamı
+konuşturayım, ona da bir rol
+vermezsem alınır. “hey
+Bulgu 3:
+Ozendir/ozdeslesme
+Risk: 5/5.
+Bu içerik tamamen
+silinmelidir
+-
+...ettirdikçe işler daha da ters gidiyor.
+ben de inadına yavaşlıyorum,
+haberleri yok. yine de sorun çıkmasın
+diye hemen
+Bulgu 4:
+Ozendir/ozdeslesme
+Risk: 5/5.
+Bu içerik tamamen
+silinmelidir
+
+Sayfa
+Alıntı
+Risk Açıklaması
+Tavsiye / Düzeltme
+-
+....” deyip, alnıma bir öpücük
+kondururken ben de aynı hızla dev
+bir ısırık aldım tosttan. ahhh! eriyen
+kaşar peyniri d
+Bulgu 5:
+Ozendir/ozdeslesme
+Risk: 5/5.
+Bu içerik tamamen
+silinmelidir
+-
+...n bekleyen öğrenci gibi bakıyor
+yüzüme. ben de bu anı daha da
+keyifli hâle getirmek için camı sonuna
+kadar indirdim.
+Bulgu 6:
+Ozendir/ozdeslesme
+Risk: 5/5.
+Bu içerik tamamen
+silinmelidir
+-
+...ldığın şeye bak. öğretmen kızmıyor
+ki. ben de geçen hafta yapmamıştım
+ödevimi. bir şey de me di. ‘haftaya
+unutma, p
+Bulgu 7:
+Ozendir/ozdeslesme
+Risk: 5/5.
+Bu içerik tamamen
+silinmelidir
+-
+...içeri girdi. sınıf hemen sessizleşti.
+ben de hızlıca yerime geçtim. ders
+sorunsuz bitti. tam da tahmin ettiğim
+gibi
+Bulgu 8:
+Ozendir/ozdeslesme
+Risk: 5/5.
+Bu içerik tamamen
+silinmelidir
+-
+...ni. bakıyorum sadece. o resim
+yapıyor, ben de ona bakıyorum. o
+kadar.” “vay canına! demek benden
+sakladığın sır buyd
+Bulgu 9:
+Ozendir/ozdeslesme
+Risk: 5/5.
+Bu içerik tamamen
+silinmelidir
+-
+...gibi hissediyorum. o tuvalini
+boyarken ben de aynı anda
+zihnimdeki resmi boyuyorum.”
+“acaba ne resmi yapıyor?” diye
+Bulgu 10:
+Ozendir/ozdeslesme
+Risk: 5/5.
+Bu içerik tamamen
+silinmelidir
+-
+...eldi herhâlde.” diyerek başımı
+okşadı. ben de sessizce ezgi’yi
+uğurlayıp odama çekildim. aynada
+yüzüme baktım. yüzü
+Bulgu 11:
+Ozendir/ozdeslesme
+Risk: 5/5.
+Bu içerik tamamen
+silinmelidir
+-
+...i sarsmanın anlamı yoktu. “peki
+madem, ben de biraz bahçeye
+çıkayım, hazır giyinmişken.” diye
+mırıldandım. babam da
+Bulgu 12:
+Ozendir/ozdeslesme
+Risk: 5/5.
+Bu içerik tamamen
+silinmelidir
+-
+...kadar güçlü çekiyordu. o
+çekiştirdikçe ben de merdiven
+korkuluğundan aldığım kuvvetle ona
+karşı koyuyordum. köpek b
+Bulgu 13:
+Ozendir/ozdeslesme
+Risk: 5/5.
+Bu içerik tamamen
+silinmelidir
+-
+...kırparak. “arada çok fark var.”
+dedim ben de gülerek. --- sayfa 37 ---
+37“benim adım mihri, memnun
+oldum.” diyerek e
+Bulgu 14:
+Ozendir/ozdeslesme
+Risk: 5/5.
+Bu içerik tamamen
+silinmelidir
+-
+...lojik bir terim. sözlüğe bakmak
+gerek. ben de kullandığıma göre
+zaten anneannene özel olmadığı
+kesin. a ma ona özel
+Bulgu 15:
+Ozendir/ozdeslesme
+Risk: 5/5.
+Bu içerik tamamen
+silinmelidir
+-
+...m eve.” orman bence şahane bir
+fikirdi. ben de ne zaman bir ağaca
+çıksam, ne zaman böceklerle
+konuşsam, kuşları dinl
+Bulgu 16:
+Ozendir/ozdeslesme
+Risk: 5/5.
+Bu içerik tamamen
+silinmelidir
+-
+...di. ne yapıp edip bu izni
+koparacaktım. ben de onun gibi
+hızlıca ayağa kalktım. “kıyafetim.”
+diyerek ellerimle üstü
+Bulgu 17:
+Ozendir/ozdeslesme
+Risk: 5/5.
+Bu içerik tamamen
+silinmelidir
+-
+...su. gülümsedi mihri hanım. “aynı
+şeyi ben de okul yıllarımda sayısız
+kez yaşadım. hatta üniversitede bile
+günleri
+Bulgu 18:
+Ozendir/ozdeslesme
+Risk: 5/5.
+Bu içerik tamamen
+silinmelidir
+-
+...rdi. ve “onu çok sevdim.” dedi
+bence. “ben de seni gofret.” diyerek
+başını okşadım. sonra da daha önce
+çıkmadığım k
+Bulgu 19:
+Ozendir/ozdeslesme
+Risk: 5/5.
+Bu içerik tamamen
+silinmelidir
+
+Sayfa
+Alıntı
+Risk Açıklaması
+Tavsiye / Düzeltme
+-
+...ş olmalıydı. çaldığım zili
+duymadılar. ben de bir parmağımı hiç
+çekmeden zile basarken diğer elimle
+kapıyı yumrukla
+Bulgu 20:
+Ozendir/ozdeslesme
+Risk: 5/5.
+Bu içerik tamamen
+silinmelidir
+-
+...i tanıştırmayacak mısın?” diye
+sordu. “ben de tam onu yapacaktım
+mihri hanım.” diye atıldım. “en yakın
+arkadaşım ezg
+Bulgu 21:
+Ozendir/ozdeslesme
+Risk: 5/5.
+Bu içerik tamamen
+silinmelidir
+-
+...fi gibi sallayarak anlatmaya
+başladı. “ben de boyalarımla,
+fırçalarımla konuşurum. hatta her
+birinin ismi bile vard
+Bulgu 22:
+Ozendir/ozdeslesme
+Risk: 5/5.
+Bu içerik tamamen
+silinmelidir
+-
+...“tadı da en az kokusu kadar
+güzeldi.” “ben de denemek
+istiyorum.” diyerek gofret gibi
+kokunun geldiği yeri bulmak içi
+Bulgu 23:
+Ozendir/ozdeslesme
+Risk: 5/5.
+Bu içerik tamamen
+silinmelidir
+-
+...bacağıma iğne batmış gibi canım
+yanınca ben de bağırdım. meğer ona
+da bana da ağacın dikenleri batmış.
+çiçekler aşkın
+Bulgu 24:
+Ozendir/ozdeslesme
+Risk: 5/5.
+Bu içerik tamamen
+silinmelidir
+-
+...e ekledi. “ ama az önce ağaçtayken
+bunu ben de düşündüm. hatta bir
+akasya ormanı çizmeyi hayal ettim.
+bakalım bu ko
+Bulgu 25:
+Ozendir/ozdeslesme
+Risk: 5/5.
+Bu içerik tamamen
+silinmelidir
+-
+...deki toprağı eşeleyip şekiller
+çizerken ben de büyük bir meşe
+ağacıyla konuşmaya başladım.
+derken uzaklardan bir kuş
+Bulgu 26:
+Ozendir/ozdeslesme
+Risk: 5/5.
+Bu içerik tamamen
+silinmelidir
+-
+...geldiğimiz yöne doğru koşmaya
+başladı. ben de peşine düştüm. bir
+süre sonra karnımın ağrıdığını
+hissettim. hani bird
+Bulgu 27:
+Ozendir/ozdeslesme
+Risk: 5/5.
+Bu içerik tamamen
+silinmelidir
+-
+...ılacağım!” ezgi yavaşladı ama
+durmadı. ben de derin derin nefes
+almaya çalışarak ilerledim. ama kısa
+süre sonra bir
+Bulgu 28:
+Ozendir/ozdeslesme
+Risk: 5/5.
+Bu içerik tamamen
+silinmelidir
+-
+...değildik. sonra yine aynı anda, o
+sol, ben de sağ tarafı işaret edince
+beni bir gülme tuttu. gülerken de e
+zgi bana
+Bulgu 29:
+Ozendir/ozdeslesme
+Risk: 5/5.
+Bu içerik tamamen
+silinmelidir
+-
+...dönelim.” dedi. sesi endişe
+doluydu. “ben de aynısını
+düşündüm.” derken yürümeye
+başlamıştık bile. bu kez koşar adım
+Bulgu 30:
+Ozendir/ozdeslesme
+Risk: 5/5.
+Bu içerik tamamen
+silinmelidir
+-
+...yandan da ağlıyordu ezgi. haklıydı
+ama ben de haklıydım. neyse,
+ıslanmayı zaten severim. koşmaya
+başladım ben de. y
+Bulgu 31:
+Ozendir/ozdeslesme
+Risk: 5/5.
+Bu içerik tamamen
+silinmelidir
+-
+...anmayı zaten severim. koşmaya
+başladım ben de. yetiştim ezgi’ye.
+yarışan ama bir türlü birbirini
+geçemeyen atletler
+Bulgu 32:
+Ozendir/ozdeslesme
+Risk: 5/5.
+Bu içerik tamamen
+silinmelidir
+-
+...eği yakın yerlerde kalın dalları
+vardı. ben de hemen onun
+yanındakine niyetlendim. niyetlendim
+diyorum çünkü benim ca
+Bulgu 33:
+Ozendir/ozdeslesme
+Risk: 5/5.
+Bu içerik tamamen
+silinmelidir
+-
+...r, gidelim.” dedi alaycı bir tavırla.
+“ben de senin kadar yorgun ve
+endişeliyim şu an.” diye çıkıştım. “
+ama yapaca
+Bulgu 34:
+Ozendir/ozdeslesme
+Risk: 5/5.
+Bu içerik tamamen
+silinmelidir
+
+Sayfa
+Alıntı
+Risk Açıklaması
+Tavsiye / Düzeltme
+-
+...i mi hiç?” uzaklara baktı.
+düşünüyordu. ben de
+düşünüyordum. adım başı farklı
+türde mantarlar çıkıyordu karşımıza
+am
+Bulgu 35:
+Ozendir/ozdeslesme
+Risk: 5/5.
+Bu içerik tamamen
+silinmelidir
+-
+...âlâ o ağaçların tepesinde
+olabilirdik.” ben de sıkı sıkı sarıldım
+ona. “sen de iyi ki varsın. yalnız
+başına hiçbir şe
+Bulgu 36:
+Ozendir/ozdeslesme
+Risk: 5/5.
+Bu içerik tamamen
+silinmelidir
+-
+...k. aynı anda üçü de gülmeye
+başlayınca ben de onlara katıldım. o
+sırada gofret sanki olan biteni
+anlamış gibi neşey
+Bulgu 37:
+Ozendir/ozdeslesme
+Risk: 5/5.
+Bu içerik tamamen
+silinmelidir
+Millî ve Manevi Değerler - YÜKSEK (4/5)
+Kriter Açıklaması: Aile, değerler, toplumsal hassasiyetler ve millî-manevi bütünlükle
+çatışabilecek anlatımlar değerlendirilir.
+Risk Gerekçesi: Yayın öncesi ayrıntılı revizyon gerektirir. Karar notu: Zayıf
+Sayfa
+Alıntı
+Risk Açıklaması
+Tavsiye / Düzeltme
+S. 40
+ilişkimiz daha yeni başladı.
+Bulgu 1: ayıp: Risk 4
+Risk: 4/5.
+Sahneyi değerleri
+zedelemeyecek biçimde
+yeniden yazın; gerekirse
+olumlu karşı davranış veya
+açıklayıcı not ekleyin.
+S. 40
+ilişkimiz daha yeni başladı.
+Bulgu 2: ayıp: Risk 4
+Risk: 4/5.
+Sahneyi değerleri
+zedelemeyecek biçimde
+yeniden yazın; gerekirse
+olumlu karşı davranış veya
+açıklayıcı not ekleyin.
+S. 43
+Utanç duygusu ne fenaydı öyle.
+Başımı öne eğdim.
+Bulgu 3: utanç: Risk 2
+Risk: 2/5.
+Sahneyi değerleri
+zedelemeyecek biçimde
+yeniden yazın; gerekirse
+olumlu karşı davranış veya
+açıklayıcı not ekleyin.
+
+5. Maarif Modeli Değerlendirmesi
+Maarif Modeli profilleri değerlendirilmiştir.
+6. Kültürel Uyum Analizi
+Kültürel Unsur
+Sayı
+Durum
+Türk Karakter/İsim
+21
+Var
+Batı Karakter/İsim
+0
+Bilgi
+Coğrafi Referans (Türkiye)
+1
+Var
+İslami Referans
+3
+Var
+Değer İfadeleri
+10
+Var
+Kültürel Uyum Puanı: 100/100 -> [Uygun] Yüksek uyum
+Sonuç: Kitap, Türk-İslam kültürü ve değerleriyle kültürel uyum açısından
+değerlendirilmiştir.
+
+7. Sonuç ve Öneriler
+KARAR: DÜZELTMELERLE YAYINA UYGUNDUR
+Gerekçe: Tam kelime kontrolü ve bağlam analizi sonucunda 12 bulgu rapora alınmış,
+bunların 10 tanesi risk puanı 0'ın üzerinde değerlendirilmiştir. Analiz profili: HIBRIT.
+Kitap genel olarak yayımlanabilir niteliktedir; ancak işaretlenen problemli bağlamların
+pedagojik ton, yaş grubu ve olası özendirici anlatım açısından editoryal kontrolden
+geçirilmesi önerilir.
+Öneriler:
+- Risk puanı 0'ın üzerindeki cümleler editoryal olarak yeniden yazılmalı veya açıklayıcı
+bağlama alınmalıdır.
+- Özendirici, taklit ettirici ya da olumlayıcı anlatım izlenimi veren kısımlar yumuşatılmalıdır.
+- Düzeltme sonrası rapor yeniden üretilerek karar tablosu güncellenmelidir.
+Tespit Edilen Sorunlarla İlgili Öneriler:
+- Cinsel içerik kaldırılmalı veya çocuğun yaş grubuna uygun şekilde yumuşatılmalıdır.
+Mahrem konular dikkatli ve eğitici bir şekilde işlenmelidir.
+ Rapor Tarihi: 10.06.2026 09:35
+ 

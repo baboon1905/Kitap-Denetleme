@@ -1,0 +1,82 @@
+TOTAL 78
+CRITICAL 75
+HIGH 3
+
+LINE   19 | CRITICAL | compare   | endpoint_or_url_literal             | value='PDF endpoint' | snippet='"PDF endpoint"'
+LINE   20 | CRITICAL | literal   | endpoint_or_url_literal             | value="\n✓ Found 'PDF endpoint' string at Line " | snippet="\\n✓ Found 'PDF endpoint' string at Line "
+LINE   25 | CRITICAL | call_arg  | endpoint_or_url_literal             | value="\n✗ 'PDF endpoint' string not found in AST" | snippet='"\\n✗ \'PDF endpoint\' string not found in AST"'
+LINE  136 | CRITICAL | call_arg  | file_path_or_pdf                    | value='\\n' | snippet='"\\\\n"'
+LINE  188 | CRITICAL | literal   | endpoint_or_url_literal             | value=' endpoint=' | snippet='" "\n        f"endpoint='
+LINE  311 | CRITICAL | literal   | endpoint_or_url_literal             | value=' endpoint=' | snippet='" "\n        f"endpoint='
+LINE  363 | CRITICAL | literal   | endpoint_or_url_literal             | value=' endpoint=' | snippet='" "\n        f"endpoint='
+LINE  368 | CRITICAL | literal   | endpoint_or_url_literal             | value=' endpoint=' | snippet='" "\n        f"endpoint='
+LINE  424 | CRITICAL | assign    | file_path_or_pdf                    | value='application/json' | snippet='"application/json"'
+LINE  446 | CRITICAL | expr      | endpoint_or_url_literal,file_path_or_pdf | value="API'den gelen göreli/mutlak PDF yolunu çalışma dizininden bağımsız çözer." | snippet='"""API\'den gelen göreli/mutlak PDF yolunu çalışma dizininden bağımsız çözer."""'
+LINE  521 | CRITICAL | literal   | endpoint_or_url_literal             | value=' analiz_yapildi=' | snippet=' "\n            f"analiz_yapildi='
+LINE  522 | CRITICAL | call_arg  | endpoint_or_url_literal             | value='gorsel_icerik_analizi_yapildi' | snippet="'gorsel_icerik_analizi_yapildi'"
+LINE  529 | CRITICAL | call_arg  | file_path_or_pdf                    | value='/' | snippet="'/'"
+LINE  535 | CRITICAL | call_arg  | endpoint_or_url_literal,file_path_or_pdf | value='/api/profiller' | snippet="'/api/profiller'"
+LINE  562 | CRITICAL | call_arg  | endpoint_or_url_literal,file_path_or_pdf | value='/api/ozel-kelimeler' | snippet="'/api/ozel-kelimeler'"
+LINE  564 | CRITICAL | expr      | file_path_or_pdf                    | value='Kod degistirmeden yonetilen ozel kelime/regex sozlugunu dondur.' | snippet='"""Kod degistirmeden yonetilen ozel kelime/regex sozlugunu dondur."""'
+LINE  568 | CRITICAL | call_arg  | endpoint_or_url_literal,file_path_or_pdf | value='/api/kelime-yonetimi' | snippet="'/api/kelime-yonetimi'"
+LINE  574 | CRITICAL | call_arg  | endpoint_or_url_literal,file_path_or_pdf | value='/api/ozel-kelimeler' | snippet="'/api/ozel-kelimeler'"
+LINE  588 | CRITICAL | call_arg  | endpoint_or_url_literal,file_path_or_pdf | value='/api/ozel-kelimeler/terim' | snippet="'/api/ozel-kelimeler/terim'"
+LINE  609 | CRITICAL | call_arg  | endpoint_or_url_literal,file_path_or_pdf | value='/api/ozel-kelimeler/terim' | snippet="'/api/ozel-kelimeler/terim'"
+LINE  611 | CRITICAL | expr      | file_path_or_pdf                    | value='Ozel sozlukten kelime/regex sil.' | snippet='"""Ozel sozlukten kelime/regex sil."""'
+LINE  627 | CRITICAL | call_arg  | endpoint_or_url_literal,file_path_or_pdf | value='/api/ozel-kelimeler/tasi' | snippet="'/api/ozel-kelimeler/tasi'"
+LINE  655 | CRITICAL | call_arg  | endpoint_or_url_literal,file_path_or_pdf | value='/api/kelime-yonetimi/ozel' | snippet="'/api/kelime-yonetimi/ozel'"
+LINE  657 | CRITICAL | expr      | file_path_or_pdf                    | value='Ozel kelimeyi duzenle, kategori degistir veya aktif/pasif yap.' | snippet='"""Ozel kelimeyi duzenle, kategori degistir veya aktif/pasif yap."""'
+LINE  677 | CRITICAL | call_arg  | endpoint_or_url_literal,file_path_or_pdf | value='/api/kelime-yonetimi/sistem/aktif' | snippet="'/api/kelime-yonetimi/sistem/aktif'"
+LINE  679 | CRITICAL | expr      | file_path_or_pdf                    | value='Sistem kelimesini silmeden aktif/pasif yap.' | snippet='"""Sistem kelimesini silmeden aktif/pasif yap."""'
+LINE  695 | CRITICAL | call_arg  | endpoint_or_url_literal,file_path_or_pdf | value='/api/ozel-kelimeler/export' | snippet="'/api/ozel-kelimeler/export'"
+LINE  714 | CRITICAL | literal   | file_path_or_pdf                    | value='</t></is></c>' | snippet='</t></is></c>'
+LINE  722 | CRITICAL | literal   | file_path_or_pdf                    | value='Kelime / ifade' | snippet='"Kelime / ifade"'
+LINE  746 | CRITICAL | literal   | file_path_or_pdf                    | value='</row>' | snippet='</row>'
+LINE  749 | CRITICAL | literal   | endpoint_or_url_literal,file_path_or_pdf | value='<?xml version="1.0" encoding="UTF-8" standalone="yes"?><worksheet xmlns="http://schemas.openxmlformats.org/spreadsheetml/2006/main" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships"><cols><col min="1" max="1" width="14" customWidth="1"/><col min="2" max="3" width="24" customWidth="1"/><col min="4" max="4" width="34" customWidth="1"/><col min="5" max="7" width="14" customWidth="1"/><col min="8" max="8" width="48" customWidth="1"/><col min="9" max="9" width="24" customWidth="1"/></cols><sheetData>' | snippet='\'<?xml version="1.0" encoding="UTF-8" standalone="yes"?>\'\n        \'<worksheet xmlns="http://schemas.openxmlformats.org/spreadsheetml/2006/main" \'\n        \'xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships">\'\n        \'<cols>\'\n        \'<col min="1" max="1" width="14" customWidth="1"/>\'\n        \'<col min="2" max="3" width="24" customWidth="1"/>\'\n        \'<col min="4" max="4" width="34" customWidth="1"/>\'\n        \'<col min="5" max="7" width="14" customWidth="1"/>\'\n        \'<col min="8" max="8" width="48" customWidth="1"/>\'\n        \'<col min="9" max="9" width="24" customWidth="1"/>\'\n        \'</cols>\'\n        f\'<sheetData>'
+LINE  760 | CRITICAL | literal   | file_path_or_pdf                    | value='</sheetData></worksheet>' | snippet="</sheetData>'\n        '</worksheet>'"
+LINE  764 | CRITICAL | assign    | endpoint_or_url_literal,file_path_or_pdf | value='<?xml version="1.0" encoding="UTF-8" standalone="yes"?><workbook xmlns="http://schemas.openxmlformats.org/spreadsheetml/2006/main" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships"><sheets><sheet name="Kelime Yonetimi" sheetId="1" r:id="rId1"/></sheets></workbook>' | snippet='\'<?xml version="1.0" encoding="UTF-8" standalone="yes"?>\'\n        \'<workbook xmlns="http://schemas.openxmlformats.org/spreadsheetml/2006/main" \'\n        \'xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships">\'\n        \'<sheets><sheet name="Kelime Yonetimi" sheetId="1" r:id="rId1"/></sheets>\'\n        \'</workbook>\''
+LINE  771 | CRITICAL | assign    | endpoint_or_url_literal,file_path_or_pdf | value='<?xml version="1.0" encoding="UTF-8" standalone="yes"?><Relationships xmlns="http://schemas.openxmlformats.org/package/2006/relationships"><Relationship Id="rId1" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/officeDocument" Target="xl/workbook.xml"/></Relationships>' | snippet='\'<?xml version="1.0" encoding="UTF-8" standalone="yes"?>\'\n        \'<Relationships xmlns="http://schemas.openxmlformats.org/package/2006/relationships">\'\n        \'<Relationship Id="rId1" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/officeDocument" Target="xl/workbook.xml"/>\'\n        \'</Relationships>\''
+LINE  777 | CRITICAL | assign    | endpoint_or_url_literal,file_path_or_pdf | value='<?xml version="1.0" encoding="UTF-8" standalone="yes"?><Relationships xmlns="http://schemas.openxmlformats.org/package/2006/relationships"><Relationship Id="rId1" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/worksheet" Target="worksheets/sheet1.xml"/></Relationships>' | snippet='\'<?xml version="1.0" encoding="UTF-8" standalone="yes"?>\'\n        \'<Relationships xmlns="http://schemas.openxmlformats.org/package/2006/relationships">\'\n        \'<Relationship Id="rId1" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/worksheet" Target="worksheets/sheet1.xml"/>\'\n        \'</Relationships>\''
+LINE  783 | CRITICAL | assign    | endpoint_or_url_literal,file_path_or_pdf | value='<?xml version="1.0" encoding="UTF-8" standalone="yes"?><Types xmlns="http://schemas.openxmlformats.org/package/2006/content-types"><Default Extension="rels" ContentType="application/vnd.openxmlformats-package.relationships+xml"/><Default Extension="xml" ContentType="application/xml"/><Override PartName="/xl/workbook.xml" ContentType="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet.main+xml"/><Override PartName="/xl/worksheets/sheet1.xml" ContentType="application/vnd.openxmlformats-officedocument.spreadsheetml.worksheet+xml"/></Types>' | snippet='\'<?xml version="1.0" encoding="UTF-8" standalone="yes"?>\'\n        \'<Types xmlns="http://schemas.openxmlformats.org/package/2006/content-types">\'\n        \'<Default Extension="rels" ContentType="application/vnd.openxmlformats-package.relationships+xml"/>\'\n        \'<Default Extension="xml" ContentType="application/xml"/>\'\n        \'<Override PartName="/xl/workbook.xml" ContentType="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet.main+xml"/>\'\n        \'<Override PartName="/xl/worksheets/sheet1.xml" ContentType="application/vnd.openxmlformats-officedocument.spreadsheetml.worksheet+xml"/>\'\n        \'</Types>\''
+LINE  795 | CRITICAL | call_arg  | file_path_or_pdf                    | value='_rels/.rels' | snippet='"_rels/.rels"'
+LINE  796 | CRITICAL | call_arg  | file_path_or_pdf                    | value='xl/workbook.xml' | snippet='"xl/workbook.xml"'
+LINE  797 | CRITICAL | call_arg  | file_path_or_pdf                    | value='xl/_rels/workbook.xml.rels' | snippet='"xl/_rels/workbook.xml.rels"'
+LINE  798 | CRITICAL | call_arg  | file_path_or_pdf                    | value='xl/worksheets/sheet1.xml' | snippet='"xl/worksheets/sheet1.xml"'
+LINE  803 | CRITICAL | call_arg  | endpoint_or_url_literal,file_path_or_pdf | value='/api/kelime-yonetimi/export-excel' | snippet="'/api/kelime-yonetimi/export-excel'"
+LINE  815 | CRITICAL | literal   | file_path_or_pdf                    | value='application/vnd.openxmlformats-officedocument.spreadsheetml.sheet' | snippet='"application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"'
+LINE  821 | CRITICAL | call_arg  | endpoint_or_url_literal,file_path_or_pdf | value='/api/yukleme' | snippet="'/api/yukleme'"
+LINE  863 | CRITICAL | call_arg  | endpoint_or_url_literal,file_path_or_pdf | value='/api/degerlendir' | snippet="'/api/degerlendir'"
+LINE  865 | CRITICAL | expr      | file_path_or_pdf                    | value='\n    Kitabı Maarif Modeli\'ne göre değerlendir\n    \n    POST Body:\n    {\n        "dosya_yolu": "path/to/file.pdf",\n        "profil": "hibrit" (default),\n        "yas_grubu": "6-12" (default)\n    }\n    ' | snippet='"""\n    Kitabı Maarif Modeli\'ne göre değerlendir\n    \n    POST Body:\n    {\n        "dosya_yolu": "path/to/file.pdf",\n        "profil": "hibrit" (default),\n        "yas_grubu": "6-12" (default)\n    }\n    """'
+LINE  923 | CRITICAL | call_arg  | endpoint_or_url_literal,file_path_or_pdf | value='/api/tema-kazanim/analiz' | snippet="'/api/tema-kazanim/analiz'"
+LINE  950 | CRITICAL | call_arg  | endpoint_or_url_literal,file_path_or_pdf | value='/api/tema-kazanim/kaydet' | snippet="'/api/tema-kazanim/kaydet'"
+LINE  962 | CRITICAL | call_arg  | endpoint_or_url_literal,file_path_or_pdf | value='/api/theme-report/teacher-pdf' | snippet="'/api/theme-report/teacher-pdf'"
+LINE  977 | CRITICAL | call_arg  | endpoint_or_url_literal,file_path_or_pdf | value='/api/theme-report/teacher-pdf' | snippet='"/api/theme-report/teacher-pdf"'
+LINE  981 | CRITICAL | call_arg  | endpoint_or_url_literal,file_path_or_pdf | value='/api/theme-report/teacher-pdf' | snippet='"/api/theme-report/teacher-pdf"'
+LINE  988 | CRITICAL | call_arg  | endpoint_or_url_literal,file_path_or_pdf | value='/api/theme-report/teacher-pdf:reanalysis' | snippet='"/api/theme-report/teacher-pdf:reanalysis"'
+LINE  991 | CRITICAL | call_arg  | endpoint_or_url_literal,file_path_or_pdf | value='/api/theme-report/teacher-pdf:reanalysis' | snippet='"/api/theme-report/teacher-pdf:reanalysis"'
+LINE  995 | CRITICAL | call_arg  | endpoint_or_url_literal,file_path_or_pdf | value='/api/theme-report/teacher-pdf' | snippet='"/api/theme-report/teacher-pdf"'
+LINE 1031 | CRITICAL | literal   | file_path_or_pdf                    | value='application/pdf' | snippet='"application/pdf"'
+LINE 1048 | CRITICAL | call_arg  | endpoint_or_url_literal,file_path_or_pdf | value='/api/tema-kazanim/rapor' | snippet="'/api/tema-kazanim/rapor'"
+LINE 1053 | CRITICAL | call_arg  | endpoint_or_url_literal,file_path_or_pdf | value='/api/tema-kazanim/rapor:start' | snippet='"/api/tema-kazanim/rapor:start"'
+LINE 1059 | CRITICAL | call_arg  | file_path_or_pdf                    | value='/teacher-pdf' | snippet='"/teacher-pdf"'
+LINE 1080 | CRITICAL | call_arg  | endpoint_or_url_literal,file_path_or_pdf | value='/api/tema-kazanim/rapor:input' | snippet='"/api/tema-kazanim/rapor:input"'
+LINE 1124 | CRITICAL | call_arg  | endpoint_or_url_literal,file_path_or_pdf | value='/api/tema-kazanim/rapor:input' | snippet='"/api/tema-kazanim/rapor:input"'
+LINE 1169 | HIGH     | compare   | comparison_with_string_literal      | value='Özet güvenilir üretilemedi.' | snippet='"Özet güvenilir üretilemedi."'
+LINE 1187 | CRITICAL | call_arg  | endpoint_or_url_literal,file_path_or_pdf | value='/api/tema-kazanim/rapor' | snippet='"/api/tema-kazanim/rapor"'
+LINE 1192 | CRITICAL | call_arg  | endpoint_or_url_literal,file_path_or_pdf | value='/api/tema-kazanim/rapor' | snippet='"/api/tema-kazanim/rapor"'
+LINE 1195 | CRITICAL | call_arg  | endpoint_or_url_literal,file_path_or_pdf | value='/api/tema-kazanim/rapor' | snippet='"/api/tema-kazanim/rapor"'
+LINE 1201 | CRITICAL | literal   | endpoint_or_url_literal,file_path_or_pdf | value=' endpoint=/api/tema-kazanim/rapor pdf_function=theme_gain_analysis.build_pdf_report request_kitap_ozeti_var=' | snippet=' "\n            f"endpoint=/api/tema-kazanim/rapor "\n            f"pdf_function=theme_gain_analysis.build_pdf_report "\n            f"request_kitap_ozeti_var='
+LINE 1220 | CRITICAL | call_arg  | file_path_or_pdf                    | value='/' | snippet='"/"'
+LINE 1220 | CRITICAL | call_arg  | file_path_or_pdf                    | value='\\' | snippet='"\\\\"'
+LINE 1253 | CRITICAL | call_arg  | endpoint_or_url_literal,file_path_or_pdf | value='/api/rapor' | snippet="'/api/rapor'"
+LINE 1336 | HIGH     | compare   | comparison_with_string_literal      | value='Eksik Analiz' | snippet="'Eksik Analiz'"
+LINE 1337 | HIGH     | compare   | comparison_with_string_literal      | value='Eksik Analiz' | snippet="'Eksik Analiz'"
+LINE 1367 | CRITICAL | literal   | file_path_or_pdf                    | value='application/pdf' | snippet="'application/pdf'"
+LINE 1382 | CRITICAL | call_arg  | endpoint_or_url_literal,file_path_or_pdf | value='/api/karsilastir' | snippet="'/api/karsilastir'"
+LINE 1428 | CRITICAL | call_arg  | endpoint_or_url_literal,file_path_or_pdf | value='/api/professional/kelime-degerlendirme' | snippet="'/api/professional/kelime-degerlendirme'"
+LINE 1492 | CRITICAL | call_arg  | endpoint_or_url_literal,file_path_or_pdf | value='/api/professional/metin-analiz' | snippet="'/api/professional/metin-analiz'"
+LINE 1559 | CRITICAL | call_arg  | endpoint_or_url_literal,file_path_or_pdf | value='/api/professional/profiller' | snippet="'/api/professional/profiller'"
+LINE 1569 | CRITICAL | dict_value | file_path_or_pdf                    | value='Maarif/MEB' | snippet='"Maarif/MEB"'
+LINE 1588 | CRITICAL | call_arg  | file_path_or_pdf                    | value='/health' | snippet="'/health'"
+LINE 1604 | CRITICAL | call_arg  | file_path_or_pdf                    | value='/version' | snippet="'/version'"
+LINE 1605 | CRITICAL | call_arg  | file_path_or_pdf                    | value='/debug-build-id' | snippet="'/debug-build-id'"

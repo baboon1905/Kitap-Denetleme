@@ -1,0 +1,28 @@
+{
+  "fix_id": "RC11.1",
+  "title": "Generic Title vs Narrator Resolution",
+  "status": "passed",
+  "summary": [
+    "Title metadata is no longer treated as sufficient evidence for narrator or main-character promotion.",
+    "Character and narrator candidates now require independent textual evidence before being elevated from title-only matches.",
+    "The change is implemented in the shared character-resolution pipeline and applies across books rather than via book-specific heuristics."
+  ],
+  "verification": {
+    "new_regression_tests": {
+      "status": "passed",
+      "count": 2
+    },
+    "regression_coverage": {
+      "status": "passed",
+      "count": 7
+    },
+    "benchmark_harness": {
+      "status": "passed"
+    }
+  },
+  "constraints": {
+    "book_specific_heuristics": false,
+    "title_only_promotion": false,
+    "production_behavior_preserved": true
+  }
+}

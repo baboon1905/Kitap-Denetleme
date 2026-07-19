@@ -1,0 +1,24 @@
+[
+  {
+    "pattern_id": "theme_courage",
+    "category": "theme",
+    "status": "candidate",
+    "raw_confidence": 0.45,
+    "calibrated_confidence": 0.51,
+    "evidence_count": 1,
+    "source": "narrative.summary",
+    "algorithm_version": "monitor-v1",
+    "match_snippet": "Kahramanın cesareti gösterilir."
+  },
+  {
+    "pattern_id": "theme_resilience",
+    "category": "theme",
+    "status": "active",
+    "raw_confidence": 0.72,
+    "calibrated_confidence": 0.75,
+    "evidence_count": 3,
+    "source": "semantic.theme_clusters",
+    "algorithm_version": "monitor-v1",
+    "match_snippet": "Dayanıklılığın teması tekrarlanır."
+  }
+]

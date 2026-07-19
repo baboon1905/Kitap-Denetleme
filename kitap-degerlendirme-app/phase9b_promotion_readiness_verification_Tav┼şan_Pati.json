@@ -1,0 +1,74 @@
+{
+  "title": "Tavşan Pati",
+  "checks": {
+    "equal_without_shadow": true,
+    "promotion_under_shadow_only": true,
+    "production_payload_unchanged": true,
+    "deterministic": true,
+    "promotion_present_under_narrative": true
+  },
+  "diagnostics_ok": true,
+  "components_ok": true,
+  "promotion": {
+    "components": [
+      {
+        "name": "theme_validation",
+        "readiness": "experimental",
+        "confidence": 0.0,
+        "reasons": [
+          "Low confidence or insufficient coverage — experimental only"
+        ]
+      },
+      {
+        "name": "character_validation",
+        "readiness": "experimental",
+        "confidence": 0.0,
+        "reasons": [
+          "Low confidence or insufficient coverage — experimental only"
+        ]
+      },
+      {
+        "name": "learning_outcome_validation",
+        "readiness": "experimental",
+        "confidence": 0.0,
+        "reasons": [
+          "Low confidence or insufficient coverage — experimental only"
+        ]
+      },
+      {
+        "name": "validation_coverage",
+        "readiness": "experimental",
+        "confidence": 0.0,
+        "reasons": [
+          "Low confidence or insufficient coverage — experimental only"
+        ]
+      },
+      {
+        "name": "validation_confidence",
+        "readiness": "experimental",
+        "confidence": 0.0,
+        "reasons": [
+          "Low confidence or insufficient coverage — experimental only"
+        ]
+      },
+      {
+        "name": "quality_comparison",
+        "readiness": "experimental",
+        "confidence": 0.0,
+        "reasons": [
+          "No reliable quality comparison signal"
+        ]
+      },
+      {
+        "name": "recommendations",
+        "readiness": "ready",
+        "confidence": 0.0,
+        "reasons": [
+          "No recommended changes"
+        ]
+      }
+    ],
+    "overall_readiness": "experimental",
+    "overall_confidence": 0.0
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "book_title": "Canary Case 2",
+  "topics": ["özgürlük", "umut"],
+  "semantic_labels": ["dayanıklılık", "umut"],
+  "pattern_matches": [
+    {
+      "pattern_id": "theme_resilience",
+      "matched_keywords": ["dayanıklılık"],
+      "source": "narrative.summary"
+    }
+  ]
+}

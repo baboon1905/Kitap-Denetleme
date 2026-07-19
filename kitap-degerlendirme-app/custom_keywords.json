@@ -1,0 +1,90 @@
+{
+  "_system_overrides": {
+    "siddet_suc": {
+      "tabanca": {
+        "active": true,
+        "updated_at": "2026-06-17T13:08:45"
+      },
+      "öldürmek": {
+        "active": true,
+        "updated_at": "2026-06-17T13:08:54"
+      }
+    }
+  },
+  "zararlı_alışkanlıklar": {
+    "keywords": [
+      {
+        "value": "sigara",
+        "active": true,
+        "updated_at": "2026-06-17T13:08:35"
+      },
+      {
+        "value": "nargile",
+        "active": true,
+        "updated_at": "2026-06-17T13:08:35"
+      },
+      {
+        "value": "elektronik sigara",
+        "active": true,
+        "updated_at": "2026-06-17T13:08:35"
+      },
+      {
+        "value": "vape",
+        "active": true,
+        "updated_at": "2026-06-17T13:08:35"
+      }
+    ],
+    "regex": [
+      {
+        "value": "alkollu\\s+arac\\s+kulland[ıi]",
+        "active": true,
+        "updated_at": "2026-06-17T13:08:35"
+      }
+    ]
+  },
+  "siddet_suc": {
+    "keywords": [
+      {
+        "value": "tabanca",
+        "active": true,
+        "updated_at": "2026-06-17T13:08:35"
+      },
+      {
+        "value": "pompali",
+        "active": true,
+        "updated_at": "2026-06-17T13:08:35"
+      },
+      {
+        "value": "bicak cekti",
+        "active": true,
+        "updated_at": "2026-06-17T13:08:35"
+      }
+    ],
+    "regex": [
+      {
+        "value": "silah[ıi]n[ıi]\\s+cekti",
+        "active": true,
+        "updated_at": "2026-06-17T13:08:35"
+      }
+    ]
+  },
+  "cinsellik_mahremiyet": {
+    "keywords": [
+      {
+        "value": "opustu",
+        "active": true,
+        "updated_at": "2026-06-17T13:08:35"
+      },
+      {
+        "value": "dudaktan optu",
+        "active": true,
+        "updated_at": "2026-06-17T13:08:35"
+      }
+    ],
+    "regex": []
+  },
+  "korku_travma": {
+    "keywords": [],
+    "regex": []
+  }
+}

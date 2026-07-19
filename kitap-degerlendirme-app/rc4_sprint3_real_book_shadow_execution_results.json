@@ -1,0 +1,66 @@
+{
+  "generated_at": "1970-01-01T00:00:00Z",
+  "total_books": 3,
+  "execution_results": [
+    {
+      "book_id": "book-1",
+      "shadow_execution_completed": true,
+      "orchestrator_called": true,
+      "stage_order": [
+        "pattern_match_producer",
+        "confidence_engine",
+        "semantic_monitor",
+        "evidence_ranking",
+        "explainability",
+        "acceptance_gate",
+        "human_review_package",
+        "shadow_production_delta"
+      ],
+      "deterministic": true,
+      "production_output_changed": false,
+      "runtime_pipeline_bound": false
+    },
+    {
+      "book_id": "book-2",
+      "shadow_execution_completed": true,
+      "orchestrator_called": true,
+      "stage_order": [
+        "pattern_match_producer",
+        "confidence_engine",
+        "semantic_monitor",
+        "evidence_ranking",
+        "explainability",
+        "acceptance_gate",
+        "human_review_package",
+        "shadow_production_delta"
+      ],
+      "deterministic": true,
+      "production_output_changed": false,
+      "runtime_pipeline_bound": false
+    },
+    {
+      "book_id": "book-3",
+      "shadow_execution_completed": true,
+      "orchestrator_called": true,
+      "stage_order": [
+        "pattern_match_producer",
+        "confidence_engine",
+        "semantic_monitor",
+        "evidence_ranking",
+        "explainability",
+        "acceptance_gate",
+        "human_review_package",
+        "shadow_production_delta"
+      ],
+      "deterministic": true,
+      "production_output_changed": false,
+      "runtime_pipeline_bound": false
+    }
+  ],
+  "all_shadow_execution_completed": true,
+  "orchestrator_called_all": true,
+  "stage_order_consistent": true,
+  "deterministic_all": true,
+  "production_output_changed_any": false,
+  "runtime_pipeline_bound_any": false
+}

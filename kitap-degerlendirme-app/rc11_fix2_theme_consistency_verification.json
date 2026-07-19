@@ -1,0 +1,20 @@
+{
+  "fix_id": "rc11_fix2_theme_consistency_across_reports",
+  "status": "passed",
+  "summary": "Teacher-facing report surfaces now derive their theme label from the canonical main theme used by the detailed report pipeline.",
+  "verification": {
+    "tests_run": [
+      "tests/test_theme_consistency_across_reports.py",
+      "tests/test_title_narrator_resolution.py"
+    ],
+    "results": {
+      "tests/test_theme_consistency_across_reports.py": "passed",
+      "tests/test_title_narrator_resolution.py": "passed"
+    },
+    "pytest_command": "python -m pytest -q tests/test_title_narrator_resolution.py tests/test_theme_consistency_across_reports.py"
+  },
+  "files_changed": [
+    "theme_gain_analysis.py",
+    "tests/test_theme_consistency_across_reports.py"
+  ]
+}

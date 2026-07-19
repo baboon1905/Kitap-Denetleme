@@ -1,0 +1,35 @@
+[
+  {
+    "pattern_id": "theme_resilience",
+    "category": "theme",
+    "status": "active",
+    "raw_confidence": 0.72,
+    "calibrated_confidence": 0.75,
+    "evidence_count": 3,
+    "source": "semantic.theme_clusters",
+    "algorithm_version": "monitor-v1",
+    "match_snippet": "Dayanıklılığın teması tekrarlanır."
+  },
+  {
+    "pattern_id": "character_protagonist",
+    "category": "character_role",
+    "status": "active",
+    "raw_confidence": 0.68,
+    "calibrated_confidence": 0.72,
+    "evidence_count": 2,
+    "source": "narrative.summary",
+    "algorithm_version": "monitor-v1",
+    "match_snippet": "Kahraman liderliğini kanıtladı."
+  },
+  {
+    "pattern_id": "theme_growth",
+    "category": "theme",
+    "status": "candidate",
+    "raw_confidence": 0.50,
+    "calibrated_confidence": 0.55,
+    "evidence_count": 1,
+    "source": "summary_ir.themes",
+    "algorithm_version": "monitor-v1",
+    "match_snippet": "Kahraman kendini geliştiriyor."
+  }
+]

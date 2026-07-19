@@ -1,0 +1,24 @@
+{
+  "sprint": "RC3 Sprint 6B — Semantic Orchestrator Artifact Producer",
+  "orchestrator_enabled": true,
+  "stage_order": [
+    "pattern_match_producer",
+    "confidence_engine",
+    "semantic_monitor",
+    "evidence_ranking",
+    "explainability",
+    "acceptance_gate",
+    "human_review_package",
+    "shadow_production_delta"
+  ],
+  "pattern_matches_count": 9,
+  "pattern_activations_count": 5,
+  "ranked_evidence_count": 5,
+  "explanations_count": 5,
+  "acceptance_decisions_count": 5,
+  "human_review_items_count": 5,
+  "delta_analysis_present": true,
+  "deterministic": true,
+  "production_output_changed": false,
+  "equal_without_shadow": true
+}

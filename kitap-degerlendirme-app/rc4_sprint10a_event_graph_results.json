@@ -1,0 +1,216 @@
+{
+  "sprint": "RC4 Sprint 10A - Event Graph Regression Check",
+  "timestamp": "2026-07-09T11:10:38.075536",
+  "source_data": "rc4_sprint9b_event_reconstruction_results.json",
+  "books": [
+    {
+      "book_idx": 1,
+      "book_title": "benim_adim_kristof_kolomb.pdf",
+      "input_event_count": 44,
+      "event_group_count": 21,
+      "compression_ratio": 0.523,
+      "first_5_event_groups": [
+        {
+          "group_id": "group_000",
+          "main_event": "arasındaki o kestirme yolu bulacağıma dair kendi kendime söz verdim",
+          "actors": [
+            "Harikalar",
+            "Hindistan",
+            "Marco",
+            "Polo"
+          ],
+          "chronology": [
+            "event_000",
+            "event_001"
+          ],
+          "supporting_events": [
+            "event_001"
+          ],
+          "importance": 0.7
+        },
+        {
+          "group_id": "group_001",
+          "main_event": "yaptı ancak onun danışmanları da benim deli olduğumu düşündüler",
+          "actors": [
+            "Portekiz"
+          ],
+          "chronology": [
+            "event_002",
+            "event_003"
+          ],
+          "supporting_events": [
+            "event_003"
+          ],
+          "importance": 1.0
+        },
+        {
+          "group_id": "group_002",
+          "main_event": "gelen Hintliler kutsandılar ve ekselansları, bundan sonra bu kişilere iyi davranılmasını emretti",
+          "actors": [
+            "Hintliler"
+          ],
+          "chronology": [
+            "event_004",
+            "event_005"
+          ],
+          "supporting_events": [
+            "event_005"
+          ],
+          "importance": 0.7
+        },
+        {
+          "group_id": "group_003",
+          "main_event": "karşılaştırıyor ve geminin hızı ile birlikte kat edilen mesafeyi belirliyorlardı",
+          "actors": [
+            "Kolomb",
+            "Kristof"
+          ],
+          "chronology": [
+            "event_006",
+            "event_007"
+          ],
+          "supporting_events": [
+            "event_007"
+          ],
+          "importance": 1.0
+        },
+        {
+          "group_id": "group_004",
+          "main_event": "açıklamalarda bulunmamama rağmen Fernando ve Isabel, bana olan güvenlerini kaybetmediler ve 1497 yılı son larında",
+          "actors": [
+            "Fernando",
+            "Isabel"
+          ],
+          "chronology": [
+            "event_008",
+            "event_009"
+          ],
+          "supporting_events": [
+            "event_009"
+          ],
+          "importance": 0.7
+        }
+      ],
+      "average_group_importance": 0.767,
+      "source_sentence_id_preservation_rate": 1.0,
+      "production_output_changed": false,
+      "runtime_pipeline_bound": false
+    },
+    {
+      "book_idx": 2,
+      "book_title": "benim_adim_kristof_kolomb.pdf",
+      "input_event_count": 43,
+      "event_group_count": 21,
+      "compression_ratio": 0.512,
+      "first_5_event_groups": [
+        {
+          "group_id": "group_000",
+          "main_event": "arasındaki o kestirme yolu bulacağıma dair kendi kendime söz verdim",
+          "actors": [
+            "Harikalar",
+            "Hindistan",
+            "Marco",
+            "Polo"
+          ],
+          "chronology": [
+            "event_000",
+            "event_001"
+          ],
+          "supporting_events": [
+            "event_001"
+          ],
+          "importance": 0.7
+        },
+        {
+          "group_id": "group_001",
+          "main_event": "yaptı ancak onun danışmanları da benim deli olduğumu düşündüler",
+          "actors": [
+            "Portekiz"
+          ],
+          "chronology": [
+            "event_002",
+            "event_003"
+          ],
+          "supporting_events": [
+            "event_003"
+          ],
+          "importance": 1.0
+        },
+        {
+          "group_id": "group_002",
+          "main_event": "gelen Hintliler kutsandılar ve ekselansları, bundan sonra bu kişilere iyi davranılmasını emretti",
+          "actors": [
+            "Hintliler"
+          ],
+          "chronology": [
+            "event_004",
+            "event_005"
+          ],
+          "supporting_events": [
+            "event_005"
+          ],
+          "importance": 0.7
+        },
+        {
+          "group_id": "group_003",
+          "main_event": "karşılaştırıyor ve geminin hızı ile birlikte kat edilen mesafeyi belirliyorlardı",
+          "actors": [
+            "Kolomb",
+            "Kristof"
+          ],
+          "chronology": [
+            "event_006",
+            "event_007"
+          ],
+          "supporting_events": [
+            "event_007"
+          ],
+          "importance": 1.0
+        },
+        {
+          "group_id": "group_004",
+          "main_event": "açıklamalarda bulunmamama rağmen Fernando ve Isabel, bana olan güvenlerini kaybetmediler ve 1497 yılı son larında",
+          "actors": [
+            "Fernando",
+            "Isabel"
+          ],
+          "chronology": [
+            "event_008",
+            "event_009"
+          ],
+          "supporting_events": [
+            "event_009"
+          ],
+          "importance": 0.7
+        }
+      ],
+      "average_group_importance": 0.767,
+      "source_sentence_id_preservation_rate": 1.0,
+      "production_output_changed": false,
+      "runtime_pipeline_bound": false
+    },
+    {
+      "book_idx": 3,
+      "book_title": "Book 3",
+      "input_event_count": 0,
+      "event_group_count": 0,
+      "compression_ratio": 0.0,
+      "first_5_event_groups": [],
+      "average_group_importance": 0.0,
+      "source_sentence_id_preservation_rate": 0.0,
+      "production_output_changed": false,
+      "runtime_pipeline_bound": false
+    }
+  ],
+  "aggregate_metrics": {
+    "total_books": 3,
+    "total_input_events": 87,
+    "total_event_groups": 42,
+    "average_compression_ratio": 0.345,
+    "average_groups_per_book": 14.0,
+    "source_sentence_id_preservation_rate": 0.667,
+    "deterministic": true,
+    "production_output_changed_any": false,
+    "runtime_pipeline_bound_any": false
+  }
+}

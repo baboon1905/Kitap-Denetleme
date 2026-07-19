@@ -1,0 +1,888 @@
+{
+  "sprint": "RC4 Sprint 11B - Event Reconstructor on real books",
+  "timestamp": "2026-07-09T12:21:11.755386",
+  "books": {
+    "Tavşan Pati": {
+      "pdf_path": "C:\\Users\\fatih\\Masaüstü\\Kitap Değerlendirme\\kitap-degerlendirme-app\\uploads\\arkadaslik_oykuleri_tavsan_patinin_sasirtici_yolculugu_ic.pdf",
+      "input_evidence_count": 78,
+      "metrics": {
+        "total_events": 78,
+        "goal_filled": 0,
+        "object_filled": 0,
+        "location_filled": 0,
+        "cause_filled": 78,
+        "effect_filled": 78,
+        "goal_fill_rate": 0.0,
+        "object_fill_rate": 0.0,
+        "location_fill_rate": 0.0,
+        "cause_fill_rate": 1.0,
+        "effect_fill_rate": 1.0,
+        "narrative_function_distribution": {
+          "inciting_incident": 37,
+          "rising_action": 36,
+          "resolution": 5
+        },
+        "temporal_marker_distribution": {
+          "middle": 73,
+          "end": 5
+        },
+        "resolution_state_distribution": {
+          "unresolved": 73,
+          "resolved": 5
+        }
+      },
+      "sample_enriched_events": [
+        {
+          "event_id": "event_057",
+          "actors": [
+            "Ali"
+          ],
+          "action": "27Eren ka fe si alıp he",
+          "object": "",
+          "goal": "",
+          "conflict": false,
+          "result": "",
+          "location_or_context": "",
+          "cause": "olay",
+          "effect": "durum değişimi",
+          "narrative_function": "rising_action",
+          "stakes": "progress",
+          "temporal_marker": "middle",
+          "resolution_state": "unresolved",
+          "importance": 0.3,
+          "supporting_evidence_ids": [
+            "arkadaslik_oykuleri_tavsan_patinin_sasirtici_yolculugu_ic.pdf:0:20"
+          ],
+          "source_sentence_ids": [
+            "arkadaslik_oykuleri_tavsan_patinin_sasirtici_yolculugu_ic.pdf:0:20"
+          ]
+        },
+        {
+          "event_id": "event_015",
+          "actors": [
+            "Pati"
+          ],
+          "action": "On dan özür di le ye",
+          "object": "",
+          "goal": "",
+          "conflict": false,
+          "result": "",
+          "location_or_context": "",
+          "cause": "olay",
+          "effect": "durum değişimi",
+          "narrative_function": "inciting_incident",
+          "stakes": "progress",
+          "temporal_marker": "middle",
+          "resolution_state": "unresolved",
+          "importance": 0.3,
+          "supporting_evidence_ids": [
+            "arkadaslik_oykuleri_tavsan_patinin_sasirtici_yolculugu_ic.pdf:0:15"
+          ],
+          "source_sentence_ids": [
+            "arkadaslik_oykuleri_tavsan_patinin_sasirtici_yolculugu_ic.pdf:0:15"
+          ]
+        },
+        {
+          "event_id": "event_049",
+          "actors": [
+            "Ali"
+          ],
+          "action": "27Eren ka fe si alıp he",
+          "object": "",
+          "goal": "",
+          "conflict": false,
+          "result": "",
+          "location_or_context": "",
+          "cause": "olay",
+          "effect": "durum değişimi",
+          "narrative_function": "rising_action",
+          "stakes": "progress",
+          "temporal_marker": "middle",
+          "resolution_state": "unresolved",
+          "importance": 0.3,
+          "supporting_evidence_ids": [
+            "arkadaslik_oykuleri_tavsan_patinin_sasirtici_yolculugu_ic.pdf:0:12"
+          ],
+          "source_sentence_ids": [
+            "arkadaslik_oykuleri_tavsan_patinin_sasirtici_yolculugu_ic.pdf:0:12"
+          ]
+        },
+        {
+          "event_id": "event_010",
+          "actors": [
+            "Hep"
+          ],
+          "action": "Hep bir ev cil hay va",
+          "object": "",
+          "goal": "",
+          "conflict": false,
+          "result": "",
+          "location_or_context": "",
+          "cause": "olay",
+          "effect": "durum değişimi",
+          "narrative_function": "inciting_incident",
+          "stakes": "progress",
+          "temporal_marker": "middle",
+          "resolution_state": "unresolved",
+          "importance": 0.3,
+          "supporting_evidence_ids": [
+            "arkadaslik_oykuleri_tavsan_patinin_sasirtici_yolculugu_ic.pdf:0:10"
+          ],
+          "source_sentence_ids": [
+            "arkadaslik_oykuleri_tavsan_patinin_sasirtici_yolculugu_ic.pdf:0:10"
+          ]
+        },
+        {
+          "event_id": "event_005",
+          "actors": [
+            "Hep"
+          ],
+          "action": "Hep bir ev cil hay va",
+          "object": "",
+          "goal": "",
+          "conflict": false,
+          "result": "",
+          "location_or_context": "",
+          "cause": "olay",
+          "effect": "durum değişimi",
+          "narrative_function": "inciting_incident",
+          "stakes": "progress",
+          "temporal_marker": "middle",
+          "resolution_state": "unresolved",
+          "importance": 0.3,
+          "supporting_evidence_ids": [
+            "arkadaslik_oykuleri_tavsan_patinin_sasirtici_yolculugu_ic.pdf:0:5"
+          ],
+          "source_sentence_ids": [
+            "arkadaslik_oykuleri_tavsan_patinin_sasirtici_yolculugu_ic.pdf:0:5"
+          ]
+        },
+        {
+          "event_id": "event_027",
+          "actors": [
+            "Ali",
+            "Pati"
+          ],
+          "action": "Ali ka fe si, için de",
+          "object": "",
+          "goal": "",
+          "conflict": false,
+          "result": "",
+          "location_or_context": "",
+          "cause": "olay",
+          "effect": "durum değişimi",
+          "narrative_function": "inciting_incident",
+          "stakes": "progress",
+          "temporal_marker": "middle",
+          "resolution_state": "unresolved",
+          "importance": 0.3,
+          "supporting_evidence_ids": [
+            "arkadaslik_oykuleri_tavsan_patinin_sasirtici_yolculugu_ic.pdf:0:27"
+          ],
+          "source_sentence_ids": [
+            "arkadaslik_oykuleri_tavsan_patinin_sasirtici_yolculugu_ic.pdf:0:27"
+          ]
+        },
+        {
+          "event_id": "event_055",
+          "actors": [
+            "Eren",
+            "Pati"
+          ],
+          "action": "An sordu.",
+          "object": "",
+          "goal": "",
+          "conflict": false,
+          "result": "",
+          "location_or_context": "",
+          "cause": "olay",
+          "effect": "durum değişimi",
+          "narrative_function": "rising_action",
+          "stakes": "progress",
+          "temporal_marker": "middle",
+          "resolution_state": "unresolved",
+          "importance": 0.3,
+          "supporting_evidence_ids": [
+            "arkadaslik_oykuleri_tavsan_patinin_sasirtici_yolculugu_ic.pdf:0:18"
+          ],
+          "source_sentence_ids": [
+            "arkadaslik_oykuleri_tavsan_patinin_sasirtici_yolculugu_ic.pdf:0:18"
+          ]
+        },
+        {
+          "event_id": "event_013",
+          "actors": [
+            "Bir"
+          ],
+          "action": "sorumluluğunu üstlendiğimizde onun la il gi len­ mek",
+          "object": "",
+          "goal": "",
+          "conflict": false,
+          "result": "",
+          "location_or_context": "",
+          "cause": "olay",
+          "effect": "durum değişimi",
+          "narrative_function": "inciting_incident",
+          "stakes": "progress",
+          "temporal_marker": "middle",
+          "resolution_state": "unresolved",
+          "importance": 0.3,
+          "supporting_evidence_ids": [
+            "arkadaslik_oykuleri_tavsan_patinin_sasirtici_yolculugu_ic.pdf:0:13"
+          ],
+          "source_sentence_ids": [
+            "arkadaslik_oykuleri_tavsan_patinin_sasirtici_yolculugu_ic.pdf:0:13"
+          ]
+        },
+        {
+          "event_id": "event_061",
+          "actors": [
+            "Ali"
+          ],
+          "action": "Ali, sorgular.",
+          "object": "",
+          "goal": "",
+          "conflict": false,
+          "result": "",
+          "location_or_context": "",
+          "cause": "olay",
+          "effect": "durum değişimi",
+          "narrative_function": "rising_action",
+          "stakes": "progress",
+          "temporal_marker": "middle",
+          "resolution_state": "unresolved",
+          "importance": 0.3,
+          "supporting_evidence_ids": [
+            "arkadaslik_oykuleri_tavsan_patinin_sasirtici_yolculugu_ic.pdf:0:24"
+          ],
+          "source_sentence_ids": [
+            "arkadaslik_oykuleri_tavsan_patinin_sasirtici_yolculugu_ic.pdf:0:24"
+          ]
+        },
+        {
+          "event_id": "event_032",
+          "actors": [
+            "Se"
+          ],
+          "action": "Se nin yaş la rın day",
+          "object": "",
+          "goal": "",
+          "conflict": false,
+          "result": "",
+          "location_or_context": "",
+          "cause": "olay",
+          "effect": "durum değişimi",
+          "narrative_function": "inciting_incident",
+          "stakes": "progress",
+          "temporal_marker": "middle",
+          "resolution_state": "unresolved",
+          "importance": 0.3,
+          "supporting_evidence_ids": [
+            "arkadaslik_oykuleri_tavsan_patinin_sasirtici_yolculugu_ic.pdf:0:32"
+          ],
+          "source_sentence_ids": [
+            "arkadaslik_oykuleri_tavsan_patinin_sasirtici_yolculugu_ic.pdf:0:32"
+          ]
+        }
+      ],
+      "reconstruction_summary": {
+        "event_count": 78,
+        "quality": 0.6
+      }
+    },
+    "Büyülü Yastıklar": {
+      "pdf_path": "C:\\Users\\fatih\\Masaüstü\\Kitap Değerlendirme\\kitap-degerlendirme-app\\uploads\\buyulu_yastiklar.pdf",
+      "input_evidence_count": 48,
+      "metrics": {
+        "total_events": 48,
+        "goal_filled": 2,
+        "object_filled": 0,
+        "location_filled": 0,
+        "cause_filled": 48,
+        "effect_filled": 48,
+        "goal_fill_rate": 0.042,
+        "object_fill_rate": 0.0,
+        "location_fill_rate": 0.0,
+        "cause_fill_rate": 1.0,
+        "effect_fill_rate": 1.0,
+        "narrative_function_distribution": {
+          "inciting_incident": 13,
+          "resolution": 19,
+          "rising_action": 16
+        },
+        "temporal_marker_distribution": {
+          "middle": 19,
+          "end": 29
+        },
+        "resolution_state_distribution": {
+          "resolved": 32,
+          "unresolved": 16
+        }
+      },
+      "sample_enriched_events": [
+        {
+          "event_id": "event_010",
+          "actors": [
+            "Ben",
+            "Yasemin"
+          ],
+          "action": "yaparsak mutlaka bir çare buluruz",
+          "object": "",
+          "goal": "",
+          "conflict": false,
+          "result": "",
+          "location_or_context": "",
+          "cause": "olay",
+          "effect": "durum değişimi",
+          "narrative_function": "resolution",
+          "stakes": "outcome",
+          "temporal_marker": "end",
+          "resolution_state": "resolved",
+          "importance": 0.5,
+          "supporting_evidence_ids": [
+            "buyulu_yastiklar.pdf:0:7"
+          ],
+          "source_sentence_ids": [
+            "buyulu_yastiklar.pdf:0:7"
+          ]
+        },
+        {
+          "event_id": "event_038",
+          "actors": [
+            "Kapgötür",
+            "Kral"
+          ],
+          "action": "buluş ortaya koyar",
+          "object": "",
+          "goal": "",
+          "conflict": false,
+          "result": "değişim yaşandı",
+          "location_or_context": "",
+          "cause": "olay",
+          "effect": "durum değişimi",
+          "narrative_function": "resolution",
+          "stakes": "outcome",
+          "temporal_marker": "end",
+          "resolution_state": "resolved",
+          "importance": 0.5,
+          "supporting_evidence_ids": [
+            "buyulu_yastiklar.pdf:0:35"
+          ],
+          "source_sentence_ids": [
+            "buyulu_yastiklar.pdf:0:35"
+          ]
+        },
+        {
+          "event_id": "event_001",
+          "actors": [
+            "Ben",
+            "Yasemin"
+          ],
+          "action": "yaparsak mutlaka bir çare buluruz",
+          "object": "",
+          "goal": "",
+          "conflict": false,
+          "result": "",
+          "location_or_context": "",
+          "cause": "olay",
+          "effect": "durum değişimi",
+          "narrative_function": "inciting_incident",
+          "stakes": "outcome",
+          "temporal_marker": "middle",
+          "resolution_state": "resolved",
+          "importance": 0.5,
+          "supporting_evidence_ids": [
+            "buyulu_yastiklar.pdf:0:1"
+          ],
+          "source_sentence_ids": [
+            "buyulu_yastiklar.pdf:0:1"
+          ]
+        },
+        {
+          "event_id": "event_009",
+          "actors": [
+            "Ben",
+            "Yasemin"
+          ],
+          "action": "yaparsak mutlaka bir çare buluruz",
+          "object": "",
+          "goal": "",
+          "conflict": false,
+          "result": "",
+          "location_or_context": "",
+          "cause": "olay",
+          "effect": "durum değişimi",
+          "narrative_function": "resolution",
+          "stakes": "outcome",
+          "temporal_marker": "end",
+          "resolution_state": "resolved",
+          "importance": 0.5,
+          "supporting_evidence_ids": [
+            "buyulu_yastiklar.pdf:0:6"
+          ],
+          "source_sentence_ids": [
+            "buyulu_yastiklar.pdf:0:6"
+          ]
+        },
+        {
+          "event_id": "event_024",
+          "actors": [
+            "Ben",
+            "Yasemin"
+          ],
+          "action": "yaparsak mutlaka bir çare buluruz",
+          "object": "",
+          "goal": "",
+          "conflict": false,
+          "result": "",
+          "location_or_context": "",
+          "cause": "olay",
+          "effect": "durum değişimi",
+          "narrative_function": "resolution",
+          "stakes": "outcome",
+          "temporal_marker": "end",
+          "resolution_state": "resolved",
+          "importance": 0.5,
+          "supporting_evidence_ids": [
+            "buyulu_yastiklar.pdf:0:21"
+          ],
+          "source_sentence_ids": [
+            "buyulu_yastiklar.pdf:0:21"
+          ]
+        },
+        {
+          "event_id": "event_041",
+          "actors": [
+            "Ben",
+            "Yasemin"
+          ],
+          "action": "yaparsak mutlaka bir çare buluruz",
+          "object": "",
+          "goal": "",
+          "conflict": false,
+          "result": "",
+          "location_or_context": "",
+          "cause": "olay",
+          "effect": "durum değişimi",
+          "narrative_function": "resolution",
+          "stakes": "outcome",
+          "temporal_marker": "end",
+          "resolution_state": "resolved",
+          "importance": 0.5,
+          "supporting_evidence_ids": [
+            "buyulu_yastiklar.pdf:0:38"
+          ],
+          "source_sentence_ids": [
+            "buyulu_yastiklar.pdf:0:38"
+          ]
+        },
+        {
+          "event_id": "event_020",
+          "actors": [
+            "Ben",
+            "Yasemin"
+          ],
+          "action": "yaparsak mutlaka bir çare buluruz",
+          "object": "",
+          "goal": "",
+          "conflict": false,
+          "result": "",
+          "location_or_context": "",
+          "cause": "olay",
+          "effect": "durum değişimi",
+          "narrative_function": "resolution",
+          "stakes": "outcome",
+          "temporal_marker": "end",
+          "resolution_state": "resolved",
+          "importance": 0.5,
+          "supporting_evidence_ids": [
+            "buyulu_yastiklar.pdf:0:17"
+          ],
+          "source_sentence_ids": [
+            "buyulu_yastiklar.pdf:0:17"
+          ]
+        },
+        {
+          "event_id": "event_007",
+          "actors": [
+            "Aydın",
+            "Evet",
+            "Kapgötür",
+            "Uyduruyorsun",
+            "Yasemin"
+          ],
+          "action": "gelip çocuklara anlatıyorlardı",
+          "object": "",
+          "goal": "",
+          "conflict": false,
+          "result": "",
+          "location_or_context": "",
+          "cause": "olay",
+          "effect": "durum değişimi",
+          "narrative_function": "rising_action",
+          "stakes": "progress",
+          "temporal_marker": "middle",
+          "resolution_state": "unresolved",
+          "importance": 0.5,
+          "supporting_evidence_ids": [
+            "buyulu_yastiklar.pdf:0:4"
+          ],
+          "source_sentence_ids": [
+            "buyulu_yastiklar.pdf:0:4"
+          ]
+        },
+        {
+          "event_id": "event_043",
+          "actors": [
+            "Kapgötür",
+            "Yılanson"
+          ],
+          "action": "BULUŞU Yılanson, Kapgötür’e, önce kuşkuyla karşılanan, ama sonra",
+          "object": "",
+          "goal": "",
+          "conflict": true,
+          "result": "",
+          "location_or_context": "",
+          "cause": "olay",
+          "effect": "durum değişimi",
+          "narrative_function": "inciting_incident",
+          "stakes": "moral and survival",
+          "temporal_marker": "end",
+          "resolution_state": "resolved",
+          "importance": 1.0,
+          "supporting_evidence_ids": [
+            "buyulu_yastiklar.pdf:0:40"
+          ],
+          "source_sentence_ids": [
+            "buyulu_yastiklar.pdf:0:40"
+          ]
+        },
+        {
+          "event_id": "event_005",
+          "actors": [
+            "Kapgötür",
+            "Yılanson"
+          ],
+          "action": "BULUŞU Yılanson, Kapgötür’e, önce kuşkuyla karşılanan, ama sonra",
+          "object": "",
+          "goal": "",
+          "conflict": true,
+          "result": "",
+          "location_or_context": "",
+          "cause": "olay",
+          "effect": "durum değişimi",
+          "narrative_function": "inciting_incident",
+          "stakes": "moral and survival",
+          "temporal_marker": "end",
+          "resolution_state": "resolved",
+          "importance": 1.0,
+          "supporting_evidence_ids": [
+            "buyulu_yastiklar.pdf:0:2"
+          ],
+          "source_sentence_ids": [
+            "buyulu_yastiklar.pdf:0:2"
+          ]
+        }
+      ],
+      "reconstruction_summary": {
+        "event_count": 48,
+        "quality": 0.7
+      }
+    },
+    "Benim Adım Kristof Kolomb": {
+      "pdf_path": "C:\\Users\\fatih\\Masaüstü\\Kitap Değerlendirme\\kitap-degerlendirme-app\\uploads\\benim_adim_kristof_kolomb.pdf",
+      "input_evidence_count": 103,
+      "metrics": {
+        "total_events": 103,
+        "goal_filled": 45,
+        "object_filled": 19,
+        "location_filled": 32,
+        "cause_filled": 103,
+        "effect_filled": 103,
+        "goal_fill_rate": 0.437,
+        "object_fill_rate": 0.184,
+        "location_fill_rate": 0.311,
+        "cause_fill_rate": 1.0,
+        "effect_fill_rate": 1.0,
+        "narrative_function_distribution": {
+          "inciting_incident": 52,
+          "resolution": 50,
+          "rising_action": 1
+        },
+        "temporal_marker_distribution": {
+          "middle": 47,
+          "end": 56
+        },
+        "resolution_state_distribution": {
+          "resolved": 87,
+          "unresolved": 16
+        }
+      },
+      "sample_enriched_events": [
+        {
+          "event_id": "event_094",
+          "actors": [
+            "Burası"
+          ],
+          "action": "geldiğimizi düşündüm",
+          "object": "",
+          "goal": "",
+          "conflict": false,
+          "result": "",
+          "location_or_context": "",
+          "cause": "olay",
+          "effect": "durum değişimi",
+          "narrative_function": "resolution",
+          "stakes": "outcome",
+          "temporal_marker": "end",
+          "resolution_state": "resolved",
+          "importance": 0.5,
+          "supporting_evidence_ids": [
+            "benim_adim_kristof_kolomb.pdf:0:27"
+          ],
+          "source_sentence_ids": [
+            "benim_adim_kristof_kolomb.pdf:0:27"
+          ]
+        },
+        {
+          "event_id": "event_012",
+          "actors": [
+            "Hedeflerimde"
+          ],
+          "action": "aramaya koyuldum",
+          "object": "",
+          "goal": "yardım",
+          "conflict": false,
+          "result": "",
+          "location_or_context": "",
+          "cause": "moral kaybı",
+          "effect": "mürettebat umudunu kaybetti",
+          "narrative_function": "inciting_incident",
+          "stakes": "moral and survival",
+          "temporal_marker": "middle",
+          "resolution_state": "resolved",
+          "importance": 0.7,
+          "supporting_evidence_ids": [
+            "benim_adim_kristof_kolomb.pdf:0:12"
+          ],
+          "source_sentence_ids": [
+            "benim_adim_kristof_kolomb.pdf:0:12"
+          ]
+        },
+        {
+          "event_id": "event_079",
+          "actors": [
+            "Hintliler"
+          ],
+          "action": "gelen Hintliler kutsandılar ve ekselansları, bundan sonra bu",
+          "object": "",
+          "goal": "",
+          "conflict": false,
+          "result": "",
+          "location_or_context": "",
+          "cause": "olay",
+          "effect": "durum değişimi",
+          "narrative_function": "resolution",
+          "stakes": "outcome",
+          "temporal_marker": "end",
+          "resolution_state": "resolved",
+          "importance": 0.7,
+          "supporting_evidence_ids": [
+            "benim_adim_kristof_kolomb.pdf:0:12"
+          ],
+          "source_sentence_ids": [
+            "benim_adim_kristof_kolomb.pdf:0:12"
+          ]
+        },
+        {
+          "event_id": "event_003",
+          "actors": [
+            "Mürettebata"
+          ],
+          "action": "karaya ulaştı",
+          "object": "Karaya",
+          "goal": "karaya ulaşma",
+          "conflict": false,
+          "result": "",
+          "location_or_context": "",
+          "cause": "hedefe yaklaşma",
+          "effect": "yeni bilgi edinimi",
+          "narrative_function": "inciting_incident",
+          "stakes": "discovery",
+          "temporal_marker": "middle",
+          "resolution_state": "unresolved",
+          "importance": 0.5,
+          "supporting_evidence_ids": [
+            "benim_adim_kristof_kolomb.pdf:0:3"
+          ],
+          "source_sentence_ids": [
+            "benim_adim_kristof_kolomb.pdf:0:3"
+          ]
+        },
+        {
+          "event_id": "event_084",
+          "actors": [
+            "Bir"
+          ],
+          "action": "Bir süre sonra bunun bir şenlik",
+          "object": "",
+          "goal": "",
+          "conflict": false,
+          "result": "",
+          "location_or_context": "",
+          "cause": "olay",
+          "effect": "durum değişimi",
+          "narrative_function": "resolution",
+          "stakes": "outcome",
+          "temporal_marker": "end",
+          "resolution_state": "resolved",
+          "importance": 0.5,
+          "supporting_evidence_ids": [
+            "benim_adim_kristof_kolomb.pdf:0:17"
+          ],
+          "source_sentence_ids": [
+            "benim_adim_kristof_kolomb.pdf:0:17"
+          ]
+        },
+        {
+          "event_id": "event_051",
+          "actors": [
+            "Harikalar",
+            "Marco",
+            "Polo"
+          ],
+          "action": "arasındaki o kestirme yolu bulacağıma dair kendi kendime",
+          "object": "",
+          "goal": "",
+          "conflict": false,
+          "result": "",
+          "location_or_context": "Hindistan",
+          "cause": "olay",
+          "effect": "durum değişimi",
+          "narrative_function": "resolution",
+          "stakes": "outcome",
+          "temporal_marker": "end",
+          "resolution_state": "resolved",
+          "importance": 0.7,
+          "supporting_evidence_ids": [
+            "benim_adim_kristof_kolomb.pdf:0:10"
+          ],
+          "source_sentence_ids": [
+            "benim_adim_kristof_kolomb.pdf:0:10"
+          ]
+        },
+        {
+          "event_id": "event_087",
+          "actors": [
+            "Kendimi",
+            "Sizi"
+          ],
+          "action": "sorguladıkları bir şifreyle imzalamaya karar verdim: S S",
+          "object": "",
+          "goal": "",
+          "conflict": false,
+          "result": "",
+          "location_or_context": "",
+          "cause": "olay",
+          "effect": "durum değişimi",
+          "narrative_function": "resolution",
+          "stakes": "progress",
+          "temporal_marker": "end",
+          "resolution_state": "resolved",
+          "importance": 0.6,
+          "supporting_evidence_ids": [
+            "benim_adim_kristof_kolomb.pdf:0:20"
+          ],
+          "source_sentence_ids": [
+            "benim_adim_kristof_kolomb.pdf:0:20"
+          ]
+        },
+        {
+          "event_id": "event_052",
+          "actors": [
+            "Batlamyus",
+            "Batı",
+            "Doğu",
+            "Kolomb",
+            "Kristof"
+          ],
+          "action": "yapılarak Doğu ülkelerine ulaşılabileceğini savunmuşlardı",
+          "object": "",
+          "goal": "batıya yolculuk",
+          "conflict": true,
+          "result": "",
+          "location_or_context": "Hindistan",
+          "cause": "hedefe yaklaşma",
+          "effect": "yeni bilgi edinimi",
+          "narrative_function": "inciting_incident",
+          "stakes": "moral and survival",
+          "temporal_marker": "middle",
+          "resolution_state": "unresolved",
+          "importance": 0.8,
+          "supporting_evidence_ids": [
+            "benim_adim_kristof_kolomb.pdf:0:11"
+          ],
+          "source_sentence_ids": [
+            "benim_adim_kristof_kolomb.pdf:0:11"
+          ]
+        },
+        {
+          "event_id": "event_000",
+          "actors": [
+            "Kolomb",
+            "Kristof"
+          ],
+          "action": "karşılaştırıyor ve geminin hızı ile birlikte kat edilen",
+          "object": "",
+          "goal": "karşılaşma",
+          "conflict": true,
+          "result": "değişim yaşandı",
+          "location_or_context": "",
+          "cause": "olay",
+          "effect": "durum değişimi",
+          "narrative_function": "inciting_incident",
+          "stakes": "moral and survival",
+          "temporal_marker": "middle",
+          "resolution_state": "resolved",
+          "importance": 1.0,
+          "supporting_evidence_ids": [
+            "benim_adim_kristof_kolomb.pdf:0:0"
+          ],
+          "source_sentence_ids": [
+            "benim_adim_kristof_kolomb.pdf:0:0"
+          ]
+        },
+        {
+          "event_id": "event_058",
+          "actors": [
+            "Kolomb",
+            "Kristof"
+          ],
+          "action": "açık denizlerde yolumuzu kaybetmeden ilerlememizi sağlamalarıydı",
+          "object": "",
+          "goal": "yardım",
+          "conflict": false,
+          "result": "",
+          "location_or_context": "",
+          "cause": "moral kaybı",
+          "effect": "mürettebat umudunu kaybetti",
+          "narrative_function": "resolution",
+          "stakes": "moral and survival",
+          "temporal_marker": "end",
+          "resolution_state": "resolved",
+          "importance": 0.8,
+          "supporting_evidence_ids": [
+            "benim_adim_kristof_kolomb.pdf:0:17"
+          ],
+          "source_sentence_ids": [
+            "benim_adim_kristof_kolomb.pdf:0:17"
+          ]
+        }
+      ],
+      "reconstruction_summary": {
+        "event_count": 103,
+        "quality": 1.0
+      }
+    }
+  }
+}

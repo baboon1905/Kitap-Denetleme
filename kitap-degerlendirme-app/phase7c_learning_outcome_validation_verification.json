@@ -1,0 +1,97 @@
+{
+  "books": [
+    {
+      "title": "Tavşan Pati",
+      "compare": {
+        "diff_paths": [],
+        "equal_without_shadow": true
+      },
+      "learning_outcome_validation_checks": {
+        "learning_outcome_validation_present": true,
+        "learning_outcome_validation_only_in_shadow": true,
+        "learning_outcome_validation_item_count": 0,
+        "learning_outcome_validation_diagnostics_present": true
+      },
+      "true_shadow_keys": [
+        "comparison",
+        "entity_graph",
+        "event_graph",
+        "narrative",
+        "narrative_plan",
+        "quality_contract",
+        "summary_ir"
+      ],
+      "production_leakage": {
+        "root_has_learning_outcome_validation": false,
+        "shadow_only_structure_present": true,
+        "production_payload_leaks_detected": false
+      },
+      "deterministic_shadow_output": {
+        "stable_across_repeated_runs": true,
+        "run_count": 2
+      }
+    },
+    {
+      "title": "Büyülü Yastıklar",
+      "compare": {
+        "diff_paths": [],
+        "equal_without_shadow": true
+      },
+      "learning_outcome_validation_checks": {
+        "learning_outcome_validation_present": true,
+        "learning_outcome_validation_only_in_shadow": true,
+        "learning_outcome_validation_item_count": 0,
+        "learning_outcome_validation_diagnostics_present": true
+      },
+      "true_shadow_keys": [
+        "comparison",
+        "entity_graph",
+        "event_graph",
+        "narrative",
+        "narrative_plan",
+        "quality_contract",
+        "summary_ir"
+      ],
+      "production_leakage": {
+        "root_has_learning_outcome_validation": false,
+        "shadow_only_structure_present": true,
+        "production_payload_leaks_detected": false
+      },
+      "deterministic_shadow_output": {
+        "stable_across_repeated_runs": true,
+        "run_count": 2
+      }
+    },
+    {
+      "title": "Benim Adım Kristof Kolomb",
+      "compare": {
+        "diff_paths": [],
+        "equal_without_shadow": true
+      },
+      "learning_outcome_validation_checks": {
+        "learning_outcome_validation_present": true,
+        "learning_outcome_validation_only_in_shadow": true,
+        "learning_outcome_validation_item_count": 2,
+        "learning_outcome_validation_diagnostics_present": true
+      },
+      "true_shadow_keys": [
+        "comparison",
+        "entity_graph",
+        "event_graph",
+        "narrative",
+        "narrative_plan",
+        "quality_contract",
+        "summary_ir"
+      ],
+      "production_leakage": {
+        "root_has_learning_outcome_validation": false,
+        "shadow_only_structure_present": true,
+        "production_payload_leaks_detected": false
+      },
+      "deterministic_shadow_output": {
+        "stable_across_repeated_runs": true,
+        "run_count": 2
+      }
+    }
+  ]
+}

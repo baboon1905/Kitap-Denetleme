@@ -1,0 +1,70 @@
+{
+  "sprint": "RC4 Sprint 7C — Failure Analysis",
+  "generated_at": "1970-01-01T00:00:00Z",
+  "total_books": 3,
+  "failed_books": 3,
+  "most_common_failure_dimensions": [
+    "low_concreteness",
+    "weak_event_sequence",
+    "insufficient_narrative_reconstruction",
+    "theme_summary_disconnect",
+    "missing_resolution"
+  ],
+  "primary_root_cause": "low_concreteness",
+  "recommended_next_action": "focus_failure_root_causes_in_summary_generation",
+  "deterministic": true,
+  "books": [
+    {
+      "book_title": "Tavşan Pati",
+      "summary_quality_score": 76.7,
+      "coherence": 0.267,
+      "concreteness_score": 0.01,
+      "failed_quality_dimensions": [
+        "coherence",
+        "concreteness"
+      ],
+      "likely_root_causes": [
+        "low_concreteness",
+        "weak_event_sequence"
+      ],
+      "recommended_fix_area": "concreteness_detail"
+    },
+    {
+      "book_title": "Büyülü Yastıklar",
+      "summary_quality_score": 49.6,
+      "coherence": 0.417,
+      "concreteness_score": 0.045,
+      "failed_quality_dimensions": [
+        "concreteness",
+        "conflict",
+        "main_message"
+      ],
+      "likely_root_causes": [
+        "low_concreteness",
+        "weak_event_sequence",
+        "theme_summary_disconnect",
+        "insufficient_narrative_reconstruction"
+      ],
+      "recommended_fix_area": "concreteness_detail"
+    },
+    {
+      "book_title": "Benim Adım Kristof Kolomb",
+      "summary_quality_score": 32.6,
+      "coherence": 0.267,
+      "concreteness_score": 0.009,
+      "failed_quality_dimensions": [
+        "coherence",
+        "concreteness",
+        "conflict",
+        "resolution"
+      ],
+      "likely_root_causes": [
+        "missing_resolution",
+        "low_concreteness",
+        "weak_event_sequence",
+        "insufficient_narrative_reconstruction"
+      ],
+      "recommended_fix_area": "narrative_resolution"
+    }
+  ]
+}

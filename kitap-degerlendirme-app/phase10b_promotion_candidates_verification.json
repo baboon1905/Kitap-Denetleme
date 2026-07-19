@@ -1,0 +1,365 @@
+{
+  "books": [
+    {
+      "title": "Tavşan Pati",
+      "checks": {
+        "equal_without_shadow": true,
+        "promotion_candidates_only_under_narrative": true,
+        "production_payload_unchanged": true,
+        "deterministic": true,
+        "book_specific_heuristic": false
+      },
+      "diagnostics": {
+        "promote_candidate_count": 1,
+        "monitor_candidate_count": 1,
+        "hold_candidate_count": 6,
+        "promotion_candidate_confidence": 0.38,
+        "source": "runtime_v7_promotion_candidates"
+      },
+      "diagnostics_ok": true,
+      "promotion_candidates": {
+        "candidates": [
+          {
+            "component": "Theme Validation",
+            "candidate_status": "promote_candidate",
+            "readiness": "ready",
+            "impact": "medium",
+            "confidence": 0.72,
+            "reasons": [
+              "High readiness and meaningful estimated impact.",
+              "The decision is driven by deterministic readiness and impact signals."
+            ]
+          },
+          {
+            "component": "Character Validation",
+            "candidate_status": "hold",
+            "readiness": "needs_more_validation",
+            "impact": "low",
+            "confidence": 0.52,
+            "reasons": [
+              "The component is not yet strong enough for promotion.",
+              "The decision is driven by deterministic readiness and impact signals."
+            ]
+          },
+          {
+            "component": "Learning Outcome Validation",
+            "candidate_status": "hold",
+            "readiness": "experimental",
+            "impact": "insufficient_data",
+            "confidence": 0.0,
+            "reasons": [
+              "The component is not yet strong enough for promotion.",
+              "The decision is driven by deterministic readiness and impact signals."
+            ]
+          },
+          {
+            "component": "Validation Coverage",
+            "candidate_status": "hold",
+            "readiness": "needs_more_validation",
+            "impact": "low",
+            "confidence": 0.41,
+            "reasons": [
+              "The component is not yet strong enough for promotion.",
+              "The decision is driven by deterministic readiness and impact signals."
+            ]
+          },
+          {
+            "component": "Validation Confidence",
+            "candidate_status": "hold",
+            "readiness": "needs_more_validation",
+            "impact": "low",
+            "confidence": 0.41,
+            "reasons": [
+              "The component is not yet strong enough for promotion.",
+              "The decision is driven by deterministic readiness and impact signals."
+            ]
+          },
+          {
+            "component": "Quality Comparison",
+            "candidate_status": "hold",
+            "readiness": "experimental",
+            "impact": "insufficient_data",
+            "confidence": 0.0,
+            "reasons": [
+              "The component is not yet strong enough for promotion.",
+              "The decision is driven by deterministic readiness and impact signals."
+            ]
+          },
+          {
+            "component": "Recommendation Engine",
+            "candidate_status": "monitor",
+            "readiness": "needs_more_validation",
+            "impact": "medium",
+            "confidence": 0.58,
+            "reasons": [
+              "Moderate readiness but still needs closer review.",
+              "The decision is driven by deterministic readiness and impact signals."
+            ]
+          },
+          {
+            "component": "Promotion Readiness",
+            "candidate_status": "hold",
+            "readiness": "experimental",
+            "impact": "low",
+            "confidence": 0.38,
+            "reasons": [
+              "The component is not yet strong enough for promotion.",
+              "The decision is driven by deterministic readiness and impact signals."
+            ]
+          }
+        ],
+        "promote_candidate_count": 1,
+        "monitor_count": 1,
+        "hold_count": 6,
+        "diagnostics": {
+          "promote_candidate_count": 1,
+          "monitor_candidate_count": 1,
+          "hold_candidate_count": 6,
+          "promotion_candidate_confidence": 0.38,
+          "source": "runtime_v7_promotion_candidates"
+        }
+      }
+    },
+    {
+      "title": "Büyülü Yastıklar",
+      "checks": {
+        "equal_without_shadow": true,
+        "promotion_candidates_only_under_narrative": true,
+        "production_payload_unchanged": true,
+        "deterministic": true,
+        "book_specific_heuristic": false
+      },
+      "diagnostics": {
+        "promote_candidate_count": 1,
+        "monitor_candidate_count": 1,
+        "hold_candidate_count": 6,
+        "promotion_candidate_confidence": 0.38,
+        "source": "runtime_v7_promotion_candidates"
+      },
+      "diagnostics_ok": true,
+      "promotion_candidates": {
+        "candidates": [
+          {
+            "component": "Theme Validation",
+            "candidate_status": "promote_candidate",
+            "readiness": "ready",
+            "impact": "medium",
+            "confidence": 0.72,
+            "reasons": [
+              "High readiness and meaningful estimated impact.",
+              "The decision is driven by deterministic readiness and impact signals."
+            ]
+          },
+          {
+            "component": "Character Validation",
+            "candidate_status": "hold",
+            "readiness": "needs_more_validation",
+            "impact": "low",
+            "confidence": 0.52,
+            "reasons": [
+              "The component is not yet strong enough for promotion.",
+              "The decision is driven by deterministic readiness and impact signals."
+            ]
+          },
+          {
+            "component": "Learning Outcome Validation",
+            "candidate_status": "hold",
+            "readiness": "experimental",
+            "impact": "insufficient_data",
+            "confidence": 0.0,
+            "reasons": [
+              "The component is not yet strong enough for promotion.",
+              "The decision is driven by deterministic readiness and impact signals."
+            ]
+          },
+          {
+            "component": "Validation Coverage",
+            "candidate_status": "hold",
+            "readiness": "needs_more_validation",
+            "impact": "low",
+            "confidence": 0.41,
+            "reasons": [
+              "The component is not yet strong enough for promotion.",
+              "The decision is driven by deterministic readiness and impact signals."
+            ]
+          },
+          {
+            "component": "Validation Confidence",
+            "candidate_status": "hold",
+            "readiness": "needs_more_validation",
+            "impact": "low",
+            "confidence": 0.41,
+            "reasons": [
+              "The component is not yet strong enough for promotion.",
+              "The decision is driven by deterministic readiness and impact signals."
+            ]
+          },
+          {
+            "component": "Quality Comparison",
+            "candidate_status": "hold",
+            "readiness": "experimental",
+            "impact": "insufficient_data",
+            "confidence": 0.0,
+            "reasons": [
+              "The component is not yet strong enough for promotion.",
+              "The decision is driven by deterministic readiness and impact signals."
+            ]
+          },
+          {
+            "component": "Recommendation Engine",
+            "candidate_status": "monitor",
+            "readiness": "needs_more_validation",
+            "impact": "medium",
+            "confidence": 0.58,
+            "reasons": [
+              "Moderate readiness but still needs closer review.",
+              "The decision is driven by deterministic readiness and impact signals."
+            ]
+          },
+          {
+            "component": "Promotion Readiness",
+            "candidate_status": "hold",
+            "readiness": "experimental",
+            "impact": "low",
+            "confidence": 0.38,
+            "reasons": [
+              "The component is not yet strong enough for promotion.",
+              "The decision is driven by deterministic readiness and impact signals."
+            ]
+          }
+        ],
+        "promote_candidate_count": 1,
+        "monitor_count": 1,
+        "hold_count": 6,
+        "diagnostics": {
+          "promote_candidate_count": 1,
+          "monitor_candidate_count": 1,
+          "hold_candidate_count": 6,
+          "promotion_candidate_confidence": 0.38,
+          "source": "runtime_v7_promotion_candidates"
+        }
+      }
+    },
+    {
+      "title": "Benim Adım Kristof Kolomb",
+      "checks": {
+        "equal_without_shadow": true,
+        "promotion_candidates_only_under_narrative": true,
+        "production_payload_unchanged": true,
+        "deterministic": true,
+        "book_specific_heuristic": false
+      },
+      "diagnostics": {
+        "promote_candidate_count": 1,
+        "monitor_candidate_count": 1,
+        "hold_candidate_count": 6,
+        "promotion_candidate_confidence": 0.38,
+        "source": "runtime_v7_promotion_candidates"
+      },
+      "diagnostics_ok": true,
+      "promotion_candidates": {
+        "candidates": [
+          {
+            "component": "Theme Validation",
+            "candidate_status": "promote_candidate",
+            "readiness": "ready",
+            "impact": "medium",
+            "confidence": 0.72,
+            "reasons": [
+              "High readiness and meaningful estimated impact.",
+              "The decision is driven by deterministic readiness and impact signals."
+            ]
+          },
+          {
+            "component": "Character Validation",
+            "candidate_status": "hold",
+            "readiness": "needs_more_validation",
+            "impact": "low",
+            "confidence": 0.52,
+            "reasons": [
+              "The component is not yet strong enough for promotion.",
+              "The decision is driven by deterministic readiness and impact signals."
+            ]
+          },
+          {
+            "component": "Learning Outcome Validation",
+            "candidate_status": "hold",
+            "readiness": "experimental",
+            "impact": "insufficient_data",
+            "confidence": 0.0,
+            "reasons": [
+              "The component is not yet strong enough for promotion.",
+              "The decision is driven by deterministic readiness and impact signals."
+            ]
+          },
+          {
+            "component": "Validation Coverage",
+            "candidate_status": "hold",
+            "readiness": "needs_more_validation",
+            "impact": "low",
+            "confidence": 0.41,
+            "reasons": [
+              "The component is not yet strong enough for promotion.",
+              "The decision is driven by deterministic readiness and impact signals."
+            ]
+          },
+          {
+            "component": "Validation Confidence",
+            "candidate_status": "hold",
+            "readiness": "needs_more_validation",
+            "impact": "low",
+            "confidence": 0.41,
+            "reasons": [
+              "The component is not yet strong enough for promotion.",
+              "The decision is driven by deterministic readiness and impact signals."
+            ]
+          },
+          {
+            "component": "Quality Comparison",
+            "candidate_status": "hold",
+            "readiness": "experimental",
+            "impact": "insufficient_data",
+            "confidence": 0.0,
+            "reasons": [
+              "The component is not yet strong enough for promotion.",
+              "The decision is driven by deterministic readiness and impact signals."
+            ]
+          },
+          {
+            "component": "Recommendation Engine",
+            "candidate_status": "monitor",
+            "readiness": "needs_more_validation",
+            "impact": "medium",
+            "confidence": 0.58,
+            "reasons": [
+              "Moderate readiness but still needs closer review.",
+              "The decision is driven by deterministic readiness and impact signals."
+            ]
+          },
+          {
+            "component": "Promotion Readiness",
+            "candidate_status": "hold",
+            "readiness": "experimental",
+            "impact": "low",
+            "confidence": 0.38,
+            "reasons": [
+              "The component is not yet strong enough for promotion.",
+              "The decision is driven by deterministic readiness and impact signals."
+            ]
+          }
+        ],
+        "promote_candidate_count": 1,
+        "monitor_count": 1,
+        "hold_count": 6,
+        "diagnostics": {
+          "promote_candidate_count": 1,
+          "monitor_candidate_count": 1,
+          "hold_candidate_count": 6,
+          "promotion_candidate_confidence": 0.38,
+          "source": "runtime_v7_promotion_candidates"
+        }
+      }
+    }
+  ],
+  "all_ok": true
+}

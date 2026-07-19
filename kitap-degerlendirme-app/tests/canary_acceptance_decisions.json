@@ -1,0 +1,12 @@
+[
+  {
+    "pattern_id": "theme_adventure",
+    "decision": "accepted",
+    "decision_score": 1.0
+  },
+  {
+    "pattern_id": "theme_courage",
+    "decision": "review",
+    "decision_score": 0.5
+  }
+]

@@ -1,0 +1,75 @@
+{
+  "sprint": "RC3 Sprint 3B — Semantic Explainability Artifact Producer",
+  "timestamp": "2026-07-07T00:00:00Z",
+  "total_explanations": 4,
+  "explanation_coverage": 1.0,
+  "explanation_schema_valid": true,
+  "deterministic": true,
+  "production_output_changed": false,
+  "equal_without_shadow": true,
+  "first_3_explanations": [
+    {
+      "pattern_id": "theme_adventure",
+      "decision": "Pattern 'theme_adventure' activated with status 'active'",
+      "reasoning": "Pattern selected due to evidence from summary_ir.themes source with 2 supporting evidence items and sufficient confidence threshold",
+      "supporting_signals": [
+        "calibrated_confidence=0.59",
+        "evidence_count=2",
+        "raw_confidence=0.55",
+        "source=summary_ir.themes",
+        "status=active"
+      ],
+      "confidence_level": "medium",
+      "rank_context": "Rank #2 with score 4.6 due to evidence_count=2, source_weight=0.8, semantic_density=0.0, cluster_support=0",
+      "delta_context": "Delta: coverage_delta=0.5714285714285714, overlap_score=0.5",
+      "audit_trail": [
+        "Pattern detection: source=summary_ir.themes",
+        "Evidence aggregation: count=2",
+        "Status assignment: active",
+        "Ranking: rank=2, score=4.6"
+      ]
+    },
+    {
+      "pattern_id": "theme_courage",
+      "decision": "Pattern 'theme_courage' activated with status 'candidate'",
+      "reasoning": "Pattern marked as candidate based on 1 evidence item(s) from narrative.summary source, below active threshold",
+      "supporting_signals": [
+        "calibrated_confidence=0.51",
+        "evidence_count=1",
+        "raw_confidence=0.45",
+        "source=narrative.summary",
+        "status=candidate"
+      ],
+      "confidence_level": "medium",
+      "rank_context": "Rank #4 with score 3.1 due to evidence_count=1, source_weight=0.8, semantic_density=0.0, cluster_support=0",
+      "delta_context": "Delta: coverage_delta=0.5714285714285714, overlap_score=0.5",
+      "audit_trail": [
+        "Pattern detection: source=narrative.summary",
+        "Evidence aggregation: count=1",
+        "Status assignment: candidate",
+        "Ranking: rank=4, score=3.1"
+      ]
+    },
+    {
+      "pattern_id": "theme_friendship",
+      "decision": "Pattern 'theme_friendship' activated with status 'active'",
+      "reasoning": "Pattern selected due to evidence from semantic.theme_clusters source with 1 supporting evidence items and sufficient confidence threshold",
+      "supporting_signals": [
+        "calibrated_confidence=0.68",
+        "evidence_count=1",
+        "raw_confidence=0.65",
+        "source=semantic.theme_clusters",
+        "status=active"
+      ],
+      "confidence_level": "medium",
+      "rank_context": "Rank #3 with score 4.3 due to evidence_count=1, source_weight=1.0, semantic_density=0.0, cluster_support=1",
+      "delta_context": "Delta: coverage_delta=0.5714285714285714, overlap_score=0.5",
+      "audit_trail": [
+        "Pattern detection: source=semantic.theme_clusters",
+        "Evidence aggregation: count=1",
+        "Status assignment: active",
+        "Ranking: rank=3, score=4.3"
+      ]
+    }
+  ]
+}

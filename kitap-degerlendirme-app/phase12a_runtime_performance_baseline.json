@@ -1,0 +1,128 @@
+{
+  "books": [
+    {
+      "title": "Tavşan Pati",
+      "checks": {
+        "equal_without_shadow": true,
+        "performance_baseline_only_under_shadow": true,
+        "production_payload_unchanged": true,
+        "deterministic_semantic_output": true,
+        "book_specific_heuristic": false
+      },
+      "performance_baseline": {
+        "total_runtime_ms": 1.442,
+        "shadow_pipeline_ms": 0.663,
+        "module_timings": {
+          "summary_ir": 0.085,
+          "narrative_graph": 0.013,
+          "narrative_chain": 0.063,
+          "cause_effect": 0.013,
+          "conflict_graph": 0.028,
+          "theme_validation": 0.068,
+          "character_validation": 0.101,
+          "learning_outcome_validation": 0.027,
+          "recommendations": 0.054,
+          "promotion_readiness": 0.028,
+          "shadow_audit": 0.086
+        },
+        "shadow_overhead_ratio": 0.46
+      },
+      "module_timings": {
+        "summary_ir": 0.085,
+        "narrative_graph": 0.013,
+        "narrative_chain": 0.063,
+        "cause_effect": 0.013,
+        "conflict_graph": 0.028,
+        "theme_validation": 0.068,
+        "character_validation": 0.101,
+        "learning_outcome_validation": 0.027,
+        "recommendations": 0.054,
+        "promotion_readiness": 0.028,
+        "shadow_audit": 0.086
+      }
+    },
+    {
+      "title": "Büyülü Yastıklar",
+      "checks": {
+        "equal_without_shadow": true,
+        "performance_baseline_only_under_shadow": true,
+        "production_payload_unchanged": true,
+        "deterministic_semantic_output": true,
+        "book_specific_heuristic": false
+      },
+      "performance_baseline": {
+        "total_runtime_ms": 1.486,
+        "shadow_pipeline_ms": 0.645,
+        "module_timings": {
+          "summary_ir": 0.089,
+          "narrative_graph": 0.01,
+          "narrative_chain": 0.05,
+          "cause_effect": 0.009,
+          "conflict_graph": 0.028,
+          "theme_validation": 0.036,
+          "character_validation": 0.153,
+          "learning_outcome_validation": 0.027,
+          "recommendations": 0.051,
+          "promotion_readiness": 0.021,
+          "shadow_audit": 0.076
+        },
+        "shadow_overhead_ratio": 0.434
+      },
+      "module_timings": {
+        "summary_ir": 0.089,
+        "narrative_graph": 0.01,
+        "narrative_chain": 0.05,
+        "cause_effect": 0.009,
+        "conflict_graph": 0.028,
+        "theme_validation": 0.036,
+        "character_validation": 0.153,
+        "learning_outcome_validation": 0.027,
+        "recommendations": 0.051,
+        "promotion_readiness": 0.021,
+        "shadow_audit": 0.076
+      }
+    },
+    {
+      "title": "Benim Adım Kristof Kolomb",
+      "checks": {
+        "equal_without_shadow": true,
+        "performance_baseline_only_under_shadow": true,
+        "production_payload_unchanged": true,
+        "deterministic_semantic_output": true,
+        "book_specific_heuristic": false
+      },
+      "performance_baseline": {
+        "total_runtime_ms": 1.353,
+        "shadow_pipeline_ms": 0.602,
+        "module_timings": {
+          "summary_ir": 0.079,
+          "narrative_graph": 0.006,
+          "narrative_chain": 0.042,
+          "cause_effect": 0.006,
+          "conflict_graph": 0.02,
+          "theme_validation": 0.054,
+          "character_validation": 0.113,
+          "learning_outcome_validation": 0.049,
+          "recommendations": 0.071,
+          "promotion_readiness": 0.021,
+          "shadow_audit": 0.071
+        },
+        "shadow_overhead_ratio": 0.445
+      },
+      "module_timings": {
+        "summary_ir": 0.079,
+        "narrative_graph": 0.006,
+        "narrative_chain": 0.042,
+        "cause_effect": 0.006,
+        "conflict_graph": 0.02,
+        "theme_validation": 0.054,
+        "character_validation": 0.113,
+        "learning_outcome_validation": 0.049,
+        "recommendations": 0.071,
+        "promotion_readiness": 0.021,
+        "shadow_audit": 0.071
+      }
+    }
+  ],
+  "all_ok": true
+}

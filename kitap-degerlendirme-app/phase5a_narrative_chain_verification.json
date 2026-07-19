@@ -1,0 +1,139 @@
+{
+  "books": [
+    {
+      "title": "Tavşan Pati",
+      "compare": {
+        "diff_paths": [],
+        "equal_without_shadow": true
+      },
+      "narrative_checks": {
+        "has_narrative_chains": true,
+        "chain_count": 1,
+        "largest_chain_size": 5,
+        "isolated_event_count": 0,
+        "average_chain_length": 5.0,
+        "chain_confidence": 0.75,
+        "diagnostics_keys": [
+          "arc_completeness_score",
+          "average_chain_length",
+          "chain_confidence",
+          "chain_count",
+          "connected_component_count",
+          "disconnected_event_count",
+          "event_count",
+          "generic_event_count",
+          "generic_event_ratio",
+          "isolated_event_count",
+          "largest_chain_size",
+          "main_arc_confidence",
+          "meaningful_event_count",
+          "narrative_confidence",
+          "placeholder_event_count",
+          "placeholder_event_ratio",
+          "source",
+          "story_arc_type",
+          "weak_narrative_reason"
+        ]
+      },
+      "true_shadow_keys": [
+        "comparison",
+        "entity_graph",
+        "event_graph",
+        "narrative",
+        "narrative_plan",
+        "quality_contract",
+        "summary_ir"
+      ]
+    },
+    {
+      "title": "Büyülü Yastıklar",
+      "compare": {
+        "diff_paths": [],
+        "equal_without_shadow": true
+      },
+      "narrative_checks": {
+        "has_narrative_chains": true,
+        "chain_count": 1,
+        "largest_chain_size": 4,
+        "isolated_event_count": 0,
+        "average_chain_length": 4.0,
+        "chain_confidence": 0.75,
+        "diagnostics_keys": [
+          "arc_completeness_score",
+          "average_chain_length",
+          "chain_confidence",
+          "chain_count",
+          "connected_component_count",
+          "disconnected_event_count",
+          "event_count",
+          "generic_event_count",
+          "generic_event_ratio",
+          "isolated_event_count",
+          "largest_chain_size",
+          "main_arc_confidence",
+          "meaningful_event_count",
+          "narrative_confidence",
+          "placeholder_event_count",
+          "placeholder_event_ratio",
+          "source",
+          "story_arc_type",
+          "weak_narrative_reason"
+        ]
+      },
+      "true_shadow_keys": [
+        "comparison",
+        "entity_graph",
+        "event_graph",
+        "narrative",
+        "narrative_plan",
+        "quality_contract",
+        "summary_ir"
+      ]
+    },
+    {
+      "title": "Benim Adım Kristof Kolomb",
+      "compare": {
+        "diff_paths": [],
+        "equal_without_shadow": true
+      },
+      "narrative_checks": {
+        "has_narrative_chains": true,
+        "chain_count": 1,
+        "largest_chain_size": 2,
+        "isolated_event_count": 0,
+        "average_chain_length": 2.0,
+        "chain_confidence": 0.75,
+        "diagnostics_keys": [
+          "arc_completeness_score",
+          "average_chain_length",
+          "chain_confidence",
+          "chain_count",
+          "connected_component_count",
+          "disconnected_event_count",
+          "event_count",
+          "generic_event_count",
+          "generic_event_ratio",
+          "isolated_event_count",
+          "largest_chain_size",
+          "main_arc_confidence",
+          "meaningful_event_count",
+          "narrative_confidence",
+          "placeholder_event_count",
+          "placeholder_event_ratio",
+          "source",
+          "story_arc_type",
+          "weak_narrative_reason"
+        ]
+      },
+      "true_shadow_keys": [
+        "comparison",
+        "entity_graph",
+        "event_graph",
+        "narrative",
+        "narrative_plan",
+        "quality_contract",
+        "summary_ir"
+      ]
+    }
+  ]
+}

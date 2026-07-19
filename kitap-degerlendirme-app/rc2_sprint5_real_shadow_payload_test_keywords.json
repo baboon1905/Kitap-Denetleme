@@ -1,0 +1,396 @@
+{
+  "summary_ir": {
+    "version": "runtime_v7_phase2",
+    "schema_version": "v1",
+    "book_id": "test_keywords.pdf",
+    "title": "test_keywords.pdf",
+    "central_entities": [],
+    "entity_graph_summary": [],
+    "narrative_graph": {},
+    "story_arc": {},
+    "timeline": [],
+    "themes": [],
+    "learning_outcomes": [],
+    "confidence": {
+      "summary": 0.0,
+      "theme": 0.0,
+      "event": 0.0,
+      "entity": 0.0
+    },
+    "diagnostics": {
+      "source": "runtime_v7_adapter_phase2"
+    },
+    "source_metadata": {
+      "book_id": "test_keywords.pdf",
+      "title": "test_keywords.pdf"
+    }
+  },
+  "entity_graph": {
+    "entities": [],
+    "diagnostics": {
+      "source": "runtime_v7_adapter_phase2"
+    }
+  },
+  "event_graph": {
+    "nodes": [],
+    "edges": [],
+    "diagnostics": {
+      "source": "runtime_v7_adapter_phase2"
+    }
+  },
+  "narrative_plan": {
+    "narrative_type": "",
+    "stages": [],
+    "strategy_hint": "",
+    "story_arc_type": "",
+    "confidence": {
+      "summary": 0.0,
+      "event": 0.0,
+      "entity": 0.0
+    },
+    "diagnostics": {
+      "source": "runtime_v7_adapter_phase2"
+    }
+  },
+  "quality_contract": {
+    "status": "PASS",
+    "issues": [],
+    "risk_categories": [],
+    "diagnostics": {
+      "source": "runtime_v7_adapter_phase2"
+    },
+    "checked_at": "",
+    "schema_version": "v1"
+  },
+  "comparison": {
+    "source": "runtime_v7_adapter_phase2",
+    "summary_ir_hash": "8f8481a91fdb233e6ede87d0bfd9ea8eb8ec11b8ee09a31c3ba1da55324abaf3",
+    "existing_canonical_summary_ir_hash": "",
+    "legacy_summary_text_hash": "fc80385771f97007021b6d0773ef26707cae558f04d88ddcb0281e57bbf54924",
+    "summary_ir_matches_existing_canonical": false,
+    "legacy_summary_word_count": 0
+  },
+  "classification": {
+    "book_type": {
+      "label": "belirsiz",
+      "confidence": 0.0,
+      "evidence_count": 0,
+      "supporting_signals": []
+    },
+    "content": {
+      "label": "belirsiz",
+      "confidence": 0.0,
+      "evidence_count": 0,
+      "supporting_signals": []
+    }
+  },
+  "narrative": {
+    "event_graph_enriched": {},
+    "narrative_graph": {},
+    "story_arc": {},
+    "narrative_chains": {},
+    "cause_effect_relations": [],
+    "conflict_graph": {},
+    "primary_conflict": null,
+    "resolution": null,
+    "story_arc_classification": {},
+    "theme_validation": {},
+    "character_validation": {},
+    "learning_outcome_validation": {},
+    "validation_coverage": {},
+    "validation_confidence": {},
+    "quality_comparison": {},
+    "diagnostics": {
+      "recommendation_count": 0,
+      "review_recommendation_count": 0,
+      "strengthen_recommendation_count": 0,
+      "deprioritize_recommendation_count": 0,
+      "insufficient_evidence_recommendation_count": 0,
+      "average_recommendation_confidence": 0.0,
+      "source": "runtime_v7_promotion_readiness",
+      "ready_component_count": 1,
+      "experimental_component_count": 6,
+      "needs_validation_component_count": 0,
+      "overall_readiness": "experimental",
+      "overall_readiness_confidence": 0.0
+    },
+    "recommendations": {
+      "theme_recommendations": [],
+      "character_recommendations": [],
+      "learning_outcome_recommendations": [],
+      "overall_recommendations": [
+        {
+          "target_type": "overall",
+          "target": "narrative",
+          "recommendation_type": "review",
+          "reason": "Mixed or moderate signals — human review recommended",
+          "confidence": 0.0
+        }
+      ]
+    },
+    "promotion_readiness": {
+      "components": [
+        {
+          "name": "theme_validation",
+          "readiness": "experimental",
+          "confidence": 0.0,
+          "reasons": [
+            "Low confidence or insufficient coverage — experimental only"
+          ]
+        },
+        {
+          "name": "character_validation",
+          "readiness": "experimental",
+          "confidence": 0.0,
+          "reasons": [
+            "Low confidence or insufficient coverage — experimental only"
+          ]
+        },
+        {
+          "name": "learning_outcome_validation",
+          "readiness": "experimental",
+          "confidence": 0.0,
+          "reasons": [
+            "Low confidence or insufficient coverage — experimental only"
+          ]
+        },
+        {
+          "name": "validation_coverage",
+          "readiness": "experimental",
+          "confidence": 0.0,
+          "reasons": [
+            "Low confidence or insufficient coverage — experimental only"
+          ]
+        },
+        {
+          "name": "validation_confidence",
+          "readiness": "experimental",
+          "confidence": 0.0,
+          "reasons": [
+            "Low confidence or insufficient coverage — experimental only"
+          ]
+        },
+        {
+          "name": "quality_comparison",
+          "readiness": "experimental",
+          "confidence": 0.0,
+          "reasons": [
+            "No reliable quality comparison signal"
+          ]
+        },
+        {
+          "name": "recommendations",
+          "readiness": "ready",
+          "confidence": 0.0,
+          "reasons": [
+            "No recommended changes"
+          ]
+        }
+      ],
+      "overall_readiness": "experimental",
+      "overall_confidence": 0.0
+    },
+    "shadow_impact": {},
+    "promotion_candidates": {},
+    "rollout_plan": {},
+    "shadow_audit": {
+      "summary": {
+        "component_count": 0,
+        "ready_component_count": 0,
+        "high_impact_component_count": 0,
+        "recommendation_count": 0,
+        "rollout_step_count": 0
+      },
+      "findings": [],
+      "diagnostics": {
+        "audit_finding_count": 0,
+        "audit_info_count": 0,
+        "audit_warning_count": 0,
+        "audit_critical_count": 0,
+        "audit_confidence": 0.0,
+        "source": "runtime_v7_shadow_audit"
+      }
+    }
+  },
+  "performance_baseline": {
+    "total_runtime_ms": 0.068,
+    "shadow_pipeline_ms": 0.058,
+    "module_timings": {
+      "summary_ir": 0.01,
+      "narrative_graph": 0.0,
+      "narrative_chain": 0.0,
+      "cause_effect": 0.0,
+      "conflict_graph": 0.0,
+      "theme_validation": 0.0,
+      "character_validation": 0.0,
+      "learning_outcome_validation": 0.0,
+      "recommendations": 0.0,
+      "promotion_readiness": 0.0,
+      "shadow_audit": 0.0
+    },
+    "shadow_overhead_ratio": 0.853
+  },
+  "semantic": {
+    "theme_clusters": [
+      {
+        "theme": "family",
+        "keyword_count": 1,
+        "confidence": 0.208
+      }
+    ],
+    "character_roles": [
+      {
+        "role": "protagonist",
+        "count": 3,
+        "character_count": 12,
+        "confidence": 0.0625
+      }
+    ],
+    "learning_outcome_clusters": [
+      {
+        "outcome_type": "physical",
+        "keyword_count": 1,
+        "confidence": 0.10416666666666667
+      }
+    ],
+    "concept_graph": {
+      "nodes": [
+        {
+          "id": 0,
+          "label": "sayfa",
+          "type": "concept"
+        },
+        {
+          "id": 1,
+          "label": "çocukluk",
+          "type": "concept"
+        },
+        {
+          "id": 2,
+          "label": "hikayesi",
+          "type": "concept"
+        },
+        {
+          "id": 3,
+          "label": "serkan",
+          "type": "concept"
+        },
+        {
+          "id": 4,
+          "label": "okul",
+          "type": "concept"
+        },
+        {
+          "id": 5,
+          "label": "ç■kan",
+          "type": "concept"
+        },
+        {
+          "id": 6,
+          "label": "bir",
+          "type": "concept"
+        },
+        {
+          "id": 7,
+          "label": "gökku■a■■",
+          "type": "concept"
+        },
+        {
+          "id": 8,
+          "label": "çocuklar",
+          "type": "concept"
+        },
+        {
+          "id": 9,
+          "label": "serkan'■n",
+          "type": "concept"
+        },
+        {
+          "id": 10,
+          "label": "her",
+          "type": "concept"
+        },
+        {
+          "id": 11,
+          "label": "hikaye",
+          "type": "concept"
+        }
+      ],
+      "edges": [
+        {
+          "from": "sayfa",
+          "to": "çocukluk",
+          "relationship": "adjacent_in_text",
+          "weight": 0.5
+        },
+        {
+          "from": "çocukluk",
+          "to": "hikayesi",
+          "relationship": "adjacent_in_text",
+          "weight": 0.5
+        },
+        {
+          "from": "hikayesi",
+          "to": "serkan",
+          "relationship": "adjacent_in_text",
+          "weight": 0.5
+        },
+        {
+          "from": "serkan",
+          "to": "okul",
+          "relationship": "adjacent_in_text",
+          "weight": 0.5
+        },
+        {
+          "from": "okul",
+          "to": "ç■kan",
+          "relationship": "adjacent_in_text",
+          "weight": 0.5
+        },
+        {
+          "from": "ç■kan",
+          "to": "bir",
+          "relationship": "adjacent_in_text",
+          "weight": 0.5
+        },
+        {
+          "from": "bir",
+          "to": "gökku■a■■",
+          "relationship": "adjacent_in_text",
+          "weight": 0.5
+        },
+        {
+          "from": "gökku■a■■",
+          "to": "çocuklar",
+          "relationship": "adjacent_in_text",
+          "weight": 0.5
+        },
+        {
+          "from": "çocuklar",
+          "to": "serkan'■n",
+          "relationship": "adjacent_in_text",
+          "weight": 0.5
+        },
+        {
+          "from": "serkan'■n",
+          "to": "her",
+          "relationship": "adjacent_in_text",
+          "weight": 0.5
+        },
+        {
+          "from": "her",
+          "to": "hikaye",
+          "relationship": "adjacent_in_text",
+          "weight": 0.5
+        }
+      ],
+      "concept_count": 12
+    },
+    "diagnostics": {
+      "semantic_cluster_count": 3,
+      "concept_count": 12,
+      "semantic_density": 0.2,
+      "semantic_confidence": 0.125
+    }
+  }
+}

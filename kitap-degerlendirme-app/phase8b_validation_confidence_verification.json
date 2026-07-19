@@ -1,0 +1,106 @@
+{
+  "books": [
+    {
+      "title": "Tavşan Pati",
+      "compare": {
+        "diff_paths": [],
+        "equal_without_shadow": true
+      },
+      "shadow_only_check": {
+        "validation_confidence_only_in_shadow": true,
+        "validation_confidence_in_narrative_only": true,
+        "production_payload_has_validation_confidence": false,
+        "production_payload_has_validation_confidence_diagnostics": false
+      },
+      "validation_confidence": {
+        "theme_confidence": 0.73,
+        "character_confidence": 0.65,
+        "learning_outcome_confidence": 0.0,
+        "overall_confidence": 0.46,
+        "confidence_band": "low"
+      },
+      "validation_diagnostics": {
+        "calibrated_theme_validation_confidence": 0.73,
+        "calibrated_character_validation_confidence": 0.65,
+        "calibrated_learning_outcome_validation_confidence": 0.0,
+        "calibrated_overall_validation_confidence": 0.46,
+        "validation_confidence_band": "low"
+      },
+      "deterministic_shadow_output": {
+        "stable_across_repeated_runs": true,
+        "run_count": 2
+      },
+      "book_specific_heuristics": {
+        "title_not_used_as_heuristic_in_shadow_payload": true
+      }
+    },
+    {
+      "title": "Büyülü Yastıklar",
+      "compare": {
+        "diff_paths": [],
+        "equal_without_shadow": true
+      },
+      "shadow_only_check": {
+        "validation_confidence_only_in_shadow": true,
+        "validation_confidence_in_narrative_only": true,
+        "production_payload_has_validation_confidence": false,
+        "production_payload_has_validation_confidence_diagnostics": false
+      },
+      "validation_confidence": {
+        "theme_confidence": 0.72,
+        "character_confidence": 0.52,
+        "learning_outcome_confidence": 0.0,
+        "overall_confidence": 0.41,
+        "confidence_band": "low"
+      },
+      "validation_diagnostics": {
+        "calibrated_theme_validation_confidence": 0.72,
+        "calibrated_character_validation_confidence": 0.52,
+        "calibrated_learning_outcome_validation_confidence": 0.0,
+        "calibrated_overall_validation_confidence": 0.41,
+        "validation_confidence_band": "low"
+      },
+      "deterministic_shadow_output": {
+        "stable_across_repeated_runs": true,
+        "run_count": 2
+      },
+      "book_specific_heuristics": {
+        "title_not_used_as_heuristic_in_shadow_payload": true
+      }
+    },
+    {
+      "title": "Benim Adım Kristof Kolomb",
+      "compare": {
+        "diff_paths": [],
+        "equal_without_shadow": true
+      },
+      "shadow_only_check": {
+        "validation_confidence_only_in_shadow": true,
+        "validation_confidence_in_narrative_only": true,
+        "production_payload_has_validation_confidence": false,
+        "production_payload_has_validation_confidence_diagnostics": false
+      },
+      "validation_confidence": {
+        "theme_confidence": 0.73,
+        "character_confidence": 0.37,
+        "learning_outcome_confidence": 0.74,
+        "overall_confidence": 0.61,
+        "confidence_band": "medium"
+      },
+      "validation_diagnostics": {
+        "calibrated_theme_validation_confidence": 0.73,
+        "calibrated_character_validation_confidence": 0.37,
+        "calibrated_learning_outcome_validation_confidence": 0.74,
+        "calibrated_overall_validation_confidence": 0.61,
+        "validation_confidence_band": "medium"
+      },
+      "deterministic_shadow_output": {
+        "stable_across_repeated_runs": true,
+        "run_count": 2
+      },
+      "book_specific_heuristics": {
+        "title_not_used_as_heuristic_in_shadow_payload": true
+      }
+    }
+  ]
+}

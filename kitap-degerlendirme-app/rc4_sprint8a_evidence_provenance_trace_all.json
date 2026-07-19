@@ -1,0 +1,62 @@
+{
+  "total_runtime_payloads": 3,
+  "processed_payloads": 3,
+  "per_payload_trace": [
+    {
+      "payload_file": "runtime_1_analyze_theme_gain_return.json",
+      "book_title": "Benim Adım Kristof Kolomb",
+      "raw_evidence_count": 28,
+      "synthesized_evidence_count": 0,
+      "summary_sentence_count": 0,
+      "summary_sentences_with_source": 0,
+      "summary_sentences_without_source": 0,
+      "themes_with_source": 2,
+      "themes_without_source": 4,
+      "learning_outcomes_with_source": 0,
+      "learning_outcomes_without_source": 0,
+      "characters_with_source": 0,
+      "characters_without_source": 0
+    },
+    {
+      "payload_file": "runtime_2_build_pdf_report_input.json",
+      "book_title": "Benim Adım Kristof Kolomb",
+      "raw_evidence_count": 29,
+      "synthesized_evidence_count": 0,
+      "summary_sentence_count": 0,
+      "summary_sentences_with_source": 0,
+      "summary_sentences_without_source": 0,
+      "themes_with_source": 2,
+      "themes_without_source": 4,
+      "learning_outcomes_with_source": 0,
+      "learning_outcomes_without_source": 0,
+      "characters_with_source": 0,
+      "characters_without_source": 0
+    },
+    {
+      "payload_file": "runtime_theme_final_selection_debug.json",
+      "book_title": "runtime_theme_final_selection_debug",
+      "raw_evidence_count": 6,
+      "synthesized_evidence_count": 0,
+      "summary_sentence_count": 0,
+      "summary_sentences_with_source": 0,
+      "summary_sentences_without_source": 0,
+      "themes_with_source": 0,
+      "themes_without_source": 0,
+      "learning_outcomes_with_source": 0,
+      "learning_outcomes_without_source": 0,
+      "characters_with_source": 0,
+      "characters_without_source": 0
+    }
+  ],
+  "missing_evidence_count": 0,
+  "summary_sentence_without_source_count": 0,
+  "theme_without_source_count": 8,
+  "learning_outcome_without_source_count": 0,
+  "character_without_source_count": 0,
+  "pipeline_stage_loss_summary": {
+    "extraction": 0,
+    "synthesis": 63,
+    "builder": 0
+  },
+  "likely_loss_stage": "synthesis"
+}

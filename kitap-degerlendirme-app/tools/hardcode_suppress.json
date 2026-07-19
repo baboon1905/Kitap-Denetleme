@@ -1,0 +1,58 @@
+[
+	{
+		"pattern": "FINAL_TEST_MEB_BULGULARI\\.pdf",
+		"scope": "CHECK_PDF_CONTENT.py",
+		"severity_override": "LOW",
+		"reason": "Test fixture PDF filename used only in unit tests/fixtures.",
+		"owner": "qa@project",
+		"review_after": "2026-10-01"
+	},
+	{
+		"pattern": "FINAL_TEST_MEB_BULGULARI\\.pdf",
+		"scope": "CHECK_PDF_PAGE2.py",
+		"severity_override": "LOW",
+		"reason": "Test fixture PDF filename used only in unit tests/fixtures.",
+		"owner": "qa@project",
+		"review_after": "2026-10-01"
+	},
+	{
+		"pattern": "(?i)bu kitap .*ya[\u015fş]\s+grubuna uygundur",
+		"scope": "ORNEK_RAPORLAR.py",
+		"severity_override": "LOW",
+		"reason": "Example report text / template; safe example data not production config.",
+		"owner": "docs@project",
+		"review_after": "2026-10-01"
+	},
+	{
+		"pattern": "DEBUG_REAL_REPORT",
+		"scope": "DEBUG_REAL_REPORT.py",
+		"severity_override": "LOW",
+		"reason": "Debug/logging sample strings used for tooling; not production behavior.",
+		"owner": "dev@project",
+		"review_after": "2026-10-01"
+	},
+	{
+		"pattern": "\\.(pdf|epub|txt|docx?)$",
+		"scope": "tests/*",
+		"severity_override": "LOW",
+		"reason": "File name literals inside test fixtures/benchmarks should not be flagged.",
+		"owner": "qa@project",
+		"review_after": "2026-10-01"
+	},
+	{
+		"pattern": "^(sistem|baglam|maarif_rubrik|hizli_kontrol|bolum_bazli|filtre)$",
+		"scope": "ai_prompts.py",
+		"severity_override": "LOW",
+		"reason": "Configuration/label keys used in prompt/config dicts; intended constants.",
+		"owner": "infra@project",
+		"review_after": "2026-10-01"
+	},
+	{
+		"pattern": "__name__\\s*==\\s*['\"]__main__['\"]",
+		"scope": "*",
+		"severity_override": "LOW",
+		"reason": "Script entrypoint checks are common and safe; reduce false positives.",
+		"owner": "devops@project",
+		"review_after": "2027-01-01"
+	}
+]

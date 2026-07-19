@@ -1,0 +1,24 @@
+[
+  {
+    "pattern_id": "theme_growth",
+    "reasoning": "Pattern selected due to evidence from summary_ir.themes source with 2 supporting evidence items and sufficient confidence threshold",
+    "supporting_signals": [
+      "calibrated_confidence=0.66",
+      "evidence_count=2",
+      "raw_confidence=0.62",
+      "source=summary_ir.themes",
+      "status=active"
+    ]
+  },
+  {
+    "pattern_id": "theme_loss",
+    "reasoning": "Pattern selected due to evidence from narrative.summary source with 1 supporting evidence items and moderate confidence threshold",
+    "supporting_signals": [
+      "calibrated_confidence=0.53",
+      "evidence_count=1",
+      "raw_confidence=0.48",
+      "source=narrative.summary",
+      "status=candidate"
+    ]
+  }
+]

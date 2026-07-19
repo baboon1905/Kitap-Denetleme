@@ -1,0 +1,12 @@
+{
+  "production_output_changed": false,
+  "equal_without_shadow": true,
+  "deterministic": true,
+  "book_specific_heuristics": false,
+  "new_endpoint_added": false,
+  "summary_ir_changed": false,
+  "pdf_changed": false,
+  "teacher_report_changed": false,
+  "word_changed": false,
+  "total_patterns": 74
+}

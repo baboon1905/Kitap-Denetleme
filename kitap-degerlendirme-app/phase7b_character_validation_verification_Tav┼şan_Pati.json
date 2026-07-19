@@ -1,0 +1,31 @@
+{
+  "title": "Tavşan Pati",
+  "compare": {
+    "diff_paths": [],
+    "equal_without_shadow": true
+  },
+  "character_validation_checks": {
+    "character_validation_present": true,
+    "character_validation_only_in_shadow": true,
+    "character_validation_item_count": 3,
+    "character_validation_diagnostics_present": true
+  },
+  "true_shadow_keys": [
+    "comparison",
+    "entity_graph",
+    "event_graph",
+    "narrative",
+    "narrative_plan",
+    "quality_contract",
+    "summary_ir"
+  ],
+  "production_leakage": {
+    "root_has_character_validation": false,
+    "shadow_only_structure_present": true,
+    "production_payload_leaks_detected": false
+  },
+  "deterministic_shadow_output": {
+    "stable_across_repeated_runs": true,
+    "run_count": 2
+  }
+}
