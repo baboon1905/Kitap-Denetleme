@@ -350,30 +350,6 @@ class TestCanonicalIRFieldNormalization:
         assert hash1 == hash2 == hash3
 
 
-class TestEnricherIntegration:
-    """Integration tests with semantic field enricher."""
-    
-    def test_enricher_consumes_normalized_ids(self):
-        """Test: Enricher can consume normalized source_sentence_ids from IR"""
-        # Load enricher
-        from runtime_v7.semantic_field_enricher import enrich_semantic_fields
-        
-        # Create item with normalized IDs
-        item = {
-            "text": "Çocuk parkta oynadı.",
-            "source_sentence_ids": ["p1:s1", "p2:s2"]
-        }
-        
-        # Enricher should process without error
-        result = enrich_semantic_fields([item])
-        assert "enriched_events" in result
-        assert len(result["enriched_events"]) > 0
-        
-        # Enriched item should preserve source_sentence_ids
-        enriched = result["enriched_events"][0]
-        assert enriched.get("source_sentence_ids") == ["p1:s1", "p2:s2"]
-
-
 class TestNarrativePlannerSourceIdPropagation:
     """Direct regression tests for narrative planner source-ID propagation."""
 

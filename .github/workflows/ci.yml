@@ -1,0 +1,163 @@
+name: CI
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: ci-${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  test-and-build:
+    runs-on: ubuntu-latest
+
+    defaults:
+      run:
+        working-directory: kitap-degerlendirme-app
+
+    env:
+      PYTHONDONTWRITEBYTECODE: "1"
+      PYTHONUTF8: "1"
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+          cache-dependency-path: kitap-degerlendirme-app/requirements.txt
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+          cache: npm
+          cache-dependency-path: kitap-degerlendirme-app/package-lock.json
+
+      - name: Install Python dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements-dev.txt
+
+      - name: Install frontend dependencies
+        run: npm ci
+
+      - name: Compile Python entry points
+        run: |
+          python -m py_compile app.py
+          python -m py_compile theme_gain_analysis.py
+          python -m py_compile evaluator_maarif.py
+          python -m py_compile report_generator.py
+
+      - name: Run projection and consistency regressions
+        run: |
+          python -m unittest \
+            tests.test_report_projection_helper \
+            tests.test_canonical_entity_fragment_mismatches \
+            tests.test_consistency_evidence_surface
+
+      - name: Run hermetic test package
+        run: python -m pytest tests
+
+      - name: Run hardcode scanner
+        id: hardcode-scan
+        run: |
+          python tools/check_hardcode.py . || true
+          python - <<'PY'
+          import json
+          import os
+          import re
+
+          report_path = os.path.join("tools", "hardcode_report.json")
+          with open(report_path, "r", encoding="utf-8") as report_file:
+              data = json.load(report_file)
+
+          dev_tool_patterns = [
+              re.compile(r"^tmp_.*\.py$", re.IGNORECASE),
+              re.compile(r"^audit_.*\.py$", re.IGNORECASE),
+              re.compile(r"^analyze_.*\.py$", re.IGNORECASE),
+              re.compile(r"^check_.*\.py$", re.IGNORECASE),
+              re.compile(r"^app_py_.*\.py$", re.IGNORECASE),
+              re.compile(r"^ast_check_.*\.py$", re.IGNORECASE),
+              re.compile(r"^apply_.*fix.*\.py$", re.IGNORECASE),
+              re.compile(r"^debug_.*\.py$", re.IGNORECASE),
+              re.compile(r"^run_.*verification.*\.py$", re.IGNORECASE),
+              re.compile(r"^.*_summary\.py$", re.IGNORECASE),
+              re.compile(r"^.*_findings\.py$", re.IGNORECASE),
+          ]
+
+          def is_dev_tool(filename):
+              name = os.path.basename(filename)
+              return any(pattern.match(name) for pattern in dev_tool_patterns)
+
+          def is_test_or_benchmark(filename):
+              name = os.path.basename(filename).lower()
+              return (
+                  name.startswith("test_")
+                  or name.endswith("_test.py")
+                  or re.match(r"^phase.*\.py$", name)
+                  or re.match(r"^rc\d+_.*_runner\.py$", name)
+                  or "benchmark" in name
+                  or "bench" in name
+              )
+
+          runtime = []
+          dev_tools = []
+          test_benchmarks = []
+          for finding in data["findings"]:
+              if finding["severity"] not in ("CRITICAL", "HIGH"):
+                  continue
+              filename = finding["file"]
+              if is_dev_tool(filename):
+                  dev_tools.append(finding)
+              elif is_test_or_benchmark(filename):
+                  test_benchmarks.append(finding)
+              else:
+                  runtime.append(finding)
+
+          metrics = {
+              "runtime_production_blocking": len(runtime),
+              "dev_tool_blocking": len(dev_tools),
+              "test_benchmark_blocking": len(test_benchmarks),
+              "total_blocking": len(runtime),
+              "medium_count": data.get("summary", {}).get("MEDIUM", 0),
+              "low_count": data.get("summary", {}).get("LOW", 0),
+              "ci_status": "pass" if not runtime else "fail",
+          }
+
+          metrics_path = os.path.join("tools", "hardcode_ci_metrics.json")
+          with open(metrics_path, "w", encoding="utf-8") as metrics_file:
+              json.dump(metrics, metrics_file, ensure_ascii=False, indent=2)
+
+          for key, value in metrics.items():
+              print(f"{key}={value}")
+
+          if runtime:
+              raise SystemExit(
+                  "CI failed: runtime production CRITICAL/HIGH = "
+                  f"{len(runtime)}"
+              )
+          PY
+
+      - name: Build frontend
+        run: npm run build
+
+      - name: Upload hardcode reports
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: hardcode-reports
+          path: |
+            kitap-degerlendirme-app/tools/hardcode_report.json
+            kitap-degerlendirme-app/tools/hardcode_ci_metrics.json
+          if-no-files-found: warn

@@ -6,10 +6,10 @@
   "main": "index.js",
   "scripts": {
     "dev": "vite",
-    "backend": ".\\venv\\Scripts\\python.exe run_flask_no_reloader.py",
-    "build": ".\\venv\\Scripts\\python.exe -m quality_build_regression && tsc && vite build",
+    "backend": "python run_flask_no_reloader.py",
+    "build": "python -m quality_build_regression && tsc && vite build",
     "preview": "vite preview",
-    "start": ".\\venv\\Scripts\\python.exe app.py"
+    "start": "python app.py"
   },
   "dependencies": {
     "react": "^18.2.0",

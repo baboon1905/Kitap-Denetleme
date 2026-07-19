@@ -1,9 +1,16 @@
 import unittest
 
-from runtime_v7.event_reconstructor import reconstruct_events
+from runtime_v7.event_reconstructor import reconstruct_events, _extract_location, _extract_object
 
 
 class TestEventSemanticEnrichment(unittest.TestCase):
+    def test_historical_exploration_patterns_are_scoped(self):
+        self.assertEqual(_extract_object('Yeni bir dünya keşfettik.'), 'Yeni bir dünya')
+        self.assertEqual(_extract_location('Atlas Okyanusu üzerinde ilerledik.'), 'Atlas Okyanusu')
+
+        self.assertEqual(_extract_object('Çocuklar okulda yeni bir oyun kurdu.'), '')
+        self.assertEqual(_extract_location('Çocuklar okulda yeni bir oyun kurdu.'), 'okulda')
+
     def test_reconstruct_events_enriches_semantic_fields_deterministically(self):
         evidence = {
             'setup': [

@@ -1,20 +1,20 @@
-Benchmark Runner
-================
+# Benchmark durumu
 
-Bu basit runner `SummaryIR` örnekleri oluşturur, `SurfaceRealizer` ve `QualityGate`'i çalıştırır ve sonuçları `benchmarks/report.csv` olarak yazar.
+Eski `lib.summary_ir`, `lib.surface_realizer` ve `lib.quality_gate` prototiplerine
+bağlı benchmark runner kaldırılmıştır. Bu modüller production kodunda veya Git
+geçmişinde bulunmamaktadır.
 
-Çalıştırma
----------
-
-Windows (venv etkin):
+Güncel summary, quality gate ve narrative davranışları test paketiyle doğrulanır:
 
 ```powershell
-cd kitap-degerlendirme-app
-venv\Scripts\Activate.ps1
-python -m benchmarks.run_benchmarks
+python -m pytest tests
 ```
 
-Çıktı
------
+Projection ve consistency regresyonlarını ayrıca çalıştırmak için:
 
-- `benchmarks/report.csv` — benchmark özet raporu.
+```powershell
+python -m unittest `
+  tests.test_report_projection_helper `
+  tests.test_canonical_entity_fragment_mismatches `
+  tests.test_consistency_evidence_surface
+```

@@ -12,6 +12,8 @@ from __future__ import annotations
 
 from typing import Any, Dict, List, Optional, Tuple
 
+from runtime_v7.constants.semantic_patterns import HISTORICAL_EXPLORATION_PATTERNS
+
 
 def _normalize_events(reconstructed_events: Any) -> List[Dict[str, Any]]:
     if isinstance(reconstructed_events, dict):
@@ -59,7 +61,7 @@ def _infer_objective(event: Dict[str, Any]) -> str:
         return 'dönüş'
     if any(phrase in action for phrase in ['yardım', 'destek']):
         return 'yardım'
-    if object_ and 'yeni dünya' in object_:
+    if object_ and any(marker in object_ for marker in HISTORICAL_EXPLORATION_PATTERNS['new_world_graph_markers']):
         return 'keşif'
     if location and 'okyanus' in location:
         return 'batıya yolculuk'
@@ -274,14 +276,16 @@ def _generate_title(event: Dict[str, Any], actors: List[str], objective: str, re
             return 'Umudun Sarsılması'
         if 'yolculuk' in action or 'yelken' in action:
             return 'Batıya Yolculuk'
-        if 'keşif' in action or 'adalar' in action or 'yeni dünya' in action:
+        if 'keşif' in action or 'adalar' in action or any(
+            marker in action for marker in HISTORICAL_EXPLORATION_PATTERNS['new_world_graph_markers']
+        ):
             return 'Yeni Dünyanın Keşfi'
         if 'karşılaş' in action or 'yerli' in action:
             return 'Yerlilerle İlk Karşılaşma'
         if 'dönüş' in action or 'geri' in action:
             return 'Dönüş Yolculuğu'
 
-    if object_ and 'yeni dünya' in object_:
+    if object_ and any(marker in object_ for marker in HISTORICAL_EXPLORATION_PATTERNS['new_world_graph_markers']):
         return 'Yeni Dünyanın Keşfi'
     if location and 'okyanus' in location:
         return 'Okyanus Yolculuğu'

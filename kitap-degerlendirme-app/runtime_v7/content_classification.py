@@ -3,6 +3,11 @@ from __future__ import annotations
 import re
 from typing import Any, Dict, List, Tuple
 
+from runtime_v7.constants.semantic_patterns import (
+    CONTENT_LABEL_REALISTIC_STORY,
+    CONTENT_LABEL_VALUES_EDUCATION,
+)
+
 
 def _fold_text(text: Any) -> str:
     if text is None:
@@ -91,7 +96,7 @@ def build_generic_content_classification(payload: Dict[str, Any]) -> Dict[str, A
             ],
             "bonus_terms": ["yüzyıl", "yuzyil", "devlet", "millet"],
         },
-        "gerçekçi öykü": {
+        CONTENT_LABEL_REALISTIC_STORY: {
             "terms": [
                 "okul", "aile", "arkadaş", "arkadas", "sokak", "komşu", "komsu",
                 "ev", "oda", "sınıf", "sinif", "günlük", "gunluk", "gerçek", "gercek"
@@ -109,7 +114,7 @@ def build_generic_content_classification(payload: Dict[str, Any]) -> Dict[str, A
             "terms": ["fabl", "öğüt", "ogut", "hayvan", "canli", "tavsan", "pati", "ağaç", "agac"],
             "bonus_terms": ["ders", "mesaj", "değer", "deger"],
         },
-        "değerler eğitimi": {
+        CONTENT_LABEL_VALUES_EDUCATION: {
             "terms": [
                 "değer", "deger", "sorumluluk", "dayanışma", "dayanisma", "empati",
                 "yardımseverlik", "yardimseverlik", "saygı", "saygi", "merhamet", "dostluk"
@@ -149,14 +154,14 @@ def build_generic_content_classification(payload: Dict[str, Any]) -> Dict[str, A
         book_type_label = "fabl"
     elif top_label == "bilim" and any(term in folded for term in ["tarih", "dönem", "donem", "roman"]):
         book_type_label = "tarih"
-    elif top_label == "değerler eğitimi" and any(term in folded for term in ["okul", "aile", "arkadaş", "arkadas"]):
-        book_type_label = "gerçekçi öykü"
+    elif top_label == CONTENT_LABEL_VALUES_EDUCATION and any(term in folded for term in ["okul", "aile", "arkadaş", "arkadas"]):
+        book_type_label = CONTENT_LABEL_REALISTIC_STORY
 
     content_label = top_label
     if top_label == "tarih" and any(term in folded for term in ["bilim", "deney", "gözlem", "gozlem"]):
         content_label = "bilim"
-    elif top_label == "gerçekçi öykü" and any(term in folded for term in ["sorumluluk", "dayanisma", "empati", "saygi"]):
-        content_label = "değerler eğitimi"
+    elif top_label == CONTENT_LABEL_REALISTIC_STORY and any(term in folded for term in ["sorumluluk", "dayanisma", "empati", "saygi"]):
+        content_label = CONTENT_LABEL_VALUES_EDUCATION
 
     def _build_classification(label: str, score: int, matches: List[str]) -> Dict[str, Any]:
         confidence = min(0.98, 0.35 + (score / max(1, len(matches) + 2)) * 0.6)

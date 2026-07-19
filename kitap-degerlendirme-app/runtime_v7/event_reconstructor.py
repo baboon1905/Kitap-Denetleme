@@ -13,6 +13,11 @@ Rules:
 import re
 from typing import Any, Dict, List, Optional
 
+from runtime_v7.constants.semantic_patterns import (
+    GENERIC_STATE_CHANGE_EFFECT,
+    HISTORICAL_EXPLORATION_PATTERNS,
+)
+
 
 def _normalize_source_id(item: Any, payload_file: Optional[str] = None, book_index: Optional[int] = None, evidence_index: Optional[int] = None) -> str:
     """Extract a source identifier from evidence metadata or create a deterministic fallback."""
@@ -68,8 +73,8 @@ def _extract_action_verb(text: str) -> str:
         return 'batıya doğru yelken açtı'
     if any(marker in lowered for marker in ['karaya ulaşt', 'karaya ulaşıldı', 'karaya ulaş']):
         return 'karaya ulaştı'
-    if any(marker in lowered for marker in ['yeni bir dünya keşfettik', 'yeni bir dünya keşfetti']):
-        return 'yeni bir dünya keşfetti'
+    if any(marker in lowered for marker in HISTORICAL_EXPLORATION_PATTERNS['new_world_action_markers']):
+        return HISTORICAL_EXPLORATION_PATTERNS['new_world_action']
     if any(marker in lowered for marker in ['umudunu kaybetti', 'umudunu kaybetmek']):
         return 'umudunu kaybetti'
     if any(marker in lowered for marker in ['başarıyla sonuçlandı', 'sonuçlandı']):
@@ -190,7 +195,7 @@ def _extract_goal(text: str) -> str:
         return 'batıya yolculuk'
     if any(term in normalized for term in ['karaya', 'ulaş']):
         return 'karaya ulaşma'
-    if any(term in normalized for term in ['keşif', 'keşfet', 'adalar', 'yeni dünya']):
+    if any(term in normalized for term in ('keşif', 'keşfet', 'adalar', *HISTORICAL_EXPLORATION_PATTERNS['new_world_goal_markers'])):
         return 'keşif'
     if any(term in normalized for term in ['karşılaş', 'yerli']):
         return 'karşılaşma'
@@ -223,11 +228,7 @@ def _extract_object(text: str) -> str:
     normalized = re.sub(r'\s+', ' ', text or '').strip().lower()
     if not normalized:
         return ''
-    explicit_objects = {
-        'yeni bir dünya': 'Yeni bir dünya',
-        'yeni dünya': 'Yeni dünya',
-    }
-    for key, value in explicit_objects.items():
+    for key, value in HISTORICAL_EXPLORATION_PATTERNS['new_world_objects']:
         if key in normalized:
             return value
 
@@ -307,14 +308,14 @@ def _extract_location(text: str) -> str:
     normalized = re.sub(r'\s+', ' ', text or '').strip().lower()
     if not normalized:
         return ''
-    explicit_locations = {
-        'atlas okyanusu': 'Atlas Okyanusu',
+    explicit_locations = dict(HISTORICAL_EXPLORATION_PATTERNS['atlas_ocean_locations'])
+    explicit_locations.update({
         'karayip': 'Karayipler',
         'barcelona': 'Barcelona',
         'adalar': 'Adalar',
         'hindistan': 'Hindistan',
         'okyanus': 'Okyanus',
-    }
+    })
     for key, value in explicit_locations.items():
         if key in normalized:
             return value
@@ -607,7 +608,7 @@ def reconstruct_events(
         effect_confidence = _compute_effect_confidence(text, is_conflict, is_resolution)
         cause = _infer_cause(text, is_conflict) if cause_confidence >= 0.5 else ''
         effect = _infer_effect(text, is_conflict, is_resolution) if (cause_confidence >= 0.5 and effect_confidence >= 0.5) else ''
-        if cause and effect == 'durum değişimi':
+        if cause and effect == GENERIC_STATE_CHANGE_EFFECT:
             effect = ''
         narrative_function = _infer_narrative_function(section, is_conflict, is_resolution)
         temporal_marker = _infer_temporal_marker(section, is_resolution)
